@@ -1,0 +1,117 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="ActivatePreviewToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="meta f9" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorCutLineEnd">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="EditorMatchBrace" />
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="ExportToTextFile">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
+  </action>
+  <action id="GotoBookmark2" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="ToggleBookmark2" />
+  <action id="ToggleBookmark6" />
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="shift ctrl meta v" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
+  <action id="hg4idea.QFold" />
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
+</keymap>
