@@ -1,6 +1,60 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>match</entry>
+        <entry>this</entry>
+        <entry>change</entry>
+        <entry>val th</entry>
+        <entry>config.c</entry>
+        <entry>config.</entry>
+        <entry>Config</entry>
+        <entry>late</entry>
+        <entry>configure(</entry>
+        <entry>private</entry>
+        <entry>)</entry>
+        <entry>}</entry>
+        <entry>v</entry>
+        <entry>var</entry>
+        <entry>&quot;</entry>
+        <entry>addmarkers</entry>
+        <entry encoding="base64">XDxCeXRlQXJyYXlJbnB1dFN0cmVhbVw+</entry>
+        <entry encoding="base64">XDxjbGFzc1w+</entry>
+        <entry encoding="base64">XDxhY3RpdmVDYXRlZ29yeVw+</entry>
+        <entry encoding="base64">XDxDb3VudGFibGVRdWVyeVw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>actionlist extract</entry>
+        <entry>map sync Android.SyncProject</entry>
+        <entry>map sync :action Android.SyncProject</entry>
+        <entry>map \sync :action Android.SyncProject</entry>
+        <entry encoding="base64">bWFwIFxyIDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
+        <entry>\r</entry>
+        <entry>sync</entry>
+        <entry>\sync</entry>
+        <entry>actionlist</entry>
+        <entry>actionlist sync</entry>
+        <entry encoding="base64">YWN0aW9uIEFuZHJvaWQuU3luY1Byb2plYyA=</entry>
+        <entry>action Android.SyncProject</entry>
+        <entry>help CTRL-h</entry>
+        <entry>w</entry>
+        <entry>help 'smartcase'</entry>
+        <entry>set smartcase true</entry>
+        <entry>set scs</entry>
+        <entry>set smartcase</entry>
+        <entry>actionlist override</entry>
+        <entry>action OverrideMethods</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
@@ -54,9 +108,281 @@
         <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/util/EpoxyController.kt" timestamp="1591792555053">
+        <mark key="[" line="41" column="47" />
+        <mark key="]" line="41" column="46" />
+        <mark key="^" line="41" column="46" />
+        <mark key="." line="41" column="46" />
+      </file>
+      <file name="/fragment.kt" timestamp="1591791113530">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchEpoxyController.kt" timestamp="1591791400487">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/processor/src/main/java/dk/makeable/processor/CellClassGenerator.kt" timestamp="1591788643439">
+        <mark key="[" line="71" column="88" />
+        <mark key="]" line="71" column="88" />
+        <mark key="^" line="71" column="96" />
+        <mark key="." line="71" column="88" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/processor/src/main/java/dk/makeable/processor/CellProcessor.kt" timestamp="1591788620633">
+        <mark key="[" line="79" column="61" />
+        <mark key="]" line="41" column="92" />
+        <mark key="^" line="41" column="42" />
+        <mark key="." line="41" column="42" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/VListWidget.kt" timestamp="1591792363030">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="64" column="21" />
+        <mark key="^" line="64" column="21" />
+        <mark key="." line="64" column="21" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/util/MAEpoxyController.kt" timestamp="1591792545609">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="18" column="52" />
+        <mark key="." line="18" column="52" />
+        <mark key="^" line="18" column="52" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/util/VListController.kt" timestamp="1591791632843">
+        <mark key="[" line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/util/VListPagedController.kt" timestamp="1591791647583">
+        <mark key="[" line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/FullScreenTextAndImageWidget.kt" timestamp="1591788522125">
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="29" column="44" />
+        <mark key="^" line="29" column="44" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" timestamp="1591792523298">
+        <mark key="[" line="250" column="39" />
+        <mark key="]" line="250" column="38" />
+        <mark key="." line="250" column="38" />
+        <mark key="^" line="250" column="38" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1591788849320">
+        <mark key="[" line="327" column="62" />
+        <mark key="]" line="310" column="0" />
+        <mark key="." line="310" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/util/EpoxyPagedController.kt" timestamp="1591793244552">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="33" />
+        <mark key="^" line="29" column="33" />
+        <mark key="." line="29" column="33" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/ImageWidget.kt" timestamp="1591789155602">
+        <mark key="[" line="118" column="31" />
+        <mark key="]" line="118" column="33" />
+        <mark key="." line="118" column="33" />
+        <mark key="^" line="118" column="33" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/util/MAEpoxyPagedController.kt" timestamp="1591792531757">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="28" column="22" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="28" column="22" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchFragment.kt" timestamp="1591792642374">
+        <mark key="[" line="30" column="72" />
+        <mark key="]" line="32" column="28" />
+        <mark key="^" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AlgoliaSearchEventHandler.kt" timestamp="1591792394424">
+        <mark key="[" line="45" column="31" />
+        <mark key="]" line="45" column="31" />
+        <mark key="^" line="45" column="47" />
+        <mark key="." line="45" column="31" />
+      </file>
+      <file name="/fragment.java" timestamp="1591791581584">
+        <mark key="[" line="0" column="45" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="17" column="16" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/Notification.kt" />
+      <jump line="18" column="24" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/Notification.kt" />
+      <jump line="19" column="20" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/Notification.kt" />
+      <jump line="20" column="30" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/Notification.kt" />
+      <jump line="21" column="25" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/Notification.kt" />
+      <jump line="37" column="2" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/Notification.kt" />
+      <jump line="22" column="23" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/Notification.kt" />
+      <jump line="431" column="4" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/repositories/serviceRequests/ServiceRequestsRepositoryImpl.java" />
+      <jump line="61" column="36" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/GetterNotificationExtenderService.kt" />
+      <jump line="18" column="60" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/GetterNotificationExtenderService.kt" />
+      <jump line="102" column="24" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/GetterNotificationExtenderService.kt" />
+      <jump line="60" column="44" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/DialogFragmentRateGetter.kt" />
+      <jump line="10" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="16" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="20" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="26" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="30" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="36" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="40" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="46" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="50" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="56" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="64" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="70" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="74" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="80" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="84" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="90" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="94" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="100" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="104" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="110" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="114" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="120" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="124" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="130" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="138" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="144" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="148" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="154" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="158" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="164" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="168" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="174" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="178" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="184" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="188" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="194" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="202" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="208" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="212" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="218" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="222" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="228" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="232" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="238" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="242" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="248" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
+      <jump line="131" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentNewRequest.kt" />
+      <jump line="35" column="95" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/DialogFragmentRequestSent.kt" />
+      <jump line="482" column="25" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/repositories/serviceRequests/ServiceRequestsRepositoryImpl.java" />
+      <jump line="226" column="124" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreDataProviderService.kt" />
+      <jump line="110" column="28" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/WebViewWidget.kt" />
+      <jump line="151" column="42" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/WebViewWidget.kt" />
+      <jump line="124" column="69" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" />
+      <jump line="442" column="24" filename="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" />
+      <jump line="270" column="36" filename="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" />
+      <jump line="469" column="35" filename="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" />
+      <jump line="216" column="26" filename="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" />
+      <jump line="35" column="115" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" />
+      <jump line="58" column="24" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchFragment.kt" />
+      <jump line="62" column="28" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchFragment.kt" />
+      <jump line="224" column="50" filename="$USER_HOME$/Makeable/ftz-android/app/build.gradle" />
+      <jump line="45" column="47" filename="$USER_HOME$/Makeable/ftz-android/app/src/main/java/dk/makeable/ftz/ui/fragments/academy/AcademyWebViewFragment.kt" />
+      <jump line="268" column="45" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
+      <jump line="276" column="16" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
+      <jump line="96" column="90" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/json/MACoreJson.kt" />
+      <jump line="69" column="12" filename="$USER_HOME$/Makeable/ftz-android/app/src/main/java/dk/makeable/ftz/ui/fragments/academy/AcademyWebViewFragment.kt" />
+      <jump line="29" column="28" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Pages.kt" />
+      <jump line="251" column="21" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
+      <jump line="140" column="62" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" />
+      <jump line="188" column="4" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" />
+      <jump line="154" column="8" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" />
+      <jump line="107" column="8" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
+      <jump line="148" column="48" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
+      <jump line="217" column="8" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
+      <jump line="113" column="8" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
+      <jump line="105" column="32" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
+      <jump line="124" column="50" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
+      <jump line="2" column="10" filename="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" />
+      <jump line="346" column="24" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
+      <jump line="341" column="54" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
+      <jump line="345" column="42" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
+      <jump line="299" column="12" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/ServiceRequest.java" />
+      <jump line="147" column="4" filename="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" />
+      <jump line="383" column="23" filename="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" />
+      <jump line="311" column="15" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
+      <jump line="318" column="15" filename="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" />
+      <jump line="301" column="17" filename="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" />
+      <jump line="261" column="27" filename="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="a" type="4">
+        <text>10j</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgImltYWdlIjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInVybCIsCiAgICAgICAgICAgICAgICAgICAgInNvdXJjZSI6IHsKICAgICAgICAgICAgICAgICAgICAgICJpbnN0YW5jZVR5cGUiOiAiU3RhdGljSW1hZ2VTb3VyY2UiLAogICAgICAgICAgICAgICAgICAgICAgInNvdXJjZSI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAidmFsdWUiLAogICAgICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiaHR0cHM6Ly9jZG4yLmljb25maW5kZXIuY29tL2RhdGEvaWNvbnMvaGVhcnRzLTE2LzEwMC8wMDQtNTEyLnBuZyIKICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAidGludENvbG9yIjogIiM3NTc1NzUiCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="d" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
+      </register>
+      <register name="-" type="4">
+        <text>nogle</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxDb3VudGFibGVRdWVyeVw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICJmYWxsYmFja0NlbGxDb25maWciOiB7CiAgICAgICAgICAgICJpbnN0YW5jZVR5cGUiOiAiRnVsbFNjcmVlblRleHRBbmRJbWFnZUNlbGxXaWRnZXQiLAogICAgICAgICAgICAiY29udGVudENvbmZpZyI6IHsKICAgICAgICAgICAgICAiaW5zdGFuY2VUeXBlIjogIkZ1bGxTY3JlZW5UZXh0QW5kSW1hZ2VXaWRnZXQiLAogICAgICAgICAgICAgICJiYWNrZ3JvdW5kQm94IjogewogICAgICAgICAgICAgICAgInNoYWRvdyI6ICJub25lIiwKICAgICAgICAgICAgICAgICJjb3JuZXJSb3VuZGluZyI6IHsKICAgICAgICAgICAgICAgICAgImFsbCI6IDAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICJ0ZXh0IjogewogICAgICAgICAgICAgICAgInRleHQiOiB7CiAgICAgICAgICAgICAgICAgICJ0eXBlIjogInZhbHVlIiwKICAgICAgICAgICAgICAgICAgInZhbHVlIjogIkR1IGhhciBpa2tlIG5vZ2xlIGZhdm9yaXR0ZXIiCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgInRleHRDb2xvciI6ICIjNzU3NTc1IgogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgImltYWdlIjogewogICAgICAgICAgICAgICAgInR5cGUiOiAidXJsIiwKICAgICAgICAgICAgICAgICJzb3VyY2UiOiB7CiAgICAgICAgICAgICAgICAgICJpbnN0YW5jZVR5cGUiOiAiU3RhdGljSW1hZ2VTb3VyY2UiLAogICAgICAgICAgICAgICAgICAic291cmNlIjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInZhbHVlIiwKICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiaHR0cHM6Ly9jZG4yLmljb25maW5kZXIuY29tL2RhdGEvaWNvbnMvaGVhcnRzLTE2LzEwMC8wMDQtNTEyLnBuZyIKICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgInRpbnRDb2xvciI6ICIjNzU3NTc1IgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgfSwK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgImltYWdlIjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInVybCIsCiAgICAgICAgICAgICAgICAgICAgInNvdXJjZSI6IHsKICAgICAgICAgICAgICAgICAgICAgICJpbnN0YW5jZVR5cGUiOiAiU3RhdGljSW1hZ2VTb3VyY2UiLAogICAgICAgICAgICAgICAgICAgICAgInNvdXJjZSI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAidmFsdWUiLAogICAgICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiaHR0cHM6Ly9jZG4yLmljb25maW5kZXIuY29tL2RhdGEvaWNvbnMvaGVhcnRzLTE2LzEwMC8wMDQtNTEyLnBuZyIKICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAidGludENvbG9yIjogIiM3NTc1NzUiCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>allbackCellConfig)
+            }
+        )
+    }
+}</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdE9mKAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAiaW1hZ2UiOiB7CiAgICAgICAgICAgICAgICAidHlwZSI6ICJ1cmwiLAogICAgICAgICAgICAgICAgInNvdXJjZSI6IHsKICAgICAgICAgICAgICAgICAgImluc3RhbmNlVHlwZSI6ICJTdGF0aWNJbWFnZVNvdXJjZSIsCiAgICAgICAgICAgICAgICAgICJzb3VyY2UiOiB7CiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAidmFsdWUiLAogICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJodHRwczovL2NkbjIuaWNvbmZpbmRlci5jb20vZGF0YS9pY29ucy9oZWFydHMtMTYvMTAwLzAwNC01MTIucG5nIgogICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAidGludENvbG9yIjogIiM3NTc1NzUiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJiYWNrZ3JvdW5kQ29sb3IiOiAiI0ZGMDAwMCIsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpdGhDb250ZXh0KERpc3BhdGNoZXJzLk1haW4pIHsKICAgICAgICAgICAgICAgICAgICBzY3JlZW5fd2lkZ2V0X3N3aXBlX3JlZnJlc2g/LmlzUmVmcmVzaGluZyA9IHRydWUKICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXQuZ2V0QW5ub3RhdGlvbihDZWxsTW9kZWw6OmNsYXNzLmphdmEpLmNlbGxIZWlnaHQK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">LyoKSGVqCiAqLwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>action OverrideMethods</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxDb3VudGFibGVRdWVyeVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxDb3VudGFibGVRdWVyeVw+</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxEaWFsb2dGcmFnbWVuy5x0U2V0QWdlXD4=</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
