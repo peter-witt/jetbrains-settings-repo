@@ -113,10 +113,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/activity_main.xml" timestamp="1591798562024">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="8" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="8" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/values/styles.xml" timestamp="1591798374817">
         <mark key="[" line="4" column="52" />
@@ -199,8 +199,10 @@
         <mark key="^" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1591798724753">
-        <mark key="[" line="16" column="43" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1591799121137">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AlgoliaSearchEventHandler.kt" timestamp="1591792394424">
         <mark key="[" line="45" column="31" />
@@ -320,14 +322,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkJ1dHRvbiIK</text>
+      <register name="&quot;" type="4">
+        <text>1000</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>TextView</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb3VudGFibGVRdWVyeVw+</text>
