@@ -120,7 +120,7 @@
       <file name="/Dummy.txt" timestamp="1591866947381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1591874272497">
+      <file name="/fragment.kt" timestamp="1591876259706">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/util/AniamtionUtil.kt" timestamp="1591868409895">
@@ -153,11 +153,11 @@
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/OnBackPressedListener.kt" timestamp="1591868539068">
         <mark key="[" line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/MainActivity.kt" timestamp="1591875671931">
-        <mark key="[" line="47" column="68" />
-        <mark key="]" line="49" column="44" />
-        <mark key="." line="49" column="43" />
-        <mark key="^" line="49" column="44" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/MainActivity.kt" timestamp="1591876534212">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="46" column="25" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/build.gradle" timestamp="1591867588491">
         <mark key="[" line="20" column="0" />
@@ -190,7 +190,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c916552dfbac3d711392f94d89311fb5/constraintlayout-2.0.0-beta6/jars/classes.jar!/androidx/constraintlayout/motion/widget/MotionLayout.class" timestamp="1591873636540">
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c916552dfbac3d711392f94d89311fb5/constraintlayout-2.0.0-beta6/jars/classes.jar!/androidx/constraintlayout/motion/widget/MotionLayout.class" timestamp="1591875948144">
         <mark key="[" line="1555" column="13" />
         <mark key="]" line="1555" column="49" />
       </file>
@@ -205,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="20" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/Notification.kt" />
       <jump line="20" column="30" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/Notification.kt" />
       <jump line="21" column="25" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/Notification.kt" />
       <jump line="37" column="2" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/Notification.kt" />
@@ -305,6 +304,7 @@
       <jump line="261" column="27" filename="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" />
       <jump line="10" column="5" filename="$USER_HOME$/Makeable/husketest-android/app/src/main/res/values/strings.xml" />
       <jump line="17" column="10" filename="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/MainActivity.kt" />
+      <jump line="47" column="42" filename="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,14 +312,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bW90aW9uTGF5b3V0LnN0YXJ0U3RhdGUgLT4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bW90aW9uTGF5b3V0LnN0YXJ0U3RhdGUgLT4=</text>
+        <text>motionLayout.currentState == motionLayout.endState</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
@@ -328,34 +328,34 @@
         <text>androidx.navigation.fragment.NavHostFragment</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoZW4oaXQpewo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb3Rpb25MYXlvdXQuZW5kU3RhdGUgLT4gbW90aW9uTGF5b3V0LnRyYW5zaXRpb25Ub0VuZCgpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZihwb3NpdGlvbiA9PSAwZikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmlld01vZGVsLi5wb3N0VmFsdWUoZW5kU3RhdGUpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGZyYWdtZW50OiBGcmFnbWVudD8gPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZihwb3NpdGlvbiA9PSAxZikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwuY3VycmVudFN0YXRlLnBvc3RWYWx1ZShpZihwb3NpdGlvbiA9PSAxZikgZW5kU3RhdGUgZWxzZSBiZWdpblN0YXRlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiWUVTUyIsIHBvc2l0aW9uLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZihwb3NpdGlvbiA9PSAxZikKICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocDEgIT0gLTEpCiAgICAgICAgICAgIHZpZXdNb2RlbC5jdXJyZW50U3RhdGUucG9zdFZhbHVlKHAxKQ==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
