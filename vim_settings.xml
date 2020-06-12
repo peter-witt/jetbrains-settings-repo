@@ -160,10 +160,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentRandomImages.kt" timestamp="1591883949437">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentRandomImages.kt" timestamp="1591946669296">
+        <mark key="[" line="45" column="35" />
+        <mark key="]" line="45" column="35" />
+        <mark key="^" line="45" column="35" />
+        <mark key="." line="45" column="34" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/drawable/rounded_square.xml" timestamp="1591877072824">
         <mark key="[" line="0" column="38" />
@@ -313,7 +314,7 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxhc3RQcm9ncmVzcyA9IDBmCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGltZXIgPSBUaW1lcigpCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -328,36 +329,36 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0Q3VzdG9tQW5pbWF0aW9ucyhSLmFuaW0uZmFkZV9pbiwgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxhc3RQcm9ncmVzcyA9IDBmCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGltZXIgPSBUaW1lcigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxhc3RQcm9ncmVzcyA9IDBmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0T25DbGlja0xpc3RlbmVyIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGl0LmN1cnJlbnRJdGVtID49KQo=</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0T25DbGlja0xpc3RlbmVyIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGl0LmN1cnJlbnRJdGVtID49KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKHByb2dyZXNzIC0gbGFzdFByb2dyZXNzID4gMCkgewogICAgICAgICAgICAvLyBmcm9tIHN0YXJ0IHRvIGVuZAogICAgICAgICAgICB2YWwgYXRFbmQgPSBNYXRoLmFicyhwcm9ncmVzcyAtIDFmKSA8IDAuMWYKICAgICAgICAgICAgaWYgKGF0RW5kKSB7CiAgICAgICAgICAgICAgICB2YWwgbmF2SG9zdEZyYWdtZW50ID0gTmF2SG9zdEZyYWdtZW50KCkKICAgICAgICAgICAgICAgIHN1cHBvcnRGcmFnbWVudE1hbmFnZXIuYmVnaW5UcmFuc2FjdGlvbigpCiAgICAgICAgICAgICAgICAgICAgLmFkZChSLmlkLmNvbnRhaW5lciwgbmF2SG9zdEZyYWdtZW50LCAiVEVTVF9OQVZIT1NUIikKICAgICAgICAgICAgICAgICAgICAuc2V0Q3VzdG9tQW5pbWF0aW9ucyhSLmFuaW0uZmFkZV9pbiwgMCkKICAgICAgICAgICAgICAgICAgICAuY29tbWl0Tm93KCkKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgbmF2SG9zdEZyYWdtZW50Lm5hdkNvbnRyb2xsZXIuCiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyBmcm9tIGVuZCB0byBzdGFydAogICAgICAgICAgICB2YWwgYXRTdGFydCA9IHByb2dyZXNzIDwgMC45ZgogICAgICAgICAgICBpZiAoYXRTdGFydCkgewogICAgICAgICAgICAgICAgc3VwcG9ydEZyYWdtZW50TWFuYWdlci5iZWdpblRyYW5zYWN0aW9uKCkKICAgICAgICAgICAgICAgICAgICAucmVtb3ZlKHN1cHBvcnRGcmFnbWVudE1hbmFnZXIuZmluZEZyYWdtZW50QnlUYWcoIlRFU1RfTkFWSE9TVCIpISEpCiAgICAgICAgICAgICAgICAgICAgLnNldEN1c3RvbUFuaW1hdGlvbnMoMCwgUi5hbmltLmZhZGVfb3V0KQogICAgICAgICAgICAgICAgICAgIC5jb21taXQoKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGxhc3RQcm9ncmVzcyA9IHByb2dyZXNz</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.apply {
-
-                    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgaWYgKHByb2dyZXNzIC0gbGFzdFByb2dyZXNzID4gMCkgewogICAgICAgICAgICAvLyBmcm9tIHN0YXJ0IHRvIGVuZAogICAgICAgICAgICB2YWwgYXRFbmQgPSBNYXRoLmFicyhwcm9ncmVzcyAtIDFmKSA8IDAuMWYKICAgICAgICAgICAgaWYgKGF0RW5kKSB7CiAgICAgICAgICAgICAgICB2YWwgbmF2SG9zdEZyYWdtZW50ID0gTmF2SG9zdEZyYWdtZW50KCkKICAgICAgICAgICAgICAgIHN1cHBvcnRGcmFnbWVudE1hbmFnZXIuYmVnaW5UcmFuc2FjdGlvbigpCiAgICAgICAgICAgICAgICAgICAgLmFkZChSLmlkLmNvbnRhaW5lciwgbmF2SG9zdEZyYWdtZW50LCAiVEVTVF9OQVZIT1NUIikKICAgICAgICAgICAgICAgICAgICAuc2V0Q3VzdG9tQW5pbWF0aW9ucyhSLmFuaW0uZmFkZV9pbiwgMCkKICAgICAgICAgICAgICAgICAgICAuY29tbWl0Tm93KCkKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgbmF2SG9zdEZyYWdtZW50Lm5hdkNvbnRyb2xsZXIuCiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyBmcm9tIGVuZCB0byBzdGFydAogICAgICAgICAgICB2YWwgYXRTdGFydCA9IHByb2dyZXNzIDwgMC45ZgogICAgICAgICAgICBpZiAoYXRTdGFydCkgewogICAgICAgICAgICAgICAgc3VwcG9ydEZyYWdtZW50TWFuYWdlci5iZWdpblRyYW5zYWN0aW9uKCkKICAgICAgICAgICAgICAgICAgICAucmVtb3ZlKHN1cHBvcnRGcmFnbWVudE1hbmFnZXIuZmluZEZyYWdtZW50QnlUYWcoIlRFU1RfTkFWSE9TVCIpISEpCiAgICAgICAgICAgICAgICAgICAgLnNldEN1c3RvbUFuaW1hdGlvbnMoMCwgUi5hbmltLmZhZGVfb3V0KQogICAgICAgICAgICAgICAgICAgIC5jb21taXQoKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGxhc3RQcm9ncmVzcyA9IHByb2dyZXNz</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmF2Q29udHJvbGxlci5zZXRHcmFwaChSLm5hdmlnYXRpb24ubWFpbl9uYXYpCg==</text>
+      <register name="8" type="4">
+        <text>.apply {
+
+                    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0VHJhbnNpdGlvbihSLmFuaW0uZmFkZV9pbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmF2Q29udHJvbGxlci5zZXRHcmFwaChSLm5hdmlnYXRpb24ubWFpbl9uYXYpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
