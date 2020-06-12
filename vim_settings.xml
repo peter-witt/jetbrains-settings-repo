@@ -138,6 +138,9 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentSelectImages.kt" timestamp="1591953213023">
+        <mark key="[" line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_single_image.xml" timestamp="1591947650747">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="14" column="0" />
@@ -159,28 +162,23 @@
       <file name="/fragment.kt" timestamp="1591876259706">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_random_images.xml" timestamp="1591950023985">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="41" column="41" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_random_images.xml" timestamp="1591951226948">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/MainActivity.kt" timestamp="1591883903158">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/MainActivity.kt" timestamp="1591952765464">
+        <mark key="[" line="46" column="44" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/xml/fragment_random_images_scene.xml" timestamp="1591950170911">
-        <mark key="[" line="10" column="53" />
-        <mark key="]" line="10" column="43" />
-        <mark key="." line="10" column="42" />
-        <mark key="^" line="10" column="43" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/xml/fragment_random_images_scene.xml" timestamp="1591951266002">
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="33" column="34" />
+        <mark key="." line="33" column="34" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentRandomImages.kt" timestamp="1591950442491">
-        <mark key="[" line="72" column="17" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="54" column="38" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentRandomImages.kt" timestamp="1591953103579">
+        <mark key="[" line="73" column="25" />
+        <mark key="]" line="70" column="66" />
+        <mark key="." line="70" column="66" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/drawable/rounded_square.xml" timestamp="1591877072824">
         <mark key="[" line="0" column="38" />
@@ -191,12 +189,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1591872647209">
-        <mark key="[" line="20" column="60" />
-        <mark key="]" line="10" column="35" />
-        <mark key="^" line="57" column="62" />
-        <mark key="." line="10" column="35" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/values/strings.xml" timestamp="1591874565915">
         <mark key="[" line="11" column="30" />
@@ -313,50 +305,51 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW90aW9uTGF5b3V0LnRyYW5zaXRpb25Ub0VuZCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>letter</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>hasCallbacks</text>
+        <text>letter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0Q3VzdG9tQW5pbWF0aW9ucyhSLmFuaW0uZmFkZV9pbiwgMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb3Rpb25MYXlvdXQudHJhbnNpdGlvblRvU3RhcnQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW90aW9uTGF5b3V0LnRyYW5zaXRpb25Ub0VuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXdNb2RlbFNjb3BlLmxhdW5jaCB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJhbmRvbShTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkubmV4dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN1c3BlbmQgZnVuIGdldFJhbmRvbUltYWdlcygpOiBMaXN0PEludD4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vVE9ETzogR2V0IHJhbmRvbSBpbWFnZXMKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXgucG9zdFZhbHVlKDApCiAgICAgICAgICAgIGN1cnJlbnRJbWFnZS5wb3N0VmFsdWUoMCk=</text>
+      <register name="7" type="4">
+        <text>R.drawable.brik10a, R.drawable.brik10b, R.drawable.brik10a, R.drawable.brik10b, R.drawable.brik10a,
+            R.drawable.brik10b, R.drawable.brik10a, R.drawable.brik10b, R.drawable.brik10a, R.drawable.brik10b</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNydW5uaW5nID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBHZXQgcmFuZG9tIGltYWdlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UaGUgdGVzdCBpcyBydW5uaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWxlcnREaWFsb2cuQnVpbGRlcih0aGlzKQogICAgICAgICAgICAgICAgLnNldFRpdGxlKCJJZ2FuZ3bDpnJlbmRlIHRlc3QiKQogICAgICAgICAgICAgICAgLnNldE1lc3NhZ2UoIlZpbCBkdSBhZnNsdXR0ZSB0ZXN0ZW4/IikKICAgICAgICAgICAgICAgIC5zZXRQb3NpdGl2ZUJ1dHRvbigiQWZzbHV0Iikge2RpYWxvZywgd2hpY2ggLT4KICAgICAgICAgICAgICAgICAgICB0ZXN0Vmlld01vZGVsLnJlc2V0VGVzdCgpCiAgICAgICAgICAgICAgICAgICAgbW90aW9uTGF5b3V0LnRyYW5zaXRpb25Ub1N0YXJ0KCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC5zZXROZXV0cmFsQnV0dG9uKCJBbm51bGxlciIsIG51bGwpCiAgICAgICAgICAgICAgICAuc2hvdygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
