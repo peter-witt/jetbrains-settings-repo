@@ -126,8 +126,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/TestViewModel.kt" timestamp="1591958336921">
-        <mark key="[" line="53" column="0" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/TestViewModel.kt" timestamp="1591959927907">
+        <mark key="[" line="18" column="25" />
         <mark key="]" line="53" column="48" />
         <mark key="." line="53" column="0" />
       </file>
@@ -140,11 +140,10 @@
       <file name="/a.dummy" timestamp="1591954758053">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_random_images.xml" timestamp="1591959557334">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="31" />
-        <mark key="^" line="27" column="35" />
-        <mark key="." line="27" column="31" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_random_images.xml" timestamp="1591960619854">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/MainActivity.kt" timestamp="1591958046725">
         <mark key="[" line="48" column="48" />
@@ -152,12 +151,13 @@
         <mark key="^" line="48" column="37" />
         <mark key="." line="48" column="36" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/xml/fragment_random_images_scene.xml" timestamp="1591959700006">
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/xml/fragment_random_images_scene.xml" timestamp="1591960610994">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="39" column="18" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/xml/fragment_select_images_scene.xml" timestamp="1591960768644" />
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/anim/fade_in.xml" timestamp="1591882042907">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="2" column="26" />
@@ -180,22 +180,17 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentRandomImages.kt" timestamp="1591959660307">
-        <mark key="[" line="44" column="17" />
-        <mark key="]" line="44" column="17" />
-        <mark key="^" line="44" column="24" />
-        <mark key="." line="44" column="17" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentRandomImages.kt" timestamp="1591960447633">
+        <mark key="[" line="53" column="30" />
+        <mark key="]" line="43" column="72" />
+        <mark key="." line="43" column="71" />
+        <mark key="^" line="43" column="72" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_select_images.xml" timestamp="1591955728183">
-        <mark key="[" line="27" column="30" />
-        <mark key="]" line="27" column="30" />
-        <mark key="." line="27" column="30" />
-      </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/SingelImageFragment.kt" timestamp="1591878969384">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="8" />
-        <mark key="." line="16" column="7" />
-        <mark key="^" line="16" column="8" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_select_images.xml" timestamp="1591960759269">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="25" />
+        <mark key="^" line="25" column="28" />
+        <mark key="." line="25" column="25" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/util/DepthPageTransformer.kt" timestamp="1591881048908">
         <mark key="[" line="7" column="0" />
@@ -323,14 +318,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>grcid</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>centerCrop</text>
+        <text>grcid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
@@ -339,23 +334,22 @@
         <text encoding="base64">ICAgICAgICA8Q29uc3RyYWludCBhbmRyb2lkOmlkPSJAK2lkL2ltYWdlIj4KICAgICAgICAgICAgPEN1c3RvbUF0dHJpYnV0ZQogICAgICAgICAgICAgICAgYXBwOmF0dHJpYnV0ZU5hbWU9ImFscGhhIgogICAgICAgICAgICAgICAgYXBwOmN1c3RvbUZsb2F0VmFsdWU9IjAiCiAgICAgICAgICAgICAgICAvPgogICAgICAgIDwvQ29uc3RyYWludD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbmVkSGVpZ2h0PSJ0cnVlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEN1c3RvbUF0dHJpYnV0ZQogICAgICAgICAgICAgICAgYXBwOmF0dHJpYnV0ZU5hbWU9InRleHQiCiAgICAgICAgICAgICAgICBhcHA6Y3VzdG9tU3RyaW5nVmFsdWU9IkBzdHJpbmcvcmVhZHkiCiAgICAgICAgICAgICAgICAvPg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVySW5zaWRlIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9ncmVzc1ZpZXcuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEN1c3RvbUF0dHJpYnV0ZQogICAgICAgICAgICAgICAgYXBwOmF0dHJpYnV0ZU5hbWU9InRleHQiCiAgICAgICAgICAgICAgICBhcHA6Y3VzdG9tU3RyaW5nVmFsdWU9IkBzdHJpbmcvcmVzdGFydCIKICAgICAgICAgICAgICAgIC8+</text>
+        <text encoding="base64">ICAgICAgICBhcHA6cHJvZ3Jlc3NWaWV3X3Byb2dyZXNzRnJvbVByZXZpb3VzPSJ0cnVlIgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dHRvbiIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VmVydGljYWxfY2hhaW5TdHlsZT0icGFja2VkIgogICAgICAgICAgICA+</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6cHJvZ3Jlc3NWaWV3X2FuaW1hdGlvbj0iYWNjZWxlcmF0ZURlY2VsZXJhdGUiCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>content&quot;
-            android:layout_height=&quot;wrap_content&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9ncmVzc1ZpZXcuYXV0b0FuaW1hdGUgPSB0cnVlCiAgICAgICAgcHJvZ3Jlc3NWaWV3LnByb2dyZXNzRnJvbVByZXZpb3VzID0gdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -364,10 +358,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgcmVmcmVzaEJ1dHRvbi5zZXRPbkNsaWNrTGlzdGVuZXIgewogICAgICAgICAgICB0ZXN0Vmlld01vZGVsLnJlc2V0VGVzdChyZXF1aXJlQ29udGV4dCgpKQogICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEN1c3RvbUF0dHJpYnV0ZQogICAgICAgICAgICAgICAgYXBwOmF0dHJpYnV0ZU5hbWU9InRleHQiCiAgICAgICAgICAgICAgICBhcHA6Y3VzdG9tU3RyaW5nVmFsdWU9IkBzdHJpbmcvcmVhZHkiCiAgICAgICAgICAgICAgICAvPg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJAaWQvcmVmcmVzaEJ1dHRvbiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
