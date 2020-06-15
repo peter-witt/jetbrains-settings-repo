@@ -153,11 +153,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_result.xml" timestamp="1592215051702">
-        <mark key="[" line="20" column="49" />
-        <mark key="]" line="20" column="49" />
-        <mark key="." line="20" column="49" />
-        <mark key="^" line="20" column="55" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_result.xml" timestamp="1592215842623">
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="31" />
+        <mark key="." line="51" column="31" />
+        <mark key="^" line="51" column="35" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/navigation/main_nav.xml" timestamp="1592208467420">
         <mark key="[" line="22" column="44" />
@@ -165,7 +165,7 @@
         <mark key="^" line="23" column="52" />
         <mark key="." line="23" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592215264025">
+      <file name="/Dummy.txt" timestamp="1592216349089">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1592208359197">
@@ -326,13 +326,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>result_chart</text>
+        <text>wrap_content</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>result_chart</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
