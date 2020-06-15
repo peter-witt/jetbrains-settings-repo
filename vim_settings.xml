@@ -147,11 +147,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_result.xml" timestamp="1592211996448">
-        <mark key="[" line="65" column="31" />
-        <mark key="]" line="65" column="31" />
-        <mark key="." line="65" column="31" />
-        <mark key="^" line="65" column="33" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_result.xml" timestamp="1592213269123">
+        <mark key="[" line="49" column="44" />
+        <mark key="]" line="51" column="10" />
+        <mark key="." line="51" column="9" />
+        <mark key="^" line="51" column="10" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/navigation/main_nav.xml" timestamp="1592208467420">
         <mark key="[" line="22" column="44" />
@@ -323,13 +323,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0dp</text>
+        <text>wrap_content</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>0dp</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
