@@ -152,9 +152,6 @@
         <mark key="]" line="13" column="5" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/gradle.properties" timestamp="1592230781478">
-        <mark key="[" line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentPostTestInfo.kt" timestamp="1592287868563">
         <mark key="[" line="26" column="68" />
         <mark key="]" line="26" column="43" />
@@ -201,14 +198,22 @@
         <mark key="^" line="56" column="85" />
         <mark key="." line="56" column="84" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/MainActivity.kt" timestamp="1592294285654">
+        <mark key="[" line="341" column="59" />
+        <mark key="]" line="341" column="59" />
+        <mark key="." line="341" column="59" />
+      </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/values/strings.xml" timestamp="1592231618814">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="5" column="50" />
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/helpdesk/ticket/HelpDeskTicketFragment.java" timestamp="1592292507422">
-        <mark key="[" line="81" column="9" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/helpdesk/ticket/HelpDeskTicketFragment.java" timestamp="1592294591607">
+        <mark key="[" line="94" column="59" />
+        <mark key="]" line="94" column="12" />
+        <mark key="^" line="94" column="12" />
+        <mark key="." line="94" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -319,14 +324,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyIgo=</text>
+      <register name="&quot;" type="4">
+        <text>listHelpDeskTicketsFragment</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>LinearLayout</text>
+        <text>listHelpDeskTicketsFragment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
