@@ -130,11 +130,11 @@
         <mark key="^" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/build.gradle" timestamp="1592230868415">
-        <mark key="[" line="59" column="56" />
-        <mark key="]" line="59" column="56" />
-        <mark key="." line="59" column="56" />
-        <mark key="^" line="59" column="62" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/build.gradle" timestamp="1592295376055">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="63" />
+        <mark key="." line="61" column="56" />
+        <mark key="^" line="61" column="62" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/navigation/nav_my_requests.xml" timestamp="1592292373811" />
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentSelectImages.kt" timestamp="1592231630058">
@@ -175,16 +175,14 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="26" column="52" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentRandomImages.kt" timestamp="1592230899916">
-        <mark key="[" line="62" column="36" />
-        <mark key="]" line="62" column="36" />
-        <mark key="." line="62" column="36" />
-        <mark key="^" line="62" column="52" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/menu/menu_add_ticket.xml" timestamp="1592289515854">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1592295387086">
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_post_test_info.xml" timestamp="1592287944597">
         <mark key="[" line="38" column="47" />
@@ -324,8 +322,8 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>listHelpDeskTicketsFragment</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -337,37 +335,37 @@
         <text encoding="base64">XDw+XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSI4ZHAiCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0OmNvbnN0cmFpbnRsYXlvdXQ6Mi4wLjAtYmV0YTYnCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmdvb2dsZS5hbmRyb2lkLm1hdGVyaWFsOm1hdGVyaWFsOjEuMS4wJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvYXBwZ2V0YmciCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSIxNmRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvRnJhbWVMYXlvdXQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvYXBwZ2V0YmciCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvcm91bmRlZF93aGl0ZV9ib3giCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSIxNmRwIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppbWVPcHRpb25zPSJhY3Rpb25OZXh0Igo=</text>
+        <text encoding="base64">ICAgIDwvRnJhbWVMYXlvdXQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDptYXhMZW5ndGg9IjQwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvcm91bmRlZF93aGl0ZV9ib3giCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppbnB1dFR5cGU9InRleHQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppbWVPcHRpb25zPSJhY3Rpb25OZXh0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppbnB1dFR5cGU9InRleHQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDptYXhMZW5ndGg9IjQwIgo=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
