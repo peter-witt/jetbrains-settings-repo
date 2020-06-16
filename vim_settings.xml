@@ -112,45 +112,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/activity_main.xml" timestamp="1592287924767" />
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/TestViewModel.kt" timestamp="1592231225702">
         <mark key="[" line="26" column="24" />
         <mark key="]" line="26" column="24" />
         <mark key="^" line="41" column="49" />
         <mark key="." line="26" column="24" />
-      </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/build.gradle" timestamp="1592230868415">
-        <mark key="[" line="59" column="56" />
-        <mark key="]" line="59" column="56" />
-        <mark key="." line="59" column="56" />
-        <mark key="^" line="59" column="62" />
-      </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout-land/fragment_result.xml" timestamp="1592229260243">
-        <mark key="[" line="60" column="27" />
-        <mark key="]" line="60" column="27" />
-        <mark key="^" line="72" column="55" />
-        <mark key="." line="60" column="27" />
-      </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentSelectImages.kt" timestamp="1592231630058">
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="36" column="31" />
-        <mark key="." line="36" column="31" />
-        <mark key="^" line="35" column="83" />
-      </file>
-      <file name="$USER_HOME$/Makeable/din-boernekiropraktor-android/app/src/main/java/dk/makeable/dinboernekiropraktor/util/Extensions_String.kt" timestamp="1592231395903">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="20" column="5" />
-      </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_result.xml" timestamp="1592229234151">
-        <mark key="[" line="138" column="30" />
-        <mark key="]" line="138" column="34" />
-        <mark key="." line="138" column="33" />
-        <mark key="^" line="138" column="34" />
-      </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/values/colors.xml" timestamp="1592228957790">
-        <mark key="[" line="3" column="50" />
-        <mark key="]" line="3" column="50" />
-        <mark key="^" line="3" column="50" />
-        <mark key="." line="3" column="49" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/util/StringUtil.kt" timestamp="1592231412955">
         <mark key="[" line="6" column="0" />
@@ -160,15 +127,26 @@
       <file name="/fragment.kt" timestamp="1592228218105">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_random_images.xml" timestamp="1592230115372" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/build.gradle" timestamp="1592230868415">
+        <mark key="[" line="59" column="56" />
+        <mark key="]" line="59" column="56" />
+        <mark key="." line="59" column="56" />
+        <mark key="^" line="59" column="62" />
+      </file>
       <file name="$USER_HOME$/Makeable/husketest-android/gradle.properties" timestamp="1592230781478">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentPostTestInfo.kt" timestamp="1592229117623">
-        <mark key="[" line="16" column="51" />
-        <mark key="]" line="12" column="82" />
-        <mark key="^" line="12" column="82" />
-        <mark key="." line="12" column="81" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentPostTestInfo.kt" timestamp="1592287868563">
+        <mark key="[" line="26" column="68" />
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="26" column="42" />
+      </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout-land/fragment_result.xml" timestamp="1592229260243">
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="60" column="27" />
+        <mark key="^" line="72" column="55" />
+        <mark key="." line="60" column="27" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/MainActivity.kt" timestamp="1592229909514">
         <mark key="'" line="78" column="34" />
@@ -183,6 +161,16 @@
         <mark key="." line="27" column="64" />
         <mark key="^" line="27" column="65" />
       </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentSelectImages.kt" timestamp="1592231630058">
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="36" column="31" />
+        <mark key="." line="36" column="31" />
+        <mark key="^" line="35" column="83" />
+      </file>
+      <file name="$USER_HOME$/Makeable/din-boernekiropraktor-android/app/src/main/java/dk/makeable/dinboernekiropraktor/util/Extensions_String.kt" timestamp="1592231395903">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="20" column="5" />
+      </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentRandomImages.kt" timestamp="1592230899916">
         <mark key="[" line="62" column="36" />
         <mark key="]" line="62" column="36" />
@@ -194,11 +182,23 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_post_test_info.xml" timestamp="1592229450217">
-        <mark key="[" line="18" column="36" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_result.xml" timestamp="1592229234151">
+        <mark key="[" line="138" column="30" />
+        <mark key="]" line="138" column="34" />
+        <mark key="." line="138" column="33" />
+        <mark key="^" line="138" column="34" />
+      </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_post_test_info.xml" timestamp="1592287944597">
+        <mark key="[" line="38" column="47" />
         <mark key="]" line="22" column="10" />
         <mark key="." line="22" column="9" />
         <mark key="^" line="22" column="10" />
+      </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/values/colors.xml" timestamp="1592228957790">
+        <mark key="[" line="3" column="50" />
+        <mark key="]" line="3" column="50" />
+        <mark key="^" line="3" column="50" />
+        <mark key="." line="3" column="49" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1592228188223">
         <mark key="[" line="57" column="43" />
