@@ -119,12 +119,6 @@
         <mark key="^" line="262" column="40" />
         <mark key="." line="262" column="39" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/TestViewModel.kt" timestamp="1592231225702">
-        <mark key="[" line="26" column="24" />
-        <mark key="]" line="26" column="24" />
-        <mark key="^" line="41" column="49" />
-        <mark key="." line="26" column="24" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/DialogFragmentRateGetter.kt" timestamp="1592292387820">
         <mark key="]" line="79" column="0" />
         <mark key="^" line="79" column="0" />
@@ -136,6 +130,9 @@
         <mark key="." line="61" column="56" />
         <mark key="^" line="61" column="62" />
       </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/model/User.kt" timestamp="1592296396369">
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/navigation/nav_my_requests.xml" timestamp="1592292373811" />
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentSelectImages.kt" timestamp="1592231630058">
         <mark key="[" line="36" column="31" />
@@ -143,14 +140,11 @@
         <mark key="." line="36" column="31" />
         <mark key="^" line="35" column="83" />
       </file>
-      <file name="$USER_HOME$/Makeable/din-boernekiropraktor-android/app/src/main/java/dk/makeable/dinboernekiropraktor/util/Extensions_String.kt" timestamp="1592231395903">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="20" column="5" />
-      </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/util/StringUtil.kt" timestamp="1592231412955">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="13" column="5" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerAPI.kt" timestamp="1592296532103">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="11" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentPostTestInfo.kt" timestamp="1592287868563">
         <mark key="[" line="26" column="68" />
@@ -198,6 +192,9 @@
         <mark key="]" line="56" column="85" />
         <mark key="^" line="56" column="85" />
         <mark key="." line="56" column="84" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerService.kt" timestamp="1592296601710">
+        <mark key="[" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/MainActivity.kt" timestamp="1592294285654">
         <mark key="[" line="341" column="59" />
@@ -326,13 +323,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
+        <text>class</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>
