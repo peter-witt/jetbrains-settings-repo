@@ -162,7 +162,7 @@
       <file name="/Dummy.txt" timestamp="1592394893595">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1592392127416">
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1592396177039">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
@@ -177,12 +177,12 @@
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_epoxy_recycler.xml" timestamp="1592392053668">
         <mark key="[" line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1592396051859">
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1592396194654">
         <mark key="'" line="71" column="81" />
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="4" />
+        <mark key="[" line="80" column="26" />
+        <mark key="]" line="80" column="27" />
         <mark key="^" line="25" column="11" />
-        <mark key="." line="25" column="4" />
+        <mark key="." line="80" column="27" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1592395301384">
         <mark key="[" line="39" column="9" />
