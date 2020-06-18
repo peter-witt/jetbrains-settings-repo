@@ -120,16 +120,16 @@
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/styles.xml" timestamp="1592397726660">
         <mark key="[" line="3" column="58" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/LoginService.kt" timestamp="1592463438571">
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="36" column="10" />
-        <mark key="." line="36" column="9" />
-        <mark key="^" line="36" column="10" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/LogInFragment.kt" timestamp="1592465049812">
+        <mark key="[" line="39" column="48" />
+        <mark key="]" line="39" column="48" />
+        <mark key="." line="39" column="48" />
+        <mark key="^" line="39" column="51" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackersFragment.kt" timestamp="1592397109860">
-        <mark key="[" line="51" column="77" />
-        <mark key="]" line="51" column="77" />
-        <mark key="." line="51" column="77" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/LoginService.kt" timestamp="1592464661415">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/activity_main.xml" timestamp="1592406300297">
         <mark key="[" line="82" column="66" />
@@ -146,12 +146,12 @@
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/koin/ApiModule.kt" timestamp="1592402706047">
         <mark key="[" line="56" column="9" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1592464473647">
-        <mark key="'" line="47" column="8" />
-        <mark key="[" line="70" column="37" />
-        <mark key="]" line="70" column="37" />
-        <mark key="." line="70" column="36" />
-        <mark key="^" line="70" column="37" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1592464954562">
+        <mark key="'" line="49" column="8" />
+        <mark key="[" line="54" column="13" />
+        <mark key="]" line="54" column="14" />
+        <mark key="." line="54" column="13" />
+        <mark key="^" line="54" column="14" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1592402704548">
         <mark key="[" line="12" column="6" />
@@ -209,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
       <jump line="110" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
       <jump line="114" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
       <jump line="120" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
@@ -309,6 +308,7 @@
       <jump line="31" column="16" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
       <jump line="37" column="8" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
       <jump line="40" column="24" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/epoxy_model_title_subtitle_startimage_endimage.xml" />
+      <jump line="39" column="17" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/LoginService.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,14 +316,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>navigate</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>in_nav</text>
+        <text>navigate</text>
       </register>
       <register name="/" type="4">
         <text>setup</text>
@@ -332,34 +332,34 @@
         <text encoding="base64">Z2V0TW9kZWxzOiBTaW1wbGVFcG94eUNvbnRyb2xsZXI8VD4uKGRhdGE6IFQpIC0+IFVuaXQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbmROYXZDb250cm9sbGVyKCkucG9wQmFja1N0YWNrKFIuaWQubWFpbl9uYXYsIHRydWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5kTmF2Q29udHJvbGxlcigpLm5hdmlnYXRlKExvZ0luRnJhZ21lbnREaXJlY3Rpb25zLmFjdGlvbkdsb2JhbE1hcEZyYWdtZW50KCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobG9naW5TZXJ2aWNlLmlzTG9nZ2VkSW4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2tlclZpZXdNb2RlbC50cmFja2Vycy5vYnNlcnZlKHRoaXMsIE9ic2VydmVyIHsKICAgICAgICAgICAgICAgIHRyYWNrZXJFcG94eUNvbnRyb2xsZXIuc2V0RGF0YShpdCkKICAgICAgICAgICAgfSk=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ3JhcGggPSAKICAgICAgICBncmFwaC4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNrZXJWaWV3TW9kZWwudHJhY2tlcnMub2JzZXJ2ZWRkCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYobG9naW5TZXJ2aWNlLmlzTG9nZ2VkSW4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBsb2FkVXNlcigpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBzdXNwZW5kIGZ1biBsb2FkVXNlcigpewogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2V0PExvZ2luU2VydmljZT4oKS5pc0xvZ2dlZEluKSB7CiAgICAgICAgICAgIGxvYWRLb2luTW9kdWxlcyhhcGlNb2R1bGUpCiAgICAgICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
