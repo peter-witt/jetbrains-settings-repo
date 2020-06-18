@@ -138,8 +138,8 @@
         <mark key="]" line="51" column="77" />
         <mark key="." line="51" column="77" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/activity_main.xml" timestamp="1592402919007">
-        <mark key="[" line="73" column="16" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/activity_main.xml" timestamp="1592406300297">
+        <mark key="[" line="82" column="66" />
         <mark key="]" line="73" column="21" />
         <mark key="." line="73" column="20" />
         <mark key="^" line="73" column="21" />
@@ -158,15 +158,12 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1592405188165">
-        <mark key="'" line="50" column="8" />
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="24" column="12" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_epoxy_recycler.xml" timestamp="1592392053668">
-        <mark key="[" line="17" column="47" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1592407009404">
+        <mark key="'" line="65" column="8" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1592402704548">
         <mark key="[" line="12" column="6" />
@@ -198,11 +195,14 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/util/SimpleEpoxyController.kt" timestamp="1592405288870">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="1" />
-        <mark key="^" line="10" column="27" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerViewModel.kt" timestamp="1592406452479">
+        <mark key="[" line="16" column="54" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/util/SimpleEpoxyController.kt" timestamp="1592406056553">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="17" column="29" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="29" />
       </file>
       <file name="/fragment.java" timestamp="1592402718630">
         <mark key="[" line="0" column="0" />
@@ -317,13 +317,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuIDxUPiBzaW1wbGVDb250cm9sbGVyKGdldE1vZGVsczogU2ltcGxlRXBveHlDb250cm9sbGVyPFQ+LihkYXRhOiBUKSAtPiBVbml0KTogU2ltcGxlRXBveHlDb250cm9sbGVyPFQ+ID0KICAgIFNpbXBsZUVwb3h5Q29udHJvbGxlcjxUPiB7CiAgICAKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>getModels</text>
+        <text>in_nav</text>
       </register>
       <register name="/" type="4">
         <text>setup</text>
@@ -332,40 +332,34 @@
         <text encoding="base64">Z2V0TW9kZWxzOiBTaW1wbGVFcG94eUNvbnRyb2xsZXI8VD4uKGRhdGE6IFQpIC0+IFVuaXQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuIDxUPiBzaW1wbGVDb250cm9sbGVyKGdldE1vZGVsczogU2ltcGxlRXBveHlDb250cm9sbGVyPFQ+LihkYXRhOiBUKSAtPiBVbml0KTogU2ltcGxlRXBveHlDb250cm9sbGVyPFQ+ID0KICAgIFNpbXBsZUVwb3h5Q29udHJvbGxlcjxUPiB7CiAgICAKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJhd2VyTGF5b3V0LmNsb3NlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCB0ID0gb2JqZWN0OiBTaW1wbGVFcG94eUNvbnRyb2xsZXI8ZGRkZGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJhd2VyTGF5b3V0LnNldERyYXdlckxvY2tNb2RlKERyYXdlckxheW91dC5MT0NLX01PREVfTE9DS0VEX0NMT1NFRCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHRyYWNrZXJDZWxsIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CgogICAgICAgICAgICBkYXRhLmZsYXRNYXAgeyB0cmFja2VyIC0+CiAgICAgICAgICAgICAgICBsaXN0T2YoCiAgICAgICAgICAgICAgICAgICAgVHJhY2tlckNlbGxCaW5kaW5nTW9kZWxfKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmlkKHRyYWNrZXIuaWQpCiAgICAgICAgICAgICAgICAgICAgICAgIC50cmFja2VyKHRyYWNrZXIpCiAgICAgICAgICAgICAgICApLmxldCB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHRyYWNrZXIgIT0gZGF0YS5sYXN0KCkpCiAgICAgICAgICAgICAgICAgICAgICAgIGl0LnBsdXMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTZXBhcmF0b3JCaW5kaW5nTW9kZWxfKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuaWQodHJhY2tlci5pZCArICJzZXBhcmF0b3IiKQogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBpdAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhZGQoZ2V0TW9kZWxzKGRhdGEsICkpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>separator { 
-            
-        }
-        
-        trackerCell { 
-            
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2tlckNlbGwgewo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuZmxhdCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNrZXIodHJhY2tlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkB7ZW5kSW1hZ2V9Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkKHRyYWNrZXIuaWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
