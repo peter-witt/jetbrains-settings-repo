@@ -154,6 +154,7 @@
         <mark key="^" line="54" column="23" />
         <mark key="." line="54" column="22" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/keystore.properties" timestamp="1592564111189" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/EpoxyFragment.kt" timestamp="1592560238050">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="46" />
@@ -195,12 +196,6 @@
         <mark key="]" line="26" column="44" />
         <mark key="." line="26" column="43" />
         <mark key="^" line="26" column="44" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_tracker_mode.xml" timestamp="1592493967975">
-        <mark key="[" line="60" column="64" />
-        <mark key="]" line="60" column="69" />
-        <mark key="." line="60" column="68" />
-        <mark key="^" line="60" column="69" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_tracker_status.xml" timestamp="1592549429693">
         <mark key="[" line="5" column="5" />
