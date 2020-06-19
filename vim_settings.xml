@@ -176,12 +176,6 @@
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_tracker_status.xml" timestamp="1592549429693">
         <mark key="[" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_info.xml" timestamp="1592485531406">
-        <mark key="[" line="111" column="66" />
-        <mark key="]" line="111" column="66" />
-        <mark key="." line="111" column="65" />
-        <mark key="^" line="111" column="66" />
-      </file>
       <file name="/Dummy.txt" timestamp="1592549546151">
         <mark key="[" line="0" column="0" />
       </file>
@@ -191,11 +185,11 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/view/TitleSubtitleImageView.kt" timestamp="1592487158296">
-        <mark key="[" line="17" column="73" />
-        <mark key="]" line="27" column="34" />
-        <mark key="^" line="27" column="34" />
-        <mark key="." line="27" column="33" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/EpoxyFragment.kt" timestamp="1592559763151">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="20" column="42" />
+        <mark key="^" line="20" column="42" />
+        <mark key="." line="20" column="41" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/view_title_subtitle_image.xml" timestamp="1592488330716">
         <mark key="[" line="27" column="8" />
