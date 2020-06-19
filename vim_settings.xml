@@ -139,12 +139,6 @@
         <mark key="^" line="148" column="63" />
         <mark key="." line="148" column="62" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/navigation/main_nav.xml" timestamp="1592494035921">
-        <mark key="[" line="56" column="43" />
-        <mark key="]" line="45" column="23" />
-        <mark key="." line="45" column="23" />
-        <mark key="^" line="37" column="11" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1592563983736">
         <mark key="[" line="54" column="33" />
         <mark key="]" line="54" column="23" />
@@ -200,6 +194,9 @@
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="32" />
         <mark key="^" line="62" column="33" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ftz-android/app/build.gradle" timestamp="1592566160172">
+        <mark key="[" line="34" column="26" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerSettingsFragment.kt" timestamp="1592494081294">
         <mark key="[" line="25" column="46" />
