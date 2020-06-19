@@ -112,12 +112,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/styles.xml" timestamp="1592484457590" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/epoxy_model_tracker_cell.xml" timestamp="1592488308410">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="72" column="14" />
         <mark key="." line="72" column="13" />
         <mark key="^" line="72" column="14" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/view_two_txt.xml" timestamp="1592549592403">
+        <mark key="[" line="13" column="53" />
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="17" column="4" />
+        <mark key="." line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/styles.xml" timestamp="1592492468656">
         <mark key="[" line="76" column="28" />
@@ -137,17 +142,17 @@
         <mark key="^" line="39" column="33" />
         <mark key="." line="36" column="36" />
       </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/view/TwoTextVIew.kt" timestamp="1592549537855">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="48" />
+      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/view_title_subtitle_image_badge.xml" timestamp="1592494175140">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="26" column="44" />
         <mark key="." line="26" column="43" />
         <mark key="^" line="26" column="44" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/drawable/rounded_square.xml" timestamp="1592485112172">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="27" />
-        <mark key="^" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerModeFragment.kt" timestamp="1592494002363">
         <mark key="[" line="11" column="8" />
@@ -168,6 +173,9 @@
         <mark key="." line="60" column="68" />
         <mark key="^" line="60" column="69" />
       </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_tracker_status.xml" timestamp="1592549429693">
+        <mark key="[" line="5" column="5" />
+      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_info.xml" timestamp="1592485531406">
         <mark key="[" line="111" column="66" />
         <mark key="]" line="111" column="66" />
@@ -177,13 +185,8 @@
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/colors.xml" timestamp="1592485181789">
         <mark key="[" line="8" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592492923829">
+      <file name="/Dummy.txt" timestamp="1592549546151">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerInfoBottomSheetDialogFragment.kt" timestamp="1592484342380">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/view/TitleSubtitleImageView.kt" timestamp="1592487158296">
         <mark key="[" line="17" column="73" />
@@ -321,14 +324,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25DcmVhdGVWaWV3KGluZmxhdGVyLCBjb250YWluZXIsIHNhdmVkSW5zdGFuY2VTdGF0ZSkK</text>
+      <register name="&quot;" type="4">
+        <text>match_parent</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text>setup</text>
