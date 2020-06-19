@@ -130,12 +130,6 @@
         <mark key="^" line="25" column="40" />
         <mark key="." line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/view/TwoTextVIew.kt" timestamp="1592549537855">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="49" />
-        <mark key="^" line="7" column="49" />
-        <mark key="." line="7" column="48" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1592563718604">
         <mark key="[" line="392" column="83" />
         <mark key="]" line="135" column="0" />
@@ -206,6 +200,12 @@
         <mark key="]" line="34" column="46" />
         <mark key="^" line="34" column="46" />
         <mark key="." line="34" column="45" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerViewModel.kt" timestamp="1592567159719">
+        <mark key="[" line="47" column="61" />
+        <mark key="]" line="47" column="61" />
+        <mark key="^" line="47" column="61" />
+        <mark key="." line="47" column="60" />
       </file>
     </filemarks>
     <jumps>
