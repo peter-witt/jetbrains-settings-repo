@@ -172,8 +172,8 @@
         <mark key="^" line="21" column="43" />
         <mark key="." line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerAPI.kt" timestamp="1592827680944">
-        <mark key="[" line="26" column="47" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerAPI.kt" timestamp="1592833666023">
+        <mark key="[" line="56" column="25" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1592826528096">
         <mark key="[" line="57" column="22" />
@@ -187,10 +187,11 @@
         <mark key="^" line="22" column="8" />
         <mark key="." line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerService.kt" timestamp="1592833192363">
-        <mark key="[" line="33" column="44" />
-        <mark key="]" line="62" column="38" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerService.kt" timestamp="1592834993510">
+        <mark key="[" line="72" column="13" />
+        <mark key="]" line="72" column="13" />
+        <mark key="^" line="72" column="13" />
+        <mark key="." line="72" column="12" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1592826094010">
         <mark key="'" line="103" column="10" />
@@ -215,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
       <jump line="178" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
       <jump line="184" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
       <jump line="188" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
@@ -315,6 +315,7 @@
       <jump line="14" column="1" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/model/Position.kt" />
       <jump line="57" column="10" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" />
       <jump line="14" column="59" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerModeFragment.kt" />
+      <jump line="66" column="51" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerService.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,14 +323,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RhbmRhcmRNb2RlU3dpdGNoLnNldE9uQ2hlY2tlZENoYW5nZUxpc3RlbmVyIHsgYnV0dG9uVmlldywgaXNDaGVja2VkIC0+CiAgICAgICAgICAgIGxpZmVjeWNsZVNjb3BlLmxhdW5jaHsKICAgICAgICAgICAgICAgIGFwaVNlcnZpY2Uuc2V0VHJhY2tlck1vZGUoYXJncy50cmFja2VyLmlkLCBUcmFja2VyLlRyYWNrZXJNb2RlLlN0YW5kYXJkKS5vblJlc3VsdCB7CiAgICAgICAgICAgICAgICAgICAgbGlmZWN5Y2xlU2NvcGUubGF1bmNoIHsKICAgICAgICAgICAgICAgICAgICAgICAgYXBpU2VydmljZS5nZXRUcmFja2VyKGFyZ3MudHJhY2tlci5pZCkub25SZXN1bHQgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluZGluZy50cmFja2VyTW9kZSA9IGl0Lm1vZGUKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgYWxhcm1Nb2RlU3dpdGNoLnNldE9uQ2hlY2tlZENoYW5nZUxpc3RlbmVyIHsgYnV0dG9uVmlldywgaXNDaGVja2VkIC0+CgogICAgICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>trackerMode</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text>setup</text>
@@ -337,39 +338,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBnZW9mZW5jZUxhdGl0dWRlOiBEb3VibGU/ID0gbnVsbCwKICAgICAgICBnZW9mZW5jZUxvbmdpdHVkZTogRG91YmxlPyA9IG51bGwsCiAgICAgICAgZ2VvZmVuY2VSYWRpdXM6IERvdWJsZT8gPSBudWxsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">c3RhbmRhcmRNb2RlU3dpdGNoLnNldE9uQ2hlY2tlZENoYW5nZUxpc3RlbmVyIHsgYnV0dG9uVmlldywgaXNDaGVja2VkIC0+CiAgICAgICAgICAgIGxpZmVjeWNsZVNjb3BlLmxhdW5jaHsKICAgICAgICAgICAgICAgIGFwaVNlcnZpY2Uuc2V0VHJhY2tlck1vZGUoYXJncy50cmFja2VyLmlkLCBUcmFja2VyLlRyYWNrZXJNb2RlLlN0YW5kYXJkKS5vblJlc3VsdCB7CiAgICAgICAgICAgICAgICAgICAgbGlmZWN5Y2xlU2NvcGUubGF1bmNoIHsKICAgICAgICAgICAgICAgICAgICAgICAgYXBpU2VydmljZS5nZXRUcmFja2VyKGFyZ3MudHJhY2tlci5pZCkub25SZXN1bHQgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluZGluZy50cmFja2VyTW9kZSA9IGl0Lm1vZGUKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgYWxhcm1Nb2RlU3dpdGNoLnNldE9uQ2hlY2tlZENoYW5nZUxpc3RlbmVyIHsgYnV0dG9uVmlldywgaXNDaGVja2VkIC0+CgogICAgICAgIH0=</text>
-      </register>
-      <register name="2" type="4">
-        <text>lifecycleScope.launch {
-            apiService.getTracker(args.tracker.id).onResult {
-                binding.trackerMode = it.mode
-            }
-        }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFwaVNlcnZpY2UgYnkgaW5qZWN0PERhbnRyYWNrZXJTZXJ2aWNlPigpCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3TW9kZWxTY29wZS5sYXVuY2ggeyAgfQogICAgICAgICAgICAgICAgICAgIGFwaVNlcnZpY2UuZ2V0VHJhY2tlcih0cmFja2VyLmlkKQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50VHJhY2tlci5wb3N0VmFsdWUoYykK</text>
-      </register>
-      <register name="6" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhIGNsYXNzIFRyYWNrZXJNb2RlUmVxdWVzdCgKICAgICAgICAgICAgdmFsIG1vZGU6IFRyYWNrZXIuVHJhY2tlck1vZGUsCiAgICAgICAgICAgIHZhbCBnZW9mZW5jZUxhdGl0dWRlOiBEb3VibGU/LAogICAgICAgICAgICB2YWwgZ2VvZmVuY2VMb25naXR1ZGU6IERvdWJsZT8sCiAgICAgICAgICAgIHZhbCBnZW9mZW5jZVJhZGl1czogRG91YmxlPwogICAgICAgICkKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgYW55ID0gaWYgKG1vZGUgPT0gVHJhY2tlci5UcmFja2VyTW9kZS5HZW9GZW5jZSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1vZGUgPSBtb2RlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBvYmplY3Qgewo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgYXBpU2VydmljZS5nZXRUcmFja2VyKGFyZ3MudHJhY2tlci5pZCkub25SZXN1bHQgewogICAgICAgICAgICAgICAgICAgICAgICBiaW5kaW5nLnRyYWNrZXJNb2RlID0gaXQubW9kZQogICAgICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2tlck1vZGUgPSBhcmdzLnRyYWNrZXIubW9kZQo=</text>
+      <register name="8" type="4">
+        <text>{
+
+            }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiaW5kaW5nLnRyYWNrZXJNb2RlIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBtb2RlID0gbW9kZQogICAgICAgICAgICAgICAgdmFsIGdlb2ZlbmNlTGF0aXR1ZGUgPSBnZW9mZW5jZUxhdGl0dWRlCiAgICAgICAgICAgICAgICB2YWwgZ2VvZmVuY2VMb25naXR1ZGUgPSBnZW9mZW5jZUxvbmdpdHVkZQogICAgICAgICAgICAgICAgdmFsIGdlb2ZlbmNlUmFkaXVzID0gZ2VvZmVuY2VSYWRpdXM=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
