@@ -198,11 +198,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1592819640809">
-        <mark key="'" line="79" column="10" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1592820274783">
+        <mark key="'" line="93" column="10" />
+        <mark key="[" line="68" column="86" />
+        <mark key="]" line="70" column="54" />
+        <mark key="." line="70" column="53" />
+        <mark key="^" line="70" column="54" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerSettingsFragment.kt" timestamp="1592568851033">
         <mark key="[" line="15" column="44" />
@@ -319,14 +320,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isMyLocationEnabled</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>Taronga+Zoo,+Sydney+Australia</text>
+        <text>isMyLocationEnabled</text>
       </register>
       <register name="/" type="4">
         <text>setup</text>
