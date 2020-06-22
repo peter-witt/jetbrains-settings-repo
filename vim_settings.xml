@@ -122,9 +122,6 @@
         <mark key="." line="29" column="33" />
         <mark key="^" line="29" column="34" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/view/TitleSubtitleImageViewBadge.kt" timestamp="1592569708950">
-        <mark key="[" line="39" column="5" />
-      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/navigation/main_nav.xml" timestamp="1592815588836">
         <mark key="[" line="59" column="93" />
       </file>
@@ -140,6 +137,10 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/util/BindingAdapters.kt" timestamp="1592824527219">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="26" column="1" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_info.xml" timestamp="1592821912092">
         <mark key="[" line="94" column="39" />
@@ -314,8 +315,8 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>@android:color/white</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QEJpbmRpbmdBZGFwdGVyKCJyb3VuZCIsICJjaXJjdWxhciIsIHJlcXVpcmVBbGwgPSBmYWxzZSkKZnVuIHJvdW5kKHZpZXc6IFZpZXcsIGFtb3VudDogSW50PywgY2lyY3VsYXI6IEJvb2xlYW4/KSB7CiAgICBhbW91bnQ/LmxldCB7CiAgICAgICAgdmlldy5yb3VuZChpdC5kcCkKICAgIH0KICAgIGNpcmN1bGFyPy5sZXQgewogICAgICAgIHZpZXcucm91bmQoKQogICAgfQp9Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -327,7 +328,7 @@
         <text>setup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcC5tYXBUeXBlID0gR29vZ2xlTWFwLk1BUF9UWVBFX1NBVEVMTElURQogICAgICAgICAgICAgICAgbWFwTW9kZUJ1dHRvbi5zZXRJbWFnZVJlc291cmNlKFIuZHJhd2FibGUuaWNfbWFwKQo=</text>
+        <text encoding="base64">QEJpbmRpbmdBZGFwdGVyKCJyb3VuZCIsICJjaXJjdWxhciIsIHJlcXVpcmVBbGwgPSBmYWxzZSkKZnVuIHJvdW5kKHZpZXc6IFZpZXcsIGFtb3VudDogSW50PywgY2lyY3VsYXI6IEJvb2xlYW4/KSB7CiAgICBhbW91bnQ/LmxldCB7CiAgICAgICAgdmlldy5yb3VuZChpdC5kcCkKICAgIH0KICAgIGNpcmN1bGFyPy5sZXQgewogICAgICAgIHZpZXcucm91bmQoKQogICAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci93aGl0ZSIK</text>
