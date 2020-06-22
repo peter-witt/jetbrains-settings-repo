@@ -112,7 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/AndroidManifest.xml" timestamp="1592811187302" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1592563477770">
         <mark key="[" line="151" column="20" />
         <mark key="]" line="158" column="31" />
@@ -172,7 +171,6 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/AndroidManifest.xml" timestamp="1592810449623" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfilePresenter.java" timestamp="1592563737376">
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
@@ -205,10 +203,11 @@
         <mark key="." line="28" column="42" />
         <mark key="^" line="28" column="43" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1592569827937">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1592813079768">
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="48" column="34" />
+        <mark key="^" line="48" column="34" />
+        <mark key="." line="48" column="33" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerSettingsFragment.kt" timestamp="1592568851033">
         <mark key="[" line="15" column="44" />
