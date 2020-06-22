@@ -112,6 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/AndroidManifest.xml" timestamp="1592811187302" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1592563477770">
         <mark key="[" line="151" column="20" />
         <mark key="]" line="158" column="31" />
@@ -183,11 +184,11 @@
         <mark key="^" line="21" column="14" />
         <mark key="." line="21" column="13" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/login/SignUpDialogFragment.kt" timestamp="1592562934502">
-        <mark key="[" line="62" column="33" />
-        <mark key="]" line="62" column="33" />
-        <mark key="." line="62" column="32" />
-        <mark key="^" line="62" column="33" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/strings.xml" timestamp="1592811253439">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="45" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="13" column="45" />
       </file>
       <file name="$USER_HOME$/Makeable/ftz-android/app/build.gradle" timestamp="1592566160172">
         <mark key="[" line="34" column="26" />
