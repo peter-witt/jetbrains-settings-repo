@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>val th</entry>
         <entry>config.c</entry>
         <entry>config.</entry>
         <entry>Config</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
         <entry encoding="base64">XDw+XD4=</entry>
         <entry>setup</entry>
+        <entry encoding="base64">XDxpdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist extract</entry>
@@ -171,20 +171,19 @@
         <mark key="." line="70" column="16" />
         <mark key="^" line="70" column="17" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogListFragment.kt" timestamp="1592920854835">
-        <mark key="[" line="36" column="41" />
-        <mark key="]" line="31" column="5" />
-        <mark key="." line="31" column="4" />
-        <mark key="^" line="31" column="5" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogListFragment.kt" timestamp="1592925156240">
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="48" column="24" />
+        <mark key="^" line="52" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1592924236636">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/epoxy_moel_log_cell.xml" timestamp="1592924519172">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="33" column="34" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/epoxy_moel_log_cell.xml" timestamp="1592924576202">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/epoxy_model_log_header.xml" timestamp="1592924323899">
         <mark key="[" line="14" column="0" />
@@ -224,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
       <jump line="218" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
       <jump line="222" column="37" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
       <jump line="228" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/nav_bar_general.xml" />
@@ -324,6 +322,7 @@
       <jump line="54" column="21" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" />
       <jump line="56" column="54" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" />
       <jump line="16" column="0" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_tracker_log.xml" />
+      <jump line="35" column="20" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogListFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,49 +331,49 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYoaXQpCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>firstText</text>
+        <text>it</text>
       </register>
       <register name="/" type="4">
-        <text>setup</text>
+        <text encoding="base64">XDxpdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90ZXh0MSIK</text>
+      <register name="0" type="4">
+        <text>it.dateTime.toString(&quot;dd/mm/yyyy&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYoaXQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpc3RUZXh0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5kYXRlVGltZS50b1N0cmluZygiZGQvbW0veXl5eSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSIxNmRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoZWxlbWVudCBpbiBncm91cHMpewogICAgICAgICAgICAgICAgICAgIGVsZW1lbnQKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpkcmF3YWJsZVBhZGRpbmc9IjhkcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEuZm9yRWFjaCB7IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29sb3JQcmltYXJ5MTAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmRyYXdhYmxlU3RhcnQ9IkBkcmF3YWJsZS9pY19sb2dfZGF0ZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50SG9yaXpvbnRhbF9iaWFzPSIwIgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmRyYXdhYmxlVGludD0iQGNvbG9yL2NvbG9yUHJpbWFyeSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9FbmRPZj0iQGlkL3RleHQxIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CjwvbGF5b3V0Pg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50SG9yaXpvbnRhbF9iaWFzPSIxIgo=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
@@ -383,12 +382,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>setup</last-search>
+      <last-search encoding="base64">XDxpdFw+</last-search>
       <last-offset />
-      <last-pattern>setup</last-pattern>
+      <last-pattern encoding="base64">XDxpdFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxEaWFsb2dGcmFnbWVuy5x0U2V0QWdlXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
