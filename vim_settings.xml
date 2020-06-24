@@ -135,11 +135,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogFilterBottomSheetDialogFragment.kt" timestamp="1593007714983">
-        <mark key="[" line="55" column="30" />
-        <mark key="]" line="55" column="30" />
-        <mark key="." line="55" column="30" />
-        <mark key="^" line="55" column="36" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogFilterBottomSheetDialogFragment.kt" timestamp="1593008746756">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="44" column="31" />
+        <mark key="." line="44" column="30" />
+        <mark key="^" line="44" column="31" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/menu/geofence_menu.xml" timestamp="1593006331405">
         <mark key="[" line="6" column="25" />
@@ -176,11 +176,11 @@
       <file name="/Dummy.txt" timestamp="1593004633467">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_log_filter.xml" timestamp="1593007752961">
-        <mark key="[" line="65" column="68" />
-        <mark key="]" line="40" column="65" />
-        <mark key="." line="40" column="64" />
-        <mark key="^" line="40" column="65" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_log_filter.xml" timestamp="1593007782206">
+        <mark key="[" line="69" column="41" />
+        <mark key="]" line="70" column="45" />
+        <mark key="." line="70" column="44" />
+        <mark key="^" line="70" column="45" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerViewModel.kt" timestamp="1593003695799">
         <mark key="[" line="55" column="0" />
@@ -323,49 +323,51 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6ZW5hYmxlZD0iZmFsc2UiCg==</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>startDateText</text>
+        <text>newDate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBzdGFydERhdGU6IERhdGVUaW1lPyA9IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRhdGUgPSB2aWV3TW9kZWwuc3RhcnREYXRlID86IERhdGVUaW1lLm5vdygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6ZW5hYmxlZD0iZmFsc2UiCg==</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6ZW5hYmxlZD0iZmFsc2UiCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RhcnREYXRlID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6Zm9jdXNhYmxlPSJmYWxzZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6Zm9jdXNhYmxlPSJmYWxzZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb3JlZ3JvdW5kPSI/YXR0ci9zZWxlY3RhYmxlSXRlbUJhY2tncm91bmQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3TW9kZWwuZW5kRGF0ZSA9IG5ld0RhdGUKICAgICAgICAgICAgICAgICAgICB2aWV3TW9kZWwuZW5kRGF0ZVRFeHQucG9zdFZhbHVlKG5ld0RhdGUudG9TdHJpbmcoImRkL01NL3l5eXkiKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb3JlZ3JvdW5kPSI/YXR0ci9zZWxlY3RhYmxlSXRlbUJhY2tncm91bmQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3TW9kZWwuZW5kRGF0ZSA9IG5ld0RhdGUKICAgICAgICAgICAgICAgICAgICB2aWV3TW9kZWwuZW5kRGF0ZVRFeHQucG9zdFZhbHVlKG5ld0RhdGUudG9TdHJpbmcoImRkL01NL3l5eXkiKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6ZWRpdGFibGU9ImZhbHNlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3TW9kZWwuc3RhcnREYXRlID0gbmV3RGF0ZQogICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5zdGFydERhdGVUZXh0LnBvc3RWYWx1ZShuZXdEYXRlLnRvU3RyaW5nKCJkZC9NTS95eXl5IikpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6ZWRpdGFibGU9ImZhbHNlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRhdGUgPSB2aWV3TW9kZWwuZW5kRGF0ZSA/OiBEYXRlVGltZS5ub3coKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlCg==</text>
+      <register name="9" type="8">
+        <text>da
+da
+da</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
