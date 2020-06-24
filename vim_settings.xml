@@ -112,20 +112,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogMapFragment.kt" timestamp="1592990541054">
-        <mark key="[" line="49" column="55" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="124" column="26" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogMapFragment.kt" timestamp="1592991422719">
+        <mark key="[" line="115" column="73" />
+        <mark key="]" line="56" column="61" />
+        <mark key="^" line="56" column="61" />
+        <mark key="." line="56" column="60" />
       </file>
       <file name="/a.dummy" timestamp="1592984884257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogFragment.kt" timestamp="1592985235272">
-        <mark key="[" line="26" column="54" />
-        <mark key="]" line="28" column="7" />
-        <mark key="." line="28" column="6" />
-        <mark key="^" line="28" column="7" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogFragment.kt" timestamp="1592991032941">
+        <mark key="[" line="28" column="60" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="16" />
+        <mark key="^" line="28" column="17" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/trackerMode/TrackerGeofenceFragment.kt" timestamp="1592987732509" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogListFragment.kt" timestamp="1592985008784">
@@ -141,10 +141,11 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/FragmentPagerAdapter.kt" timestamp="1592985176611">
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="11" column="42" />
-        <mark key="." line="11" column="42" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/FragmentPagerAdapter.kt" timestamp="1592990978320">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="40" />
+        <mark key="^" line="6" column="41" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_tracker_log_map.xml" timestamp="1592984420897">
         <mark key="[" line="4" column="5" />
@@ -190,14 +191,8 @@
         <mark key="." line="49" column="75" />
         <mark key="^" line="49" column="89" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_tracker_log.xml" timestamp="1592920498796">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="15" column="41" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sharewire/google-maps-clustering/0.1.3/c8f2255fcec6be40536d27d3f7d0779a8b023060/google-maps-clustering-0.1.3-sources.jar!/net/sharewire/googlemapsclustering/DefaultIconGenerator.java" timestamp="1592989434227" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/androidx/viewpager2/adapter/FragmentStateAdapter.java" timestamp="1592991003949" />
       <file name="/fragment.java" timestamp="1592984884266">
         <mark key="[" line="0" column="0" />
       </file>
@@ -311,14 +306,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2x1c3Rlck1hbmFnZXIuc2V0SWNvbkdlbmVyYXRvcihQb3NpdGlvbkl0ZW1JY29uR2VuZXJhdG9yKHJlcXVpcmVDb250ZXh0KCkpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>moveCamera</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>TODO(&quot;Not yet implemented&quot;)</text>
+        <text>moveCamera</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdFw+</text>
