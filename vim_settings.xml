@@ -171,7 +171,7 @@
         <mark key="." line="36" column="33" />
         <mark key="^" line="36" column="34" />
       </file>
-      <file name="/fragment.kt" timestamp="1593079404509">
+      <file name="/fragment.kt" timestamp="1593083211551">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1593082513347">
@@ -186,8 +186,8 @@
         <mark key="." line="9" column="99" />
         <mark key="^" line="9" column="100" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerService.kt" timestamp="1593064592107">
-        <mark key="[" line="33" column="71" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerService.kt" timestamp="1593083645520">
+        <mark key="[" line="33" column="61" />
         <mark key="]" line="32" column="70" />
         <mark key="^" line="32" column="70" />
         <mark key="." line="32" column="69" />
@@ -197,12 +197,12 @@
         <mark key="[" line="127" column="28" />
         <mark key="." line="127" column="105" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogViewModel.kt" timestamp="1593065541256">
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogViewModel.kt" timestamp="1593083383754">
         <mark key="'" line="33" column="16" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="3" />
-        <mark key="^" line="33" column="4" />
+        <mark key="[" line="62" column="26" />
+        <mark key="]" line="62" column="26" />
+        <mark key="." line="62" column="26" />
+        <mark key="^" line="52" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -313,14 +313,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>id.toString()</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>until</text>
+        <text>id.toString()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
