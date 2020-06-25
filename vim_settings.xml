@@ -152,11 +152,10 @@
         <mark key="^" line="116" column="54" />
         <mark key="." line="116" column="53" />
       </file>
-      <file name="$USER_HOME$/Makeable/ftz-android/app/src/main/java/dk/makeable/ftz/ui/fragments/academy/AcademyWebViewFragment.kt" timestamp="1593072991241">
-        <mark key="[" line="102" column="41" />
-        <mark key="]" line="102" column="41" />
-        <mark key="." line="102" column="40" />
-        <mark key="^" line="102" column="41" />
+      <file name="$USER_HOME$/Makeable/ftz-android/app/src/main/java/dk/makeable/ftz/ui/fragments/academy/AcademyWebViewFragment.kt" timestamp="1593078644182">
+        <mark key="[" line="95" column="29" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_info.xml" timestamp="1593005699509">
         <mark key="'" line="159" column="89" />
@@ -168,7 +167,7 @@
       <file name="/Dummy.txt" timestamp="1593004633467">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1593072720063">
+      <file name="/fragment.kt" timestamp="1593078499956">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_log_filter.xml" timestamp="1593064231875">
@@ -313,13 +312,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXM/LnB1dEV4dHJhKEludGVudC5FWFRSQV9NSU1FX1RZUEVTLCBmaWxlQ2hvb3NlclBhcmFtcz8uYWNjZXB0VHlwZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGVDaG9vc2VyUGFyYW1zPy5jcmVhdGVJbnRlbnQoKS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzPy5zZXRUeXBlKCIqLyoiKQogICAgICAgICAgICAgICAgICAgICAgICB9LCAiVmVkaMOmZnQgZmlsIiksCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>3824</text>
+        <text>startActivity</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -328,22 +327,24 @@
         <text encoding="base64">ICAgICAgICAgICAgc2hvd0RhdGVQaWNrZXJEaWFsb2codmlld01vZGVsLnN0YXJ0RGF0ZS52YWx1ZSA/OiBEYXRlVGltZS5ub3coKSkgewogICAgICAgICAgICAgICAgdmlld01vZGVsLnN0YXJ0RGF0ZS52YWx1ZSA9IGl0CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXM/LnB1dEV4dHJhKEludGVudC5FWFRSQV9NSU1FX1RZUEVTLCBmaWxlQ2hvb3NlclBhcmFtcz8uYWNjZXB0VHlwZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGVDaG9vc2VyUGFyYW1zPy5jcmVhdGVJbnRlbnQoKS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzPy5zZXRUeXBlKCIqLyoiKQogICAgICAgICAgICAgICAgICAgICAgICB9LCAiVmVkaMOmZnQgZmlsIiksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldFR5cGUoOykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlQ2hvb3NlckNhbGxiYWNrID0gZmlsZVBhdGhDYWxsYmFjawogICAgICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5Rm9yUmVzdWx0KGZpbGVDaG9vc2VyUGFyYW1zLmNyZWF0ZUludGVudCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRklMRV9DSE9PU0VSX0NPREUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobmV3UHJvZ3Jlc3MgPT0gMTAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG1CYXIuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpCiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgbUJhci5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSkKICAgICAgICAgICAgICAgICAgICAgICAgbUJhci5zZXRQcm9ncmVzcyhuZXdQcm9ncmVzcykKICAgICAgICAgICAgICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnRlbnQuY3JlYXRlQ2hvb3NlcihmaWxlQ2hvb3NlclBhcmFtcz8uY3JlYXRlSW50ZW50KCkuYXBwbHkgewogICAgICAgICAgICAgICAgICAgICAgICB0aGlzPy5zZXRUeXBlKCIqLyoiKQogICAgICAgICAgICAgICAgICAgIH0sICJWZWRow6ZmdCBmaWwiKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcGVuSW1hZ2VDaG9vc2VyQWN0aXZpdHkoKQo=</text>
+      <register name="5" type="4">
+        <text>fileChooserParams?.createIntent().apply {
+                            this?.setType(&quot;*/*&quot;)
+                        }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cGxvYWRNZXNzYWdlID0gZmlsZVBhdGhDYWxsYmFjawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -352,10 +353,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vRm9yIEFuZHJpZCBBUEkgPj0gMjEgKDUuMCBPUykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvblByb2dyZXNzQ2hhbmdlZCh2aWV3OiBXZWJWaWV3PywgbmV3UHJvZ3Jlc3M6IEludCkgewogICAgICAgICAgICAgICAgICAgIHN1cGVyLm9uUHJvZ3Jlc3NDaGFuZ2VkKHZpZXcsIG5ld1Byb2dyZXNzKQogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAvL0ZvciBBbmRyb2lkIEFQSSA8IDExICgzLjAgT1MpCiAgICAgICAgICAgICAgICBmdW4gb3BlbkZpbGVDaG9vc2VyKHZhbHVlQ2FsbGJhY2s6IFZhbHVlQ2FsbGJhY2s8VXJpPz4pIHsKICAgICAgICAgICAgICAgICAgICB1cGxvYWRNZXNzYWdlID0gdmFsdWVDYWxsYmFjawogICAgICAgICAgICAgICAgICAgIG9wZW5JbWFnZUNob29zZXJBY3Rpdml0eSgpCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgLy9Gb3IgQW5kcm9pZCBBUEkgPj0gMTEgKDMuMCBPUykKICAgICAgICAgICAgICAgIGZ1biBvcGVuRmlsZUNob29zZXIoCiAgICAgICAgICAgICAgICAgICAgdmFsdWVDYWxsYmFjazogVmFsdWVDYWxsYmFjazxVcmk/PiwKICAgICAgICAgICAgICAgICAgICBhY2NlcHRUeXBlOiBTdHJpbmc/LAogICAgICAgICAgICAgICAgICAgIGNhcHR1cmU6IFN0cmluZz8KICAgICAgICAgICAgICAgICkgewogICAgICAgICAgICAgICAgICAgIHVwbG9hZE1lc3NhZ2UgPSB2YWx1ZUNhbGxiYWNrCiAgICAgICAgICAgICAgICAgICAgb3BlbkltYWdlQ2hvb3NlckFjdGl2aXR5KCkKICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXM/LnB1dEV4dHJhKEludGVudC5FWFRSQV9NSU1FX1RZUEVTLCBmaWxlQ2hvb3NlclBhcmFtcz8uYWNjZXB0VHlwZXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
