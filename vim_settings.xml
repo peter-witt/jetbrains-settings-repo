@@ -112,8 +112,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/ftz-android/app/src/main/java/dk/makeable/ftz/ui/fragments/academy/AcademyWebViewClient.kt" timestamp="1593070575260">
-        <mark key="[" line="11" column="27" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/TestViewModel.kt" timestamp="1593092820669">
+        <mark key="[" line="118" column="21" />
+      </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/xml-land/fragment_select_images_scene.xml" timestamp="1593092422273">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="38" column="21" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/navigation/main_nav.xml" timestamp="1593086257940">
         <mark key="[" line="131" column="0" />
@@ -125,27 +130,11 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/trackerMode/TrackerGeofenceFragment.kt" timestamp="1593081245396">
-        <mark key="[" line="58" column="45" />
-        <mark key="]" line="58" column="45" />
-        <mark key="^" line="58" column="45" />
-        <mark key="." line="58" column="44" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ftz-android/app/src/main/java/dk/makeable/ftz/ui/fragments/academy/AcademyWebViewFragment.kt" timestamp="1593079715590">
-        <mark key="[" line="119" column="53" />
-        <mark key="]" line="119" column="25" />
-        <mark key="." line="119" column="24" />
-        <mark key="^" line="119" column="25" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_log_in.xml" timestamp="1593084761166">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="112" column="22" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ftz-android/app/build.gradle" timestamp="1593079907626">
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="36" column="34" />
-        <mark key="." line="36" column="33" />
-        <mark key="^" line="36" column="34" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/xml/fragment_select_images_scene.xml" timestamp="1593092416563">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="38" column="21" />
+        <mark key="^" line="83" column="39" />
+        <mark key="." line="83" column="38" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" timestamp="1593088761864">
         <mark key="'" line="98" column="4" />
@@ -163,9 +152,6 @@
       <file name="/Dummy.txt" timestamp="1593085781497">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1593083211551">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerAPI.kt" timestamp="1593088306175">
         <mark key="[" line="45" column="50" />
         <mark key="]" line="45" column="50" />
@@ -178,22 +164,38 @@
         <mark key="^" line="22" column="40" />
         <mark key="." line="22" column="39" />
       </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_random_images.xml" timestamp="1593092696571">
+        <mark key="[" line="52" column="30" />
+        <mark key="]" line="52" column="30" />
+        <mark key="." line="52" column="30" />
+        <mark key="^" line="52" column="33" />
+      </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/MainActivity.kt" timestamp="1593093060484">
+        <mark key="[" line="63" column="17" />
+        <mark key="]" line="58" column="47" />
+        <mark key="^" line="58" column="47" />
+        <mark key="." line="58" column="46" />
+      </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/xml/fragment_random_images_scene.xml" timestamp="1593092637471">
+        <mark key="[" line="61" column="34" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/notifications/TrackerNotificationsPage.kt" timestamp="1593088830116">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="44" />
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1593082513347">
-        <mark key="'" line="32" column="4" />
-        <mark key="[" line="28" column="20" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_select_images.xml" timestamp="1593092166636">
+        <mark key="[" line="120" column="8" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="120" column="43" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_log_filter.xml" timestamp="1593084782486">
-        <mark key="'" line="118" column="0" />
-        <mark key="[" line="96" column="42" />
-        <mark key="m" line="53" column="8" />
-        <mark key="]" line="105" column="38" />
-        <mark key="." line="105" column="38" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/xml-land/fragment_random_images_scene.xml" timestamp="1593092774134">
+        <mark key="[" line="70" column="34" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerService.kt" timestamp="1593084967824">
         <mark key="[" line="33" column="72" />
@@ -213,6 +215,11 @@
         <mark key="]" line="58" column="83" />
         <mark key="." line="58" column="82" />
         <mark key="^" line="58" column="83" />
+      </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/values/strings.xml" timestamp="1593092459475">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -324,46 +331,46 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>subscriptionStartDate</text>
+        <text>100dp</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>subscriptionStartDate</text>
+        <text>100dp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWNvbmRUZXh0KERhdGVUaW1lLnBhcnNlKGl0LnN1YnNjcmlwdGlvblN0YXJ0RGF0ZSkudG9TdHJpbmcoImRkL01NL3l5eSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPgogICAgICAgICAgICA8Q3VzdG9tQXR0cmlidXRlCiAgICAgICAgICAgICAgICBhcHA6YXR0cmlidXRlTmFtZT0iYWxwaGEiCiAgICAgICAgICAgICAgICBhcHA6Y3VzdG9tRmxvYXRWYWx1ZT0iMCIKICAgICAgICAgICAgICAgIC8+CiAgICAgICAgPC9Db25zdHJhaW50Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWNvbmRUZXh0KGl0LnN1YnNjcmlwdGlvbkVuZERhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWFnZShSLmRyYXdhYmxlLmljX3N1YnNjcmlwdGlvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25BY3Rpdml0eUNyZWF0ZWQoc2F2ZWRJbnN0YW5jZVN0YXRlOiBCdW5kbGU/KSB7CiAgICAgICAgc3VwZXIub25BY3Rpdml0eUNyZWF0ZWQoc2F2ZWRJbnN0YW5jZVN0YXRlKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3RleHRfdGl0bGUiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlcG94eVN3aXBlUmVmcmVzaC5lbmFkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWNvbmRUZXh0KGl0LnN1YnNjcmlwdGlvbkVuZERhdGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWFnZShSLmRyYXdhYmxlLmljX3N1YnNjcmlwdGlvbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25BY3Rpdml0eUNyZWF0ZWQoc2F2ZWRJbnN0YW5jZVN0YXRlOiBCdW5kbGU/KSB7CiAgICAgICAgc3VwZXIub25BY3Rpdml0eUNyZWF0ZWQoc2F2ZWRJbnN0YW5jZVN0YXRlKQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcG94eVN3aXBlUmVmcmVzaC5lbmFkZAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
