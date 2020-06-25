@@ -115,6 +115,8 @@
       <file name="/Dummy.txt" timestamp="1593004633467">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/getterProfiles/GetterProfileResource.java" timestamp="1593068677493" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/GetterApiService.java" timestamp="1593068697409" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogMapFragment.kt" timestamp="1593065054748">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="58" column="21" />
@@ -155,12 +157,6 @@
         <mark key="^" line="116" column="54" />
         <mark key="." line="116" column="53" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/epoxy_model_log_cell.xml" timestamp="1593001328508">
-        <mark key="[" line="29" column="59" />
-        <mark key="]" line="29" column="58" />
-        <mark key="^" line="29" column="58" />
-        <mark key="." line="29" column="57" />
-      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_log_filter.xml" timestamp="1593064231875">
         <mark key="'" line="92" column="0" />
         <mark key="[" line="9" column="18" />
@@ -199,11 +195,6 @@
         <mark key="]" line="32" column="70" />
         <mark key="^" line="32" column="70" />
         <mark key="." line="32" column="69" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/trackerMode/TrackerModeViewModel.kt" timestamp="1593003452497">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1593066256872">
         <mark key="'" line="46" column="28" />
