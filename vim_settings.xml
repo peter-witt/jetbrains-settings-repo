@@ -127,11 +127,11 @@
       <file name="/fragment.kt" timestamp="1593083211551">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/epoxy_model_log_header.xml" timestamp="1593086549850">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="31" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="22" column="31" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/epoxy_model_log_header.xml" timestamp="1593087386519">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="40" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="22" column="39" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/navigation/main_nav.xml" timestamp="1593086257940">
         <mark key="[" line="131" column="0" />
@@ -176,11 +176,12 @@
         <mark key="." line="36" column="33" />
         <mark key="^" line="36" column="34" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" timestamp="1593087007401">
-        <mark key="[" line="89" column="34" />
-        <mark key="]" line="89" column="49" />
-        <mark key="." line="89" column="48" />
-        <mark key="^" line="89" column="49" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" timestamp="1593087626349">
+        <mark key="'" line="60" column="49" />
+        <mark key="[" line="61" column="64" />
+        <mark key="]" line="61" column="93" />
+        <mark key="." line="61" column="92" />
+        <mark key="^" line="61" column="93" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerService.kt" timestamp="1593084967824">
         <mark key="[" line="33" column="72" />
@@ -199,16 +200,15 @@
         <mark key="^" line="38" column="21" />
         <mark key="." line="38" column="20" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogViewModel.kt" timestamp="1593083383754">
-        <mark key="'" line="33" column="16" />
-        <mark key="[" line="62" column="26" />
-        <mark key="]" line="62" column="26" />
-        <mark key="." line="62" column="26" />
-        <mark key="^" line="52" column="12" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogViewModel.kt" timestamp="1593087316386">
+        <mark key="'" line="32" column="16" />
+        <mark key="[" line="58" column="78" />
+        <mark key="]" line="58" column="83" />
+        <mark key="." line="58" column="82" />
+        <mark key="^" line="58" column="83" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="8" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" />
       <jump line="107" column="8" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
       <jump line="148" column="48" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
       <jump line="217" column="8" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
@@ -308,6 +308,7 @@
       <jump line="44" column="48" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogViewModel.kt" />
       <jump line="44" column="23" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogFilterBottomSheetDialogFragment.kt" />
       <jump line="32" column="4" filename="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" />
+      <jump line="60" column="49" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,51 +317,49 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>subscriptionStartDate</text>
+        <text>ic_status</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>subscriptionStartDate</text>
+        <text>ic_status</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ0NlbGwgewogICAgICAgICAgICAgICAgICAgIGlkKGl0LnNlcmlhbE51bWJlcikKICAgICAgICAgICAgICAgICAgICBmaXJzdFRleHQoIlN1YnNjcmlwdGlvbiBzdGFydGVkIikKICAgICAgICAgICAgICAgICAgICBzZWNvbmRUZXh0KGl0LnN1YnNjcmlwdGlvblN0YXJ0RGF0ZSkKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBzZXBhcmF0b3IgeyBpZChpdC5pZCArIDEpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWFnZShnZXQ8QXBwbGljYXRpb24+KCkuZ2V0RHJhd2FibGUoUi5kcmF3YWJsZS5pY19zdGF0dXMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWFnZShSLmRyYXdhYmxlLmljX3N1YnNjcmlwdGlvbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25BY3Rpdml0eUNyZWF0ZWQoc2F2ZWRJbnN0YW5jZVN0YXRlOiBCdW5kbGU/KSB7CiAgICAgICAgc3VwZXIub25BY3Rpdml0eUNyZWF0ZWQoc2F2ZWRJbnN0YW5jZVN0YXRlKQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcG94eVN3aXBlUmVmcmVzaC5lbmFkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcGFyYXRvciB7IGlkKGl0LmlkICsgMSkgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcGFyYXRvciB7IGlkKGl0LmlkICsgMSkgfQoKICAgICAgICAgICAgICAgIGxvZ0NlbGwgewogICAgICAgICAgICAgICAgICAgIGlkKGl0LnNlcmlhbE51bWJlcikKICAgICAgICAgICAgICAgICAgICBmaXJzdFRleHQoIlMvTiIpCiAgICAgICAgICAgICAgICAgICAgc2Vjb25kVGV4dChpdC5zZXJpYWxOdW1iZXIpCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgc2VwYXJhdG9yIHsgaWQoaXQuaWQgKyAxKSB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXQ9InN0YXQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>{
-            
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0KCkgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcGFyYXRvciB7IGlkKGl0LmlkICsgMSkgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
