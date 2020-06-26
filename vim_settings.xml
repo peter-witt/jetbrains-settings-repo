@@ -333,49 +333,49 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKQogICAgICAgICAgICAgICAgKG5vdGlmaWNhdGlvbi5jYXRlZ29yeS5uYW1lKQo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>Start forfra</text>
+        <text>toast</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgbmF2Q29udHJvbGxlciA9IGZpbmROYXZDb250cm9sbGVyKFIuaWQuY29udGFpbmVyKQogICAgICAgICAgICAgICAgICAgIG5hdkNvbnRyb2xsZXIucG9wQmFja1N0YWNrKG5hdkNvbnRyb2xsZXIuZ3JhcGguc3RhcnREZXN0aW5hdGlvbiwgZmFsc2UpCiAgICAgICAgICAgICAgICAgICAgdGVzdFZpZXdNb2RlbC5yZXNldFRlc3QodGhpcykK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iT05CT0FSRElOR19ORVhUIj5Ow6ZzdGU8L3N0cmluZz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKQogICAgICAgICAgICAgICAgKG5vdGlmaWNhdGlvbi5jYXRlZ29yeS5uYW1lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5kTmF2Q29udHJvbGxlcihSLmlkLmNvbnRhaW5lcikuYXBwbHkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChub3RpZmljYXRpb24uY2F0ZWdvcnkubmFtZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcG9wQmFja1N0YWNrKCkKICAgICAgICAgICAgICAgICAgICAgICAgdGVzdFZpZXdNb2RlbC4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXROZXV0cmFsQnV0dG9uKCJBbm51bGxlciIsIG51bGwpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLz4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5kTmF2Q29udHJvbGxlcihSLmlkLmNvbnRhaW5lcikuYXBwbHkgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcG9wQmFja1N0YWNrKCkKICAgICAgICAgICAgICAgICAgICAgICAgdGVzdFZpZXdNb2RlbC4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3RleHRfdGl0bGUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXROZXV0cmFsQnV0dG9uKCJBbm51bGxlciIsIG51bGwpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWNvbmRUZXh0KGl0LnN1YnNjcmlwdGlvbkVuZERhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWFnZShSLmRyYXdhYmxlLmljX3N1YnNjcmlwdGlvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
