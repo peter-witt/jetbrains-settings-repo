@@ -146,12 +146,6 @@
         <mark key="[" line="216" column="14" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/graphics/Bitmap.java" timestamp="1593162618543" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/GetterNotificationExtenderService.kt" timestamp="1593160622252">
-        <mark key="[" line="36" column="46" />
-        <mark key="]" line="36" column="46" />
-        <mark key="^" line="36" column="46" />
-        <mark key="." line="36" column="45" />
-      </file>
       <file name="/Dummy.txt" timestamp="1593172313416">
         <mark key="[" line="0" column="0" />
       </file>
@@ -186,6 +180,7 @@
         <mark key="^" line="302" column="84" />
         <mark key="." line="302" column="82" />
       </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1593173521745" />
       <file name="$USER_HOME$/Makeable/App-Get-Android-Old/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593169021660">
         <mark key="[" line="215" column="61" />
         <mark key="]" line="215" column="61" />
