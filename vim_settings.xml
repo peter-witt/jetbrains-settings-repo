@@ -151,12 +151,6 @@
         <mark key="^" line="36" column="46" />
         <mark key="." line="36" column="45" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values-da/strings.xml" timestamp="1593155547967">
-        <mark key="[" line="365" column="30" />
-        <mark key="]" line="365" column="30" />
-        <mark key="^" line="370" column="50" />
-        <mark key="." line="365" column="30" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/utils/image/ImagePicker.java" timestamp="1593167696940" />
       <file name="/fragment.kt" timestamp="1593158656233">
         <mark key="[" line="0" column="0" />
@@ -181,6 +175,12 @@
         <mark key="." line="302" column="82" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/keystore.properties" timestamp="1593157751500" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android-Old/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593169021660">
+        <mark key="[" line="215" column="61" />
+        <mark key="]" line="215" column="61" />
+        <mark key="^" line="215" column="61" />
+        <mark key="." line="215" column="60" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/MainActivity.kt" timestamp="1593157010241">
         <mark key="[" line="253" column="0" />
         <mark key="]" line="253" column="0" />
