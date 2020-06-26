@@ -126,12 +126,6 @@
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileViewModel.java" timestamp="1593166948024">
         <mark key="[" line="51" column="5" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" timestamp="1593155498979">
-        <mark key="'" line="405" column="35" />
-        <mark key="[" line="405" column="0" />
-        <mark key="]" line="405" column="0" />
-        <mark key="." line="405" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/AndroidManifest.xml" timestamp="1593159994771">
         <mark key="[" line="29" column="39" />
       </file>
@@ -163,14 +157,15 @@
         <mark key="^" line="370" column="50" />
         <mark key="." line="365" column="30" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/utils/image/ImagePicker.java" timestamp="1593167696940" />
       <file name="/fragment.kt" timestamp="1593158656233">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593167127828">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="63" column="40" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593168708086">
+        <mark key="[" line="216" column="50" />
+        <mark key="]" line="216" column="48" />
+        <mark key="." line="216" column="47" />
+        <mark key="^" line="216" column="48" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/utils/PermissionUtil.java" timestamp="1593164256255">
         <mark key="[" line="11" column="55" />
@@ -191,9 +186,9 @@
         <mark key="]" line="253" column="0" />
         <mark key="." line="253" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentNewRequest.kt" timestamp="1593159753751">
-        <mark key="[" line="199" column="67" />
-        <mark key="]" line="199" column="67" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentNewRequest.kt" timestamp="1593168682433">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="185" column="9" />
         <mark key="^" line="199" column="67" />
         <mark key="." line="199" column="66" />
       </file>
@@ -312,47 +307,47 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Uri.parse(data.getDataString());</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>// formattedDate,</text>
+        <text>Uri.parse(data.getDataString());</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwgPSBWaWV3TW9kZWxQcm92aWRlcnMub2YodGhpcywgVmlld01vZGVsRmFjdG9yeS5nZXRJbnN0YW5jZSh0aGlzLmdldEFwcGxpY2F0aW9uKCkpKS5nZXQoVXNlclByb2ZpbGVWaWV3TW9kZWwuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVxdWVzdENvZGUgPT0gUEVSTUlTU0lPTl9SRVFVRVNUICYmIGdyYW50UmVzdWx0cy5hbGwgeyBpdCA9PSBQYWNrYWdlTWFuYWdlci5QRVJNSVNTSU9OX0dSQU5URUQgfSkgewogICAgICAgICAgICBvcGVuSW1hZ2VQaWNrZXIoKQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFVyaSBwaG90b1VyaSA9IEltYWdlUGlja2VyLmdldEltYWdlRnJvbVJlc3VsdCh0aGlzLCByZXN1bHRDb2RlLCBkYXRhKTsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHsKICAgICAgICA=</text>
+        <text encoding="base64">aWYgKHJlcXVlc3RDb2RlID09IFBFUk1JU1NJT05fUkVRVUVTVCAmJiBncmFudFJlc3VsdHMuYWxsIHsgaXQgPT0gUGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9HUkFOVEVEIH0pIHsKICAgICAgICAgICAgb3BlbkltYWdlUGlja2VyKCkKICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJbmZsYXRlIHRoZSBtZW51OyB0aGlzIGFkZHMgaXRlbXMgdG8gdGhlIGFjdGlvbiBiYXIgaWYgaXQgaXMgcHJlc2VudC4KCi8vICAgICAgICBnZXRNZW51SW5mbGF0ZXIoKS5pbmZsYXRlKFIubWVudS5tZW51X2NvbmZpcm0sIG1lbnUpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZW50IGNob29zZUltYWdlSW50ZW50ID0gSW1hZ2VQaWNrZXIuZ2V0UGlja0ltYWdlSW50ZW50KHRoaXMpOwogICAgICAgICAgICBjaG9vc2VJbWFnZUludGVudCA9IG5ldyBJbnRlbnQoSW50ZW50LkFDVElPTl9HRVRfQ09OVEVOVCk7CiAgICAgICAgICAgIGNob29zZUltYWdlSW50ZW50LnNldFR5cGUoImltYWdlLyoiKTsKICAgICAgICAgICAgc3RhcnRBY3Rpdml0eUZvclJlc3VsdChjaG9vc2VJbWFnZUludGVudCwgSW1hZ2VQaWNrZXIuUElDS19JTUFHRV9JRCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIGltYWdlNjQgPSBuZXcgU3RyaW5nQnVpbGRlcigiZGF0YTppbWFnZS9qcGVnO2Jhc2U2NCwiKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IHsKICAgICAgICA=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gYmFvcyA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsKICAgICAgICBibXAuY29tcHJlc3MoQml0bWFwLkNvbXByZXNzRm9ybWF0LlBORywgMTAwLCBiYW9zKTsKICAgICAgICBieXRlW10gaW1hZ2VCeXRlcyA9IGJhb3MudG9CeXRlQXJyYXkoKTsKICAgICAgICBpbWFnZTY0LmFwcGVuZChCYXNlNjQuZW5jb2RlVG9TdHJpbmcoaW1hZ2VCeXRlcywgQmFzZTY0LkRFRkFVTFQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
