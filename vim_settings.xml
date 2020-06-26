@@ -117,32 +117,33 @@
         <mark key="]" line="93" column="45" />
         <mark key="." line="93" column="45" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1593171842380">
+        <mark key="[" line="195" column="51" />
+        <mark key="]" line="195" column="50" />
+        <mark key="^" line="195" column="50" />
+        <mark key="." line="195" column="49" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/UserProfileActivity.kt" timestamp="1593166611677">
         <mark key="[" line="18" column="33" />
         <mark key="]" line="18" column="33" />
         <mark key="^" line="18" column="8" />
         <mark key="." line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileViewModel.java" timestamp="1593166948024">
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1593172571642">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="106" column="67" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileViewModel.java" timestamp="1593169477229">
         <mark key="[" line="51" column="5" />
+        <mark key="]" line="63" column="33" />
+        <mark key="^" line="63" column="33" />
+        <mark key="." line="63" column="32" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/AndroidManifest.xml" timestamp="1593159994771">
-        <mark key="[" line="29" column="39" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/nemid/NemIdActivity.java" timestamp="1593159038757">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/util/BindingAdapters.kt" timestamp="1593172558180">
+        <mark key="'" line="19" column="56" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/Offer.java" timestamp="1593160961239">
         <mark key="[" line="216" column="14" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/login/SignUpDialogFragment.kt" timestamp="1593157490883">
-        <mark key="c" line="30" column="73" />
-        <mark key="[" line="30" column="68" />
-        <mark key="]" line="30" column="68" />
-        <mark key="^" line="30" column="21" />
-        <mark key="." line="30" column="68" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/graphics/Bitmap.java" timestamp="1593162618543" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/notifications/GetterNotificationExtenderService.kt" timestamp="1593160622252">
@@ -151,15 +152,21 @@
         <mark key="^" line="36" column="46" />
         <mark key="." line="36" column="45" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/utils/image/ImagePicker.java" timestamp="1593167696940" />
-      <file name="/fragment.kt" timestamp="1593158656233">
+      <file name="/Dummy.txt" timestamp="1593172313416">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593168708086">
-        <mark key="[" line="216" column="50" />
-        <mark key="]" line="216" column="48" />
-        <mark key="." line="216" column="47" />
-        <mark key="^" line="216" column="48" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/utils/image/ImagePicker.java" timestamp="1593167696940" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593172584357">
+        <mark key="'" line="114" column="9" />
+        <mark key="[" line="268" column="54" />
+        <mark key="]" line="268" column="54" />
+        <mark key="." line="262" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentOfferDetail.kt" timestamp="1593172770377">
+        <mark key="[" line="91" column="73" />
+        <mark key="]" line="91" column="73" />
+        <mark key="^" line="91" column="74" />
+        <mark key="." line="91" column="73" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/utils/PermissionUtil.java" timestamp="1593164256255">
         <mark key="[" line="11" column="55" />
@@ -167,24 +174,29 @@
         <mark key="^" line="33" column="38" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1593160119637" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1593172598114">
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="0" />
+        <mark key="^" line="245" column="4" />
+        <mark key="." line="246" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/ServiceRequest.java" timestamp="1593160941023">
         <mark key="[" line="302" column="82" />
         <mark key="]" line="302" column="82" />
         <mark key="^" line="302" column="84" />
         <mark key="." line="302" column="82" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/keystore.properties" timestamp="1593157751500" />
       <file name="$USER_HOME$/Makeable/App-Get-Android-Old/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593169021660">
         <mark key="[" line="215" column="61" />
         <mark key="]" line="215" column="61" />
         <mark key="^" line="215" column="61" />
         <mark key="." line="215" column="60" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/MainActivity.kt" timestamp="1593157010241">
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/myRequests/FragmentServiceRequestDetail.kt" timestamp="1593172897448">
+        <mark key="[" line="93" column="73" />
+        <mark key="]" line="93" column="116" />
+        <mark key="^" line="93" column="116" />
+        <mark key="." line="93" column="115" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentNewRequest.kt" timestamp="1593168682433">
         <mark key="[" line="183" column="0" />
@@ -200,10 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="32" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
-      <jump line="124" column="50" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
-      <jump line="2" column="10" filename="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" />
-      <jump line="346" column="24" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
       <jump line="341" column="54" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
       <jump line="345" column="42" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
       <jump line="299" column="12" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/ServiceRequest.java" />
@@ -300,6 +308,10 @@
       <jump line="98" column="4" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" />
       <jump line="68" column="16" filename="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/MainActivity.kt" />
       <jump line="406" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" />
+      <jump line="101" column="49" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" />
+      <jump line="113" column="9" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/util/BindingAdapters.kt" />
+      <jump line="19" column="56" filename="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/util/BindingAdapters.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,40 +320,40 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Uri.parse(data.getDataString());</text>
+        <text>url</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>Uri.parse(data.getDataString());</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVxdWVzdENvZGUgPT0gUEVSTUlTU0lPTl9SRVFVRVNUICYmIGdyYW50UmVzdWx0cy5hbGwgeyBpdCA9PSBQYWNrYWdlTWFuYWdlci5QRVJNSVNTSU9OX0dSQU5URUQgfSkgewogICAgICAgICAgICBvcGVuSW1hZ2VQaWNrZXIoKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIExpYnJhcnkgZm9yIHZpZXdpbmcgaW1hZ2VzCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmdpdGh1Yi5zdGZhbGNvbjpzdGZhbGNvbi1pbWFnZXZpZXdlcjoxLjAuMScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFVyaSBwaG90b1VyaSA9IEltYWdlUGlja2VyLmdldEltYWdlRnJvbVJlc3VsdCh0aGlzLCByZXN1bHRDb2RlLCBkYXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">aWYgKHJlcXVlc3RDb2RlID09IFBFUk1JU1NJT05fUkVRVUVTVCAmJiBncmFudFJlc3VsdHMuYWxsIHsgaXQgPT0gUGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9HUkFOVEVEIH0pIHsKICAgICAgICAgICAgb3BlbkltYWdlUGlja2VyKCkKICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAuaW52YWxpZGF0ZShwcm9maWxlLmdldEF2YXRhckxhcmdlKCkpOwogICAgICAgIFBpY2Fzc28ud2l0aCh0aGlzKQogICAgICAgICAgICAgICAgLmludmFsaWRhdGUocHJvZmlsZS5nZXRBdmF0YXJNZWRpdW0oKSk7CiAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAuaW52YWxpZGF0ZShwcm9maWxlLmdldEF2YXRhclRodW1wKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZW50IGNob29zZUltYWdlSW50ZW50ID0gSW1hZ2VQaWNrZXIuZ2V0UGlja0ltYWdlSW50ZW50KHRoaXMpOwogICAgICAgICAgICBjaG9vc2VJbWFnZUludGVudCA9IG5ldyBJbnRlbnQoSW50ZW50LkFDVElPTl9HRVRfQ09OVEVOVCk7CiAgICAgICAgICAgIGNob29zZUltYWdlSW50ZW50LnNldFR5cGUoImltYWdlLyoiKTsKICAgICAgICAgICAgc3RhcnRBY3Rpdml0eUZvclJlc3VsdChjaG9vc2VJbWFnZUludGVudCwgSW1hZ2VQaWNrZXIuUElDS19JTUFHRV9JRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIEludGVudCBjaG9vc2VJbWFnZUludGVudCA9IEltYWdlUGlja2VyLmdldFBpY2tJbWFnZUludGVudCh0aGlzKTsKICAgICAgICAgICAgc3RhcnRBY3Rpdml0eUZvclJlc3VsdChjaG9vc2VJbWFnZUludGVudCwgSW1hZ2VQaWNrZXIuUElDS19JTUFHRV9JRCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBrIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHsKICAgICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
