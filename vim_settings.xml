@@ -112,13 +112,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/TestViewModel.kt" timestamp="1593092820669">
-        <mark key="[" line="118" column="21" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/myRequests/FragmentChatViewModel.kt" timestamp="1593161995373">
         <mark key="[" line="93" column="45" />
         <mark key="]" line="93" column="45" />
         <mark key="." line="93" column="45" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/UserProfileActivity.kt" timestamp="1593166064648">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="38" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" timestamp="1593155498979">
         <mark key="'" line="405" column="35" />
@@ -160,10 +163,17 @@
       <file name="/fragment.kt" timestamp="1593158656233">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593162223918">
-        <mark key="[" line="309" column="0" />
-        <mark key="]" line="309" column="0" />
-        <mark key="." line="309" column="0" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593165167388">
+        <mark key="[" line="63" column="40" />
+        <mark key="]" line="63" column="40" />
+        <mark key="." line="63" column="39" />
+        <mark key="^" line="63" column="40" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/utils/PermissionUtil.java" timestamp="1593164256255">
+        <mark key="[" line="11" column="55" />
+        <mark key="]" line="33" column="38" />
+        <mark key="^" line="33" column="38" />
+        <mark key="." line="33" column="37" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1593160119637" />
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/MainActivity.kt" timestamp="1593093529981">
@@ -180,11 +190,6 @@
         <mark key="." line="302" column="82" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/keystore.properties" timestamp="1593157751500" />
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/xml-land/fragment_random_images_scene.xml" timestamp="1593092774134">
-        <mark key="[" line="70" column="34" />
-        <mark key="]" line="9" column="34" />
-        <mark key="." line="9" column="34" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/MainActivity.kt" timestamp="1593157010241">
         <mark key="[" line="253" column="0" />
         <mark key="]" line="253" column="0" />
@@ -196,11 +201,11 @@
         <mark key="^" line="199" column="67" />
         <mark key="." line="199" column="66" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/utils/image/ImageHandler.java" timestamp="1593162690166">
-        <mark key="[" line="29" column="43" />
-        <mark key="]" line="29" column="43" />
-        <mark key="^" line="29" column="45" />
-        <mark key="." line="29" column="43" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/utils/image/ImageHandler.java" timestamp="1593163572393">
+        <mark key="[" line="43" column="46" />
+        <mark key="]" line="43" column="46" />
+        <mark key="." line="43" column="46" />
+        <mark key="^" line="43" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -311,14 +316,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>JPEG</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>JPEG</text>
+        <text>// formattedDate,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -330,31 +335,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5kKCJpbWFnZSBkYXRhOiAlcyIsIGRhdCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBJbmZsYXRlIHRoZSBtZW51OyB0aGlzIGFkZHMgaXRlbXMgdG8gdGhlIGFjdGlvbiBiYXIgaWYgaXQgaXMgcHJlc2VudC4KCi8vICAgICAgICBnZXRNZW51SW5mbGF0ZXIoKS5pbmZsYXRlKFIubWVudS5tZW51X2NvbmZpcm0sIG1lbnUpOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIGlmKEJ1aWxkQ29uZmlnLkRFQlVHKXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0UmVzdWx0KFJFU1VMVF9PSyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbmlzaCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIGltYWdlNjQgPSBuZXcgU3RyaW5nQnVpbGRlcigiZGF0YTppbWFnZS9qcGVnO2Jhc2U2NCwiKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKQogICAgICAgICAgICAgICAgKG5vdGlmaWNhdGlvbi5jYXRlZ29yeS5uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gYmFvcyA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsKICAgICAgICBibXAuY29tcHJlc3MoQml0bWFwLkNvbXByZXNzRm9ybWF0LlBORywgMTAwLCBiYW9zKTsKICAgICAgICBieXRlW10gaW1hZ2VCeXRlcyA9IGJhb3MudG9CeXRlQXJyYXkoKTsKICAgICAgICBpbWFnZTY0LmFwcGVuZChCYXNlNjQuZW5jb2RlVG9TdHJpbmcoaW1hZ2VCeXRlcywgQmFzZTY0LkRFRkFVTFQpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKQogICAgICAgICAgICAgICAgKG5vdGlmaWNhdGlvbi5jYXRlZ29yeS5uYW1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChub3RpZmljYXRpb24uY2F0ZWdvcnkubmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5kKCJpbWFnZSBkYXRhOiAlcyIsIGRhdCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIGlmKEJ1aWxkQ29uZmlnLkRFQlVHKXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0UmVzdWx0KFJFU1VMVF9PSyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbmlzaCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
