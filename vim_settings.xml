@@ -112,6 +112,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogMapFragment.kt" timestamp="1593418377481">
+        <mark key="[" line="140" column="13" />
+        <mark key="]" line="134" column="25" />
+        <mark key="." line="134" column="25" />
+        <mark key="^" line="134" column="29" />
+      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/navigation/main_nav.xml" timestamp="1593413180009">
         <mark key="[" line="141" column="38" />
       </file>
@@ -179,12 +185,6 @@
         <mark key="]" line="17" column="16" />
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="16" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/myRequests/FragmentServiceRequestDetail.kt" timestamp="1593173145768">
-        <mark key="[" line="98" column="14" />
-        <mark key="]" line="93" column="116" />
-        <mark key="^" line="93" column="116" />
-        <mark key="." line="93" column="115" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerService.kt" timestamp="1593174611310">
         <mark key="[" line="36" column="12" />
@@ -324,13 +324,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>tracker</text>
+        <text>textSize</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>tracker</text>
+        <text>textSize</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -339,35 +339,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQml0bWFwRGVzY3JpcHRvckZhY3RvcnkuZnJvbUJpdG1hcCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJpdG1hcC5jcmVhdGVTY2FsZWRCaXRtYXAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQml0bWFwRmFjdG9yeS5kZWNvZGVTdHJlYW0ocmVzb3VyY2VzLmFzc2V0cy5vcGVuKGl0LnRyYWNrZXIuaWNvbikpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDM2LmRwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDM2LmRwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZhbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzb3VyY2VzID0gY29udGV4dC5yZXNvdXJjZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJpdG1hcEZhY3RvcnkuZGVjb2RlU3RyZWFtKHJlc291cmNlcy5hc3NldHMub3BlbigiaWNfcGluLnBuZyIpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9hbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5Db25zdHJhaW50TGF5b3V0Pg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJpdG1hcC5jcmVhdGVTY2FsZWRCaXRtYXAoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJibGFjayR7aWYgKGluZGV4ICsgMSBpbiAxLi45KSAiMCIgZWxzZSAiIn0ke2luZGV4ICsgMX0ucG5nIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQml0bWFwLmNyZWF0ZUJpdG1hcCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJpdG1hcEZhY3RvcnkuZGVjb2RlU3RyZWFtKHJlc291cmNlcy5hc3NldHMub3BlbihpdC50cmFja2VyLmljb24pKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCaXRtYXBEZXNjcmlwdG9yRmFjdG9yeS5mcm9tQml0bWFwKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCaXRtYXAuY3JlYXRlQml0bWFwKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>Rect(0, 0, 0, 0),
-                                        BitmapFactory.Options().apply {
-                                            outHeight = 48.dp
-                                            outWidth = 48.dp
-                                        })</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vQ2hhbmdlIHRleHQgc2l6ZSBhY2NvcmRpbmcgdGV4dCBsZW5ndGgKICAgIHByaXZhdGUgZnVuIGdldFRleHRTaXplKHRleHQxOiBTdHJpbmcsIHRleHQyOiBTdHJpbmcpID0KICAgICAgICBpZiAodGV4dDEubGVuZ3RoID49IDIxIHx8IHRleHQyLmxlbmd0aCA+PSAyMCkgOTAgZWxzZSAxMjUK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
