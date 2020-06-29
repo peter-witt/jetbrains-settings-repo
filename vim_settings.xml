@@ -147,15 +147,11 @@
         <mark key="." line="54" column="19" />
         <mark key="^" line="54" column="20" />
       </file>
+      <file name="$USER_HOME$/Makeable/din-boernekiropraktor-android/app/src/main/java/dk/makeable/dinboernekiropraktor/util/Extensions_String.kt" timestamp="1593441915561" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_tracker_mode.xml" timestamp="1593439511024">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_log_in.xml" timestamp="1593438002441">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/epoxy_model_log_cell.xml" timestamp="1593439894026">
         <mark key="[" line="30" column="36" />
@@ -181,8 +177,8 @@
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerAPI.kt" timestamp="1593441182996">
         <mark key="[" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/model/Position.kt" timestamp="1593437825343">
-        <mark key="[" line="29" column="40" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/util/Exstentions.kt" timestamp="1593442050903">
+        <mark key="[" line="25" column="1" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/build/generated/source/kapt/debug/com/dantracker/app/prof/databinding/FragmentMapBindingImpl.java" timestamp="1593438566343">
         <mark key="[" line="161" column="2" />
@@ -191,10 +187,10 @@
         <mark key="." line="161" column="1" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1593441752426">
-        <mark key="[" line="110" column="40" />
-        <mark key="]" line="110" column="40" />
-        <mark key="." line="110" column="39" />
-        <mark key="^" line="110" column="40" />
+        <mark key="[" line="115" column="40" />
+        <mark key="]" line="115" column="40" />
+        <mark key="." line="115" column="39" />
+        <mark key="^" line="115" column="40" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/trackerMode/TrackerModeFragment.kt" timestamp="1593439604854">
         <mark key="[" line="45" column="43" />
