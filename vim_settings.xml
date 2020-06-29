@@ -130,22 +130,18 @@
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/NotificationManager.kt" timestamp="1593424114197">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values-da/strings.xml" timestamp="1593430533528">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values-da/strings.xml" timestamp="1593430637315" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/FirebaseInstanceIdService.kt" timestamp="1593423662910">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="34" />
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/activity_main.xml" timestamp="1593430001992">
-        <mark key="[" line="61" column="30" />
-        <mark key="]" line="61" column="30" />
-        <mark key="." line="61" column="30" />
-        <mark key="^" line="62" column="31" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/activity_main.xml" timestamp="1593430595863">
+        <mark key="[" line="100" column="26" />
+        <mark key="]" line="100" column="26" />
+        <mark key="." line="100" column="26" />
+        <mark key="^" line="100" column="27" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/koin/ApiModule.kt" timestamp="1593424586681">
         <mark key="[" line="52" column="31" />
@@ -176,11 +172,10 @@
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/strings.xml" timestamp="1593430553639">
-        <mark key="[" line="4" column="98" />
-        <mark key="]" line="59" column="44" />
-        <mark key="^" line="59" column="44" />
-        <mark key="." line="59" column="43" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/strings.xml" timestamp="1593430624678">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerViewModel.kt" timestamp="1593429215724">
         <mark key="[" line="75" column="59" />
@@ -313,13 +308,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CTxzdHJpbmcgbmFtZT0iZm9yZ290X2NyZWRlbnRpYWxzX2xpbmsiPmh0dHBzOi8vZGFudHJhY2tlci5jb20vZGsvc2hvcC9mb3Jnb3QtcGFzc3dvcmQ8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibG9jYXRpb24iPkxvY2F0aW9uPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>Setup</text>
+        <text>@/log_out</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -328,31 +323,31 @@
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmZpcmViYXNlOmZpcmViYXNlLWFuYWx5dGljcy1rdHg6MTcuNC4zJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CTxzdHJpbmcgbmFtZT0iZm9yZ290X2NyZWRlbnRpYWxzX2xpbmsiPmh0dHBzOi8vZGFudHJhY2tlci5jb20vZGsvc2hvcC9mb3Jnb3QtcGFzc3dvcmQ8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibG9jYXRpb24iPkxvY2F0aW9uPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ic2VyaWFsX251bWJlciI+U2VyaWFsIG51bWJlcjwvc3RyaW5nPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICA8IS0tIFNob3dUcmFja2VyVmlldy4uLiAtLT4KICAgIDxzdHJpbmcgbmFtZT0ic2hvd1RyYWNrZXJWaWV3LnRpdGxlIj5TSE9XPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9InNob3dUcmFja2VyVmlldy5idG5TaG93Tm90aWZpY2F0aW9ucyI+Tm90aWZpY2F0aW9uczwvc3RyaW5nPg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ic2hvd19yb3V0ZSI+U2hvdyByb3V0ZTwvc3RyaW5nPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFja2VyVmlld01vZGVsLnJlZnJlc2hUcmFja2VycygpCg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icGFzc3dvcmQiPlBhc3N3b3JkPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3luYyB7Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iVFJBQ0tFUl9MSVNUIj5UcmFja2VyIGxpc3Q8L3N0cmluZz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0uYXdhaXRBbGwoKQo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibG9nX2luIj5Mb2cgaW48L3N0cmluZz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0/LmF3YWl0QWxsKCkK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibG9nX291dCI+TG9nIG91dDwvc3RyaW5nPgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3luYyB7Cg==</text>
+        <text encoding="base64">CTxzdHJpbmcgbmFtZT0iZm9yZ290X2NyZWRlbnRpYWxzX2xpbmsiPmh0dHBzOi8vZGFudHJhY2tlci5jb20vZGsvc2hvcC9mb3Jnb3QtcGFzc3dvcmQ8L3N0cmluZz4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
