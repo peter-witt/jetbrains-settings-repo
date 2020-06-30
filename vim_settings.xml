@@ -172,11 +172,11 @@
         <mark key="^" line="40" column="19" />
         <mark key="." line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1593519541428">
-        <mark key="[" line="107" column="28" />
-        <mark key="]" line="107" column="28" />
-        <mark key="." line="107" column="28" />
-        <mark key="^" line="107" column="30" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1593521815860">
+        <mark key="[" line="112" column="36" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="111" column="36" />
+        <mark key="^" line="113" column="70" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/keystore.properties" timestamp="1593520337963" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/model/PushNotification.kt" timestamp="1593515818797">
@@ -307,8 +307,8 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHN0cmlwcGVkVGV4dCA9IGl0LmRlc2NyaXB0aW9uLgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -323,24 +323,22 @@
         <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgTEFTVF9GQ01fVE9LRU4gPSAiTEFTVF9GQ01fVE9LRU4iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHN0cmlwcGVkVGV4dCA9IGl0LmRlc2NyaXB0aW9uLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWNjZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5pc2goKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE5vdGlmaWNhdGlvbkZyYWdtZW50Vmlld01vZGVsIDogRXBveHlGcmFnbWVudFZpZXdNb2RlbDxMaXN0PE5vdGlmaWNhdGlvbj4+KCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXROZWdhdGl2ZUJ1dHRvbigiUmVqZWN0IikgeyBkaWFsb2csIHdoaWNoIC0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmluaXNoKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-            TODO(&quot;Not yet implemented&quot;)
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXROZWdhdGl2ZUJ1dHRvbigiUmVqZWN0IikgeyBkaWFsb2csIHdoaWNoIC0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmluaXNoKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zaG93KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0KCkgPSBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgYWRkU291cmNlKG5vdGlmaWNhdGlvblNlcnZpY2UpIHsKICAgICAgICAgICAgdmlld01vZGVsU2NvcGUubGF1bmNoIHsKICAgICAgICAgICAgICAgIHZhbCBvYmplY3RzID0gdHJhY2tlcnMudmFsdWU/Lm1hcCB7CiAgICAgICAgICAgICAgICAgICAgVHJhY2tlcldpdGhOb3RpZmljYXRpb25zKAogICAgICAgICAgICAgICAgICAgICAgICBpdCwgbm90aWZpY2F0aW9uU2VydmljZS5nZXROZXdOb3RpZmljYXRpb25Db3VudE9mVHJhY2tlcihpdC5pZCkKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBwb3N0VmFsdWUob2JqZWN0cykKICAgICAgICAgICAgfQogICAgICAgIH1WCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRWaWV3KExpbmVhckxheW91dCh0aGlzQE1haW5BY3Rpdml0eSkuYXBwbHkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9yaWVudGF0aW9uID0gTGluZWFyTGF5b3V0LlZFUlRJQ0FMCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWRkVmlldyhNYXRlcmlhbFRleHRWaWV3KHRoaXNATWFpbkFjdGl2aXR5KS5hcHBsKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -349,10 +347,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgYWRkU291cmNlKG5vdGlmaWNhdGlvblNlcnZpY2UpIHsKICAgICAgICAgICAgdmlld01vZGVsU2NvcGUubGF1bmNoIHsKICAgICAgICAgICAgICAgIHZhbCBvYmplY3RzID0gdHJhY2tlcnMudmFsdWU/Lm1hcCB7CiAgICAgICAgICAgICAgICAgICAgVHJhY2tlcldpdGhOb3RpZmljYXRpb25zKAogICAgICAgICAgICAgICAgICAgICAgICBpdCwgbm90aWZpY2F0aW9uU2VydmljZS5nZXROZXdOb3RpZmljYXRpb25Db3VudE9mVHJhY2tlcihpdC5pZCkKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBwb3N0VmFsdWUob2JqZWN0cykKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWNjZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgbm90aWZpY2F0aW9ucyA9IG5vdGlmaWNhdGlvblNlcnZpY2UuZ2V0Tm90aWZpY2F0aW9uc09mVHJhY2tlcihpdC5pZCkK</text>
+        <text encoding="base64">ICAgIGNsYXNzIE5vdGlmaWNhdGlvbkZyYWdtZW50Vmlld01vZGVsIDogRXBveHlGcmFnbWVudFZpZXdNb2RlbDxMaXN0PE5vdGlmaWNhdGlvbj4+KCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
