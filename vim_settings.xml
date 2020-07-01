@@ -124,13 +124,6 @@
         <mark key="^" line="54" column="48" />
         <mark key="." line="54" column="47" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/epoxy_model_tracker_cell.xml" timestamp="1593593560048">
-        <mark key="'" line="47" column="54" />
-        <mark key="[" line="47" column="53" />
-        <mark key="]" line="47" column="55" />
-        <mark key="." line="47" column="26" />
-        <mark key="^" line="47" column="53" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1593600770729" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfilePresenter.java" timestamp="1593600793058" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/drawable/ic_delete.xml" timestamp="1593597976805">
@@ -165,6 +158,13 @@
         <mark key="]" line="94" column="42" />
         <mark key="." line="94" column="41" />
         <mark key="^" line="94" column="42" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values-da/strings.xml" timestamp="1593611238526">
+        <mark key="'" line="57" column="27" />
+        <mark key="[" line="37" column="59" />
+        <mark key="]" line="54" column="38" />
+        <mark key="." line="54" column="38" />
+        <mark key="^" line="54" column="37" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/view_title_subtitle_image_badge.xml" timestamp="1593596248561">
         <mark key="[" line="32" column="40" />
