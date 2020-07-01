@@ -140,11 +140,11 @@
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1593606868060">
         <mark key="[" line="131" column="35" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1593599102904">
-        <mark key="[" line="130" column="58" />
-        <mark key="]" line="130" column="53" />
-        <mark key="^" line="130" column="53" />
-        <mark key="." line="130" column="52" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1593612142255">
+        <mark key="[" line="133" column="28" />
+        <mark key="]" line="133" column="28" />
+        <mark key="^" line="132" column="45" />
+        <mark key="." line="133" column="28" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerSettingsFragment.kt" timestamp="1593597276082">
         <mark key="[" line="36" column="81" />
@@ -321,8 +321,8 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>animateCamera</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
