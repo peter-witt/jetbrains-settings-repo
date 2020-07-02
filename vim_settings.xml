@@ -114,18 +114,15 @@
     <filemarks>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/onboarding-flow-android/0.3.0/96ed294ccc184657c5a19e87552ccccdd2d157e6/onboarding-flow-android-0.3.0-sources.jar!/dk/makeable/onboardingflow/OnboardingDialog.kt" timestamp="1593688454232" />
       <file name="$USER_HOME$/Makeable/onboarding-flow-android/onboardingflow/src/main/java/dk/makeable/onboardingflow/pages/OnboardingWebViewFragment.kt" timestamp="1593689127725" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentMore.kt" timestamp="1593682332653">
-        <mark key="[" line="51" column="26" />
-        <mark key="]" line="51" column="26" />
-        <mark key="^" line="51" column="26" />
-        <mark key="." line="51" column="25" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1593690634235">
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/addresses/SelectAddressActivity.java" timestamp="1593692290075" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1593692399768">
         <mark key="'" line="385" column="12" />
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="45" />
-        <mark key="." line="225" column="0" />
+        <mark key="[" line="248" column="64" />
+        <mark key="]" line="248" column="64" />
+        <mark key="." line="248" column="63" />
+        <mark key="^" line="248" column="64" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileViewModel.java" timestamp="1593693151997" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterMakeOffer.kt" timestamp="1593684215880">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="63" column="71" />
@@ -133,19 +130,11 @@
         <mark key="^" line="63" column="70" />
         <mark key="." line="63" column="69" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/users/UserResource.java" timestamp="1593682317434">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="0" column="64" />
-        <mark key="]" line="0" column="64" />
-        <mark key="." line="0" column="63" />
-        <mark key="^" line="0" column="64" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfilePresenter.java" timestamp="1593682433286">
-        <mark key="'" line="165" column="51" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="165" column="55" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfilePresenter.java" timestamp="1593692852869">
+        <mark key="'" line="164" column="51" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/Offer.java" timestamp="1593683188171">
         <mark key="[" line="214" column="9" />
@@ -172,7 +161,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593690622267">
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593693111664">
         <mark key="'" line="78" column="59" />
         <mark key="[" line="223" column="0" />
         <mark key="]" line="223" column="45" />
@@ -189,19 +178,12 @@
         <mark key="." line="93" column="47" />
         <mark key="^" line="464" column="42" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/parcel/UserParcel.java" timestamp="1593682326731" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/Addresses/AddressResource.java" timestamp="1593692329533" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1593690598884">
         <mark key="[" line="190" column="71" />
         <mark key="]" line="189" column="24" />
         <mark key="^" line="189" column="24" />
         <mark key="." line="189" column="23" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterAvailableRequests.kt" timestamp="1593682215622">
-        <mark key="'" line="110" column="28" />
-        <mark key="[" line="111" column="43" />
-        <mark key="]" line="120" column="64" />
-        <mark key="^" line="120" column="64" />
-        <mark key="." line="120" column="63" />
       </file>
       <file name="$USER_HOME$/Makeable/onboarding-flow-android/onboardingflow/src/main/java/dk/makeable/onboardingflow/DismissibleDialogFragment.kt" timestamp="1593689635445">
         <mark key="[" line="36" column="24" />
@@ -213,6 +195,9 @@
         <mark key="[" line="22" column="5" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/MainActivity.kt" timestamp="1593682380964" />
+      <file name="/fragment.java" timestamp="1593692279457">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="79" column="8" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_log_filter.xml" />
@@ -323,13 +308,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY2VudGVyQ3JvcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>Picasso</text>
+        <text>AddressResource</text>
       </register>
       <register name="/" type="4">
         <text>duus</text>
@@ -337,38 +322,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY2VudGVyQ3JvcCgpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>else {
+                
+            }</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZihhZGRyZXNzUGFyY2VsICE9IG51bGwpCiAgICAgICAgICAgIG9rID0gdHJ1ZTs=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnRuQWRkcmVzcy5zZXRUZXh0KHBhcmNlbC5nZXROYW1lKCkpOwo=</text>
+      </register>
+      <register name="7" type="4">
         <text>verride fun onViewStateRestored(savedInstanceState: Bundle?) {
         super.onViewStateRestored(savedInstanceState)
         savingState = false
     }V</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2tpcE1lbW9yeUNhY2hlKHRydWUpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5pbnRvKGJpbmRpbmcuY2l2UHJvZmlsZSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBQaWNhc3NvLndpdGgoVXNlclByb2ZpbGVBY3Rpdml0eS50aGlzKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmxvYWQocGhvdG9VcmkpCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZml0KCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAuaW52YWxpZGF0ZShwcm9maWxlLmdldEF2YXRhckxhcmdlKCkpOwogICAgICAgIFBpY2Fzc28ud2l0aCh0aGlzKQogICAgICAgICAgICAgICAgLmludmFsaWRhdGUocHJvZmlsZS5nZXRBdmF0YXJNZWRpdW0oKSk7CiAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAuaW52YWxpZGF0ZShwcm9maWxlLmdldEF2YXRhclRodW1wKCkpOw==</text>
-      </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIFBpY2Fzc28ud2l0aCh0aGlzKQogICAgICAgICAgICAgICAgICAgIC5pbnZhbGlkYXRlKGdldHRlci5nZXRBdmF0YXJMYXJnZSgpKTsKICAgICAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAgICAgLmludmFsaWRhdGUoZ2V0dGVyLmdldEF2YXRhck1lZGl1bSgpKTsKICAgICAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAgICAgLmludmFsaWRhdGUoZ2V0dGVyLmdldEF2YXRhclRodW1iKCkpOw==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2tpcE1lbW9yeUNhY2hlKHRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
