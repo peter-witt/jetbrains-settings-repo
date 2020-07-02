@@ -136,7 +136,7 @@
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/Offer.java" timestamp="1593683188171">
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/Offer.java" timestamp="1593693586268">
         <mark key="[" line="214" column="9" />
         <mark key="]" line="214" column="9" />
         <mark key="^" line="214" column="9" />
@@ -185,6 +185,9 @@
         <mark key="^" line="189" column="24" />
         <mark key="." line="189" column="23" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/ServiceRequest.java" timestamp="1593693593327">
+        <mark key="[" line="307" column="74" />
+      </file>
       <file name="$USER_HOME$/Makeable/onboarding-flow-android/onboardingflow/src/main/java/dk/makeable/onboardingflow/DismissibleDialogFragment.kt" timestamp="1593689635445">
         <mark key="[" line="36" column="24" />
         <mark key="]" line="35" column="5" />
@@ -194,7 +197,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/onboarding-flow-android/0.3.0/96ed294ccc184657c5a19e87552ccccdd2d157e6/onboarding-flow-android-0.3.0-sources.jar!/dk/makeable/onboardingflow/DismissibleDialogFragment.kt" timestamp="1593689067899">
         <mark key="[" line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/MainActivity.kt" timestamp="1593682380964" />
       <file name="/fragment.java" timestamp="1593692279457">
         <mark key="[" line="0" column="0" />
       </file>
