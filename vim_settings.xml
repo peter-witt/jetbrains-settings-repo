@@ -133,12 +133,12 @@
         <mark key="^" line="178" column="11" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileViewModel.java" timestamp="1593681116098" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterMakeOffer.kt" timestamp="1593683261878">
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterMakeOffer.kt" timestamp="1593684215880">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="21" />
-        <mark key="]" line="78" column="37" />
-        <mark key="^" line="78" column="33" />
-        <mark key="." line="78" column="21" />
+        <mark key="[" line="63" column="71" />
+        <mark key="]" line="63" column="70" />
+        <mark key="^" line="63" column="70" />
+        <mark key="." line="63" column="69" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" timestamp="1593679957463" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/users/UserResource.java" timestamp="1593682317434">
@@ -180,12 +180,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593681293982">
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593684426805">
         <mark key="'" line="79" column="59" />
-        <mark key="[" line="242" column="42" />
-        <mark key="]" line="242" column="76" />
-        <mark key="^" line="242" column="76" />
-        <mark key="." line="242" column="75" />
+        <mark key="[" line="160" column="27" />
+        <mark key="]" line="160" column="27" />
+        <mark key="^" line="160" column="27" />
+        <mark key="." line="160" column="26" />
       </file>
       <file name="/fragment.kt" timestamp="1593682546391">
         <mark key="[" line="0" column="0" />
