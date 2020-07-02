@@ -153,9 +153,6 @@
         <mark key="^" line="214" column="9" />
         <mark key="." line="214" column="8" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/preference/UserSharedPreferenceImpl.java" timestamp="1593682151568">
-        <mark key="'" line="34" column="25" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_user_profile.xml" timestamp="1593686380422">
         <mark key="'" line="269" column="61" />
         <mark key="[" line="101" column="47" />
@@ -193,6 +190,9 @@
         <mark key="^" line="464" column="42" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/parcel/UserParcel.java" timestamp="1593682326731" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1593689884292">
+        <mark key="[" line="190" column="71" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterAvailableRequests.kt" timestamp="1593682215622">
         <mark key="'" line="110" column="28" />
         <mark key="[" line="111" column="43" />
