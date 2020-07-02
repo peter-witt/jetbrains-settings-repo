@@ -112,6 +112,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/SplashActivity.kt" timestamp="1593675253743">
+        <mark key="[" line="7" column="42" />
+      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/NotificationService.kt" timestamp="1593599539284">
         <mark key="[" line="113" column="50" />
         <mark key="]" line="112" column="58" />
@@ -122,6 +125,9 @@
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593675276590">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/Notification.kt" timestamp="1593606745405">
         <mark key="[" line="48" column="79" />
@@ -145,12 +151,6 @@
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1593606868060">
         <mark key="[" line="131" column="35" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/view_title_subtitle_image_badge.xml" timestamp="1593596248561">
-        <mark key="[" line="32" column="40" />
-        <mark key="]" line="32" column="40" />
-        <mark key="." line="32" column="39" />
-        <mark key="^" line="32" column="40" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/MainActivity.kt" timestamp="1593674846159">
         <mark key="'" line="68" column="17" />
@@ -176,11 +176,6 @@
         <mark key="[" line="15" column="21" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerViewModel.kt" timestamp="1593596378806">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/trackerMode/TrackerModeViewModel.kt" timestamp="1593597369176">
         <mark key="[" line="25" column="34" />
