@@ -112,18 +112,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/onboarding-flow-android/0.3.0/96ed294ccc184657c5a19e87552ccccdd2d157e6/onboarding-flow-android-0.3.0-sources.jar!/dk/makeable/onboardingflow/OnboardingDialog.kt" timestamp="1593688454232" />
+      <file name="$USER_HOME$/Makeable/onboarding-flow-android/onboardingflow/src/main/java/dk/makeable/onboardingflow/pages/OnboardingWebViewFragment.kt" timestamp="1593689127725" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentMore.kt" timestamp="1593682332653">
         <mark key="[" line="51" column="26" />
         <mark key="]" line="51" column="26" />
         <mark key="^" line="51" column="26" />
         <mark key="." line="51" column="25" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/repositories/serviceRequests/ServiceRequestsRepositoryImpl.java" timestamp="1593681732001">
-        <mark key="'" line="176" column="23" />
-        <mark key="[" line="80" column="79" />
-        <mark key="]" line="80" column="74" />
-        <mark key="^" line="80" column="74" />
-        <mark key="." line="80" column="73" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1593686997752">
         <mark key="'" line="384" column="12" />
@@ -131,7 +126,6 @@
         <mark key="]" line="326" column="0" />
         <mark key="." line="326" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileViewModel.java" timestamp="1593681116098" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterMakeOffer.kt" timestamp="1593684215880">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="63" column="71" />
@@ -139,7 +133,6 @@
         <mark key="^" line="63" column="70" />
         <mark key="." line="63" column="69" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" timestamp="1593679957463" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/users/UserResource.java" timestamp="1593682317434">
         <mark key="'" line="86" column="0" />
         <mark key="[" line="0" column="64" />
@@ -160,7 +153,6 @@
         <mark key="^" line="214" column="9" />
         <mark key="." line="214" column="8" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/login/SignUpDialogFragment.kt" timestamp="1593679235637" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/preference/UserSharedPreferenceImpl.java" timestamp="1593682151568">
         <mark key="'" line="34" column="25" />
       </file>
@@ -190,7 +182,7 @@
         <mark key="." line="284" column="48" />
         <mark key="^" line="284" column="49" />
       </file>
-      <file name="/fragment.kt" timestamp="1593682546391">
+      <file name="/fragment.kt" timestamp="1593688441774">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_getter_profile.xml" timestamp="1593686233698">
@@ -207,6 +199,15 @@
         <mark key="]" line="120" column="64" />
         <mark key="^" line="120" column="64" />
         <mark key="." line="120" column="63" />
+      </file>
+      <file name="$USER_HOME$/Makeable/onboarding-flow-android/onboardingflow/src/main/java/dk/makeable/onboardingflow/DismissibleDialogFragment.kt" timestamp="1593689635445">
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="35" column="5" />
+        <mark key="^" line="35" column="6" />
+        <mark key="." line="35" column="5" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/onboarding-flow-android/0.3.0/96ed294ccc184657c5a19e87552ccccdd2d157e6/onboarding-flow-android-0.3.0-sources.jar!/dk/makeable/onboardingflow/DismissibleDialogFragment.kt" timestamp="1593689067899">
+        <mark key="[" line="22" column="5" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/MainActivity.kt" timestamp="1593682380964" />
     </filemarks>
@@ -318,8 +319,11 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2tpcE1lbW9yeUNhY2hlKHRydWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>verride fun onViewStateRestored(savedInstanceState: Bundle?) {
+        super.onViewStateRestored(savedInstanceState)
+        savingState = false
+    }V</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -333,35 +337,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgR2xpZGUud2l0aCh0aGlzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5sb2FkKHBob3RvVXJpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50cmFuc2l0aW9uKERyYXdhYmxlVHJhbnNpdGlvbk9wdGlvbnMud2l0aENyb3NzRmFkZSgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5pbnRvKGJpbmRpbmcuY2l2UHJvZmlsZSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2tpcE1lbW9yeUNhY2hlKHRydWUpCg==</text>
+      <register name="1" type="4">
+        <text>verride fun onViewStateRestored(savedInstanceState: Bundle?) {
+        super.onViewStateRestored(savedInstanceState)
+        savingState = false
+    }V</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5pbnRvKGJpbmRpbmcuY2l2UHJvZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBQaWNhc3NvLndpdGgoVXNlclByb2ZpbGVBY3Rpdml0eS50aGlzKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmxvYWQocGhvdG9VcmkpCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZml0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2tpcE1lbW9yeUNhY2hlKHRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5pbnRvKGJpbmRpbmcuY2l2UHJvZmlsZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAuaW52YWxpZGF0ZShwcm9maWxlLmdldEF2YXRhckxhcmdlKCkpOwogICAgICAgIFBpY2Fzc28ud2l0aCh0aGlzKQogICAgICAgICAgICAgICAgLmludmFsaWRhdGUocHJvZmlsZS5nZXRBdmF0YXJNZWRpdW0oKSk7CiAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAuaW52YWxpZGF0ZShwcm9maWxlLmdldEF2YXRhclRodW1wKCkpOw==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBQaWNhc3NvLndpdGgoVXNlclByb2ZpbGVBY3Rpdml0eS50aGlzKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmxvYWQocGhvdG9VcmkpCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZml0KCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIFBpY2Fzc28ud2l0aCh0aGlzKQogICAgICAgICAgICAgICAgICAgIC5pbnZhbGlkYXRlKGdldHRlci5nZXRBdmF0YXJMYXJnZSgpKTsKICAgICAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAgICAgLmludmFsaWRhdGUoZ2V0dGVyLmdldEF2YXRhck1lZGl1bSgpKTsKICAgICAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAgICAgLmludmFsaWRhdGUoZ2V0dGVyLmdldEF2YXRhclRodW1iKCkpOw==</text>
+        <text encoding="base64">CiAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAuaW52YWxpZGF0ZShwcm9maWxlLmdldEF2YXRhckxhcmdlKCkpOwogICAgICAgIFBpY2Fzc28ud2l0aCh0aGlzKQogICAgICAgICAgICAgICAgLmludmFsaWRhdGUocHJvZmlsZS5nZXRBdmF0YXJNZWRpdW0oKSk7CiAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAuaW52YWxpZGF0ZShwcm9maWxlLmdldEF2YXRhclRodW1wKCkpOw==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmxvYWQocGhvdG9VcmkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZpdCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmludG8oaWJ0blByb2ZpbGUp</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZpdCgpCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIFBpY2Fzc28ud2l0aCh0aGlzKQogICAgICAgICAgICAgICAgICAgIC5pbnZhbGlkYXRlKGdldHRlci5nZXRBdmF0YXJMYXJnZSgpKTsKICAgICAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAgICAgLmludmFsaWRhdGUoZ2V0dGVyLmdldEF2YXRhck1lZGl1bSgpKTsKICAgICAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAgICAgLmludmFsaWRhdGUoZ2V0dGVyLmdldEF2YXRhclRodW1iKCkpOw==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
