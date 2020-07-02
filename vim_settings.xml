@@ -120,11 +120,11 @@
         <mark key="^" line="51" column="26" />
         <mark key="." line="51" column="25" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1593686997752">
-        <mark key="'" line="384" column="12" />
-        <mark key="[" line="338" column="37" />
-        <mark key="]" line="326" column="0" />
-        <mark key="." line="326" column="0" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1593690634235">
+        <mark key="'" line="385" column="12" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="45" />
+        <mark key="." line="225" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterMakeOffer.kt" timestamp="1593684215880">
         <mark key="'" line="0" column="0" />
@@ -172,12 +172,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593686785059">
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593690622267">
         <mark key="'" line="78" column="59" />
-        <mark key="[" line="278" column="37" />
-        <mark key="]" line="284" column="49" />
-        <mark key="." line="284" column="48" />
-        <mark key="^" line="284" column="49" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="45" />
+        <mark key="." line="223" column="44" />
+        <mark key="^" line="223" column="45" />
       </file>
       <file name="/fragment.kt" timestamp="1593688441774">
         <mark key="[" line="0" column="0" />
@@ -190,8 +190,11 @@
         <mark key="^" line="464" column="42" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/parcel/UserParcel.java" timestamp="1593682326731" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1593689884292">
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1593690598884">
         <mark key="[" line="190" column="71" />
+        <mark key="]" line="189" column="24" />
+        <mark key="^" line="189" column="24" />
+        <mark key="." line="189" column="23" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterAvailableRequests.kt" timestamp="1593682215622">
         <mark key="'" line="110" column="28" />
@@ -319,11 +322,8 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>verride fun onViewStateRestored(savedInstanceState: Bundle?) {
-        super.onViewStateRestored(savedInstanceState)
-        savingState = false
-    }V</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY2VudGVyQ3JvcCgpCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -335,7 +335,7 @@
         <text>duus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgR2xpZGUud2l0aCh0aGlzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5sb2FkKHBob3RvVXJpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50cmFuc2l0aW9uKERyYXdhYmxlVHJhbnNpdGlvbk9wdGlvbnMud2l0aENyb3NzRmFkZSgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5pbnRvKGJpbmRpbmcuY2l2UHJvZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY2VudGVyQ3JvcCgpCg==</text>
       </register>
       <register name="1" type="4">
         <text>verride fun onViewStateRestored(savedInstanceState: Bundle?) {
