@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDw+XD4=</entry>
         <entry>setup</entry>
         <entry encoding="base64">XDxpdFw+</entry>
         <entry encoding="base64">PA==</entry>
@@ -27,6 +26,7 @@
         <entry>else</entry>
         <entry>getter</entry>
         <entry>HH</entry>
+        <entry>duus</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist extract</entry>
@@ -125,12 +125,11 @@
         <mark key="^" line="80" column="74" />
         <mark key="." line="80" column="73" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1593680397169">
-        <mark key="'" line="387" column="12" />
-        <mark key="[" line="178" column="11" />
-        <mark key="]" line="178" column="11" />
-        <mark key="." line="178" column="10" />
-        <mark key="^" line="178" column="11" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1593686744533">
+        <mark key="'" line="384" column="12" />
+        <mark key="[" line="338" column="37" />
+        <mark key="]" line="326" column="0" />
+        <mark key="." line="326" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileViewModel.java" timestamp="1593681116098" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterMakeOffer.kt" timestamp="1593684215880">
@@ -165,14 +164,18 @@
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/preference/UserSharedPreferenceImpl.java" timestamp="1593682151568">
         <mark key="'" line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_user_profile.xml" timestamp="1593681141327">
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_user_profile.xml" timestamp="1593686380422">
         <mark key="'" line="269" column="61" />
+        <mark key="[" line="101" column="47" />
+        <mark key="]" line="101" column="47" />
+        <mark key="." line="101" column="47" />
+        <mark key="^" line="101" column="56" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentNewRequestViewModel.kt" timestamp="1593683237299">
-        <mark key="[" line="167" column="17" />
-        <mark key="]" line="167" column="32" />
-        <mark key="^" line="167" column="26" />
-        <mark key="." line="168" column="0" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentNewRequestViewModel.kt" timestamp="1593684979954">
+        <mark key="[" line="144" column="39" />
+        <mark key="]" line="144" column="39" />
+        <mark key="^" line="144" column="39" />
+        <mark key="." line="144" column="38" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/util/DateUtils.kt" timestamp="1593683174140">
         <mark key="[" line="2" column="0" />
@@ -180,21 +183,20 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593684426805">
-        <mark key="'" line="79" column="59" />
-        <mark key="[" line="160" column="27" />
-        <mark key="]" line="160" column="27" />
-        <mark key="^" line="160" column="27" />
-        <mark key="." line="160" column="26" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593686762459">
+        <mark key="'" line="78" column="59" />
+        <mark key="[" line="278" column="37" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1593682546391">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_getter_profile.xml" timestamp="1593680184752">
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_getter_profile.xml" timestamp="1593686233698">
         <mark key="'" line="450" column="40" />
-        <mark key="[" line="463" column="46" />
-        <mark key="]" line="464" column="42" />
-        <mark key="." line="464" column="41" />
+        <mark key="[" line="93" column="47" />
+        <mark key="]" line="93" column="47" />
+        <mark key="." line="93" column="47" />
         <mark key="^" line="464" column="42" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/parcel/UserParcel.java" timestamp="1593682326731" />
@@ -315,51 +317,50 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>EEEE MMM. d, HH:mm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2tpcE1lbW9yeUNhY2hlKHRydWUpCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>EEEE MMM. d, HH:mm</text>
+        <text>Picasso</text>
       </register>
       <register name="/" type="4">
-        <text>HH</text>
+        <text>duus</text>
       </register>
-      <register name="0" type="4">
-        <text>EE dd. MMM HH:mm</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgR2xpZGUud2l0aCh0aGlzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5sb2FkKHBob3RvVXJpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50cmFuc2l0aW9uKERyYXdhYmxlVHJhbnNpdGlvbk9wdGlvbnMud2l0aENyb3NzRmFkZSgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5pbnRvKGJpbmRpbmcuY2l2UHJvZmlsZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>fun Date.form</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2tpcE1lbW9yeUNhY2hlKHRydWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text>class DateUtils {
-}</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5pbnRvKGJpbmRpbmcuY2l2UHJvZmlsZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qdW5nbGVjb2RlcnMuZ2V0dGVyLmRhdGEuc291cmNlLnJlbW90ZS51c2Vycy5Vc2VyUmVzb3VyY2U7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBQaWNhc3NvLndpdGgoVXNlclByb2ZpbGVBY3Rpdml0eS50aGlzKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmxvYWQocGhvdG9VcmkpCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZml0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodXNlclJlcG9zaXRvcnkuaXNHZXR0ZXIpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">c2V0T25DaGFuZ2VMaXN0ZW5lcihhQm9vbGVhbiAtPiB7CiAgICAgICAgICAgIAogICAgICAgIH0pOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAuaW52YWxpZGF0ZShwcm9maWxlLmdldEF2YXRhckxhcmdlKCkpOwogICAgICAgIFBpY2Fzc28ud2l0aCh0aGlzKQogICAgICAgICAgICAgICAgLmludmFsaWRhdGUocHJvZmlsZS5nZXRBdmF0YXJNZWRpdW0oKSk7CiAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAuaW52YWxpZGF0ZShwcm9maWxlLmdldEF2YXRhclRodW1wKCkpOw==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyNGRwIgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIFBpY2Fzc28ud2l0aCh0aGlzKQogICAgICAgICAgICAgICAgICAgIC5pbnZhbGlkYXRlKGdldHRlci5nZXRBdmF0YXJMYXJnZSgpKTsKICAgICAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAgICAgLmludmFsaWRhdGUoZ2V0dGVyLmdldEF2YXRhck1lZGl1bSgpKTsKICAgICAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAgICAgLmludmFsaWRhdGUoZ2V0dGVyLmdldEF2YXRhclRodW1iKCkpOw==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUGljYXNzby53aXRoKHRoaXMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmxvYWQocGhvdG9VcmkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZpdCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmludG8oaWJ0blByb2ZpbGUp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnByb2dyZXNzVGludD0iQGNvbG9yL3doaXRlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZpdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
@@ -368,9 +369,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>HH</last-search>
+      <last-search>duus</last-search>
       <last-offset />
-      <last-pattern>HH</last-pattern>
+      <last-pattern>duus</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxEaWFsb2dGcmFnbWVuy5x0U2V0QWdlXD4=</last-substitute>
       <last-dir>1</last-dir>
