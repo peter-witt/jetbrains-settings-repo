@@ -125,7 +125,7 @@
         <mark key="^" line="80" column="74" />
         <mark key="." line="80" column="73" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1593686744533">
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1593686997752">
         <mark key="'" line="384" column="12" />
         <mark key="[" line="338" column="37" />
         <mark key="]" line="326" column="0" />
@@ -183,11 +183,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593686762459">
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593686785059">
         <mark key="'" line="78" column="59" />
         <mark key="[" line="278" column="37" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
+        <mark key="]" line="284" column="49" />
+        <mark key="." line="284" column="48" />
+        <mark key="^" line="284" column="49" />
       </file>
       <file name="/fragment.kt" timestamp="1593682546391">
         <mark key="[" line="0" column="0" />
