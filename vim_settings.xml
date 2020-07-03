@@ -119,7 +119,11 @@
         <mark key="." line="248" column="63" />
         <mark key="^" line="248" column="64" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1593762238157" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1593763698129">
+        <mark key="[" line="165" column="70" />
+        <mark key="]" line="165" column="71" />
+        <mark key="." line="165" column="71" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfilePresenter.java" timestamp="1593692852869">
         <mark key="'" line="164" column="51" />
         <mark key="[" line="166" column="0" />
@@ -173,14 +177,14 @@
         <mark key="[" line="22" column="5" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/fragment_web_view_with_toolbar.xml" timestamp="1593763090123">
-        <mark key="[" line="61" column="35" />
-        <mark key="]" line="61" column="35" />
-        <mark key="." line="61" column="35" />
+        <mark key="[" line="62" column="35" />
+        <mark key="]" line="62" column="35" />
+        <mark key="." line="62" column="35" />
       </file>
       <file name="/fragment.java" timestamp="1593692279457">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/FragmentAbouts.kt" timestamp="1593762815968">
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/FragmentAbouts.kt" timestamp="1593763197231">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
