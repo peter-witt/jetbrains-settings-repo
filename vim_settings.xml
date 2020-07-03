@@ -147,6 +147,13 @@
         <mark key="." line="230" column="0" />
         <mark key="^" line="465" column="42" />
       </file>
+      <file name="$USER_HOME$/Makeable/demens-android/app/src/main/java/com/demens/makeable/demens/AboutListFragment.kt" timestamp="1593777464140">
+        <mark key="'" line="67" column="79" />
+        <mark key="[" line="67" column="41" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1593773289702">
         <mark key="[" line="53" column="23" />
         <mark key="]" line="189" column="24" />
@@ -158,7 +165,12 @@
         <mark key="[" line="22" column="36" />
       </file>
       <file name="$USER_HOME$/Makeable/demens-android/app/src/main/java/com/demens/makeable/demens/MainActivity.kt" timestamp="1593775815851" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_display_getter_profile.xml" timestamp="1593767720163" />
+      <file name="$USER_HOME$/Makeable/demens-android/app/src/demens_faroe_islands/res/values/colors.xml" timestamp="1593778225535">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="4" column="30" />
+      </file>
       <file name="/Dummy.txt" timestamp="1593774181166">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,21 +180,12 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/Makeable/demens-android/app/src/demens_faroe_islands/res/values/strings.xml" timestamp="1593777980215">
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/demens-android/app/src/main/java/com/demens/makeable/demens/Services/FirebaseService.kt" timestamp="1593775810451" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_new_request.xml" timestamp="1593767307438">
-        <mark key="[" line="298" column="128" />
-        <mark key="]" line="298" column="128" />
-        <mark key="." line="298" column="128" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentNewRequest.kt" timestamp="1593767512564">
-        <mark key="[" line="122" column="65" />
-        <mark key="]" line="122" column="65" />
-        <mark key="." line="122" column="65" />
-        <mark key="^" line="122" column="75" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="8" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_log_filter.xml" />
       <jump line="81" column="8" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_log_filter.xml" />
       <jump line="91" column="4" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_log_filter.xml" />
       <jump line="92" column="0" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_log_filter.xml" />
@@ -282,6 +285,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/users/UserResource.java" />
       <jump line="86" column="0" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/users/UserResource.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterMakeOffer.kt" />
+      <jump line="67" column="79" filename="$USER_HOME$/Makeable/demens-android/app/src/main/java/com/demens/makeable/demens/AboutListFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -289,14 +293,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
         <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>Vælg hurtigt muligt eller et gyldigt tidspunkt</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>duus</text>
