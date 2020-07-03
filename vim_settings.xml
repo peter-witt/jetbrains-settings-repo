@@ -118,46 +118,16 @@
         <mark key="." line="181" column="40" />
         <mark key="^" line="181" column="41" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/addresses/SelectAddressActivity.java" timestamp="1593766203443">
-        <mark key="[" line="53" column="47" />
-        <mark key="]" line="53" column="47" />
-        <mark key="." line="53" column="47" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/login/SplashActivity.kt" timestamp="1593766661159">
-        <mark key="[" line="54" column="71" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_display_getter_profile.xml" timestamp="1593767720163" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterMakeOffer.kt" timestamp="1593766895648">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="169" column="34" />
-        <mark key="]" line="169" column="34" />
-        <mark key="^" line="169" column="44" />
-        <mark key="." line="169" column="34" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" timestamp="1593771582028">
         <mark key="[" line="429" column="39" />
         <mark key="]" line="429" column="39" />
         <mark key="^" line="428" column="61" />
         <mark key="." line="429" column="39" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/login/SignUpDialogFragment.kt" timestamp="1593766537656">
-        <mark key="[" line="31" column="66" />
-        <mark key="]" line="31" column="66" />
-        <mark key="." line="31" column="66" />
-        <mark key="^" line="31" column="77" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values-da/strings.xml" timestamp="1593770676197">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="28" />
-        <mark key="^" line="2" column="28" />
-        <mark key="." line="2" column="28" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593766077078">
-        <mark key="'" line="78" column="59" />
-        <mark key="[" line="288" column="69" />
-        <mark key="]" line="323" column="9" />
-        <mark key="." line="323" column="8" />
-        <mark key="^" line="323" column="9" />
+      <file name="$USER_HOME$/Makeable/demens-android/app/build.gradle" timestamp="1593774310111">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentOfferDetail.kt" timestamp="1593766918545">
         <mark key="[" line="108" column="26" />
@@ -179,25 +149,36 @@
         <mark key="." line="189" column="23" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/keystore.properties" timestamp="1593773356453" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_request_detail.xml" timestamp="1593770411619">
+        <mark key="[" line="22" column="36" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_display_getter_profile.xml" timestamp="1593767720163" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterMakeOffer.kt" timestamp="1593766895648">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="169" column="34" />
+        <mark key="]" line="169" column="34" />
+        <mark key="^" line="169" column="44" />
+        <mark key="." line="169" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593774181166">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values-da/strings.xml" timestamp="1593770676197">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_new_request.xml" timestamp="1593767307438">
         <mark key="[" line="298" column="128" />
         <mark key="]" line="298" column="128" />
         <mark key="." line="298" column="128" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/login/SignInDialogFragment.kt" timestamp="1593766502251">
-        <mark key="[" line="61" column="70" />
-        <mark key="]" line="39" column="55" />
-        <mark key="." line="39" column="54" />
-        <mark key="^" line="39" column="55" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentNewRequest.kt" timestamp="1593767512564">
         <mark key="[" line="122" column="65" />
         <mark key="]" line="122" column="65" />
         <mark key="." line="122" column="65" />
         <mark key="^" line="122" column="75" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_request_detail.xml" timestamp="1593770411619">
-        <mark key="[" line="22" column="36" />
       </file>
     </filemarks>
     <jumps>
