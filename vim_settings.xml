@@ -141,11 +141,11 @@
         <mark key="^" line="169" column="44" />
         <mark key="." line="169" column="34" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" timestamp="1593768958566">
-        <mark key="[" line="377" column="37" />
-        <mark key="]" line="377" column="37" />
-        <mark key="^" line="381" column="46" />
-        <mark key="." line="377" column="37" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" timestamp="1593771582028">
+        <mark key="[" line="429" column="39" />
+        <mark key="]" line="429" column="39" />
+        <mark key="^" line="428" column="61" />
+        <mark key="." line="429" column="39" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/login/SignUpDialogFragment.kt" timestamp="1593766537656">
         <mark key="[" line="31" column="66" />
@@ -153,11 +153,11 @@
         <mark key="." line="31" column="66" />
         <mark key="^" line="31" column="77" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values-da/strings.xml" timestamp="1593768368816">
-        <mark key="[" line="397" column="47" />
-        <mark key="]" line="326" column="35" />
-        <mark key="^" line="326" column="35" />
-        <mark key="." line="326" column="34" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values-da/strings.xml" timestamp="1593770676197">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1593766077078">
         <mark key="'" line="78" column="59" />
@@ -202,8 +202,8 @@
         <mark key="." line="122" column="65" />
         <mark key="^" line="122" column="75" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_request_detail.xml" timestamp="1593769273367">
-        <mark key="[" line="21" column="51" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_request_detail.xml" timestamp="1593770411619">
+        <mark key="[" line="22" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -315,13 +315,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>Vælg hurtigt muligt eller et gyldigt tidspunkt</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Vælg hurtigt muligt eller et gyldigt tidspunkt</text>
       </register>
       <register name="/" type="4">
         <text>duus</text>
