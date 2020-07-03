@@ -157,7 +157,12 @@
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_request_detail.xml" timestamp="1593770411619">
         <mark key="[" line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/Makeable/demens-android/app/src/main/java/com/demens/makeable/demens/MainActivity.kt" timestamp="1593775815851" />
+      <file name="$USER_HOME$/Makeable/demens-android/app/src/main/java/com/demens/makeable/demens/MainActivity.kt" timestamp="1593782321934">
+        <mark key="[" line="101" column="9" />
+        <mark key="]" line="101" column="9" />
+        <mark key="^" line="101" column="9" />
+        <mark key="." line="101" column="8" />
+      </file>
       <file name="$USER_HOME$/Makeable/demens-android/app/src/main/AndroidManifest.xml" timestamp="1593781851842" />
       <file name="$USER_HOME$/Makeable/demens-android/app/src/demens_faroe_islands/res/values/colors.xml" timestamp="1593778680641">
         <mark key="[" line="8" column="26" />
