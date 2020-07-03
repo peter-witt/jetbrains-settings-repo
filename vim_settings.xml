@@ -118,22 +118,27 @@
         <mark key="." line="181" column="40" />
         <mark key="^" line="181" column="41" />
       </file>
+      <file name="$USER_HOME$/Makeable/demens-android/app/src/demens_iceland/res/values/strings.xml" timestamp="1593775992695">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" timestamp="1593771582028">
         <mark key="[" line="429" column="39" />
         <mark key="]" line="429" column="39" />
         <mark key="^" line="428" column="61" />
         <mark key="." line="429" column="39" />
       </file>
-      <file name="$USER_HOME$/Makeable/demens-android/app/build.gradle" timestamp="1593775144444">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="24" />
+      <file name="$USER_HOME$/Makeable/demens-android/app/src/demens_denmark/res/values/strings.xml" timestamp="1593776017106">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentOfferDetail.kt" timestamp="1593766918545">
-        <mark key="[" line="108" column="26" />
-        <mark key="]" line="108" column="26" />
-        <mark key="^" line="98" column="0" />
-        <mark key="." line="108" column="26" />
+      <file name="$USER_HOME$/Makeable/demens-android/app/build.gradle" timestamp="1593776723599">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="25" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="19" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_getter_profile.xml" timestamp="1593767767298">
         <mark key="'" line="451" column="40" />
@@ -154,13 +159,6 @@
       </file>
       <file name="$USER_HOME$/Makeable/demens-android/app/src/main/java/com/demens/makeable/demens/MainActivity.kt" timestamp="1593775815851" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_display_getter_profile.xml" timestamp="1593767720163" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterMakeOffer.kt" timestamp="1593766895648">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="169" column="34" />
-        <mark key="]" line="169" column="34" />
-        <mark key="^" line="169" column="44" />
-        <mark key="." line="169" column="34" />
-      </file>
       <file name="/Dummy.txt" timestamp="1593774181166">
         <mark key="[" line="0" column="0" />
       </file>
@@ -291,8 +289,8 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Vælg hurtigt muligt eller et gyldigt tidspunkt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -304,37 +302,37 @@
         <text>duus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iRklMTF9USVRMRSI+U2tyaXYgdmVubGlnc3QgZW4gdGl0ZWw8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iRklMTF9ERVNDUklQVElPTiI+U2tyaXYgdmVubGlnc3QgZW4gYmVza3JpdmVsc2U8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iQ0hPT1NFX0FTQVBfT1JfVElNRSI+VsOmbGcgaHVydGlndCBtdWxpZ3QgZWxsZXIgZXQgZ3lsZGlndCB0aWRzcHVua3Q8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbk5hbWUgIjEuMCIKICAgICAgICAgICAgdmVyc2lvbkNvZGUgMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlcG94eVJlY3ljbGVyLnVwZGF0ZVBhZGRpbmcoYm90dG9tID0gNDAuZHApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICA8IS0tIFRPRE86IFJlbW92ZSBvciBjaGFuZ2UgdGhpcyBwbGFjZWhvbGRlciB0ZXh0IC0tPgogICAgPHN0cmluZyBuYW1lPSJoZWxsb19ibGFua19mcmFnbWVudCI+SGVsbG8gYmxhbmsgZnJhZ21lbnQ8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0idGl0bGVfYWN0aXZpdHlfc3BsYXNoIj5TcGxhc2hBY3Rpdml0eTwvc3RyaW5nPg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5pbWFnZVBpY2tlckNvbnRhaW5lci5zZXRPbkNsaWNrTGlzdGVuZXIgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6Zm9yZWdyb3VuZD0iP2F0dHIvc2VsZWN0YWJsZUl0ZW1CYWNrZ3JvdW5kIgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gVE9ETzogUmVtb3ZlIG9yIGNoYW5nZSB0aGlzIHBsYWNlaG9sZGVyIHRleHQgLS0+CiAgICA8c3RyaW5nIG5hbWU9ImhlbGxvX2JsYW5rX2ZyYWdtZW50Ij5IZWxsbyBibGFuayBmcmFnbWVudDwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJ0aXRsZV9hY3Rpdml0eV9zcGxhc2giPlNwbGFzaEFjdGl2aXR5PC9zdHJpbmc+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J0bl9nZXRfbG9jYXRpb24iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmZvcmVncm91bmQ9Ij9hdHRyL3NlbGVjdGFibGVJdGVtQmFja2dyb3VuZCIK</text>
+        <text encoding="base64">ICAgICAgICBlcG94eVJlY3ljbGVyLnVwZGF0ZVBhZGRpbmcoYm90dG9tID0gNDAuZHApCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9mYWtlVG9vbGJhciIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5pbWFnZVBpY2tlckNvbnRhaW5lci5zZXRPbkNsaWNrTGlzdGVuZXIgewo=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
