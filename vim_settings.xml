@@ -112,6 +112,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_make_offer.xml" timestamp="1593769005053">
+        <mark key="[" line="181" column="42" />
+        <mark key="]" line="181" column="41" />
+        <mark key="." line="181" column="40" />
+        <mark key="^" line="181" column="41" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/addresses/SelectAddressActivity.java" timestamp="1593766203443">
         <mark key="[" line="53" column="47" />
         <mark key="]" line="53" column="47" />
@@ -135,11 +141,11 @@
         <mark key="^" line="169" column="44" />
         <mark key="." line="169" column="34" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" timestamp="1593768168677">
-        <mark key="[" line="381" column="44" />
-        <mark key="]" line="381" column="46" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" timestamp="1593768958566">
+        <mark key="[" line="377" column="37" />
+        <mark key="]" line="377" column="37" />
         <mark key="^" line="381" column="46" />
-        <mark key="." line="381" column="45" />
+        <mark key="." line="377" column="37" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/login/SignUpDialogFragment.kt" timestamp="1593766537656">
         <mark key="[" line="31" column="66" />
@@ -147,13 +153,8 @@
         <mark key="." line="31" column="66" />
         <mark key="^" line="31" column="77" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentCategories.kt" timestamp="1593765807088">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values-da/strings.xml" timestamp="1593767841070">
-        <mark key="[" line="326" column="33" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values-da/strings.xml" timestamp="1593768368816">
+        <mark key="[" line="397" column="47" />
         <mark key="]" line="326" column="35" />
         <mark key="^" line="326" column="35" />
         <mark key="." line="326" column="34" />
@@ -178,9 +179,6 @@
         <mark key="." line="230" column="0" />
         <mark key="^" line="465" column="42" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_epoxy_recycler.xml" timestamp="1593765689174">
-        <mark key="[" line="12" column="44" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/EpoxyFragment.kt" timestamp="1593765935503">
         <mark key="[" line="71" column="9" />
         <mark key="]" line="52" column="13" />
@@ -203,6 +201,9 @@
         <mark key="]" line="122" column="65" />
         <mark key="." line="122" column="65" />
         <mark key="^" line="122" column="75" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_request_detail.xml" timestamp="1593769273367">
+        <mark key="[" line="21" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -313,14 +314,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iRklMTF9USVRMRSI+U2tyaXYgdmVubGlnc3QgZW4gdGl0ZWw8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iRklMTF9ERVNDUklQVElPTiI+U2tyaXYgdmVubGlnc3QgZW4gYmVza3JpdmVsc2U8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iQ0hPT1NFX0FTQVBfT1JfVElNRSI+VsOmbGcgaHVydGlndCBtdWxpZ3QgZWxsZXIgZXQgZ3lsZGlndCB0aWRzcHVua3Q8L3N0cmluZz4K</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Vælg en adresse&quot;</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>duus</text>
