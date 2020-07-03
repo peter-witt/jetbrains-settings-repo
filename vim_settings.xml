@@ -142,15 +142,15 @@
         <mark key="." line="248" column="63" />
         <mark key="^" line="248" column="64" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterMakeOffer.kt" timestamp="1593684215880">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="63" column="71" />
-        <mark key="]" line="63" column="70" />
-        <mark key="^" line="63" column="70" />
-        <mark key="." line="63" column="69" />
-      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1593762238157" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/ServiceRequest.java" timestamp="1593693593327">
         <mark key="[" line="307" column="74" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/HaandbogDatabase.kt" timestamp="1593762408918">
+        <mark key="[" line="68" column="53" />
+        <mark key="]" line="68" column="57" />
+        <mark key="^" line="68" column="57" />
+        <mark key="." line="68" column="56" />
       </file>
       <file name="$USER_HOME$/Makeable/onboarding-flow-android/onboardingflow/src/main/java/dk/makeable/onboardingflow/DismissibleDialogFragment.kt" timestamp="1593689635445">
         <mark key="[" line="36" column="24" />
@@ -179,12 +179,6 @@
         <mark key="]" line="101" column="47" />
         <mark key="." line="101" column="47" />
         <mark key="^" line="101" column="56" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentNewRequestViewModel.kt" timestamp="1593684979954">
-        <mark key="[" line="144" column="39" />
-        <mark key="]" line="144" column="39" />
-        <mark key="^" line="144" column="39" />
-        <mark key="." line="144" column="38" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/onboarding-flow-android/0.3.0/96ed294ccc184657c5a19e87552ccccdd2d157e6/onboarding-flow-android-0.3.0-sources.jar!/dk/makeable/onboardingflow/DismissibleDialogFragment.kt" timestamp="1593689067899">
         <mark key="[" line="22" column="5" />
