@@ -127,13 +127,6 @@
         <mark key="[" line="54" column="71" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_display_getter_profile.xml" timestamp="1593767720163" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1593766020419">
-        <mark key="'" line="385" column="12" />
-        <mark key="[" line="367" column="35" />
-        <mark key="]" line="367" column="56" />
-        <mark key="." line="367" column="55" />
-        <mark key="^" line="367" column="56" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterMakeOffer.kt" timestamp="1593766895648">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="169" column="34" />
@@ -179,12 +172,13 @@
         <mark key="." line="230" column="0" />
         <mark key="^" line="465" column="42" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/EpoxyFragment.kt" timestamp="1593765935503">
-        <mark key="[" line="71" column="9" />
-        <mark key="]" line="52" column="13" />
-        <mark key="^" line="52" column="13" />
-        <mark key="." line="52" column="12" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1593773289702">
+        <mark key="[" line="53" column="23" />
+        <mark key="]" line="189" column="24" />
+        <mark key="^" line="189" column="24" />
+        <mark key="." line="189" column="23" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/keystore.properties" timestamp="1593773356453" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_new_request.xml" timestamp="1593767307438">
         <mark key="[" line="298" column="128" />
         <mark key="]" line="298" column="128" />
