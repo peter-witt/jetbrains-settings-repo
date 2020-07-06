@@ -187,6 +187,9 @@
         <mark key="." line="147" column="33" />
         <mark key="^" line="147" column="34" />
       </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/koin/ApiModule.kt" timestamp="1594025082076">
+        <mark key="[" line="17" column="34" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="91" column="4" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_log_filter.xml" />
