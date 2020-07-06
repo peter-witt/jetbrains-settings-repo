@@ -122,11 +122,11 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" timestamp="1594042656085">
-        <mark key="[" line="69" column="118" />
-        <mark key="]" line="70" column="56" />
-        <mark key="." line="70" column="55" />
-        <mark key="^" line="70" column="56" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" timestamp="1594044333784">
+        <mark key="[" line="70" column="87" />
+        <mark key="]" line="70" column="40" />
+        <mark key="." line="70" column="39" />
+        <mark key="^" line="70" column="40" />
       </file>
       <file name="$USER_HOME$/Makeable/android-views/EpoxyFragment/build.gradle" timestamp="1594038584689">
         <mark key="[" line="4" column="50" />
@@ -144,12 +144,12 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1594043787817">
-        <mark key="[" line="60" column="103" />
-        <mark key="]" line="60" column="103" />
-        <mark key="^" line="60" column="117" />
-        <mark key="." line="60" column="103" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1594044247369">
+        <mark key="[" line="54" column="30" />
+        <mark key="]" line="54" column="30" />
+        <mark key="." line="54" column="30" />
       </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/build/generated/source/kapt/debug/com/dantracker/app/prof/TrackerCellBindingModel_.java" timestamp="1594043852141" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/RenameTrackerDialogFragment.kt" timestamp="1594041681854">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="24" />
@@ -161,12 +161,6 @@
         <mark key="]" line="53" column="45" />
         <mark key="." line="53" column="35" />
         <mark key="^" line="53" column="36" />
-      </file>
-      <file name="$USER_HOME$/Makeable/android-utils/dateutils/build.gradle" timestamp="1594036976208">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="29" />
-        <mark key="^" line="44" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerService.kt" timestamp="1594039087409">
         <mark key="[" line="48" column="0" />
@@ -317,13 +311,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>tracker</text>
+        <text encoding="base64">bW9kZWwsIHBhcmVudFZpZXcsIGNsaWNrZWRWaWV3LCBwb3NpdGlvbiA=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>tracker</text>
+        <text encoding="base64">bW9kZWwsIHBhcmVudFZpZXcsIGNsaWNrZWRWaWV3LCBwb3NpdGlvbiA=</text>
       </register>
       <register name="/" type="4">
         <text>duus</text>
@@ -332,37 +326,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcGFyYXRvciB7IGlkKGl0LmlkICsgMSkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpvbkNsaWNrPSJAe29uQ2xpY2t9Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgPHZhcmlhYmxlCiAgICAgICAgICAgIG5hbWU9Im9uQ2xpY2siCiAgICAgICAgICAgIHR5cGU9ImFuZHJvaWQudmlldy5WaWV3Lk9uQ2xpY2tMaXN0ZW5lciIKICAgICAgICAgICAgLz4=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpvbkNsaWNrPSJAe29uQ2xpY2t9Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxheW91dFBhcmFtcyA9IFZpZXdHcm91cC5NYXJnaW5MYXlvdXRQYXJhbXMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmlld0dyb3VwLk1hcmdpbkxheW91dFBhcmFtcy5NQVRDSF9QQVJFTlQsIFZpZXdHcm91cC5NYXJnaW5MYXlvdXRQYXJhbXMuV1JBUF9DT05URU5UCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLmFwcGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXRNYXJnaW5zKDE2LmRwKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhCg==</text>
+        <text encoding="base64">CiAgICAgICAgPHZhcmlhYmxlCiAgICAgICAgICAgIG5hbWU9Im9uQ2xpY2siCiAgICAgICAgICAgIHR5cGU9ImFuZHJvaWQudmlldy5WaWV3Lk9uQ2xpY2tMaXN0ZW5lciIKICAgICAgICAgICAgLz4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2aWV3TW9kZWxTY29wZS5sYXVuY2ggewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYW50cmFja2VyU2VydmljZS5zZXROaWNrbmFtZU9mVHJhY2tlcihpdC5pZCwgZWRpdFRleHQudGV4dC50b1N0cmluZygpKS5vblJlc3VsdCB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>TextInputLayout(currentActivity).apply {
-                                    hint = currentActivity.getString(R.string.nickname)
-                                    addView(editText)
-                                }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxheW91dFBhcmFtcyA9IFZpZXdHcm91cC5NYXJnaW5MYXlvdXRQYXJhbXMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmlld0dyb3VwLk1hcmdpbkxheW91dFBhcmFtcy5NQVRDSF9QQVJFTlQsIFZpZXdHcm91cC5NYXJnaW5MYXlvdXRQYXJhbXMuV1JBUF9DT05URU5UCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLmFwcGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXRNYXJnaW5zKDE2LmRwKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0VGhlbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
