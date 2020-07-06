@@ -127,7 +127,7 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Makeable/demens-android/app/src/demens_faroe_islands/res/values/strings.xml" timestamp="1593777980215">
+      <file name="$USER_HOME$/Makeable/demens-android/app/src/demens_faroe_islands/res/values/strings.xml" timestamp="1594022175939">
         <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/demens-android/app/src/demens_iceland/res/values/strings.xml" timestamp="1594020214400">
@@ -175,11 +175,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="45" column="19" />
       </file>
-      <file name="$USER_HOME$/Makeable/demens-android/app/src/main/java/com/demens/makeable/demens/MainActivity.kt" timestamp="1594020561634">
+      <file name="$USER_HOME$/Makeable/demens-android/app/src/main/java/com/demens/makeable/demens/MainActivity.kt" timestamp="1594022005682">
         <mark key="[" line="108" column="25" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="102" column="57" />
+        <mark key="]" line="328" column="24" />
+        <mark key="." line="328" column="23" />
+        <mark key="^" line="328" column="24" />
       </file>
     </filemarks>
     <jumps>
