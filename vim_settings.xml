@@ -112,12 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_make_offer.xml" timestamp="1593769005053">
-        <mark key="[" line="181" column="42" />
-        <mark key="]" line="181" column="41" />
-        <mark key="." line="181" column="40" />
-        <mark key="^" line="181" column="41" />
-      </file>
       <file name="/Dummy.txt" timestamp="1594023299959">
         <mark key="[" line="0" column="0" />
       </file>
@@ -160,6 +154,13 @@
         <mark key="^" line="428" column="61" />
         <mark key="." line="429" column="39" />
       </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/ErrorService.kt" timestamp="1594026682259">
+        <mark key="'" line="13" column="42" />
+        <mark key="[" line="15" column="68" />
+        <mark key="]" line="15" column="67" />
+        <mark key="^" line="15" column="67" />
+        <mark key="." line="15" column="66" />
+      </file>
       <file name="$USER_HOME$/Makeable/demens-android/app/src/main/java/com/demens/makeable/demens/Services/FirebaseService.kt" timestamp="1594019323675" />
       <file name="$USER_HOME$/Makeable/demens-android/app/src/demens_denmark/res/values/strings.xml" timestamp="1593776017106">
         <mark key="[" line="11" column="0" />
@@ -192,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="4" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_log_filter.xml" />
       <jump line="92" column="0" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/dialog_fragment_tracker_log_filter.xml" />
       <jump line="33" column="16" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogViewModel.kt" />
       <jump line="44" column="48" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogViewModel.kt" />
@@ -292,6 +292,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterMakeOffer.kt" />
       <jump line="67" column="79" filename="$USER_HOME$/Makeable/demens-android/app/src/main/java/com/demens/makeable/demens/AboutListFragment.kt" />
       <jump line="33" column="58" filename="$USER_HOME$/Makeable/demens-android/app/src/main/res/layout/activity_main.xml" />
+      <jump line="11" column="42" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/ErrorService.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -300,7 +301,7 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcnJheU9mKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3Jhc2hseXRpY3MK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -315,34 +316,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXJyYXlPZihhbmRyb2lkLlIuYXR0ci5zdGF0ZV9jaGVja2VkKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcnJheU9mKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3Jhc2hseXRpY3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvZGF0YT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcnJheU9mKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1wb3J0IHR5cGU9ImNvbS5kZW1lbnMubWFrZWFibGUuZGVtZW5zLkJ1aWxkQ29uZmlnIi8+Cg==</text>
+        <text encoding="base64">ICAgIDwvZGF0YT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDppdGVtSWNvblRpbnQ9J0B7QnVpbGRDb25maWcuRkxBVk9SID09ICJkZW1lbnNfZmFyb2VfaXNsYW5kcyIgPyBAY29sb3IvY29sb3JBY2NlbnQgOiBAY29sb3IvY29sb3JQcmltYXJ5fScK</text>
+        <text encoding="base64">ICAgICAgICA8aW1wb3J0IHR5cGU9ImNvbS5kZW1lbnMubWFrZWFibGUuZGVtZW5zLkJ1aWxkQ29uZmlnIi8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDppdGVtSWNvblRpbnQ9J0B7QnVpbGRDb25maWcuRkxBVk9SID09ICJkZW1lbnNfZmFyb2VfaXNsYW5kcyIgPyBAY29sb3IvY29sb3JBY2NlbnQgOiBAY29sb3IvY29sb3JQcmltYXJ5fScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1OYXZpZ2F0aW9uQmFyPy50aW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiQUVFSWF1cE5vUlpyOFQzdTJsbHciLGEKICAgICAgICAgICAgICAgICAgICAiUVJZZ3pLNk1xOVJibXJFc0NFUFgiLAogICAgICAgICAgICAgICAgICAgICJqVjBGbXFoNVBJWGxvcGhDcnNOOSIsCiAgICAgICAgICAgICAgICAgICAgIkozVndTOFg0SEI3RzFKR3JHaEh3IiwKICAgICAgICAgICAgICAgICAgICAiQUF5Q0dMQ2VvaHVZRVBxQnlOc0siLAogICAgICAgICAgICAgICAgICAgICJ3aFRlemlDWTk5VDBwZUZRS2xNRCIsCiAgICAgICAgICAgICAgICAgICAgIk9MYTV6SnNCNmhqUXE5c2xjWkM4IiwKICAgICAgICAgICAgICAgICAgICAiUHhBbFpzMlFFcWd0QUhBeGlIN0MiLAogICAgICAgICAgICAgICAgICAgICJFYklpVmIzeHlzWjJUQmt0enB1dyI=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1OYXZpZ2F0aW9uQmFyPy50aW50Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiQUVFSWF1cE5vUlpyOFQzdTJsbHciLGEKICAgICAgICAgICAgICAgICAgICAiUVJZZ3pLNk1xOVJibXJFc0NFUFgiLAogICAgICAgICAgICAgICAgICAgICJqVjBGbXFoNVBJWGxvcGhDcnNOOSIsCiAgICAgICAgICAgICAgICAgICAgIkozVndTOFg0SEI3RzFKR3JHaEh3IiwKICAgICAgICAgICAgICAgICAgICAiQUF5Q0dMQ2VvaHVZRVBxQnlOc0siLAogICAgICAgICAgICAgICAgICAgICJ3aFRlemlDWTk5VDBwZUZRS2xNRCIsCiAgICAgICAgICAgICAgICAgICAgIk9MYTV6SnNCNmhqUXE5c2xjWkM4IiwKICAgICAgICAgICAgICAgICAgICAiUHhBbFpzMlFFcWd0QUhBeGlIN0MiLAogICAgICAgICAgICAgICAgICAgICJFYklpVmIzeHlzWjJUQmt0enB1dyI=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBGaXJlYmFzZVNlcnZpY2UuZmlyZWJhc2VBYm91dCA9ICJhYm91dF9pcyIKICAgICAgICAgICAgICAgIEZpcmViYXNlU2VydmljZS5maXJlYmFzZUFkdmljZSA9ICJhZHZpY2VfaXMiCiAgICAgICAgICAgICAgICBGaXJlYmFzZVNlcnZpY2UuZmlyZWJhc2VPYnNlcnZhdGlvbiA9ICJvYnNlcnZhdGlvbl9pcyIKCiAgICAgICAgICAgICAgICBGaXJlYmFzZVNlcnZpY2UuZmlyZWJhc2VTaWduT2ZEZW1lbnRpYSA9ICJzaWduX29mX2RlbWVudGlhX2lzIgogICAgICAgICAgICAgICAgRmlyZWJhc2VTZXJ2aWNlLmZpcmViYXNlRm9vZEFuZERyaW5rID0gImZvb2RfYW5kX2RyaW5rX2lzIgogICAgICAgICAgICAgICAgRmlyZWJhc2VTZXJ2aWNlLmZpcmViYXNlRGFpbHlDaG9yZXMgPSAiZGFpbHlfY2hvcmVzX2lzIgogICAgICAgICAgICAgICAgRmlyZWJhc2VTZXJ2aWNlLmZpcmViYXNlQmVoYXZpb3VyID0gImJlaGF2aW91cl9pcyIKICAgICAgICAgICAgICAgIEZpcmViYXNlU2VydmljZS5maXJlYmFzZUJvZHlBbmRTZW5zZXMgPSAiYm9keV9hbmRfc2Vuc2VzX2lzIgogICAgICAgICAgICAgICAgRmlyZWJhc2VTZXJ2aWNlLmZpcmViYXNlVG9pbGV0VmlzaXQgPSAidG9pbGV0X3Zpc2l0X2lzIg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
