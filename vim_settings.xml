@@ -154,12 +154,12 @@
         <mark key="^" line="428" column="61" />
         <mark key="." line="429" column="39" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/ErrorService.kt" timestamp="1594026682259">
-        <mark key="'" line="13" column="42" />
-        <mark key="[" line="15" column="68" />
-        <mark key="]" line="15" column="67" />
-        <mark key="^" line="15" column="67" />
-        <mark key="." line="15" column="66" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/ErrorService.kt" timestamp="1594028226950">
+        <mark key="'" line="14" column="42" />
+        <mark key="[" line="29" column="64" />
+        <mark key="]" line="29" column="63" />
+        <mark key="^" line="29" column="63" />
+        <mark key="." line="29" column="62" />
       </file>
       <file name="$USER_HOME$/Makeable/demens-android/app/src/main/java/com/demens/makeable/demens/Services/FirebaseService.kt" timestamp="1594019323675" />
       <file name="$USER_HOME$/Makeable/demens-android/app/src/demens_denmark/res/values/strings.xml" timestamp="1593776017106">
@@ -167,11 +167,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1594024555390">
-        <mark key="[" line="132" column="45" />
-        <mark key="]" line="132" column="45" />
-        <mark key="^" line="132" column="45" />
-        <mark key="." line="132" column="44" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1594028417304">
+        <mark key="[" line="107" column="70" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_request_detail.xml" timestamp="1593770411619">
         <mark key="[" line="22" column="36" />
@@ -188,7 +187,7 @@
         <mark key="." line="147" column="33" />
         <mark key="^" line="147" column="34" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/koin/ApiModule.kt" timestamp="1594025082076">
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/koin/ApiModule.kt" timestamp="1594028120285">
         <mark key="[" line="17" column="34" />
       </file>
     </filemarks>
@@ -301,13 +300,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3Jhc2hseXRpY3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2tpcEFuaW1hdGlvbiA9IGZhbHNlCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>animateCamera</text>
       </register>
       <register name="/" type="4">
         <text>duus</text>
@@ -316,34 +315,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXJyYXlPZihhbmRyb2lkLlIuYXR0ci5zdGF0ZV9jaGVja2VkKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3Jhc2hseXRpY3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2tpcEFuaW1hdGlvbiA9IGZhbHNlCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcnJheU9mKCkK</text>
+      <register name="2" type="4">
+        <text>,
+                            object: GoogleMap.CancelableCallback {
+                                override fun onFinish() {
+                                    trackerViewModel.selectedTracker.postValue(null)
+                                }
+
+                                override fun onCancel() {
+                                    trackerViewModel.selectedTracker.postValue(null)
+                                }
+                            }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvZGF0YT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3Jhc2hseXRpY3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1wb3J0IHR5cGU9ImNvbS5kZW1lbnMubWFrZWFibGUuZGVtZW5zLkJ1aWxkQ29uZmlnIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcnJheU9mKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDppdGVtSWNvblRpbnQ9J0B7QnVpbGRDb25maWcuRkxBVk9SID09ICJkZW1lbnNfZmFyb2VfaXNsYW5kcyIgPyBAY29sb3IvY29sb3JBY2NlbnQgOiBAY29sb3IvY29sb3JQcmltYXJ5fScK</text>
+        <text encoding="base64">ICAgIDwvZGF0YT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW1wb3J0IHR5cGU9ImNvbS5kZW1lbnMubWFrZWFibGUuZGVtZW5zLkJ1aWxkQ29uZmlnIi8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1OYXZpZ2F0aW9uQmFyPy50aW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDppdGVtSWNvblRpbnQ9J0B7QnVpbGRDb25maWcuRkxBVk9SID09ICJkZW1lbnNfZmFyb2VfaXNsYW5kcyIgPyBAY29sb3IvY29sb3JBY2NlbnQgOiBAY29sb3IvY29sb3JQcmltYXJ5fScK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiQUVFSWF1cE5vUlpyOFQzdTJsbHciLGEKICAgICAgICAgICAgICAgICAgICAiUVJZZ3pLNk1xOVJibXJFc0NFUFgiLAogICAgICAgICAgICAgICAgICAgICJqVjBGbXFoNVBJWGxvcGhDcnNOOSIsCiAgICAgICAgICAgICAgICAgICAgIkozVndTOFg0SEI3RzFKR3JHaEh3IiwKICAgICAgICAgICAgICAgICAgICAiQUF5Q0dMQ2VvaHVZRVBxQnlOc0siLAogICAgICAgICAgICAgICAgICAgICJ3aFRlemlDWTk5VDBwZUZRS2xNRCIsCiAgICAgICAgICAgICAgICAgICAgIk9MYTV6SnNCNmhqUXE5c2xjWkM4IiwKICAgICAgICAgICAgICAgICAgICAiUHhBbFpzMlFFcWd0QUhBeGlIN0MiLAogICAgICAgICAgICAgICAgICAgICJFYklpVmIzeHlzWjJUQmt0enB1dyI=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1OYXZpZ2F0aW9uQmFyPy50aW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
