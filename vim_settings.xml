@@ -123,18 +123,17 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" timestamp="1594032414727">
-        <mark key="[" line="18" column="54" />
-        <mark key="]" line="100" column="18" />
-        <mark key="." line="100" column="18" />
-        <mark key="^" line="100" column="23" />
-      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/util/BindingAdapters.kt" timestamp="1594035727233">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-views/EpoxyFragment/build.gradle" timestamp="1594034291114">
+      <file name="$USER_HOME$/Makeable/android-views/README.MD" timestamp="1594037467375">
+        <mark key="[" line="36" column="52" />
+        <mark key="]" line="36" column="52" />
+        <mark key="." line="36" column="52" />
+      </file>
+      <file name="$USER_HOME$/Makeable/android-views/EpoxyFragment/build.gradle" timestamp="1594037528453">
         <mark key="[" line="41" column="1" />
         <mark key="]" line="43" column="120" />
         <mark key="." line="43" column="0" />
@@ -166,11 +165,11 @@
       <file name="$USER_HOME$/Makeable/android-views/EpoxyFragment/src/main/java/dk/makeable/epoxyfragment/EpoxyFragment.kt" timestamp="1594034151082">
         <mark key="[" line="25" column="35" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/util/Exstentions.kt" timestamp="1594035745975">
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/util/Exstentions.kt" timestamp="1594037199765">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-utils/mapsutils/build.gradle" timestamp="1594035860370">
+      <file name="$USER_HOME$/Makeable/android-utils/mapsutils/build.gradle" timestamp="1594036847961">
         <mark key="[" line="38" column="1" />
         <mark key="]" line="40" column="120" />
         <mark key="." line="40" column="0" />
@@ -181,7 +180,7 @@
         <mark key="." line="84" column="60" />
         <mark key="^" line="84" column="61" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-utils/dateutils/build.gradle" timestamp="1594035874953">
+      <file name="$USER_HOME$/Makeable/android-utils/dateutils/build.gradle" timestamp="1594036976208">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="29" />
         <mark key="^" line="44" column="0" />
@@ -318,14 +317,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5kY2VuZGVudHMuYW5kcm9pZC1tYXZlbicKZ3JvdXA9J2NvbS5naXRodWIubWFrZWFibGVkaycK</text>
+      <register name="&quot;" type="4">
+        <text>integerutils</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text>integerutils</text>
       </register>
       <register name="/" type="4">
         <text>duus</text>
@@ -334,35 +333,45 @@
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5kY2VuZGVudHMuYW5kcm9pZC1tYXZlbicKZ3JvdXA9J2NvbS5naXRodWIubWFrZWFibGVkaycK</text>
       </register>
       <register name="1" type="2">
-        <text>class GeneralUtils {
-}</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text>implementation &quot;com.github.makeabledk.android-utils:navigationutils:$viewVersion&quot;
+implementation &quot;com.github.makeabledk.android-utils:networkutils:$viewVersion&quot;
+implementation &quot;com.github.makeabledk.android-utils:stringutils:$viewVersion&quot;
+implementation &quot;com.github.makeabledk.android-utils:viewutils:$viewVersion&quot;
+implementation &quot;com.github.makeabledk.android-utils:webviewutils:$viewVersion&quot;
+implementation &quot;com.github.makeabledk.android-utils:animationutils:$viewVersion&quot;
+implementation &quot;com.github.makeabledk.android-utils:phoneutils:$viewVersion&quot;
+implementation &quot;com.github.makeabledk.android-utils:mapsutils:$viewVersion&quot;
+implementation &quot;com.github.makeabledk.android-utils:generalutils:$viewVersion&quot;
+implementation &quot;com.github.makeabledk.android-utils:bindingadapters:$viewVersion&quot;
+implementation &quot;com.github.makeabledk.android-utils:dateutils:$viewVersion&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNpcmN1bGFyPy5sZXQgewo=</text>
+        <text>class GeneralUtils {
+}</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LnJvdW5kKGl0LmRwKQo=</text>
+        <text encoding="base64">ICAgIGNpcmN1bGFyPy5sZXQgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFtb3VudD8ubGV0IHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2aWV3LnJvdW5kKGl0LmRwKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LnJvdW5kKCkK</text>
+        <text encoding="base64">ICAgIGFtb3VudD8ubGV0IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNpcmN1bGFyPy5sZXQgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
