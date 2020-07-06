@@ -112,73 +112,44 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/util/EpoxyFragment.kt" timestamp="1594032692126">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/android-utils/bindingadapters/build.gradle" timestamp="1594035879747">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="29" />
         <mark key="^" line="3" column="21" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/util/BindingAdapters.kt" timestamp="1594035727233">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Makeable/android-views/app/build.gradle" timestamp="1594038743048">
+        <mark key="[" line="33" column="74" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-views/README.MD" timestamp="1594037467375">
-        <mark key="[" line="36" column="52" />
-        <mark key="]" line="36" column="52" />
-        <mark key="." line="36" column="52" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" timestamp="1594040425779">
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="39" />
+        <mark key="^" line="45" column="47" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-views/EpoxyFragment/build.gradle" timestamp="1594037528453">
-        <mark key="[" line="41" column="1" />
-        <mark key="]" line="43" column="120" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="41" column="1" />
+      <file name="$USER_HOME$/Makeable/android-views/EpoxyFragment/build.gradle" timestamp="1594038584689">
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="45" column="120" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="43" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594034117685">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/android-views/build.gradle" timestamp="1594034314460">
-        <mark key="[" line="12" column="54" />
-        <mark key="]" line="15" column="72" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/android-utils/mapsutils/src/main/java/dk/makeable/mapsutils/MapsUtils.kt" timestamp="1594034906886">
-        <mark key="[" line="8" column="66" />
-      </file>
-      <file name="$USER_HOME$/Makeable/android-utils/generalutils/src/main/java/dk/makeable/generalutils/GeneralUtils.kt" timestamp="1594035827237">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="6" column="1" />
-        <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/view/SliderView.kt" timestamp="1594032606635">
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="33" />
-        <mark key="^" line="27" column="33" />
-        <mark key="." line="27" column="32" />
-      </file>
-      <file name="$USER_HOME$/Makeable/android-views/EpoxyFragment/src/main/java/dk/makeable/epoxyfragment/EpoxyFragment.kt" timestamp="1594034151082">
-        <mark key="[" line="25" column="35" />
+      <file name="$USER_HOME$/Makeable/android-views/app/src/main/java/dk/makeable/androidviews/TestFragment.kt" timestamp="1594038707941">
+        <mark key="[" line="10" column="51" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/util/Exstentions.kt" timestamp="1594037199765">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-utils/mapsutils/build.gradle" timestamp="1594036847961">
-        <mark key="[" line="38" column="1" />
-        <mark key="]" line="40" column="120" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594034802584">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="69" />
-        <mark key="." line="84" column="60" />
-        <mark key="^" line="84" column="61" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/strings.xml" timestamp="1594039348915">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="45" />
+        <mark key="." line="53" column="35" />
+        <mark key="^" line="53" column="36" />
       </file>
       <file name="$USER_HOME$/Makeable/android-utils/dateutils/build.gradle" timestamp="1594036976208">
         <mark key="[" line="3" column="0" />
@@ -186,27 +157,52 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-utils/bindingadapters/src/main/java/dk/makeable/bindingadapters/BindgigAdapters.kt" timestamp="1594035695588">
-        <mark key="[" line="21" column="42" />
-        <mark key="]" line="23" column="15" />
-        <mark key="." line="23" column="14" />
-        <mark key="^" line="23" column="15" />
-      </file>
-      <file name="$USER_HOME$/Makeable/android-utils/build.gradle" timestamp="1594034306327">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="72" />
-        <mark key="." line="3" column="32" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1594034493504">
-        <mark key="[" line="99" column="61" />
-        <mark key="]" line="100" column="32" />
-        <mark key="." line="100" column="31" />
-        <mark key="^" line="100" column="32" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerService.kt" timestamp="1594039087409">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/android-utils/generalutils/build.gradle" timestamp="1594035863791">
         <mark key="[" line="36" column="1" />
         <mark key="]" line="38" column="120" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/NotificationFragment.kt" timestamp="1594040087385">
+        <mark key="[" line="98" column="72" />
+        <mark key="]" line="98" column="51" />
+        <mark key="^" line="98" column="51" />
+        <mark key="." line="98" column="50" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/android-views/1.0.0/507925e36f9eee3abaa8dd099317916cf92e8451/android-views-1.0.0-sources.jar!/dk/makeable/epoxyfragment/EpoxyFragment.kt" timestamp="1594038398717" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values-da/strings.xml" timestamp="1594039356669">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="45" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogListFragment.kt" timestamp="1594040146254">
+        <mark key="[" line="16" column="51" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="13" column="64" />
+      </file>
+      <file name="$USER_HOME$/Makeable/android-views/app/src/main/java/dk/makeable/androidviews/MainActivity.kt" timestamp="1594038626855">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerAPI.kt" timestamp="1594039069672">
+        <mark key="[" line="61" column="24" />
+      </file>
+      <file name="$USER_HOME$/Makeable/android-utils/mapsutils/build.gradle" timestamp="1594036847961">
+        <mark key="[" line="38" column="1" />
+        <mark key="]" line="40" column="120" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594038527952">
+        <mark key="[" line="43" column="1" />
+        <mark key="]" line="45" column="14" />
+        <mark key="." line="40" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -318,60 +314,49 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>integerutils</text>
+        <text>TextInputEditText</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>integerutils</text>
+        <text>TextInputEditText</text>
       </register>
       <register name="/" type="4">
         <text>duus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5kY2VuZGVudHMuYW5kcm9pZC1tYXZlbicKZ3JvdXA9J2NvbS5naXRodWIubWFrZWFibGVkaycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcGFyYXRvciB7IGlkKGl0LmlkICsgMSkgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text>implementation &quot;com.github.makeabledk.android-utils:navigationutils:$viewVersion&quot;
-implementation &quot;com.github.makeabledk.android-utils:networkutils:$viewVersion&quot;
-implementation &quot;com.github.makeabledk.android-utils:stringutils:$viewVersion&quot;
-implementation &quot;com.github.makeabledk.android-utils:viewutils:$viewVersion&quot;
-implementation &quot;com.github.makeabledk.android-utils:webviewutils:$viewVersion&quot;
-implementation &quot;com.github.makeabledk.android-utils:animationutils:$viewVersion&quot;
-implementation &quot;com.github.makeabledk.android-utils:phoneutils:$viewVersion&quot;
-implementation &quot;com.github.makeabledk.android-utils:mapsutils:$viewVersion&quot;
-implementation &quot;com.github.makeabledk.android-utils:generalutils:$viewVersion&quot;
-implementation &quot;com.github.makeabledk.android-utils:bindingadapters:$viewVersion&quot;
-implementation &quot;com.github.makeabledk.android-utils:dateutils:$viewVersion&quot;</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSB2YWwgaXRlbVNwYWNpbmc6IEludCA9IDAKICAgIG92ZXJyaWRlIHZhbCBwYWRkaW5nOiBJbnQgPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text>class GeneralUtils {
-}</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFyZ3MgYnkgbmF2QXJnczxUcmFja2VyU3RhdHVzRnJhZ21lbnRBcmdzPigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNpcmN1bGFyPy5sZXQgewo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCB0cmFja2VyVmlld01vZGVsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmlja25hbWUgPSBuaWNrbmFtZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LnJvdW5kKGl0LmRwKQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoIjpFcG94eUZyYWdtZW50IikK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFtb3VudD8ubGV0IHsK</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CiAgICBhbmRyb2lkRXh0ZW5zaW9ucyB7CiAgICAgICAgZXhwZXJpbWVudGFsID0gdHJ1ZQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
