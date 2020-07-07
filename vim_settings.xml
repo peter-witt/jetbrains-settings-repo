@@ -117,10 +117,8 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/epoxy_model_tracker_cell.xml" timestamp="1594043700139">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Makeable/android-utils/navigationutils/src/main/res/layout/element_tab_badge.xml" timestamp="1594107524983">
+        <mark key="[" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/util/Extensions_BottomNavigationView.kt" timestamp="1594106617333" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/colors.xml" timestamp="1594106821253">
@@ -140,7 +138,7 @@
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/koin/ApiModule.kt" timestamp="1594103288195">
         <mark key="[" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-views/EpoxyFragment/build.gradle" timestamp="1594106748230">
+      <file name="$USER_HOME$/Makeable/android-views/EpoxyFragment/build.gradle" timestamp="1594107749563">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -155,12 +153,13 @@
         <mark key="^" line="67" column="61" />
         <mark key="." line="67" column="60" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerAPI.kt" timestamp="1594042623314">
-        <mark key="[" line="64" column="5" />
-        <mark key="]" line="61" column="30" />
-        <mark key="." line="61" column="30" />
+      <file name="$USER_HOME$/Makeable/android-utils/generalutils/src/main/java/dk/makeable/generalutils/GeneralUtils.kt" timestamp="1594107397380">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="30" />
+        <mark key="." line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-utils/navigationutils/build.gradle" timestamp="1594106885705">
+      <file name="$USER_HOME$/Makeable/android-utils/navigationutils/build.gradle" timestamp="1594107554375">
         <mark key="[" line="53" column="29" />
         <mark key="]" line="53" column="29" />
         <mark key="." line="53" column="29" />
@@ -172,11 +171,6 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="35" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1594044247369">
-        <mark key="[" line="54" column="30" />
-        <mark key="]" line="54" column="30" />
-        <mark key="." line="54" column="30" />
-      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594105916917">
         <mark key="[" line="15" column="22" />
         <mark key="]" line="105" column="62" />
@@ -186,6 +180,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/android-views/1.0.1/2b2b5f181da572719cb2a5e597b730bf0ef7b03a/android-views-1.0.1-sources.jar!/dk/makeable/epoxyfragment/EpoxyFragment.kt" timestamp="1594104209308">
         <mark key="[" line="24" column="42" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/util/FragmentUtils.kt" timestamp="1594107031002" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/trackerMode/TrackerModeViewModel.kt" timestamp="1594103381654">
         <mark key="[" line="26" column="49" />
         <mark key="]" line="26" column="49" />
@@ -315,13 +310,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>integerutils</text>
+        <text>String</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>integerutils</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>duus</text>
