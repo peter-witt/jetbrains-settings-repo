@@ -112,9 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/android-utils/app/build.gradle" timestamp="1594115674455">
-        <mark key="[" line="10" column="24" />
-      </file>
       <file name="$USER_HOME$/Makeable/android-utils/phoneutils/build.gradle" timestamp="1594115705898">
         <mark key="[" line="11" column="24" />
       </file>
@@ -135,9 +132,6 @@
         <mark key="]" line="48" column="24" />
         <mark key="^" line="48" column="25" />
         <mark key="." line="48" column="24" />
-      </file>
-      <file name="$USER_HOME$/Makeable/android-utils/stringutils/build.gradle" timestamp="1594115709336">
-        <mark key="[" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Makeable/android-utils/integerutils/build.gradle" timestamp="1594115691290">
         <mark key="[" line="11" column="24" />
@@ -164,7 +158,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="43" column="70" />
       </file>
-      <file name="$USER_HOME$/Makeable/demens-android/app/src/demens_faroe_islands/res/values/strings.xml" timestamp="1594110296017" />
       <file name="$USER_HOME$/Makeable/android-utils/networkutils/build.gradle" timestamp="1594115702293">
         <mark key="[" line="11" column="24" />
       </file>
@@ -174,24 +167,35 @@
         <mark key="." line="53" column="29" />
         <mark key="^" line="52" column="41" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-utils/mapsutils/build.gradle" timestamp="1594115694610">
-        <mark key="[" line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594115180569">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="106" column="62" />
-        <mark key="." line="106" column="61" />
-        <mark key="^" line="106" column="62" />
-      </file>
       <file name="$USER_HOME$/Makeable/android-utils/dateutils/build.gradle" timestamp="1594115682741">
         <mark key="[" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Makeable/android-utils/generalutils/build.gradle" timestamp="1594115687661">
         <mark key="[" line="10" column="24" />
       </file>
+      <file name="$USER_HOME$/Makeable/android-utils/app/build.gradle" timestamp="1594115674455">
+        <mark key="[" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/Makeable/android-utils/stringutils/build.gradle" timestamp="1594115709336">
+        <mark key="[" line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/Application.kt" timestamp="1594116785560">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+      </file>
+      <file name="$USER_HOME$/Makeable/android-utils/mapsutils/build.gradle" timestamp="1594115694610">
+        <mark key="[" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594116765252">
+        <mark key="'" line="60" column="64" />
+        <mark key="[" line="60" column="19" />
+        <mark key="]" line="60" column="65" />
+        <mark key="." line="60" column="19" />
+        <mark key="^" line="60" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="4" filename="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" />
       <jump line="60" column="49" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" />
       <jump line="73" column="57" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" />
       <jump line="98" column="4" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" />
@@ -291,6 +295,7 @@
       <jump line="53" column="12" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerSettingsFragment.kt" />
       <jump line="115" column="16" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" />
       <jump line="93" column="53" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" />
+      <jump line="60" column="64" filename="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -298,14 +303,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb25uZWN0aW9uU3BlY3MobGlzdE9mKENvbm5lY3Rpb25TcGVjLkNPTVBBVElCTEVfVExTKSkK</text>
+      <register name="&quot;" type="4">
+        <text>Application</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>Application</text>
       </register>
       <register name="/" type="4">
         <text>duus</text>
