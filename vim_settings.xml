@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>setup</entry>
         <entry encoding="base64">XDxpdFw+</entry>
         <entry encoding="base64">PA==</entry>
         <entry>subitle</entry>
@@ -27,6 +26,7 @@
         <entry>getter</entry>
         <entry>HH</entry>
         <entry>duus</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist extract</entry>
@@ -115,27 +115,16 @@
       <file name="$USER_HOME$/Makeable/android-utils/phoneutils/build.gradle" timestamp="1594115705898">
         <mark key="[" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-utils/animationutils/build.gradle" timestamp="1594115669532">
-        <mark key="[" line="11" column="24" />
-      </file>
       <file name="$USER_HOME$/Makeable/android-utils/viewutils/build.gradle" timestamp="1594115712500">
         <mark key="[" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_tracker_group.xml" timestamp="1594118514854">
-        <mark key="[" line="56" column="17" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="31" />
-        <mark key="^" line="31" column="32" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_tracker_group.xml" timestamp="1594119833826">
+        <mark key="[" line="64" column="44" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="69" column="23" />
       </file>
       <file name="$USER_HOME$/Makeable/android-utils/integerutils/build.gradle" timestamp="1594115691290">
-        <mark key="[" line="11" column="24" />
-      </file>
-      <file name="$USER_HOME$/Makeable/android-views/app/build.gradle" timestamp="1594115577315">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/android-utils/bindingadapters/build.gradle" timestamp="1594115678595">
         <mark key="[" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Makeable/android-utils/webviewutils/build.gradle" timestamp="1594115716379">
@@ -150,14 +139,17 @@
         <mark key="." line="53" column="29" />
         <mark key="^" line="52" column="41" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-utils/dateutils/build.gradle" timestamp="1594115682741">
-        <mark key="[" line="10" column="24" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerService.kt" timestamp="1594119548165">
+        <mark key="[" line="53" column="77" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-utils/generalutils/build.gradle" timestamp="1594115687661">
-        <mark key="[" line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/Makeable/android-utils/app/build.gradle" timestamp="1594115674455">
-        <mark key="[" line="10" column="24" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerSettingsFragment.kt" timestamp="1594120036118">
+        <mark key="'" line="107" column="34" />
+        <mark key="[" line="107" column="49" />
+        <mark key="]" line="107" column="49" />
+        <mark key="^" line="107" column="51" />
+        <mark key="." line="107" column="49" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values-da/strings.xml" timestamp="1594117962758">
         <mark key="[" line="60" column="90" />
@@ -165,14 +157,20 @@
         <mark key="." line="60" column="42" />
         <mark key="^" line="59" column="53" />
       </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_tracker_geofence.xml" timestamp="1594119763891" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_tracker_settings.xml" timestamp="1594119896960">
+        <mark key="[" line="75" column="38" />
+        <mark key="]" line="75" column="38" />
+        <mark key="^" line="75" column="40" />
+        <mark key="." line="75" column="38" />
+      </file>
       <file name="$USER_HOME$/Makeable/android-utils/stringutils/build.gradle" timestamp="1594115709336">
         <mark key="[" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerGroupFragment.kt" timestamp="1594119149521">
-        <mark key="[" line="50" column="59" />
-        <mark key="]" line="50" column="59" />
-        <mark key="." line="50" column="25" />
-        <mark key="^" line="50" column="26" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerGroupFragment.kt" timestamp="1594120104891">
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/Application.kt" timestamp="1594116785560">
         <mark key="[" line="17" column="20" />
@@ -181,6 +179,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1594117253886">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerAPI.kt" timestamp="1594119536825">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="61" column="30" />
+        <mark key="." line="61" column="30" />
       </file>
       <file name="$USER_HOME$/Makeable/android-utils/mapsutils/build.gradle" timestamp="1594115694610">
         <mark key="[" line="10" column="24" />
@@ -194,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="49" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" />
       <jump line="73" column="57" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" />
       <jump line="98" column="4" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" />
       <jump line="406" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" />
@@ -294,6 +296,7 @@
       <jump line="115" column="16" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" />
       <jump line="93" column="53" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" />
       <jump line="60" column="64" filename="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" />
+      <jump line="107" column="34" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerSettingsFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -302,49 +305,51 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFRyYWNrZXIuVHJhY2tlckdyb3VwLkJvYXRXYXRlciAtPg==</text>
+        <text>.actionTrackerSettingsFragmentToTrackerStatusFragment(viewModel.tracker.value ?: args.tracker)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFRyYWNrZXIuVHJhY2tlckdyb3VwLkJvYXRXYXRlciAtPg==</text>
+        <text>.actionTrackerSettingsFragmentToTrackerStatusFragment(viewModel.tracker.value ?: args.tracker)</text>
       </register>
       <register name="/" type="4">
-        <text>duus</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXRCdXR0b25JZEZyb21Hcm91cChncm91cDogVHJhY2tlci5UcmFja2VyR3JvdXApOiBJbnQgPSB3aGVuIChncm91cCkgewogICAgICAgIFRyYWNrZXIuVHJhY2tlckdyb3VwLlRlc3QgLT4gVE9ETygpCiAgICAgICAgVHJhY2tlci5UcmFja2VyR3JvdXAuQmlrZSAtPiBSLmlkLmJpa2UKICAgICAgICBUcmFja2VyLlRyYWNrZXJHcm91cC5DYXIgLT4gUi5pZC5jYXIKICAgICAgICBUcmFja2VyLlRyYWNrZXJHcm91cC5Hb2xmYmFnIC0+IFIuaWQuZ29sZkJhZwogICAgICAgIFRyYWNrZXIuVHJhY2tlckdyb3VwLkNvbnRhaW5lciAtPiBSLmlkLmNvbnRhaW5lcgogICAgICAgIFRyYWNrZXIuVHJhY2tlckdyb3VwLkJvYXRCZWFjaCAtPiBSLmlkLmJvYXRMYW5kCiAgICAgICAgVHJhY2tlci5UcmFja2VyR3JvdXAuQm9hdFdhdGVyIC0+IFIuaWQuYm9hdFdhdGVyCiAgICAgICAgVHJhY2tlci5UcmFja2VyR3JvdXAuUG9saWNlIC0+IFRPRE8oKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXMuc2V0T25DbGlja0xpc3RlbmVyIHsKICAgICAgICAgICAgZmluZE5hdkNvbnRyb2xsZXIoKS5uYXZpZ2F0ZUFuaW1hdGVkKAogICAgICAgICAgICAgICAgVHJhY2tlclNldHRpbmdzRnJhZ21lbnREaXJlY3Rpb25zLmFjdGlvblRyYWNrZXJTZXR0aW5nc0ZyYWdtZW50VG9UcmFja2VyU3RhdHVzRnJhZ21lbnQodmlld01vZGVsLnRyYWNrZXIudmFsdWUgPzogYXJncy50cmFja2VyKQogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFja2VyLlRyYWNrZXJHcm91cC5UZXN0IC0+IFRPRE8oKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmRUaW50PSJAY29sb3IvY29sb3JQcmltYXJ5Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFja2VyLlRyYWNrZXJHcm91cC5Qb2xpY2UgLT4gVE9ETygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByYWRpb0dyb3VwLnNldE9uQ2hlY2tlZENoYW5nZUxpc3RlbmVyIHsgZ3JvdXAsIGNoZWNrZWRJZCAtPgogICAgICAgICAgICB2aWV3TW9kZWwuc2V0VHJhY2tlckdyb3VwKGdldEdyb3VwRnJvbUlkKGNoZWNrZWRJZCkpCiAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxici5jb20uc2ltcGxlcGFzcy5sb2FkaW5nYnV0dG9uLmN1c3RvbVZpZXdzLkNpcmN1bGFyUHJvZ3Jlc3NCdXR0b24KICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iIgo=</text>
+      <register name="5" type="4">
+        <text>dantrackerService.getTracker(tracker.value!!.id).onResult { 
+                    tracker.postValue(it)
+                }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJCaWtlIgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2Jpa2UiCg==</text>
+        <text encoding="base64">ICAgICAgICBUcmFja2VyLlRyYWNrZXJHcm91cC5UZXN0IC0+IFRPRE8oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUcmFja2VyLlRyYWNrZXJHcm91cC5Qb2xpY2UgLT4gVE9ETygpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgPGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC5yYWRpb2J1dHRvbi5NYXRlcmlhbFJhZGlvQnV0dG9uCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IlRlc3QiCiAgICAgICAgICAgIC8+</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFkaW9Hcm91cC5zZXRPbkNoZWNrZWRDaGFuZ2VMaXN0ZW5lciB7IGdyb3VwLCBjaGVja2VkSWQgLT4KICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
@@ -353,12 +358,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>duus</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern>duus</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxEaWFsb2dGcmFnbWVuy5x0U2V0QWdlXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
