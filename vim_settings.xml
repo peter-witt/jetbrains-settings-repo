@@ -124,6 +124,12 @@
         <mark key="." line="70" column="34" />
         <mark key="^" line="70" column="35" />
       </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/koin/ApiModule.kt" timestamp="1594122247373">
+        <mark key="'" line="32" column="109" />
+        <mark key="[" line="32" column="75" />
+        <mark key="]" line="32" column="110" />
+        <mark key="." line="32" column="74" />
+      </file>
       <file name="$USER_HOME$/Makeable/android-utils/webviewutils/build.gradle" timestamp="1594115716379">
         <mark key="[" line="12" column="24" />
       </file>
@@ -132,12 +138,6 @@
       </file>
       <file name="/fragment.kt" timestamp="1594121232122">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/android-utils/navigationutils/build.gradle" timestamp="1594115698827">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="53" column="29" />
-        <mark key="." line="53" column="29" />
-        <mark key="^" line="52" column="41" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/strings.xml" timestamp="1594121771754">
         <mark key="[" line="53" column="0" />
@@ -205,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="57" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" />
       <jump line="98" column="4" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" />
       <jump line="406" column="35" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" />
       <jump line="101" column="49" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" />
@@ -305,6 +304,7 @@
       <jump line="93" column="53" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" />
       <jump line="60" column="64" filename="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" />
       <jump line="107" column="34" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerSettingsFragment.kt" />
+      <jump line="38" column="109" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/koin/ApiModule.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,14 +312,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXVsdGlEZXhLZWVwRmlsZSBmaWxlKCdtdWx0aWRleC1jb25maWcudHh0JykK</text>
+      <register name="&quot;" type="4">
+        <text>TODO(&quot;Not yet implemented&quot;)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>water</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gYXJyYXlPZigp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -327,23 +327,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0dXMuc2V0T25DbGlja0xpc3RlbmVyIHsKICAgICAgICAgICAgZmluZE5hdkNvbnRyb2xsZXIoKS5uYXZpZ2F0ZUFuaW1hdGVkKAogICAgICAgICAgICAgICAgVHJhY2tlclNldHRpbmdzRnJhZ21lbnREaXJlY3Rpb25zLmFjdGlvblRyYWNrZXJTZXR0aW5nc0ZyYWdtZW50VG9UcmFja2VyU3RhdHVzRnJhZ21lbnQodmlld01vZGVsLnRyYWNrZXIudmFsdWUgPzogYXJncy50cmFja2VyKQogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXVsdGlEZXhLZWVwRmlsZSBmaWxlKCdtdWx0aWRleC1jb25maWcudHh0JykK</text>
+      <register name="1" type="4">
+        <text>{
+
+                }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZWQgdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXVsdGlEZXhLZWVwRmlsZSBmaWxlKCdtdWx0aWRleC1jb25maWcudHh0JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZWQgdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBkZWYgbXVsdGlkZXhfdmVyc2lvbiA9ICIyLjAuMSIKICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5tdWx0aWRleDptdWx0aWRleDokbXVsdGlkZXhfdmVyc2lvbiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmRUaW50PSJAY29sb3IvY29sb3JQcmltYXJ5Igo=</text>
+        <text encoding="base64">CiAgICBkZWYgbXVsdGlkZXhfdmVyc2lvbiA9ICIyLjAuMSIKICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5tdWx0aWRleDptdWx0aWRleDokbXVsdGlkZXhfdmVyc2lvbiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmRUaW50PSJAY29sb3IvY29sb3JQcmltYXJ5Igo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -352,12 +354,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYWRpb0dyb3VwLnNldE9uQ2hlY2tlZENoYW5nZUxpc3RlbmVyIHsgZ3JvdXAsIGNoZWNrZWRJZCAtPgogICAgICAgICAgICB2aWV3TW9kZWwuc2V0VHJhY2tlckdyb3VwKGdldEdyb3VwRnJvbUlkKGNoZWNrZWRJZCkpCiAgICAgICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>dantrackerService.getTracker(tracker.value!!.id).onResult { 
-                    tracker.postValue(it)
-                }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByYWRpb0dyb3VwLnNldE9uQ2hlY2tlZENoYW5nZUxpc3RlbmVyIHsgZ3JvdXAsIGNoZWNrZWRJZCAtPgogICAgICAgICAgICB2aWV3TW9kZWwuc2V0VHJhY2tlckdyb3VwKGdldEdyb3VwRnJvbUlkKGNoZWNrZWRJZCkpCiAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
