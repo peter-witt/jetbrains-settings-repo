@@ -155,10 +155,11 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594104911325">
-        <mark key="[" line="106" column="60" />
-        <mark key="]" line="106" column="61" />
-        <mark key="." line="106" column="61" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594105916917">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="105" column="62" />
+        <mark key="." line="105" column="61" />
+        <mark key="^" line="105" column="62" />
       </file>
       <file name="$USER_HOME$/Makeable/android-views/app/build.gradle" timestamp="1594038743048">
         <mark key="[" line="33" column="74" />
@@ -196,6 +197,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="13" column="64" />
       </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1594105644248">
+        <mark key="'" line="93" column="53" />
+        <mark key="[" line="132" column="28" />
+        <mark key="]" line="132" column="28" />
+        <mark key="." line="132" column="28" />
+      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerSettingsFragment.kt" timestamp="1594103669438">
         <mark key="'" line="53" column="12" />
         <mark key="[" line="31" column="47" />
@@ -214,8 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="48" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogViewModel.kt" />
-      <jump line="44" column="23" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogFilterBottomSheetDialogFragment.kt" />
       <jump line="32" column="4" filename="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" />
       <jump line="60" column="49" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" />
       <jump line="73" column="57" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" />
@@ -314,6 +319,8 @@
       <jump line="11" column="42" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/ErrorService.kt" />
       <jump line="27" column="67" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/util/EpoxyFragment.kt" />
       <jump line="53" column="12" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerSettingsFragment.kt" />
+      <jump line="115" column="16" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" />
+      <jump line="93" column="53" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,13 +329,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>animateCamera</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>animateCamera</text>
       </register>
       <register name="/" type="4">
         <text>duus</text>
@@ -337,34 +344,34 @@
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5saWZlY3ljbGU6bGlmZWN5Y2xlLXJ1bnRpbWUta3R4OiRsaWZlY3ljbGVfdmVyc2lvbiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaWZlcwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsaWZlY3ljbGVTY29wZS5sYXVuY2ggewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCB0cmFja2VyU2V0dGluZ3NWaWV3TW9kZWw6IFRyYWNrZXJTZXR0aW5nc1ZpZXdNb2RlbCBieSB2aWV3bW9kZWxkZCgpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsaWZlcwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsaWZlY3ljbGVTY29wZS5sYXVuY2ggewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCB0cmFja2VyU2V0dGluZ3NWaWV3TW9kZWw6IFRyYWNrZXJTZXR0aW5nc1ZpZXdNb2RlbCBieSB2aWV3bW9kZWxkZCgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgVHJhY2tlclNldHRpbmdzVmlld01vZGVsKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgVHJhY2tlclNldHRpbmdzVmlld01vZGVsKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpIHsKICAgICAgICBzdXBlci5vblJlc3VtZSgpCiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
