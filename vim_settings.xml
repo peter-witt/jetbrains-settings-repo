@@ -133,11 +133,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-views/EpoxyFragment/src/main/java/dk/makeable/epoxyfragment/EpoxyFragment.kt" timestamp="1594104254690">
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Makeable/android-views/EpoxyFragment/src/main/java/dk/makeable/epoxyfragment/EpoxyFragment.kt" timestamp="1594104396083">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="35" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="27" column="35" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values-da/strings.xml" timestamp="1594039356669">
         <mark key="[" line="46" column="0" />
@@ -322,13 +322,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>lifecycle_version</text>
+        <text>this</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>lifecycle_version</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>duus</text>
