@@ -124,11 +124,12 @@
         <mark key="." line="70" column="34" />
         <mark key="^" line="70" column="35" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/koin/ApiModule.kt" timestamp="1594122247373">
-        <mark key="'" line="32" column="109" />
-        <mark key="[" line="32" column="75" />
-        <mark key="]" line="32" column="110" />
-        <mark key="." line="32" column="74" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/koin/ApiModule.kt" timestamp="1594122821008">
+        <mark key="'" line="34" column="109" />
+        <mark key="[" line="44" column="79" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/android-utils/webviewutils/build.gradle" timestamp="1594115716379">
         <mark key="[" line="12" column="24" />
@@ -197,10 +198,10 @@
         <mark key="]" line="61" column="30" />
         <mark key="." line="61" column="30" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594121927618">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594123066417">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="16" column="32" />
+        <mark key="." line="16" column="32" />
         <mark key="^" line="13" column="24" />
       </file>
     </filemarks>
@@ -313,13 +314,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>TODO(&quot;Not yet implemented&quot;)</text>
+        <text>LOLLIPOP</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gYXJyYXlPZigp</text>
+        <text>LOLLIPOP</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -327,28 +328,28 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0dXMuc2V0T25DbGlja0xpc3RlbmVyIHsKICAgICAgICAgICAgZmluZE5hdkNvbnRyb2xsZXIoKS5uYXZpZ2F0ZUFuaW1hdGVkKAogICAgICAgICAgICAgICAgVHJhY2tlclNldHRpbmdzRnJhZ21lbnREaXJlY3Rpb25zLmFjdGlvblRyYWNrZXJTZXR0aW5nc0ZyYWdtZW50VG9UcmFja2VyU3RhdHVzRnJhZ21lbnQodmlld01vZGVsLnRyYWNrZXIudmFsdWUgPzogYXJncy50cmFja2VyKQogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb25uZWN0aW9uU3BlY3MobGlzdE9mKENvbm5lY3Rpb25TcGVjLkNPTVBBVElCTEVfVExTKSkK</text>
+      </register>
+      <register name="2" type="4">
         <text>{
 
                 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbXVsdGlEZXhLZWVwRmlsZSBmaWxlKCdtdWx0aWRleC1jb25maWcudHh0JykK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZWQgdHJ1ZQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBkZWYgbXVsdGlkZXhfdmVyc2lvbiA9ICIyLjAuMSIKICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5tdWx0aWRleDptdWx0aWRleDokbXVsdGlkZXhfdmVyc2lvbiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmRUaW50PSJAY29sb3IvY29sb3JQcmltYXJ5Igo=</text>
+        <text encoding="base64">CiAgICBkZWYgbXVsdGlkZXhfdmVyc2lvbiA9ICIyLjAuMSIKICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5tdWx0aWRleDptdWx0aWRleDokbXVsdGlkZXhfdmVyc2lvbiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmRUaW50PSJAY29sb3IvY29sb3JQcmltYXJ5Igo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -357,7 +358,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWRpb0dyb3VwLnNldE9uQ2hlY2tlZENoYW5nZUxpc3RlbmVyIHsgZ3JvdXAsIGNoZWNrZWRJZCAtPgogICAgICAgICAgICB2aWV3TW9kZWwuc2V0VHJhY2tlckdyb3VwKGdldEdyb3VwRnJvbUlkKGNoZWNrZWRJZCkpCiAgICAgICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
