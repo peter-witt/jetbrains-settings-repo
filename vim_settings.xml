@@ -124,6 +124,7 @@
         <mark key="." line="70" column="34" />
         <mark key="^" line="70" column="35" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/nemid/NemIdActivity.java" timestamp="1594124958145" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/koin/ApiModule.kt" timestamp="1594123892069">
         <mark key="'" line="39" column="109" />
         <mark key="[" line="48" column="81" />
@@ -133,9 +134,6 @@
       </file>
       <file name="$USER_HOME$/Makeable/android-utils/webviewutils/build.gradle" timestamp="1594115716379">
         <mark key="[" line="12" column="24" />
-      </file>
-      <file name="$USER_HOME$/Makeable/android-utils/networkutils/build.gradle" timestamp="1594115702293">
-        <mark key="[" line="11" column="24" />
       </file>
       <file name="/fragment.kt" timestamp="1594121232122">
         <mark key="[" line="0" column="0" />
