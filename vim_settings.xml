@@ -112,9 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/GetterApiService.java" timestamp="1594198039622">
-        <mark key="^" line="136" column="69" />
-      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/model/GDPRDoc.kt" timestamp="1594205548687">
         <mark key="[" line="4" column="28" />
       </file>
@@ -136,6 +133,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/myRequests/FragmentWaitingRequest.kt" timestamp="1594208352843">
+        <mark key="[" line="144" column="68" />
+        <mark key="]" line="144" column="68" />
+        <mark key="^" line="144" column="70" />
+        <mark key="." line="144" column="68" />
+      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/trackerMode/TrackerGeofenceFragment.kt" timestamp="1594207029020" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerGroupFragment.kt" timestamp="1594206490381">
         <mark key="[" line="18" column="55" />
@@ -156,7 +159,12 @@
         <mark key="." line="185" column="86" />
         <mark key="^" line="185" column="87" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/serviceRequests/ServiceRequestsRemoteDataSourceImpl.java" timestamp="1594198132584" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/ServiceRequest.java" timestamp="1594208940190">
+        <mark key="[" line="351" column="39" />
+        <mark key="]" line="371" column="36" />
+        <mark key="^" line="371" column="36" />
+        <mark key="." line="371" column="35" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/serviceRequests/ServiceRequestResource.java" timestamp="1594198809429" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594207116239">
         <mark key="[" line="15" column="22" />
@@ -170,9 +178,6 @@
         <mark key="." line="69" column="26" />
         <mark key="^" line="53" column="36" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/myRequests/FragmentServiceRequestDetail.kt" timestamp="1594198381210">
-        <mark key="[" line="63" column="71" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/apperServiceRequests/details/ServiceRequestDetailsViewModel.java" timestamp="1594199382013">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -180,6 +185,9 @@
       </file>
       <file name="/fragment.java" timestamp="1594199879624">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/values/strings.xml" timestamp="1594209205348">
+        <mark key="[" line="4" column="232" />
       </file>
     </filemarks>
     <jumps>
@@ -291,13 +299,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>et the tracker’s type</text>
+        <text>st</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>et the tracker’s type</text>
+        <text>st</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
