@@ -132,9 +132,9 @@
         <mark key="." line="63" column="37" />
         <mark key="^" line="64" column="50" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/repositories/serviceRequests/ServiceRequestsRepositoryImpl.java" timestamp="1594198205680" />
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/view_title_subtitle_image_badge.xml" timestamp="1594127590483">
-        <mark key="[" line="19" column="53" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/repositories/serviceRequests/ServiceRequestsRepositoryImpl.java" timestamp="1594199232880">
+        <mark key="[" line="273" column="0" />
+        <mark key="^" line="287" column="51" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" timestamp="1594195892075">
         <mark key="[" line="394" column="41" />
@@ -146,6 +146,12 @@
         <mark key="]" line="63" column="37" />
         <mark key="." line="63" column="37" />
         <mark key="^" line="66" column="18" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/Injector.java" timestamp="1594198993953">
+        <mark key="[" line="85" column="15" />
+        <mark key="]" line="85" column="15" />
+        <mark key="^" line="85" column="16" />
+        <mark key="." line="85" column="15" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values-da/strings.xml" timestamp="1594195896388">
         <mark key="[" line="387" column="39" />
@@ -164,6 +170,7 @@
         <mark key="." line="71" column="25" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/serviceRequests/ServiceRequestsRemoteDataSourceImpl.java" timestamp="1594198132584" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/serviceRequests/ServiceRequestResource.java" timestamp="1594198809429" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/strings.xml" timestamp="1594127915949">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="45" />
@@ -183,8 +190,10 @@
         <mark key="]" line="24" column="30" />
         <mark key="." line="24" column="30" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/apperServiceRequests/details/ServiceRequestDetailsViewModel.java" timestamp="1594198466078">
-        <mark key="[" line="17" column="74" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/apperServiceRequests/details/ServiceRequestDetailsViewModel.java" timestamp="1594198823530">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -296,51 +305,51 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CnN1c3BlbmQgZnVuIEdldHRlclByb2ZpbGVQYXJjZWwud2l0aE5hbWUoKSA6IEdldHRlclByb2ZpbGVQYXJjZWwgewogICAgCn0=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWNoZURhdGFTb3VyY2UuY2FjaGUoc2VydmljZVJlcXVlc3QpOwogICAgICAgICAgICAgICAgICAgIGxvYWRpbmdMaXN0ZW5lci5sb2FkQ29tcGxldGUoKTsK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>companyName</text>
+        <text encoding="base64">IFVzZXJzUmVwb3NpdG9yeUltcGwuZ2V0SW5zdGFuY2UodXNlcnJlKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXMuc2V0T25DbGlja0xpc3RlbmVyIHsKICAgICAgICAgICAgZmluZE5hdkNvbnRyb2xsZXIoKS5uYXZpZ2F0ZUFuaW1hdGVkKAogICAgICAgICAgICAgICAgVHJhY2tlclNldHRpbmdzRnJhZ21lbnREaXJlY3Rpb25zLmFjdGlvblRyYWNrZXJTZXR0aW5nc0ZyYWdtZW50VG9UcmFja2VyU3RhdHVzRnJhZ21lbnQodmlld01vZGVsLnRyYWNrZXIudmFsdWUgPzogYXJncy50cmFja2VyKQogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWNoZURhdGFTb3VyY2UuY2FjaGUoc2VydmljZVJlcXVlc3QpOwogICAgICAgICAgICAgICAgICAgIGxvYWRpbmdMaXN0ZW5lci5sb2FkQ29tcGxldGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnN1c3BlbmQgZnVuIEdldHRlclByb2ZpbGVQYXJjZWwud2l0aE5hbWUoKSA6IEdldHRlclByb2ZpbGVQYXJjZWwgewogICAgCn0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgWC1Vc2VyLUVtYWlsOiB0ZXN0QG1ha2VhYmxlLmRrCiBYLVVzZXItVG9rZW46IGM1djdKOWhZbURudjlTYU54R3l5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXJ2aWNlUmVxdWVzdC5nZXRBY2NlcHRlZE9mZmVyKCkuZ2V0R2V0dGVyKCkuc2V0Q29tcGFueU5hbWUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbS5kYW50cmFja2VyLmFwcC5wcm9mLnZpZXcuVGl0bGVTdWJ0aXRsZUltYWdlVmlld0JhZGdlCiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2dyb3VwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYXBwOmltYWdlPSJAZHJhd2FibGUvaWNfc3RhdHVzIgogICAgICAgICAgICAgICAgYXBwOnN1YnRpdGxlPSJAc3RyaW5nL2dyb3VwX2Rlc2NyaXB0aW9uIgogICAgICAgICAgICAgICAgYXBwOnRpdGxlPSJAc3RyaW5nL2dyb3VwIgogICAgICAgICAgICAgICAgLz4KCiAgICAgICAgICAgIDxpbmNsdWRlIGxheW91dD0iQGxheW91dC9lcG94eV9tb2RlbF9zZXBhcmF0b3IiIC8+</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb25uZWN0aW9uU3BlY3MobGlzdE9mKENvbm5lY3Rpb25TcGVjLkNPTVBBVElCTEVfVExTKSkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWVkaWF0b3JMaXZlRGF0YTxTZXJ2aWNlUmVxdWVzdD4gc2VydmljZVJlcXVlc3RXaXRoTmFtZTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-
-                }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXVsdGlEZXhLZWVwRmlsZSBmaWxlKCdtdWx0aWRleC1jb25maWcudHh0JykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZWQgdHJ1ZQo=</text>
+      <register name="7" type="4">
+        <text>public ServiceRequestDetailsViewModel() {
+        
+    }</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnN1c3BlbmQgZnVuIEdldHRlclByb2ZpbGVQYXJjZWwud2l0aE5hbWUoKSA6IEdldHRlclByb2ZpbGVQYXJjZWwgewogICAgCn0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBkZWYgbXVsdGlkZXhfdmVyc2lvbiA9ICIyLjAuMSIKICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5tdWx0aWRleDptdWx0aWRleDokbXVsdGlkZXhfdmVyc2lvbiIK</text>
+        <text encoding="base64">CiAgICAgWC1Vc2VyLUVtYWlsOiB0ZXN0QG1ha2VhYmxlLmRrCiBYLVVzZXItVG9rZW46IGM1djdKOWhZbURudjlTYU54R3l5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
