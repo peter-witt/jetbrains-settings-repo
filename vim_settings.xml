@@ -115,6 +115,11 @@
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/model/GDPRDoc.kt" timestamp="1594205548687">
         <mark key="[" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/myRequests/FragmentChatViewModel.kt" timestamp="1594210370836">
+        <mark key="[" line="184" column="106" />
+        <mark key="]" line="184" column="106" />
+        <mark key="." line="184" column="106" />
+      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/drawable/ic_tracker_location.xml" timestamp="1594206077505" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values-da/strings.xml" timestamp="1594206602659">
         <mark key="[" line="66" column="37" />
@@ -176,11 +181,6 @@
         <mark key="]" line="69" column="26" />
         <mark key="." line="69" column="26" />
         <mark key="^" line="53" column="36" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/apperServiceRequests/details/ServiceRequestDetailsViewModel.java" timestamp="1594199382013">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1594199879624">
         <mark key="[" line="0" column="0" />
