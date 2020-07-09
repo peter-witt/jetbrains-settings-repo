@@ -112,16 +112,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/FCMService.kt" timestamp="1594284275941">
+        <mark key="[" line="17" column="35" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/myRequests/FragmentChatViewModel.kt" timestamp="1594210370836">
         <mark key="[" line="184" column="106" />
         <mark key="]" line="184" column="106" />
         <mark key="." line="184" column="106" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/ma_core_ui/MACoreUIExtensions.kt" timestamp="1594215139139">
-        <mark key="[" line="31" column="66" />
-        <mark key="]" line="31" column="8" />
-        <mark key="." line="31" column="7" />
-        <mark key="^" line="31" column="8" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-media-android/coremedialib/build.gradle" timestamp="1594281627077">
         <mark key="[" line="33" column="41" />
@@ -129,25 +126,8 @@
         <mark key="." line="40" column="39" />
         <mark key="^" line="40" column="40" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1594282888252">
-        <mark key="[" line="146" column="94" />
-        <mark key="]" line="144" column="57" />
-        <mark key="^" line="144" column="57" />
-        <mark key="." line="144" column="56" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/MACoreUIApplication.kt" timestamp="1594214400824">
         <mark key="[" line="10" column="17" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/ServiceRequest.java" timestamp="1594208940190">
-        <mark key="[" line="351" column="39" />
-        <mark key="]" line="371" column="36" />
-        <mark key="^" line="371" column="36" />
-        <mark key="." line="371" column="35" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/parcel/GetterProfileParcel.java" timestamp="1594209926294">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/SL.kt" timestamp="1594215018940">
         <mark key="[" line="29" column="18" />
@@ -159,31 +139,48 @@
         <mark key="'" line="13" column="56" />
         <mark key="[" line="38" column="5" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594282766283">
-        <mark key="[" line="132" column="55" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="16" column="32" />
-        <mark key="^" line="13" column="24" />
-      </file>
       <file name="$USER_HOME$/Makeable/android-location-controller/app/src/main/java/dk/makeable/locationsample/MainActivity.kt" timestamp="1594278821104">
         <mark key="[" line="40" column="24" />
         <mark key="]" line="40" column="23" />
         <mark key="^" line="40" column="23" />
         <mark key="." line="40" column="22" />
       </file>
+      <file name="$USER_HOME$/Makeable/android-notification-framework/notificationsutil/src/main/java/dk/makeable/notificationsutil/AlarmReceiver.kt" timestamp="1594278325041" />
+      <file name="$USER_HOME$/Makeable/android-notification-framework/notificationsutil/src/main/java/dk/makeable/notificationsutil/NotificationsUtil.kt" timestamp="1594278088166" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/gradle/wrapper/gradle-wrapper.properties" timestamp="1594215517590">
+        <mark key="[" line="5" column="71" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/ma_core_ui/MACoreUIExtensions.kt" timestamp="1594215139139">
+        <mark key="[" line="31" column="66" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="8" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1594282888252">
+        <mark key="[" line="146" column="94" />
+        <mark key="]" line="144" column="57" />
+        <mark key="^" line="144" column="57" />
+        <mark key="." line="144" column="56" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/parcel/GetterProfileParcel.java" timestamp="1594209926294">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594282766283">
+        <mark key="[" line="132" column="55" />
+        <mark key="]" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+        <mark key="^" line="13" column="24" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/build.gradle" timestamp="1594215484729">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="32" />
         <mark key="." line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-notification-framework/notificationsutil/src/main/java/dk/makeable/notificationsutil/AlarmReceiver.kt" timestamp="1594278325041" />
-      <file name="$USER_HOME$/Makeable/android-notification-framework/notificationsutil/src/main/java/dk/makeable/notificationsutil/NotificationsUtil.kt" timestamp="1594278088166" />
       <file name="$USER_HOME$/Makeable/android-location-controller/app/build.gradle" timestamp="1594278832311" />
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/values/strings.xml" timestamp="1594209205348">
         <mark key="[" line="4" column="232" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/gradle/wrapper/gradle-wrapper.properties" timestamp="1594215517590">
-        <mark key="[" line="5" column="71" />
       </file>
     </filemarks>
     <jumps>
