@@ -150,6 +150,7 @@
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/gradle/wrapper/gradle-wrapper.properties" timestamp="1594215517590">
         <mark key="[" line="5" column="71" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/widget_star_rating_bar.xml" timestamp="1594292288274" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/ma_core_ui/MACoreUIExtensions.kt" timestamp="1594215139139">
         <mark key="[" line="31" column="66" />
         <mark key="]" line="31" column="8" />
@@ -179,9 +180,6 @@
         <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Makeable/android-location-controller/app/build.gradle" timestamp="1594278832311" />
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/values/strings.xml" timestamp="1594209205348">
-        <mark key="[" line="4" column="232" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="47" column="42" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/NotificationService.kt" />
