@@ -115,24 +115,18 @@
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/FCMService.kt" timestamp="1594284275941">
         <mark key="[" line="17" column="35" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/GetterApiService.java" timestamp="1594300162821" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-media-android/coremedialib/build.gradle" timestamp="1594281627077">
         <mark key="[" line="33" column="41" />
         <mark key="]" line="40" column="40" />
         <mark key="." line="40" column="39" />
         <mark key="^" line="40" column="40" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/MACoreUIApplication.kt" timestamp="1594214400824">
-        <mark key="[" line="10" column="17" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1594299879448">
+        <mark key="[" line="329" column="16" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/SL.kt" timestamp="1594215018940">
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="29" column="18" />
-        <mark key="^" line="29" column="12" />
-        <mark key="." line="29" column="18" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/MACoreRootActivity.kt" timestamp="1594214327291">
-        <mark key="'" line="13" column="56" />
-        <mark key="[" line="38" column="5" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/Offer.java" timestamp="1594300730635">
+        <mark key="[" line="203" column="43" />
       </file>
       <file name="$USER_HOME$/Makeable/android-location-controller/app/src/main/java/dk/makeable/locationsample/MainActivity.kt" timestamp="1594278821104">
         <mark key="[" line="40" column="24" />
@@ -145,6 +139,8 @@
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/gradle/wrapper/gradle-wrapper.properties" timestamp="1594215517590">
         <mark key="[" line="5" column="71" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1594299490946" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppTheme.kt" timestamp="1594299295468" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/widget_star_rating_bar.xml" timestamp="1594292288274" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/ma_core_ui/MACoreUIExtensions.kt" timestamp="1594294536620">
         <mark key="[" line="21" column="111" />
@@ -164,12 +160,12 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/RatingWidget.kt" timestamp="1594294801890" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/build.gradle" timestamp="1594215484729">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="32" />
-        <mark key="." line="3" column="32" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1594299720219">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/RatingWidget.kt" timestamp="1594294801890" />
       <file name="$USER_HOME$/Makeable/android-location-controller/app/build.gradle" timestamp="1594278832311" />
     </filemarks>
     <jumps>
@@ -281,7 +277,7 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25maWcgOiBDb25maWdUeXBlCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzU2hvd2luZ05vSW50ZXJuZXRCYW5uZXIgPSBmYWxzZQo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -296,34 +292,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhY2hlRGF0YVNvdXJjZS5yZWZyZXNoQ29tcGxldGVkQXBwZXJSZXF1ZXN0cyhzZXJ2aWNlUmVxdWVzdHMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9hZGluZ0xpc3RlbmVyLmxvYWRDb21wbGV0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25maWcgOiBDb25maWdUeXBlCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzU2hvd2luZ05vSW50ZXJuZXRCYW5uZXIgPSBmYWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBNQUNvcmVVSUV4Y2VwdGlvbigiJHtjb25maWdDbGFzcy5xdWFsaWZpZWROYW1lfSBkaWQgbm90IGhhdmUgYW4gZW1wdHkgY29uc3RydWN0b3IuIEFsbCBNQUNvcmVVSUNvbmZpZyBzdWJjbGFzc2VzIG11c3QgaGF2ZSBhbiBlbXB0eSBjb25zdHJ1Y3Rvci4gUGxlYXNlIHJldmlzZSB0aGUgY2xhc3MgdG8gZml4IHRoZSBpc3N1ZS4gXG5uQ0FVU0U6ICR7ZS5sb2NhbGl6ZWRNZXNzYWdlfSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAvL1NldHVwIGludGVybmV0IGF3YXJlbmVzcwogICAgICAgIHJlcXVpcmVDb250ZXh0KCkuY29ubmVjdGl2aXR5Lm9ic2VydmUodmlld0xpZmVjeWNsZU93bmVyLCBPYnNlcnZlciB7CiAgICAgICAgICAgIGlmIChpdC5oYXNJbnRlcm5ldEFjY2VzcykgewogICAgICAgICAgICB9CiAgICAgICAgfSk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBzaG93Tm9JbnRlcm5ldEJhbm5lcihzaG93OiBCb29sZWFuLCBhbmltYXRlOiBCb29sZWFuID0gdHJ1ZSkgewogICAgICAgIGlmIChhbmltYXRlKQogICAgICAgICAgICBUcmFuc2l0aW9uTWFuYWdlci5iZWdpbkRlbGF5ZWRUcmFuc2l0aW9uKG5ld0RhdGFCYW5uZXIpCiAgICAgICAgbmV3RGF0YUJhbm5lci5tYXhIZWlnaHQgPSBpZiAoc2hvdykgMTAwLmRwIGVsc2UgMC5kcAogICAgICAgIGlzU2hvd2luZ05ld0RhdGFCYW5uZXIgPSBzaG93CiAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb25maWcgOiBDb25maWdUeXBlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgZ2V0dGVyTmFtZTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBNQUNvcmVVSUV4Y2VwdGlvbigiJHtjb25maWdDbGFzcy5xdWFsaWZpZWROYW1lfSBkaWQgbm90IGhhdmUgYW4gZW1wdHkgY29uc3RydWN0b3IuIEFsbCBNQUNvcmVVSUNvbmZpZyBzdWJjbGFzc2VzIG11c3QgaGF2ZSBhbiBlbXB0eSBjb25zdHJ1Y3Rvci4gUGxlYXNlIHJldmlzZSB0aGUgY2xhc3MgdG8gZml4IHRoZSBpc3N1ZS4gXG5uQ0FVU0U6ICR7ZS5sb2NhbGl6ZWRNZXNzYWdlfSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRHZXR0ZXJOYW1lKFN0cmluZyBuYW1lKSB7CiAgICAgICAgZ2V0dGVyTmFtZSA9IG5hbWU7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRHZXR0ZXJOYW1lKCkgewogICAgICAgIHJldHVybiBnZXR0ZXJOYW1lOwogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
