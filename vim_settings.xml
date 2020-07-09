@@ -117,22 +117,17 @@
         <mark key="]" line="184" column="106" />
         <mark key="." line="184" column="106" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values-da/strings.xml" timestamp="1594206602659">
-        <mark key="[" line="66" column="37" />
-        <mark key="]" line="63" column="37" />
-        <mark key="." line="63" column="37" />
-        <mark key="^" line="64" column="50" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/ma_core_ui/MACoreUIExtensions.kt" timestamp="1594215139139">
         <mark key="[" line="31" column="66" />
         <mark key="]" line="31" column="8" />
         <mark key="." line="31" column="7" />
         <mark key="^" line="31" column="8" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-media-android/coremedialib/build.gradle" timestamp="1594281254011">
-        <mark key="[" line="34" column="35" />
-        <mark key="]" line="34" column="35" />
-        <mark key="." line="34" column="35" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-media-android/coremedialib/build.gradle" timestamp="1594281627077">
+        <mark key="[" line="33" column="41" />
+        <mark key="]" line="40" column="40" />
+        <mark key="." line="40" column="39" />
+        <mark key="^" line="40" column="40" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/MACoreUIApplication.kt" timestamp="1594214400824">
         <mark key="[" line="10" column="17" />
