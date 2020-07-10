@@ -129,6 +129,7 @@
         <mark key="^" line="152" column="8" />
         <mark key="." line="148" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/VListWidget.kt" timestamp="1594367950938" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/Offer.java" timestamp="1594300730635">
         <mark key="[" line="203" column="43" />
       </file>
@@ -163,13 +164,12 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1594361791949">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1594368206914">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/RatingWidget.kt" timestamp="1594294801890" />
-      <file name="$USER_HOME$/Makeable/android-location-controller/app/build.gradle" timestamp="1594278832311" />
     </filemarks>
     <jumps>
       <jump line="47" column="42" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/NotificationService.kt" />
