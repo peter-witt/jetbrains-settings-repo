@@ -115,14 +115,11 @@
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/FCMService.kt" timestamp="1594284275941">
         <mark key="[" line="17" column="35" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/checkout/CheckoutDepositFragment.java" timestamp="1594370923680">
+        <mark key="[" line="114" column="20" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/GetterApiService.java" timestamp="1594300162821" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/myRequests/FragmentChatViewModel.kt" timestamp="1594302346619" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-media-android/coremedialib/build.gradle" timestamp="1594281627077">
-        <mark key="[" line="33" column="41" />
-        <mark key="]" line="40" column="40" />
-        <mark key="." line="40" column="39" />
-        <mark key="^" line="40" column="40" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1594301360121">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
@@ -152,24 +149,17 @@
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="8" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1594282888252">
-        <mark key="[" line="146" column="94" />
-        <mark key="]" line="144" column="57" />
-        <mark key="^" line="144" column="57" />
-        <mark key="." line="144" column="56" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1594370014553">
+        <mark key="[" line="53" column="23" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594282766283">
-        <mark key="[" line="132" column="55" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="16" column="32" />
-        <mark key="^" line="13" column="24" />
-      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/keystore.properties" timestamp="1594370348703" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1594368206914">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/RatingWidget.kt" timestamp="1594294801890" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/MainActivity.kt" timestamp="1594371292740" />
     </filemarks>
     <jumps>
       <jump line="47" column="42" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/NotificationService.kt" />
