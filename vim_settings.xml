@@ -124,6 +124,11 @@
         <mark key="^" line="350" column="24" />
         <mark key="." line="350" column="23" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" timestamp="1594378431181">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/myRequests/FragmentChat.kt" timestamp="1594361820336">
         <mark key="[" line="61" column="76" />
         <mark key="]" line="61" column="76" />
@@ -160,9 +165,6 @@
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_chat_message_remote.xml" timestamp="1594373191527">
         <mark key="[" line="38" column="57" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594302494884">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1594372539391">
         <mark key="[" line="282" column="43" />
@@ -290,8 +292,8 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cmFuc2xhdGFibGU9ImZhbHNlIj5BSXphU3lCLWhpMXRodjJRRzMtc0dVQldkeUFsd1RvaUM2TVBldm88L3N0cmluZz4K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -303,7 +305,7 @@
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXBveHlSZWN5Y2xlcj8uc21vb3RoU2Nyb2xsVG9Qb3NpdGlvbihpdC5jb21tZW50cz8uc2l6ZSA/OiAwKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2xhdGFibGU9ImZhbHNlIj5BSXphU3lCLWhpMXRodjJRRzMtc0dVQldkeUFsd1RvaUM2TVBldm88L3N0cmluZz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
