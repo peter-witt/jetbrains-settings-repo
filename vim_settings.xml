@@ -117,8 +117,6 @@
         <mark key="]" line="114" column="20" />
         <mark key="." line="114" column="20" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/source/remote/GetterApiService.java" timestamp="1594300162821" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/myRequests/FragmentChatViewModel.kt" timestamp="1594302346619" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/repositories/serviceRequests/ServiceRequestsRepositoryImpl.java" timestamp="1594371575668" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1594372597665">
         <mark key="[" line="349" column="66" />
@@ -126,30 +124,14 @@
         <mark key="^" line="350" column="24" />
         <mark key="." line="350" column="23" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/VListWidget.kt" timestamp="1594367950938" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/BindingAdapters.kt" timestamp="1594372690015">
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="19" column="8" />
-        <mark key="^" line="19" column="16" />
-        <mark key="." line="19" column="4" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/model/Offer.java" timestamp="1594300730635">
-        <mark key="[" line="203" column="43" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/myRequests/FragmentChat.kt" timestamp="1594361820336">
         <mark key="[" line="61" column="76" />
         <mark key="]" line="61" column="76" />
         <mark key="^" line="61" column="76" />
         <mark key="." line="61" column="75" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-notification-framework/notificationsutil/src/main/java/dk/makeable/notificationsutil/AlarmReceiver.kt" timestamp="1594295492533" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1594299490946" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppTheme.kt" timestamp="1594299295468" />
-      <file name="/Dummy.txt" timestamp="1594302494884">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1594372539391">
-        <mark key="[" line="282" column="43" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_chat_no_messages.xml" timestamp="1594373214154">
+        <mark key="[" line="52" column="41" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1594370014553">
         <mark key="[" line="53" column="23" />
@@ -165,6 +147,32 @@
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_request_detail.xml" timestamp="1594373328532">
+        <mark key="[" line="177" column="46" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/myRequests/FragmentChatViewModel.kt" timestamp="1594302346619" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/VListWidget.kt" timestamp="1594367950938" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/BindingAdapters.kt" timestamp="1594373202749">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="23" column="44" />
+        <mark key="." line="22" column="31" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_chat_message_remote.xml" timestamp="1594373191527">
+        <mark key="[" line="38" column="57" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594302494884">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1594372539391">
+        <mark key="[" line="282" column="43" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_dialog_rate_getter.xml" timestamp="1594373296325">
+        <mark key="[" line="75" column="56" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_dialog_show_getter.xml" timestamp="1594373307056">
+        <mark key="[" line="46" column="42" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/repositories/offers/OffersRepositoryImpl.java" timestamp="1594371579743" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/MainActivity.kt" timestamp="1594371292740" />
