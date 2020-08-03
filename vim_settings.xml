@@ -133,22 +133,20 @@
         <mark key="^" line="79" column="9" />
         <mark key="." line="79" column="8" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/navigation/nav_offer_help.xml" timestamp="1596448606101">
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/navigation/nav_offer_help.xml" timestamp="1596449746993">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+        <mark key="^" line="29" column="35" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_getter_request_cell.xml" timestamp="1596447824856">
-        <mark key="[" line="146" column="35" />
-        <mark key="]" line="147" column="17" />
-        <mark key="^" line="147" column="17" />
-        <mark key="." line="147" column="16" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_getter_request_cell.xml" timestamp="1596449811731">
+        <mark key="[" line="146" column="53" />
+        <mark key="]" line="148" column="17" />
+        <mark key="^" line="148" column="17" />
+        <mark key="." line="148" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1596447991043">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1594380150271">
-        <mark key="[" line="282" column="43" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/build.gradle" timestamp="1594380741090">
         <mark key="[" line="44" column="32" />
@@ -158,8 +156,8 @@
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1594380738344">
         <mark key="[" line="53" column="23" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterAvailableRequests.kt" timestamp="1596448577482">
-        <mark key="[" line="77" column="29" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterAvailableRequests.kt" timestamp="1596449657703">
+        <mark key="[" line="80" column="108" />
         <mark key="]" line="81" column="33" />
         <mark key="^" line="81" column="33" />
         <mark key="." line="81" column="32" />
@@ -176,6 +174,7 @@
         <mark key="." line="72" column="41" />
         <mark key="^" line="72" column="42" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/DialogFragmentOfferHelpFilter.kt" timestamp="1596449902400" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/repositories/offers/OffersRepositoryImpl.java" timestamp="1596443636421">
         <mark key="[" line="59" column="26" />
       </file>
@@ -192,11 +191,11 @@
         <mark key="^" line="11" column="8" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentAddressMap.kt" timestamp="1596448552900">
-        <mark key="[" line="21" column="95" />
-        <mark key="]" line="21" column="49" />
-        <mark key="^" line="21" column="49" />
-        <mark key="." line="21" column="48" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentAddressMap.kt" timestamp="1596449957059">
+        <mark key="[" line="41" column="70" />
+        <mark key="]" line="41" column="37" />
+        <mark key="." line="41" column="36" />
+        <mark key="^" line="41" column="37" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogViewModel.kt" timestamp="1596439780829">
         <mark key="[" line="93" column="121" />
@@ -313,14 +312,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvZnJhZ21lbnQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>animateCamera</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>FragmentAddressMapArgs</text>
+        <text>animateCamera</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -329,34 +328,34 @@
         <text encoding="base64">ICAgICAgICB0cmFuc2xhdGFibGU9ImZhbHNlIj5BSXphU3lCLWhpMXRodjJRRzMtc0dVQldkeUFsd1RvaUM2TVBldm88L3N0cmluZz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvZnJhZ21lbnQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdvb2dsZU1hcC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBib3VuZHMgPSB0b0JvdW5kcyhpdCwgMTAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8YXJndW1lbnQKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJhZGRyZXNzIgogICAgICAgICAgICBhcHA6YXJnVHlwZT0iY29tLmp1bmdsZWNvZGVycy5nZXR0ZXIubW9kZWwucGFyY2VsLkFkZHJlc3NQYXJjZWwkJFBhcmNlbGFibGUiCiAgICAgICAgICAgIC8+</text>
+        <text encoding="base64">ICAgIDwvZnJhZ21lbnQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25DcmVhdGVWaWV3KGluZmxhdGVyLCBjb250YWluZXIsIHNhdmVkSW5zdGFuY2VTdGF0ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YXJndW1lbnQKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJhZGRyZXNzIgogICAgICAgICAgICBhcHA6YXJnVHlwZT0iY29tLmp1bmdsZWNvZGVycy5nZXR0ZXIubW9kZWwucGFyY2VsLkFkZHJlc3NQYXJjZWwkJFBhcmNlbGFibGUiCiAgICAgICAgICAgIC8+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAoc2VydmljZVJlcXVlc3RzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25DcmVhdGVWaWV3KGluZmxhdGVyLCBjb250YWluZXIsIHNhdmVkSW5zdGFuY2VTdGF0ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAoc2VydmljZVJlcXVlc3RzKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDaGF0Tm9NZXNzYWdlc0JpbmRpbmdNb2RlbF8oKQogICAgICAgICAgICAgICAgICAgICAgICAuaWQoIkNIQVRfTk9fTUVTU0FHRVMiKQogICAgICAgICAgICAgICAgICAgICAgICAub3RoZXJVc2VyQXZhdGFyKGRhdGEub3RoZXJVc2VyPy5maXJzdCkKICAgICAgICAgICAgICAgICAgICAgICAgLmxvY2FsVXNlckF2YXRhcihkYXRhLnVzZXJQYXJjZWw/LnByb2ZpbGU/LmF2YXRhckxhcmdlKQogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0dGVyUG92KHRoaXNVc2VySXNUaGVHZXR0ZXIudmFsdWUpCiAgICAgICAgICAgICAgICAgICAgICAgIC5vdGhlclVzZXJOYW1lKGRhdGEub3RoZXJVc2VyPy5zZWNvbmQp</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
