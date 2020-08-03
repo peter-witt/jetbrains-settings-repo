@@ -124,11 +124,11 @@
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1596451911063" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/HelpDeskActivity.kt" timestamp="1596451096256" />
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/model/Tracker.kt" timestamp="1596439981821">
-        <mark key="[" line="76" column="13" />
-        <mark key="]" line="79" column="9" />
-        <mark key="^" line="79" column="9" />
-        <mark key="." line="79" column="8" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" timestamp="1596456759513">
+        <mark key="[" line="171" column="9" />
+        <mark key="]" line="129" column="72" />
+        <mark key="^" line="129" column="72" />
+        <mark key="." line="129" column="71" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/navigation/nav_offer_help.xml" timestamp="1596449746993">
         <mark key="[" line="29" column="23" />
@@ -152,6 +152,12 @@
         <mark key="." line="81" column="32" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596454140621" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1596456774874">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+        <mark key="^" line="13" column="24" />
+      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/strings.xml" timestamp="1596442895669">
         <mark key="[" line="74" column="38" />
         <mark key="]" line="72" column="42" />
