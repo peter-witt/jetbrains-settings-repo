@@ -112,6 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/view/HaandbogWebView.kt" timestamp="1596454138858" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values-da/strings.xml" timestamp="1596442453533">
         <mark key="[" line="65" column="37" />
       </file>
@@ -150,6 +151,7 @@
         <mark key="^" line="81" column="33" />
         <mark key="." line="81" column="32" />
       </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596454140621" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/strings.xml" timestamp="1596442895669">
         <mark key="[" line="74" column="38" />
         <mark key="]" line="72" column="42" />
@@ -159,12 +161,6 @@
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/DialogFragmentOfferHelpFilter.kt" timestamp="1596449902400" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/repositories/offers/OffersRepositoryImpl.java" timestamp="1596443636421">
         <mark key="[" line="59" column="26" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerService.kt" timestamp="1596439831802">
-        <mark key="[" line="42" column="107" />
-        <mark key="]" line="42" column="82" />
-        <mark key="^" line="42" column="82" />
-        <mark key="." line="42" column="81" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/MainActivity.kt" timestamp="1596444079916" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/fragment_address_map.xml" timestamp="1596448053879">
@@ -178,12 +174,6 @@
         <mark key="]" line="41" column="37" />
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="37" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogViewModel.kt" timestamp="1596439780829">
-        <mark key="[" line="93" column="121" />
-        <mark key="]" line="93" column="92" />
-        <mark key="^" line="93" column="92" />
-        <mark key="." line="93" column="91" />
       </file>
       <file name="/fragment.java" timestamp="1596451519501">
         <mark key="[" line="0" column="0" />
