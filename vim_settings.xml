@@ -117,48 +117,16 @@
         <mark key="]" line="114" column="20" />
         <mark key="." line="114" column="20" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1594380150271">
-        <mark key="[" line="282" column="43" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/build.gradle" timestamp="1594380741090">
-        <mark key="[" line="44" column="32" />
-        <mark key="]" line="44" column="32" />
-        <mark key="." line="44" column="32" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_chat_no_messages.xml" timestamp="1594373214154">
-        <mark key="[" line="52" column="41" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1594380738344">
-        <mark key="[" line="53" column="23" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1594372597665">
         <mark key="[" line="349" column="66" />
         <mark key="]" line="350" column="24" />
         <mark key="^" line="350" column="24" />
         <mark key="." line="350" column="23" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_dialog_rate_getter.xml" timestamp="1594373296325">
-        <mark key="[" line="75" column="56" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterAvailableRequests.kt" timestamp="1594371908249">
-        <mark key="[" line="124" column="21" />
-        <mark key="]" line="124" column="21" />
-        <mark key="^" line="124" column="21" />
-        <mark key="." line="124" column="20" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" timestamp="1594378431181">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="55" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_dialog_show_getter.xml" timestamp="1594373307056">
-        <mark key="[" line="46" column="42" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594383619967">
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-        <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/BindingAdapters.kt" timestamp="1594373202749">
         <mark key="[" line="22" column="31" />
@@ -178,6 +146,36 @@
         <mark key="^" line="79" column="9" />
         <mark key="." line="79" column="8" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_chat_message_remote.xml" timestamp="1594373191527">
+        <mark key="[" line="38" column="57" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1596441149787" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1594380150271">
+        <mark key="[" line="282" column="43" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/build.gradle" timestamp="1594380741090">
+        <mark key="[" line="44" column="32" />
+        <mark key="]" line="44" column="32" />
+        <mark key="." line="44" column="32" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_chat_no_messages.xml" timestamp="1594373214154">
+        <mark key="[" line="52" column="41" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1594380738344">
+        <mark key="[" line="53" column="23" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_dialog_rate_getter.xml" timestamp="1594373296325">
+        <mark key="[" line="75" column="56" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_dialog_show_getter.xml" timestamp="1594373307056">
+        <mark key="[" line="46" column="42" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594383619967">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+        <mark key="^" line="13" column="24" />
+      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerService.kt" timestamp="1596439831802">
         <mark key="[" line="42" column="107" />
         <mark key="]" line="42" column="82" />
@@ -186,9 +184,6 @@
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_request_detail.xml" timestamp="1594373328532">
         <mark key="[" line="177" column="46" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_chat_message_remote.xml" timestamp="1594373191527">
-        <mark key="[" line="38" column="57" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogViewModel.kt" timestamp="1596439780829">
         <mark key="[" line="93" column="121" />
