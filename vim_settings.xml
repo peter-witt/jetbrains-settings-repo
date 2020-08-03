@@ -121,12 +121,8 @@
         <mark key="^" line="167" column="52" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" timestamp="1596439739808">
-        <mark key="[" line="129" column="70" />
-        <mark key="]" line="129" column="72" />
-        <mark key="^" line="129" column="72" />
-        <mark key="." line="129" column="71" />
-      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1596451911063" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/HelpDeskActivity.kt" timestamp="1596451096256" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/model/Tracker.kt" timestamp="1596439981821">
         <mark key="[" line="76" column="13" />
         <mark key="]" line="79" column="9" />
@@ -148,25 +144,11 @@
       <file name="/Dummy.txt" timestamp="1596447991043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/build.gradle" timestamp="1594380741090">
-        <mark key="[" line="44" column="32" />
-        <mark key="]" line="44" column="32" />
-        <mark key="." line="44" column="32" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1594380738344">
-        <mark key="[" line="53" column="23" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterAvailableRequests.kt" timestamp="1596449657703">
         <mark key="[" line="80" column="108" />
         <mark key="]" line="81" column="33" />
         <mark key="^" line="81" column="33" />
         <mark key="." line="81" column="32" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1594383619967">
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-        <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/strings.xml" timestamp="1596442895669">
         <mark key="[" line="74" column="38" />
@@ -202,6 +184,14 @@
         <mark key="]" line="93" column="92" />
         <mark key="^" line="93" column="92" />
         <mark key="." line="93" column="91" />
+      </file>
+      <file name="/fragment.java" timestamp="1596451519501">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/helpdesk/ticket/HelpDeskTicketFragment.java" timestamp="1596451708081">
+        <mark key="[" line="59" column="89" />
+        <mark key="]" line="59" column="89" />
+        <mark key="." line="59" column="89" />
       </file>
     </filemarks>
     <jumps>
@@ -313,13 +303,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>animateCamera</text>
+        <text>this</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>animateCamera</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
