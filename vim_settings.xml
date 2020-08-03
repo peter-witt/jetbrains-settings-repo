@@ -112,11 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/checkout/CheckoutDepositFragment.java" timestamp="1594372017518">
-        <mark key="[" line="114" column="20" />
-        <mark key="]" line="114" column="20" />
-        <mark key="." line="114" column="20" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1594380150271">
         <mark key="[" line="282" column="43" />
       </file>
@@ -133,12 +128,6 @@
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1594380738344">
         <mark key="[" line="53" column="23" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1594372597665">
-        <mark key="[" line="349" column="66" />
-        <mark key="]" line="350" column="24" />
-        <mark key="^" line="350" column="24" />
-        <mark key="." line="350" column="23" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_dialog_rate_getter.xml" timestamp="1594373296325">
         <mark key="[" line="75" column="56" />
@@ -169,6 +158,9 @@
         <mark key="." line="72" column="41" />
         <mark key="^" line="72" column="42" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/repositories/offers/OffersRepositoryImpl.java" timestamp="1596443636421">
+        <mark key="[" line="59" column="26" />
+      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" timestamp="1596439739808">
         <mark key="[" line="129" column="70" />
         <mark key="]" line="129" column="72" />
@@ -187,6 +179,7 @@
         <mark key="^" line="42" column="82" />
         <mark key="." line="42" column="81" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/MainActivity.kt" timestamp="1596444079916" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/makeable_fragment_request_detail.xml" timestamp="1594373328532">
         <mark key="[" line="177" column="46" />
       </file>
