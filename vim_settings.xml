@@ -112,39 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/addresses/SelectAddressActivity.java" timestamp="1596457704527">
-        <mark key="[" line="134" column="52" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="89" column="24" />
-        <mark key="." line="94" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/myRequests/FragmentChatViewModel.kt" timestamp="1596457937115">
-        <mark key="[" line="193" column="108" />
-        <mark key="]" line="193" column="111" />
-        <mark key="^" line="193" column="111" />
-        <mark key="." line="193" column="110" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/view/HaandbogWebView.kt" timestamp="1596454138858" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/repositories/serviceRequests/ServiceRequestsRepositoryImpl.java" timestamp="1596447374388">
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="^" line="167" column="52" />
-        <mark key="." line="176" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1596451911063" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/HelpDeskActivity.kt" timestamp="1596451096256" />
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" timestamp="1596456759513">
-        <mark key="[" line="171" column="9" />
-        <mark key="]" line="129" column="72" />
-        <mark key="^" line="129" column="72" />
-        <mark key="." line="129" column="71" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/navigation/nav_offer_help.xml" timestamp="1596449746993">
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="23" />
-        <mark key="^" line="29" column="35" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_getter_request_cell.xml" timestamp="1596449811731">
         <mark key="[" line="146" column="53" />
         <mark key="]" line="148" column="17" />
@@ -154,14 +121,23 @@
       <file name="/Dummy.txt" timestamp="1596447991043">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/addresses/SelectAddressActivity.java" timestamp="1596457704527">
+        <mark key="[" line="12" column="52" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" timestamp="1596457470625">
         <mark key="[" line="282" column="43" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1596457350591">
-        <mark key="[" line="188" column="61" />
-        <mark key="]" line="186" column="0" />
-        <mark key="^" line="188" column="62" />
-        <mark key="." line="186" column="0" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/myRequests/FragmentChatViewModel.kt" timestamp="1596457937115">
+        <mark key="[" line="193" column="108" />
+        <mark key="]" line="193" column="111" />
+        <mark key="^" line="193" column="111" />
+        <mark key="." line="193" column="110" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/repositories/serviceRequests/ServiceRequestsRepositoryImpl.java" timestamp="1596447374388">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="^" line="167" column="52" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterAvailableRequests.kt" timestamp="1596449657703">
         <mark key="[" line="80" column="108" />
@@ -169,25 +145,35 @@
         <mark key="^" line="81" column="33" />
         <mark key="." line="81" column="32" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596454140621" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1596456774874">
         <mark key="[" line="16" column="32" />
         <mark key="]" line="15" column="32" />
         <mark key="." line="15" column="32" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/DialogFragmentOfferHelpFilter.kt" timestamp="1596449902400" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/TrackerStatusFragment.kt" timestamp="1596456759513">
+        <mark key="[" line="171" column="9" />
+        <mark key="]" line="129" column="72" />
+        <mark key="^" line="129" column="72" />
+        <mark key="." line="129" column="71" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/fragment_address_map.xml" timestamp="1596448053879">
         <mark key="[" line="9" column="44" />
         <mark key="]" line="11" column="8" />
         <mark key="^" line="11" column="8" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentAddressMap.kt" timestamp="1596449957059">
-        <mark key="[" line="42" column="70" />
-        <mark key="]" line="42" column="37" />
-        <mark key="." line="42" column="36" />
-        <mark key="^" line="42" column="37" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentAddressMap.kt" timestamp="1596458134840">
+        <mark key="[" line="41" column="70" />
+        <mark key="]" line="41" column="37" />
+        <mark key="." line="41" column="36" />
+        <mark key="^" line="41" column="37" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/navigation/nav_offer_help.xml" timestamp="1596449746993">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+        <mark key="^" line="29" column="35" />
       </file>
       <file name="/fragment.java" timestamp="1596451519501">
         <mark key="[" line="0" column="0" />
