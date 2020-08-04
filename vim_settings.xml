@@ -200,12 +200,11 @@
         <mark key="^" line="239" column="44" />
         <mark key="." line="238" column="70" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/PlacePickerActivity.kt" timestamp="1596525846028">
-        <mark key="'" line="37" column="53" />
-        <mark key="[" line="77" column="30" />
-        <mark key="]" line="97" column="82" />
-        <mark key="." line="97" column="82" />
-        <mark key="^" line="97" column="90" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/PlacePickerActivity.kt" timestamp="1596526607245">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="73" column="43" />
+        <mark key="." line="73" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -316,14 +315,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>changingLocation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoYW5naW5nTG9jYXRpb24gPSB0cnVlCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>changingLocation</text>
+        <text>animateCamera</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -332,36 +331,34 @@
         <text encoding="base64">ICAgICAgICAvL0lGIFJFTkFNSU5HIFRISVMgUFJPUEVSVFksIE5PVElGWSBMQVNTRSBCT1JHRU4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoYW5naW5nTG9jYXRpb24gPSB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaXJjbGUgPSBudWxsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaXJjbGU/LnJlbW92ZSgpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGl0LnNldE9uQ2FtZXJhSWRsZUxpc3RlbmVyIHsKICAgICAgICAgICAgICAgIHZhbCBmaWVsZHMgPSBsaXN0T2YoUGxhY2UuRmllbGQuTkFNRSwgUGxhY2UuRmllbGQuQUREUkVTUywgUGxhY2UuRmllbGQuTEFUX0xORykKICAgICAgICAgICAgICAgIHBsYWNlc0NsaWVudC5maW5kQ3VycmVudFBsYWNlKEZpbmRDdXJyZW50UGxhY2VSZXF1ZXN0Lm5ld0luc3RhbmNlKGZpZWxkcykpLmFkZE9uU3VjY2Vzc0xpc3RlbmVyIHsKICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZChpdC5wbGFjZUxpa2VsaWhvb2RzLmpvaW5Ub1N0cmluZyB7IGl0LnBsYWNlLm5hbWUudG9TdHJpbmcoKSB9KQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoYW5naW5nTG9jYXRpb24gPSBmYWxzZQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>indCurrentPlace(FindCurrentPlaceRequest.newInstance(listOf(Place.Field.LAT_LNG))).addOnSuccessListener {
-                    Timber.d(it.placeLikelihoods.joinToString { it.place.name.toString() })
-                }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaXJjbGUgPSBudWxsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5wbGFjZUxpa2VsaWhvb2RzWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaXJjbGU/LnJlbW92ZSgpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDx0b29sYmEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGl0LnNldE9uQ2FtZXJhSWRsZUxpc3RlbmVyIHsKICAgICAgICAgICAgICAgIHZhbCBmaWVsZHMgPSBsaXN0T2YoUGxhY2UuRmllbGQuTkFNRSwgUGxhY2UuRmllbGQuQUREUkVTUywgUGxhY2UuRmllbGQuTEFUX0xORykKICAgICAgICAgICAgICAgIHBsYWNlc0NsaWVudC5maW5kQ3VycmVudFBsYWNlKEZpbmRDdXJyZW50UGxhY2VSZXF1ZXN0Lm5ld0luc3RhbmNlKGZpZWxkcykpLmFkZE9uU3VjY2Vzc0xpc3RlbmVyIHsKICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZChpdC5wbGFjZUxpa2VsaWhvb2RzLmpvaW5Ub1N0cmluZyB7IGl0LnBsYWNlLm5hbWUudG9TdHJpbmcoKSB9KQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
