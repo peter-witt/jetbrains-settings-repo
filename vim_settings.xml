@@ -134,7 +134,7 @@
         <mark key="^" line="21" column="30" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_tracker_geofence.xml" timestamp="1596525520012" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_place_picker.xml" timestamp="1596525489795">
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_place_picker.xml" timestamp="1596525574923">
         <mark key="[" line="28" column="31" />
         <mark key="]" line="28" column="31" />
         <mark key="^" line="28" column="37" />
@@ -145,6 +145,7 @@
         <mark key="]" line="34" column="20" />
         <mark key="." line="34" column="20" />
       </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/trackerMode/TrackerGeofenceFragment.kt" timestamp="1596525897130" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Page.kt" timestamp="1596462751189">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="23" />
@@ -193,24 +194,18 @@
         <mark key="^" line="155" column="25" />
         <mark key="." line="155" column="25" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentAddressMap.kt" timestamp="1596458134840">
-        <mark key="[" line="41" column="70" />
-        <mark key="]" line="41" column="37" />
-        <mark key="." line="41" column="36" />
-        <mark key="^" line="41" column="37" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/test/java/dk/makeable/coreui/SchemaGenerator.kt" timestamp="1596463151570">
         <mark key="[" line="238" column="8" />
         <mark key="]" line="239" column="0" />
         <mark key="^" line="239" column="44" />
         <mark key="." line="238" column="70" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/PlacePickerActivity.kt" timestamp="1596525315260">
-        <mark key="'" line="34" column="53" />
-        <mark key="[" line="81" column="13" />
-        <mark key="]" line="89" column="13" />
-        <mark key="." line="89" column="12" />
-        <mark key="^" line="89" column="13" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/PlacePickerActivity.kt" timestamp="1596525846028">
+        <mark key="'" line="37" column="53" />
+        <mark key="[" line="77" column="30" />
+        <mark key="]" line="97" column="82" />
+        <mark key="." line="97" column="82" />
+        <mark key="^" line="97" column="90" />
       </file>
     </filemarks>
     <jumps>
@@ -322,13 +317,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ic_pin_for_geofence</text>
+        <text>changingLocation</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>ic_pin_for_geofence</text>
+        <text>changingLocation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -340,35 +335,33 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaXJjbGUgPSBudWxsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaXJjbGU/LnJlbW92ZSgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CiAgICAgICAgICAgIGl0LnNldE9uQ2FtZXJhSWRsZUxpc3RlbmVyIHsKICAgICAgICAgICAgICAgIHZhbCBmaWVsZHMgPSBsaXN0T2YoUGxhY2UuRmllbGQuTkFNRSwgUGxhY2UuRmllbGQuQUREUkVTUywgUGxhY2UuRmllbGQuTEFUX0xORykKICAgICAgICAgICAgICAgIHBsYWNlc0NsaWVudC5maW5kQ3VycmVudFBsYWNlKEZpbmRDdXJyZW50UGxhY2VSZXF1ZXN0Lm5ld0luc3RhbmNlKGZpZWxkcykpLmFkZE9uU3VjY2Vzc0xpc3RlbmVyIHsKICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZChpdC5wbGFjZUxpa2VsaWhvb2RzLmpvaW5Ub1N0cmluZyB7IGl0LnBsYWNlLm5hbWUudG9TdHJpbmcoKSB9KQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>indCurrentPlace(FindCurrentPlaceRequest.newInstance(listOf(Place.Field.LAT_LNG))).addOnSuccessListener {
                     Timber.d(it.placeLikelihoods.joinToString { it.place.name.toString() })
                 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5wbGFjZUxpa2VsaWhvb2RzWzBdCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDx0b29sYmEK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5wbGFjZUxpa2VsaWhvb2RzWzBdCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx0b29sYmEK</text>
       </register>
       <register name="9" type="2">
-        <text>//    implementation ('com.github.rtchagas:pingplacepicker:2.1.3') {
-//
-//    }</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
