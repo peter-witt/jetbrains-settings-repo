@@ -171,12 +171,6 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/menu/menu_search.xml" timestamp="1596528562825">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="32" />
-        <mark key="." line="6" column="32" />
-        <mark key="^" line="6" column="39" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/placepicker/PlacePickerActivity.kt" timestamp="1596534019481">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -184,8 +178,8 @@
         <mark key="^" line="114" column="36" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/strings.xml" timestamp="1596534981525" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1596538319258">
-        <mark key="[" line="70" column="48" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1596539862159">
+        <mark key="[" line="72" column="77" />
         <mark key="]" line="82" column="26" />
         <mark key="." line="82" column="25" />
         <mark key="^" line="82" column="26" />
