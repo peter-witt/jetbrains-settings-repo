@@ -178,7 +178,12 @@
         <mark key="^" line="154" column="118" />
         <mark key="." line="186" column="70" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/BindingAdapters.kt" timestamp="1596549571706" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/BindingAdapters.kt" timestamp="1596549722291">
+        <mark key="[" line="51" column="19" />
+        <mark key="]" line="51" column="22" />
+        <mark key="^" line="51" column="22" />
+        <mark key="." line="51" column="21" />
+      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Item.kt" timestamp="1596538123073">
         <mark key="[" line="73" column="0" />
       </file>
@@ -298,13 +303,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>viewModel.serviceRequest.imageLarge</text>
+        <text>AppCompatImageView</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>viewModel.serviceRequest.imageLarge</text>
+        <text>AppCompatImageView</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
