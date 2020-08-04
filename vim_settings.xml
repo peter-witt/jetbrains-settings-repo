@@ -112,22 +112,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/addresses/SelectAddressActivity.java" timestamp="1596524570298">
-        <mark key="[" line="128" column="33" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="84" column="48" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/addresses/SelectAddressActivity.java" timestamp="1596531789902">
+        <mark key="[" line="104" column="94" />
+        <mark key="]" line="104" column="54" />
+        <mark key="." line="104" column="53" />
+        <mark key="^" line="104" column="54" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/row_address.xml" timestamp="1596531391309" />
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/fragment_tracker_geofence.xml" timestamp="1596525520012" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_place_picker.xml" timestamp="1596530113416">
-        <mark key="[" line="129" column="47" />
-        <mark key="]" line="93" column="42" />
-        <mark key="." line="92" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Compilation.kt" timestamp="1596462743088">
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="34" column="20" />
-        <mark key="." line="34" column="20" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_place_picker.xml" timestamp="1596531882786">
+        <mark key="[" line="102" column="42" />
+        <mark key="]" line="102" column="42" />
+        <mark key="." line="102" column="42" />
+        <mark key="^" line="102" column="47" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/trackerMode/TrackerGeofenceFragment.kt" timestamp="1596525897130" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Page.kt" timestamp="1596462751189">
@@ -167,11 +164,10 @@
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/placepicker/PlacePickerViewModel.kt" timestamp="1596529235541">
-        <mark key="[" line="9" column="47" />
-        <mark key="]" line="9" column="22" />
-        <mark key="^" line="9" column="22" />
-        <mark key="." line="9" column="21" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/placepicker/PlacePickerViewModel.kt" timestamp="1596530812749">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/menu/menu_search.xml" timestamp="1596528562825">
         <mark key="[" line="6" column="32" />
@@ -179,11 +175,11 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/placepicker/PlacePickerActivity.kt" timestamp="1596530237234">
-        <mark key="[" line="64" column="69" />
-        <mark key="]" line="66" column="79" />
-        <mark key="." line="66" column="78" />
-        <mark key="^" line="66" column="79" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/placepicker/PlacePickerActivity.kt" timestamp="1596532028768">
+        <mark key="[" line="164" column="105" />
+        <mark key="]" line="165" column="40" />
+        <mark key="." line="165" column="39" />
+        <mark key="^" line="165" column="40" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/test/java/dk/makeable/coreui/SchemaGenerator.kt" timestamp="1596463151570">
         <mark key="[" line="238" column="8" />
@@ -308,14 +304,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>wrap_content</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>cesClient</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -324,34 +320,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRyYW5zaXRpb25NYW5hZ2VyLmJlZ2luRGVsYXllZFRyYW5zaXRpb24oYm90dG9tQ29udGFpbmVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmFtZSA9IHBsYWNlTmFtZS5jb250YWlucygiwrAiKSA/IHN0cmVldCArICIgIiArIG51bWJlciA6IHBsYWNlTmFtZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGxhY2VOYW1lID0gcGxhY2UuZ2V0TmFtZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoaXQgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlRGV0YWlsc0NvbnRhaW5lci52aXNpYmlsaXR5ID0gZmFsc2UgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y29uc3QgdmFsIEFERFJFU1NfRVhUUkEgPSAiYWRkcmVzc19leHRyYSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRyYW5zaXRpb25NYW5hZ2VyLmJlZ2luRGVsYXllZFRyYW5zaXRpb24oYm90dG9tQ29udGFpbmVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIKICAgICAgICAgICAgICAgIHRvb2xzOnZpc2liaWxpdHk9InZpc2libGUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iQHt2aWV3TW9kZWwuY3VycmVudFBsYWNlICA9PSBudWxsID8gVmlldyAuVklTSUJMRSA6IFZpZXcuR09ORX0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
