@@ -112,6 +112,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/NotificationService.kt" timestamp="1596534784234">
+        <mark key="[" line="80" column="57" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/Notification.kt" timestamp="1596534723979">
+        <mark key="[" line="66" column="90" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/addresses/SelectAddressActivity.java" timestamp="1596531789902">
         <mark key="[" line="104" column="94" />
         <mark key="]" line="104" column="54" />
@@ -127,26 +133,11 @@
         <mark key="^" line="101" column="40" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/trackerMode/TrackerGeofenceFragment.kt" timestamp="1596525897130" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Page.kt" timestamp="1596462751189">
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="23" />
-        <mark key="." line="19" column="23" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/top_rounded_white_box.xml" timestamp="1596532946252">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="33" />
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="33" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1596464539453">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="56" />
-        <mark key="." line="85" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppTheme.kt" timestamp="1596464565551">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="31" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/ic_profile.xml" timestamp="1596526860605">
         <mark key="[" line="0" column="1" />
@@ -182,11 +173,12 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="114" column="36" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/test/java/dk/makeable/coreui/SchemaGenerator.kt" timestamp="1596463151570">
-        <mark key="[" line="238" column="8" />
-        <mark key="]" line="239" column="0" />
-        <mark key="^" line="239" column="44" />
-        <mark key="." line="238" column="70" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/strings.xml" timestamp="1596534981525" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1596535231883">
+        <mark key="[" line="114" column="88" />
+        <mark key="]" line="114" column="32" />
+        <mark key="^" line="114" column="32" />
+        <mark key="." line="114" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1596529174823">
         <mark key="[" line="0" column="0" />
@@ -305,14 +297,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>Construction, Garden machinery</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text>Construction, Garden machinery</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
