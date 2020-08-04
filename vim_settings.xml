@@ -124,49 +124,19 @@
         <mark key="." line="114" column="117" />
         <mark key="^" line="114" column="118" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/addresses/SelectAddressActivity.java" timestamp="1596531789902">
-        <mark key="[" line="104" column="94" />
-        <mark key="]" line="104" column="54" />
-        <mark key="." line="104" column="53" />
-        <mark key="^" line="104" column="54" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/row_address.xml" timestamp="1596531391309" />
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogFragment.kt" timestamp="1596535869719" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_place_picker.xml" timestamp="1596533753841">
-        <mark key="[" line="101" column="36" />
-        <mark key="]" line="101" column="36" />
-        <mark key="." line="101" column="36" />
-        <mark key="^" line="101" column="40" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/trackerMode/TrackerGeofenceFragment.kt" timestamp="1596535833821">
-        <mark key="'" line="154" column="79" />
-        <mark key="[" line="186" column="70" />
-        <mark key="]" line="186" column="70" />
-        <mark key="^" line="154" column="118" />
-        <mark key="." line="186" column="70" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/top_rounded_white_box.xml" timestamp="1596532946252">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="33" />
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Item.kt" timestamp="1596538123073">
-        <mark key="[" line="73" column="0" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_getter_request_cell.xml" timestamp="1596549577343">
+        <mark key="[" line="72" column="38" />
+        <mark key="]" line="149" column="17" />
+        <mark key="^" line="149" column="17" />
+        <mark key="." line="149" column="16" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/interfaces/widgets.kt" timestamp="1596540986190" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_select_address.xml" timestamp="1596528795765" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/placepicker/PlacePickerViewModel.kt" timestamp="1596530812749">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1596536510993">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-        <mark key="^" line="13" column="24" />
-      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/placepicker/PlacePickerActivity.kt" timestamp="1596534019481">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -186,8 +156,37 @@
         <mark key="^" line="144" column="40" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1596529174823">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/addresses/SelectAddressActivity.java" timestamp="1596531789902">
+        <mark key="[" line="104" column="94" />
+        <mark key="]" line="104" column="54" />
+        <mark key="." line="104" column="53" />
+        <mark key="^" line="104" column="54" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/row_address.xml" timestamp="1596531391309" />
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogFragment.kt" timestamp="1596535869719" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/FragmentGetterMakeOffer.kt" timestamp="1596549518506" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_place_picker.xml" timestamp="1596533753841">
+        <mark key="[" line="101" column="36" />
+        <mark key="]" line="101" column="36" />
+        <mark key="." line="101" column="36" />
+        <mark key="^" line="101" column="40" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/trackerMode/TrackerGeofenceFragment.kt" timestamp="1596535833821">
+        <mark key="'" line="154" column="79" />
+        <mark key="[" line="186" column="70" />
+        <mark key="]" line="186" column="70" />
+        <mark key="^" line="154" column="118" />
+        <mark key="." line="186" column="70" />
+      </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/BindingAdapters.kt" timestamp="1596549571706" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Item.kt" timestamp="1596538123073">
+        <mark key="[" line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1596536510993">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+        <mark key="^" line="13" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -298,14 +297,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9UT0RPOiBNYXAgcmVzdWx0IHRvIHJvb20gZW50aXRpZXMK</text>
+      <register name="&quot;" type="4">
+        <text>viewModel.serviceRequest.imageLarge</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>newLatLngBounds</text>
+        <text>viewModel.serviceRequest.imageLarge</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
