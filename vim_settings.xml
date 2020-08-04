@@ -151,8 +151,8 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/ic_profile.xml" timestamp="1596526860605">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Item.kt" timestamp="1596538123073">
+        <mark key="[" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_select_address.xml" timestamp="1596528795765" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/drawable/ma_ic_search.xml" timestamp="1596528690414">
@@ -184,6 +184,12 @@
         <mark key="^" line="114" column="36" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/strings.xml" timestamp="1596534981525" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1596538319258">
+        <mark key="[" line="70" column="48" />
+        <mark key="]" line="82" column="26" />
+        <mark key="." line="82" column="25" />
+        <mark key="^" line="82" column="26" />
+      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" timestamp="1596535752773">
         <mark key="[" line="146" column="57" />
         <mark key="]" line="144" column="0" />
@@ -192,11 +198,6 @@
       </file>
       <file name="/fragment.java" timestamp="1596529174823">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/PlacePickerActivity.kt" timestamp="1596528026493">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -307,8 +308,8 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>newLatLngBounds</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9UT0RPOiBNYXAgcmVzdWx0IHRvIHJvb20gZW50aXRpZXMK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -323,27 +324,27 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXAubW92ZUNhbWVyYShDYW1lcmFVcGRhdGVGYWN0b3J5Lm5ld0xhdExuZ1pvb20oTGF0TG5nKGl0LmxhdGl0dWRlLCBpdC5sb25naXR1ZGUpLCAxNWYpKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9UT0RPOiBNYXAgcmVzdWx0IHRvIHJvb20gZW50aXRpZXMK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYoc2tpcEFuaW1hdGlvbikK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>newLatLngBounds(
                                 LatLngBounds.builder().include(it.getLastLatLng()).build(), 50
                             )</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXAubW92ZUNhbWVyYShDYW1lcmFVcGRhdGVGYWN0b3J5Lm5ld0xhdExuZ1pvb20oTGF0TG5nKHZpZXdNb2RlbC5jdXJyZW50QWRkcmVzcy52YWx1ZSEhLmxhdGl0dWRlLCB2aWV3TW9kZWwuY3VycmVudEFkZHJlc3MudmFsdWUhIS5sb25naXR1ZGUpLCAxNWYpKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOm1heExpbmVzPSIyIgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxpbmVzPSIyIgo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxpbmVzPSIyIgo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -352,7 +353,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSIxMTBkcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIK</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
