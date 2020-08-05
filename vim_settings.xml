@@ -196,8 +196,11 @@
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_offer_cell.xml" timestamp="1596612923509">
         <mark key="[" line="66" column="58" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/test/java/dk/makeable/coreui/SchemaGenerator.kt" timestamp="1596614182255">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/test/java/dk/makeable/coreui/SchemaGenerator.kt" timestamp="1596615296005">
         <mark key="[" line="226" column="167" />
+        <mark key="]" line="242" column="27" />
+        <mark key="^" line="242" column="27" />
+        <mark key="." line="242" column="26" />
       </file>
     </filemarks>
     <jumps>
