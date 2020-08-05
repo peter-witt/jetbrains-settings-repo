@@ -134,11 +134,10 @@
         <mark key="." line="26" column="4" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/strings.xml" timestamp="1596617800145" />
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_place_picker.xml" timestamp="1596612369217">
-        <mark key="[" line="32" column="31" />
-        <mark key="]" line="32" column="31" />
-        <mark key="." line="32" column="31" />
-        <mark key="^" line="101" column="40" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/util/BindingAdapters.kt" timestamp="1596619870547">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/BindingAdapters.kt" timestamp="1596613731660">
         <mark key="'" line="32" column="0" />
@@ -178,11 +177,11 @@
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/EventHandler.kt" timestamp="1596613938610">
         <mark key="[" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/bottom_sheet_dialog_fragment_footnote.xml" timestamp="1596618169694">
-        <mark key="[" line="12" column="49" />
-        <mark key="]" line="13" column="31" />
-        <mark key="." line="13" column="30" />
-        <mark key="^" line="13" column="31" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/bottom_sheet_dialog_fragment_footnote.xml" timestamp="1596619774738">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="10" column="14" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_offer_cell.xml" timestamp="1596612923509">
         <mark key="[" line="66" column="58" />
@@ -315,7 +314,7 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -330,34 +329,34 @@
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWRkX2FkZHJlc3MiPlRpbGbDuGogQWRyZXNzZTwvc3RyaW5nPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRTaXplIj5AZGltZW4vVGl0bGVUZXh0U2l6ZTwvaXRlbT4K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">QEJpbmRpbmdBZGFwdGVyKCJsb2FkQ29udGVudCIpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkYXRhPjwvZGF0YT4K</text>
+        <text encoding="base64">QEJpbmRpbmdBZGFwdGVyKCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGRrLm1ha2VhYmxlLmhhYW5kYm9nLnZpZXcuSGFhbmRib2dXZWJWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3dlYlZpZXciCiAgICAgICAgICAgIC8+</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9kaWFiZXRlcy5ta2JsLmRrL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIwLzAzL2ltZ19mb2RzYcyKci5wbmciIC8+Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PGFuZHJvaWR4LmFwcGNvbXBhdC53aWRnZXQuQXBwQ29tcGF0VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkZvb3Rub3RlIgogICAgICAgICAgICBzdHlsZT0iQHN0eWxlL0JvbGRUZXh0U3R5bGUuVGl0bGUiCiAgICAgICAgICAgIC8+</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9uZW1pZERpdmlkZXIiCg==</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRTaXplIj5AZGltZW4vVGl0bGVUZXh0U2l6ZTwvaXRlbT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobUNhY2hlICE9IG51bGwgJiYgIW1DaGFjaGVEaXJ0eSkgewogICAgICAgICAgICBpZiAobUNhY2hlLmNvbnRhaW5zS2V5KGFkZHJlc3NJZCkpIHsKICAgICAgICAgICAgICAgIGNhbGxiYWNrLm9uRGF0YUxvYWRlZChtQ2FjaGUuZ2V0KGFkZHJlc3NJZCkpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
