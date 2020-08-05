@@ -126,11 +126,6 @@
         <mark key="^" line="162" column="56" />
         <mark key="." line="162" column="55" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/util/BindingAdapters.kt" timestamp="1596619870547">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/android-utils/webviewutils/src/main/java/dk/makeable/webviewutils/GlideWebViewClient.kt" timestamp="1596625119529">
         <mark key="[" line="19" column="0" />
       </file>
@@ -146,11 +141,11 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/models/FirestoreFootNotes.kt" timestamp="1596628476056">
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="11" column="44" />
-        <mark key="^" line="14" column="1" />
-        <mark key="." line="11" column="44" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/models/FirestoreFootNotes.kt" timestamp="1596628612980">
+        <mark key="[" line="19" column="70" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="19" column="8" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/styles.xml" timestamp="1596622988236">
         <mark key="[" line="31" column="17" />
@@ -171,17 +166,20 @@
         <mark key="^" line="64" column="42" />
       </file>
       <file name="$USER_HOME$/Makeable/ftz-android/app/src/main/java/dk/makeable/ftz/ui/fragments/academy/AcademyWebViewFragment.kt" timestamp="1596625581066" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/FootNote.kt" timestamp="1596628346559">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="20" column="48" />
-        <mark key="^" line="20" column="48" />
-        <mark key="." line="20" column="47" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/FootNote.kt" timestamp="1596629181206">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="19" column="50" />
+        <mark key="^" line="19" column="50" />
+        <mark key="." line="19" column="49" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Image.kt" timestamp="1596628325857" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/HaandbogDatabase.kt" timestamp="1596628389644">
-        <mark key="[" line="45" column="35" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/HaandbogDatabase.kt" timestamp="1596629010811">
+        <mark key="[" line="51" column="56" />
+        <mark key="]" line="51" column="55" />
+        <mark key="^" line="51" column="55" />
+        <mark key="." line="51" column="54" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/models/FirestoreConditions.kt" timestamp="1596628497548">
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/models/FirestoreConditions.kt" timestamp="1596628526065">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="23" />
         <mark key="." line="18" column="23" />
@@ -190,6 +188,12 @@
         <mark key="[" line="21" column="31" />
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/HaandbogFirestoreDB.kt" timestamp="1596628893440">
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="20" column="84" />
+        <mark key="^" line="20" column="84" />
+        <mark key="." line="20" column="83" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/build/generated/source/navigation-args/diabetesHaandbogen/debug/dk/makeable/haandbog/ui/FragmentItemArgs.kt" timestamp="1596624191518">
         <mark key="[" line="12" column="22" />
@@ -304,13 +308,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Parcelable</text>
+        <text encoding="base64">QERlbGV0ZQogICAgZnVuIGRlbGV0ZUZvb3ROb3RlKGZvb3ROb3RlczogTGlzdDxGb290Tm90ZT4p</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>Parcelable</text>
+        <text>firestrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -318,37 +322,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWRkX2FkZHJlc3MiPlRpbGbDuGogQWRyZXNzZTwvc3RyaW5nPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">QERlbGV0ZQogICAgZnVuIGRlbGV0ZUZvb3ROb3RlKGZvb3ROb3RlczogTGlzdDxGb290Tm90ZT4p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzdXBlci5zaG91bGRPdmVycmlkZVVybExvYWRpbmcodmlldywgcmVxdWVzdCkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzdXBlci5zaG91bGRPdmVycmlkZVVybExvYWRpbmcodmlldywgcmVxdWVzdCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>object: GlideWebViewClient(context) {
             
         }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPnRlc3QgdGVrc3QgPGEgaHJlZj0naHR0cHM6Ly93d3cuZHNhbS5kay9wdWJsaWthdGlvbmVyL2RzYW1zX2tsaW5pc2tlX3ZlamxlZG5pbmdlci8nPmh0dHBzOi8vd3d3LmRzYW0uZGsvcHVibGlrYXRpb25lci9kc2Ftc19rbGluaXNrZV92ZWpsZWRuaW5nZXIvPC9hPjwvc3Ryb25nPjwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9waWNzdW0ucGhvdG9zLzE1MCIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPnRlc3QgdGVrc3QgPGEgaHJlZj0naHR0cHM6Ly93d3cuZHNhbS5kay9wdWJsaWthdGlvbmVyL2RzYW1zX2tsaW5pc2tlX3ZlamxlZG5pbmdlci8nPmh0dHBzOi8vd3d3LmRzYW0uZGsvcHVibGlrYXRpb25lci9kc2Ftc19rbGluaXNrZV92ZWpsZWRuaW5nZXIvPC9hPjwvc3Ryb25nPjwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9waWNzdW0ucGhvdG9zLzE1MCIgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
