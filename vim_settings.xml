@@ -118,7 +118,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="37" column="78" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/values/styles.xml" timestamp="1596623057560" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk.android-utils/webviewutils/0.1.1/e9adcb4d6fe5a6645deca956012bda0b9a505bb3/webviewutils-0.1.1-sources.jar!/dk/makeable/webviewutils/GlideWebViewClient.kt" timestamp="1596625096497" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1596625520524">
         <mark key="[" line="168" column="28" />
@@ -135,28 +134,26 @@
         <mark key="." line="40" column="40" />
         <mark key="^" line="40" column="41" />
       </file>
+      <file name="/fragment.kt" timestamp="1596632448019">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/bottom_sheet_dialog_fragment_footnote.xml" timestamp="1596623244074">
         <mark key="[" line="27" column="36" />
         <mark key="]" line="14" column="27" />
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="27" />
       </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1596632860804">
+        <mark key="[" line="74" column="139" />
+        <mark key="]" line="74" column="65" />
+        <mark key="." line="74" column="64" />
+        <mark key="^" line="74" column="65" />
+      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/models/FirestoreFootNotes.kt" timestamp="1596628612980">
         <mark key="[" line="19" column="70" />
         <mark key="]" line="19" column="8" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="19" column="8" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/styles.xml" timestamp="1596622988236">
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="31" column="17" />
-        <mark key="^" line="68" column="0" />
-        <mark key="." line="31" column="17" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/drawable/bottom_sheet_background.xml" timestamp="1596623017653">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="33" />
-        <mark key="." line="5" column="33" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/FragmentItem.kt" timestamp="1596631218132">
         <mark key="[" line="184" column="0" />
@@ -176,6 +173,7 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="48" />
       </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/local.properties" timestamp="1596632199683" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Image.kt" timestamp="1596628325857" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/HaandbogDatabase.kt" timestamp="1596630250873">
         <mark key="[" line="36" column="14" />
