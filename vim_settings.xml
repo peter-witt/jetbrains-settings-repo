@@ -122,6 +122,7 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk.android-utils/webviewutils/0.1.1/e9adcb4d6fe5a6645deca956012bda0b9a505bb3/webviewutils-0.1.1-sources.jar!/dk/makeable/webviewutils/GlideWebViewClient.kt" timestamp="1596615218283" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" timestamp="1596611889831">
         <mark key="[" line="367" column="39" />
         <mark key="]" line="367" column="39" />
@@ -159,12 +160,6 @@
         <mark key="." line="124" column="47" />
         <mark key="^" line="124" column="48" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_getter_request_cell.xml" timestamp="1596549577343">
-        <mark key="[" line="72" column="38" />
-        <mark key="]" line="149" column="17" />
-        <mark key="^" line="149" column="17" />
-        <mark key="." line="149" column="16" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/ActionEventHandler.kt" timestamp="1596614006035">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="20" column="4" />
@@ -178,6 +173,9 @@
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_request_cell_address.xml" timestamp="1596609673503">
         <mark key="[" line="32" column="39" />
+      </file>
+      <file name="/fragment.kt" timestamp="1596615090873">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/BoxWidget.kt" timestamp="1596614036501">
         <mark key="[" line="32" column="22" />
