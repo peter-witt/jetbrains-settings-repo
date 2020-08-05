@@ -112,11 +112,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/log/TrackerLogMapFragment.kt" timestamp="1596536194079">
-        <mark key="[" line="114" column="118" />
-        <mark key="]" line="114" column="118" />
-        <mark key="." line="114" column="117" />
-        <mark key="^" line="114" column="118" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/TaggedNavigationEventHandler.kt" timestamp="1596614022750">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="4" />
+        <mark key="." line="31" column="4" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/data/repositories/addresses/AddressesRepositoryImpl.java" timestamp="1596611404105">
         <mark key="[" line="73" column="0" />
@@ -130,6 +129,11 @@
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_request_cell.xml" timestamp="1596609595986">
         <mark key="[" line="33" column="39" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/NavigationEventHandler.kt" timestamp="1596614015485">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_place_picker.xml" timestamp="1596612369217">
         <mark key="[" line="32" column="31" />
@@ -161,6 +165,11 @@
         <mark key="^" line="149" column="17" />
         <mark key="." line="149" column="16" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/ActionEventHandler.kt" timestamp="1596614006035">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values-da/strings.xml" timestamp="1596612035873">
         <mark key="[" line="314" column="0" />
         <mark key="]" line="314" column="54" />
@@ -170,31 +179,27 @@
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_request_cell_address.xml" timestamp="1596609673503">
         <mark key="[" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Item.kt" timestamp="1596538123073">
-        <mark key="[" line="73" column="0" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/BoxWidget.kt" timestamp="1596614036501">
+        <mark key="[" line="32" column="22" />
+        <mark key="]" line="32" column="22" />
+        <mark key="." line="32" column="22" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_getter_profile.xml" timestamp="1596612269407">
         <mark key="[" line="256" column="0" />
         <mark key="]" line="256" column="0" />
         <mark key="." line="256" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/EventHandler.kt" timestamp="1596613938610">
+        <mark key="[" line="11" column="1" />
+      </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_getter_offer_cell.xml" timestamp="1596609453538">
         <mark key="[" line="32" column="39" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1596536510993">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-        <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/epoxy_model_offer_cell.xml" timestamp="1596612923509">
         <mark key="[" line="66" column="58" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1596547715681">
-        <mark key="[" line="72" column="77" />
-        <mark key="]" line="82" column="26" />
-        <mark key="." line="82" column="25" />
-        <mark key="^" line="82" column="26" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/test/java/dk/makeable/coreui/SchemaGenerator.kt" timestamp="1596614182255">
+        <mark key="[" line="226" column="167" />
       </file>
     </filemarks>
     <jumps>
@@ -306,13 +311,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>skipMemoryCache(true)</text>
+        <text>EventHandler</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>skipMemoryCache(true)</text>
+        <text>EventHandler</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
