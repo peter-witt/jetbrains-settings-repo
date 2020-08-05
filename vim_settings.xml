@@ -173,21 +173,21 @@
         <mark key="." line="19" column="49" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Image.kt" timestamp="1596628325857" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/HaandbogDatabase.kt" timestamp="1596629010811">
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/HaandbogDatabase.kt" timestamp="1596629626027">
         <mark key="[" line="51" column="56" />
-        <mark key="]" line="51" column="55" />
-        <mark key="^" line="51" column="55" />
-        <mark key="." line="51" column="54" />
+        <mark key="]" line="48" column="21" />
+        <mark key="^" line="48" column="21" />
+        <mark key="." line="48" column="20" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/models/FirestoreConditions.kt" timestamp="1596628526065">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596623669435">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596629792316">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="40" />
+        <mark key="." line="22" column="40" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/HaandbogFirestoreDB.kt" timestamp="1596628893440">
         <mark key="[" line="28" column="38" />
@@ -308,13 +308,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">QERlbGV0ZQogICAgZnVuIGRlbGV0ZUZvb3ROb3RlKGZvb3ROb3RlczogTGlzdDxGb290Tm90ZT4p</text>
+        <text>src</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>firestrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
