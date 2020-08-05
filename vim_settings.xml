@@ -112,17 +112,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/view/HaandbogWebView.kt" timestamp="1596631351514">
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/Application.kt" timestamp="1596635210447">
+        <mark key="[" line="42" column="103" />
+        <mark key="]" line="42" column="83" />
+        <mark key="." line="42" column="82" />
+        <mark key="^" line="42" column="83" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/view/HaandbogWebView.kt" timestamp="1596634641103">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="37" column="78" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk.android-utils/webviewutils/0.1.1/e9adcb4d6fe5a6645deca956012bda0b9a505bb3/webviewutils-0.1.1-sources.jar!/dk/makeable/webviewutils/GlideWebViewClient.kt" timestamp="1596625096497" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1596634180881">
-        <mark key="[" line="48" column="15" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="170" column="56" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1596635035789">
+        <mark key="[" line="53" column="58" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="43" column="50" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/android-utils/webviewutils/src/main/java/dk/makeable/webviewutils/GlideWebViewClient.kt" timestamp="1596625119529">
         <mark key="[" line="19" column="0" />
@@ -136,17 +143,11 @@
       <file name="/fragment.kt" timestamp="1596632448019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/bottom_sheet_dialog_fragment_footnote.xml" timestamp="1596623244074">
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="14" column="27" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1596632860804">
-        <mark key="[" line="74" column="139" />
-        <mark key="]" line="74" column="65" />
-        <mark key="." line="74" column="64" />
-        <mark key="^" line="74" column="65" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1596635295263">
+        <mark key="[" line="46" column="58" />
+        <mark key="]" line="46" column="58" />
+        <mark key="." line="46" column="57" />
+        <mark key="^" line="46" column="58" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/models/FirestoreFootNotes.kt" timestamp="1596628612980">
         <mark key="[" line="19" column="70" />
@@ -172,7 +173,11 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="48" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/local.properties" timestamp="1596632199683" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/local.properties" timestamp="1596634883373">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Image.kt" timestamp="1596628325857" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/HaandbogDatabase.kt" timestamp="1596630250873">
         <mark key="[" line="36" column="14" />
@@ -185,7 +190,7 @@
         <mark key="]" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596629792316">
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596634679410">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="22" column="40" />
         <mark key="." line="22" column="40" />
@@ -308,14 +313,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9yZWxlYXNlCgogICAgICAgICAgICAKICAgICAgICAgICAgLy9kZWJ1Zwo=</text>
+      <register name="&quot;" type="4">
+        <text>context</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIHN1cHBvcnRGcmFnbWVudE1hbmFnZXIgPSA=</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -324,34 +329,42 @@
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWRkX2FkZHJlc3MiPlRpbGbDuGogQWRyZXNzZTwvc3RyaW5nPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9yZWxlYXNlCgogICAgICAgICAgICAKICAgICAgICAgICAgLy9kZWJ1Zwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JZFN1ZmZpeCAiLmRlYnVnIgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoaXQpCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIFByb3BlcnRpZXMgcHJvcGVydGllcyA9IG5ldyBQcm9wZXJ0aWVzKCkKICAgICAgICAgICAgcHJvcGVydGllcy5sb2FkKHByb2plY3Qucm9vdFByb2plY3QuZmlsZSgibG9jYWwucHJvcGVydGllcyIpLm5ld0RhdGFJbnB1dFN0cmVhbSgpKQoKICAgICAgICAgICAgLy8gSGVscGVyIGZ1bmN0aW9uIHRvIGNyZWF0ZSBnbG9iYWwgdmFyaWFibGVzCiAgICAgICAgICAgIGRlZiBhZGRDb25zdGFudCA9IHsgY29uc3RhbnROYW1lLCBjb25zdGFudFZhbHVlIC0+CiAgICAgICAgICAgICAgICBidWlsZENvbmZpZ0ZpZWxkICJTdHJpbmciLCAiJHtjb25zdGFudE5hbWV9IiwgIlwiJHtjb25zdGFudFZhbHVlfVwiIgogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBBbGdvbGlhCiAgICAgICAgICAgIGFkZENvbnN0YW50KCJBTEdPTElBX0FQUF9JRCIsIHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoIkFMR09MSUFfQVBQX0lEIikpCiAgICAgICAgICAgIGFkZENvbnN0YW50KCJBTEdPTElBX0FQSV9LRVkiLCBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJBTEdPTElBX0FQSV9LRVkiKSkKICAgICAgICAgICAgYWRkQ29uc3RhbnQoIkFMR09MSUFfSU5ERVhfSVRFTVMiLCBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJBTEdPTElBX0lOREVYX0lURU1TIikpCgogICAgICAgICAgICAvLyBMb2thbGlzZQogICAgICAgICAgICBhZGRDb25zdGFudCgiTE9LQUxJU0VfUFJPSkVDVF9JRCIsIHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoIkxPS0FMSVNFX1BST0pFQ1RfSUQiKSkKICAgICAgICAgICAgYWRkQ29uc3RhbnQoIkxPS0FMSVNFX1NES19UT0tFTiIsIHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoIkxPS0FMSVNFX1NES19UT0tFTiIpKQ==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQm90dG9tU2hlZXREaWFsb2dGcmFnbWVudEZvb3Rub3RlKGlkKS5zaG93KChjb250ZXh0IGFzIEFwcENvbXBhdEFjdGl2aXR5KS5zdXBwb3J0RnJhZ21lbnRNYW5hZ2VyLCAiRk9PVE5PVEUiKQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIFByb3BlcnRpZXMgcHJvcGVydGllcyA9IG5ldyBQcm9wZXJ0aWVzKCkKICAgICAgICAgICAgcHJvcGVydGllcy5sb2FkKHByb2plY3Qucm9vdFByb2plY3QuZmlsZSgibG9jYWwucHJvcGVydGllcyIpLm5ld0RhdGFJbnB1dFN0cmVhbSgpKQoKICAgICAgICAgICAgLy8gSGVscGVyIGZ1bmN0aW9uIHRvIGNyZWF0ZSBnbG9iYWwgdmFyaWFibGVzCiAgICAgICAgICAgIGRlZiBhZGRDb25zdGFudCA9IHsgY29uc3RhbnROYW1lLCBjb25zdGFudFZhbHVlIC0+CiAgICAgICAgICAgICAgICBidWlsZENvbmZpZ0ZpZWxkICJTdHJpbmciLCAiJHtjb25zdGFudE5hbWV9IiwgIlwiJHtjb25zdGFudFZhbHVlfVwiIgogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBBbGdvbGlhCiAgICAgICAgICAgIGFkZENvbnN0YW50KCJBTEdPTElBX0FQUF9JRCIsIHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoIkFMR09MSUFfQVBQX0lEIikpCiAgICAgICAgICAgIGFkZENvbnN0YW50KCJBTEdPTElBX0FQSV9LRVkiLCBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJBTEdPTElBX0FQSV9LRVkiKSkKICAgICAgICAgICAgYWRkQ29uc3RhbnQoIkFMR09MSUFfSU5ERVhfSVRFTVMiLCBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJBTEdPTElBX0lOREVYX0lURU1TIikpCgogICAgICAgICAgICAvLyBMb2thbGlzZQogICAgICAgICAgICBhZGRDb25zdGFudCgiTE9LQUxJU0VfUFJPSkVDVF9JRCIsIHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoIkxPS0FMSVNFX1BST0pFQ1RfSUQiKSkKICAgICAgICAgICAgYWRkQ29uc3RhbnQoIkxPS0FMSVNFX1NES19UT0tFTiIsIHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoIkxPS0FMSVNFX1NES19UT0tFTiIpKQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlld01vZGVsLmNvbnRlbnQucG9zdFZhbHVlKGlkKQo=</text>
+        <text>ALGOLIA_APP_ID=4B0GRJL9KM
+ALGOLIA_API_KEY=51f3dbd8559d96f2b1a1d3d960f6ab12
+ALGOLIA_INDEX_ITEMS=staging_posts_content
+LOKALISE_PROJECT_ID=232140245e848fdf8290c6.73637167
+LOKALISE_SDK_TOKEN=4c272549a7a1e197d3aba832d56143f823f357f8</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwbGljYXRpb24uZGIuZm9vdE5vdGVzKCkuZ2V0Rm9vdE5vdGUoaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzVmFsdWUgInN0cmluZyIsICJBTEdPTElBX0FQUF9JRCIsICI0QjBHUkpMOUtNIgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">QERlbGV0ZQogICAgZnVuIGRlbGV0ZUZvb3ROb3RlKGZvb3ROb3RlczogTGlzdDxGb290Tm90ZT4p</text>
+      <register name="8" type="8">
+        <text>add
+add
+add</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text>addC
+addC
+addC</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
