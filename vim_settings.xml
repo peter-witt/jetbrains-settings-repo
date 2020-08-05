@@ -148,11 +148,15 @@
       <file name="/fragment.kt" timestamp="1596632448019">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1596637345133">
+        <mark key="[" line="53" column="22" />
+      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1596636840850">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/keystore.properties" timestamp="1596637243581" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1596635725892">
         <mark key="[" line="46" column="195" />
         <mark key="]" line="46" column="58" />
@@ -187,17 +191,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Image.kt" timestamp="1596628325857" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/HaandbogDatabase.kt" timestamp="1596630250873">
         <mark key="[" line="36" column="14" />
         <mark key="]" line="36" column="14" />
         <mark key="^" line="36" column="17" />
         <mark key="." line="36" column="14" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/models/FirestoreConditions.kt" timestamp="1596628526065">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596634679410">
         <mark key="[" line="22" column="40" />
