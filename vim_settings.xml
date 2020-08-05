@@ -119,7 +119,7 @@
         <mark key="^" line="37" column="78" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk.android-utils/webviewutils/0.1.1/e9adcb4d6fe5a6645deca956012bda0b9a505bb3/webviewutils-0.1.1-sources.jar!/dk/makeable/webviewutils/GlideWebViewClient.kt" timestamp="1596625096497" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1596625520524">
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1596633246373">
         <mark key="[" line="168" column="28" />
         <mark key="]" line="162" column="56" />
         <mark key="^" line="162" column="56" />
