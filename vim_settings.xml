@@ -184,13 +184,10 @@
         <mark key="." line="16" column="26" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/HaandbogFirestoreDB.kt" timestamp="1596628893440">
-        <mark key="[" line="28" column="38" />
-        <mark key="]" line="20" column="84" />
-        <mark key="^" line="20" column="84" />
-        <mark key="." line="20" column="83" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchController.kt" timestamp="1596701048312">
+        <mark key="[" line="26" column="65" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1596635725892">
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1596701232611">
         <mark key="[" line="46" column="195" />
         <mark key="]" line="46" column="58" />
         <mark key="." line="46" column="57" />
