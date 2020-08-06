@@ -118,11 +118,6 @@
         <mark key="^" line="95" column="59" />
         <mark key="." line="95" column="34" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/local.properties" timestamp="1596634883373">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/Notification.kt" timestamp="1596636680705">
         <mark key="[" line="76" column="43" />
       </file>
@@ -132,27 +127,11 @@
         <mark key="." line="42" column="82" />
         <mark key="^" line="42" column="83" />
       </file>
-      <file name="/fragment.kt" timestamp="1596703948254">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/FragmentItem.kt" timestamp="1596631218132">
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="0" />
-        <mark key="." line="184" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/view/HaandbogWebView.kt" timestamp="1596701923109">
         <mark key="[" line="94" column="25" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="37" column="78" />
-      </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1596637345133">
-        <mark key="[" line="53" column="22" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1596636840850">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1596700384071">
         <mark key="[" line="53" column="54" />
@@ -161,23 +140,41 @@
         <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/diabetesHaandbogen_dev/google-services.json" timestamp="1596700367734" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/HaandbogDatabase.kt" timestamp="1596630250873">
-        <mark key="[" line="36" column="14" />
-        <mark key="]" line="36" column="14" />
-        <mark key="^" line="36" column="17" />
-        <mark key="." line="36" column="14" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/strings.xml" timestamp="1596706183438" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/navigation/nav_sections.xml" timestamp="1596707331256">
+        <mark key="[" line="58" column="31" />
+        <mark key="]" line="64" column="42" />
+        <mark key="." line="64" column="41" />
+        <mark key="^" line="64" column="42" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/local.properties" timestamp="1596634883373">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/fragment.kt" timestamp="1596703948254">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/controller/FirebaseMessagingService.kt" timestamp="1596706667734" />
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1596637345133">
+        <mark key="[" line="53" column="22" />
+      </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1596636840850">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/FragmentSearch.kt" timestamp="1596707110463" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596705422510">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="22" column="40" />
         <mark key="." line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/navigation/nav_sections.xml" timestamp="1596631197478">
-        <mark key="[" line="58" column="31" />
-        <mark key="]" line="64" column="42" />
-        <mark key="." line="64" column="41" />
-        <mark key="^" line="64" column="42" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1596709826111">
+        <mark key="[" line="443" column="0" />
+        <mark key="]" line="443" column="0" />
+        <mark key="." line="443" column="0" />
+        <mark key="^" line="444" column="78" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1596635968172">
         <mark key="[" line="15" column="22" />
@@ -193,12 +190,6 @@
         <mark key="]" line="79" column="40" />
         <mark key="^" line="79" column="88" />
         <mark key="." line="79" column="40" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/BottomSheetDialogFragmentFootnote.kt" timestamp="1596631103052">
-        <mark key="[" line="40" column="39" />
-        <mark key="]" line="40" column="41" />
-        <mark key="." line="40" column="40" />
-        <mark key="^" line="40" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -309,23 +300,23 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmFsIGl0ZW1zID0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIGl0ZW1zID0g</text>
+        <text>|| bottom_navigation.selectedItemId != R.id.nav_sections</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgiVEVTU1QiLCB3aXRoQ29udGV4dChEaXNwYXRjaGVycy5JTykgeyBub3RpZmljYXRpb25TZXJ2aWNlLmdldFVucmVhZE5vdGlmaWNhdGlvbnNDb3VudCgpIH0udG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGF0ZSA9IExhc3RTdGF0ZShSLmlkLmZyYWdtZW50SXRlbSwgUi5pZC5uYXZfc2VjdGlvbnMsIEJ1bmRsZSgpLmFwcGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgcHV0U3RyaW5nKCJpdGVtSWQiLCBpdGVtLmlkKQogICAgICAgICAgICAgICAgICAgICAgICBwdXRTdHJpbmcoInBhcmVudFRpdGxlIiwgcGFyZW50VGl0bGUpCiAgICAgICAgICAgICAgICAgICAgICAgIHB1dFN0cmluZygibGFiZWwiLCBpdGVtLnRpdGxlKQogICAgICAgICAgICAgICAgICAgICAgICBwdXRTdHJpbmcoImNvbG9yIiwgbnVsbCkKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW1zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -334,25 +325,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgTG9nLmQoIlRFU1NUIiwgd2l0aENvbnRleHQoRGlzcGF0Y2hlcnMuSU8pIHsgbm90aWZpY2F0aW9uU2VydmljZS5nZXRVbnJlYWROb3RpZmljYXRpb25zQ291bnQoKSB9LnRvU3RyaW5nKCkpCiAgICAgICAgICAgICAgICAgICAgTG9nLmQoIlRFU1NUIiwgd2l0aENvbnRleHQoRGlzcGF0Y2hlcnMuSU8pIHsgbm90aWZpY2F0aW9uU2VydmljZS5nZXRBbGxOb3RpZmljYXRpb25zKCkgfS50b1N0cmluZygpKQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYXZpZ2F0ZU5leHRUYWJDaGFuZ2UgPSB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JZFN1ZmZpeCAiLmRlYnVnIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZpZXdNb2RlbC5maXJzdEJvb3QpIHsKICAgICAgICAgICAgICAgIG5hdmlnYXRlTmV4dFRhYkNoYW5nZSA9IHRydWUKICAgICAgICAgICAgICAgIGJvdHRvbV9uYXZpZ2F0aW9uLnNlbGVjdGVkSXRlbUlkID0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgc3RhdGUgPSBMYXN0U3RhdGUoUi5pZC5mcmFnbWVudEl0ZW0sIFIuaWQubmF2X3NlY3Rpb25zLCBCdW5kbGUoKS5hcHBseSB7IH0p</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIFByb3BlcnRpZXMgcHJvcGVydGllcyA9IG5ldyBQcm9wZXJ0aWVzKCkKICAgICAgICAgICAgcHJvcGVydGllcy5sb2FkKHByb2plY3Qucm9vdFByb2plY3QuZmlsZSgibG9jYWwucHJvcGVydGllcyIpLm5ld0RhdGFJbnB1dFN0cmVhbSgpKQoKICAgICAgICAgICAgLy8gSGVscGVyIGZ1bmN0aW9uIHRvIGNyZWF0ZSBnbG9iYWwgdmFyaWFibGVzCiAgICAgICAgICAgIGRlZiBhZGRDb25zdGFudCA9IHsgY29uc3RhbnROYW1lLCBjb25zdGFudFZhbHVlIC0+CiAgICAgICAgICAgICAgICBidWlsZENvbmZpZ0ZpZWxkICJTdHJpbmciLCAiJHtjb25zdGFudE5hbWV9IiwgIlwiJHtjb25zdGFudFZhbHVlfVwiIgogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBBbGdvbGlhCiAgICAgICAgICAgIGFkZENvbnN0YW50KCJBTEdPTElBX0FQUF9JRCIsIHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoIkFMR09MSUFfQVBQX0lEIikpCiAgICAgICAgICAgIGFkZENvbnN0YW50KCJBTEdPTElBX0FQSV9LRVkiLCBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJBTEdPTElBX0FQSV9LRVkiKSkKICAgICAgICAgICAgYWRkQ29uc3RhbnQoIkFMR09MSUFfSU5ERVhfSVRFTVMiLCBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJBTEdPTElBX0lOREVYX0lURU1TIikpCgogICAgICAgICAgICAvLyBMb2thbGlzZQogICAgICAgICAgICBhZGRDb25zdGFudCgiTE9LQUxJU0VfUFJPSkVDVF9JRCIsIHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoIkxPS0FMSVNFX1BST0pFQ1RfSUQiKSkKICAgICAgICAgICAgYWRkQ29uc3RhbnQoIkxPS0FMSVNFX1NES19UT0tFTiIsIHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoIkxPS0FMSVNFX1NES19UT0tFTiIpKQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGN1cnJlbnROYXZDb250cm9sbGVyLnZhbHVlPy5sZXQgeyBuYXZDb250cm9sbGVyIC0+CiAgICAgICAgICAgICAgICBuYXZDb250cm9sbGVyLm5hdmlnYXRlKCkKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIFByb3BlcnRpZXMgcHJvcGVydGllcyA9IG5ldyBQcm9wZXJ0aWVzKCkKICAgICAgICAgICAgcHJvcGVydGllcy5sb2FkKHByb2plY3Qucm9vdFByb2plY3QuZmlsZSgibG9jYWwucHJvcGVydGllcyIpLm5ld0RhdGFJbnB1dFN0cmVhbSgpKQoKICAgICAgICAgICAgLy8gSGVscGVyIGZ1bmN0aW9uIHRvIGNyZWF0ZSBnbG9iYWwgdmFyaWFibGVzCiAgICAgICAgICAgIGRlZiBhZGRDb25zdGFudCA9IHsgY29uc3RhbnROYW1lLCBjb25zdGFudFZhbHVlIC0+CiAgICAgICAgICAgICAgICBidWlsZENvbmZpZ0ZpZWxkICJTdHJpbmciLCAiJHtjb25zdGFudE5hbWV9IiwgIlwiJHtjb25zdGFudFZhbHVlfVwiIgogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBBbGdvbGlhCiAgICAgICAgICAgIGFkZENvbnN0YW50KCJBTEdPTElBX0FQUF9JRCIsIHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoIkFMR09MSUFfQVBQX0lEIikpCiAgICAgICAgICAgIGFkZENvbnN0YW50KCJBTEdPTElBX0FQSV9LRVkiLCBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJBTEdPTElBX0FQSV9LRVkiKSkKICAgICAgICAgICAgYWRkQ29uc3RhbnQoIkFMR09MSUFfSU5ERVhfSVRFTVMiLCBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJBTEdPTElBX0lOREVYX0lURU1TIikpCgogICAgICAgICAgICAvLyBMb2thbGlzZQogICAgICAgICAgICBhZGRDb25zdGFudCgiTE9LQUxJU0VfUFJPSkVDVF9JRCIsIHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoIkxPS0FMSVNFX1BST0pFQ1RfSUQiKSkKICAgICAgICAgICAgYWRkQ29uc3RhbnQoIkxPS0FMSVNFX1NES19UT0tFTiIsIHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoIkxPS0FMSVNFX1NES19UT0tFTiIpKQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbmF2aWdhdGUgdG8gdGhlIHN0YXRlIGRlc3RpbmF0aW9uCiAgICAgICAgICAgICAgICBzdGF0ZT8uZGVzdGluYXRpb25JZD8ubGV0IHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBuYXZDb250cm9sbGVyLm5hdmlnYXRlKGl0LCBzdGF0ZSEhLmFyZ3VtZW50cykKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChlOiBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgICAgICAgICAgQ3Jhc2hseXRpY3MubG9nRXhjZXB0aW9uKGUpCiAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKGUsICJUcmllZCB0byBuYXZpZ2F0ZSB0byB1bmtub3duIGRlc3RpbmF0aW9uOiAkaXQiKQogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgc3RhdGUgPSBudWxsCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
