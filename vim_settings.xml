@@ -167,7 +167,8 @@
         <mark key="^" line="36" column="17" />
         <mark key="." line="36" column="14" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596701801767">
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/strings.xml" timestamp="1596706183438" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596705422510">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="22" column="40" />
         <mark key="." line="22" column="40" />
@@ -198,12 +199,6 @@
         <mark key="]" line="40" column="41" />
         <mark key="." line="40" column="40" />
         <mark key="^" line="40" column="41" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/FootNote.kt" timestamp="1596630213304">
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="20" column="48" />
-        <mark key="^" line="20" column="50" />
-        <mark key="." line="20" column="48" />
       </file>
     </filemarks>
     <jumps>
