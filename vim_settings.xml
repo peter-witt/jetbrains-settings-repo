@@ -147,12 +147,13 @@
         <mark key="." line="64" column="41" />
         <mark key="^" line="64" column="42" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/local.properties" timestamp="1596634883373">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/AndroidManifest.xml" timestamp="1596710742263">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="32" />
+        <mark key="^" line="18" column="46" />
       </file>
-      <file name="/fragment.kt" timestamp="1596703948254">
+      <file name="/fragment.kt" timestamp="1596710918002">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/controller/FirebaseMessagingService.kt" timestamp="1596706667734" />
@@ -170,8 +171,8 @@
         <mark key="]" line="22" column="40" />
         <mark key="." line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1596709826111">
-        <mark key="[" line="443" column="0" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1596710995735">
+        <mark key="[" line="295" column="48" />
         <mark key="]" line="443" column="0" />
         <mark key="." line="443" column="0" />
         <mark key="^" line="444" column="78" />
@@ -300,14 +301,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>singleTask</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>|| bottom_navigation.selectedItemId != R.id.nav_sections</text>
+        <text>singleTask</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
