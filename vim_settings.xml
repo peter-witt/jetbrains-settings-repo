@@ -143,12 +143,6 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="64" column="42" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/AndroidManifest.xml" timestamp="1596710742263">
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="23" column="32" />
-        <mark key="." line="23" column="32" />
-        <mark key="^" line="18" column="46" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/conditions/DialogFragmentConditions.kt" timestamp="1596717411673">
         <mark key="[" line="82" column="63" />
         <mark key="]" line="82" column="63" />
@@ -166,15 +160,19 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerAPI.kt" timestamp="1596714025194" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/FragmentSearch.kt" timestamp="1596707110463" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596720627110">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="40" />
+        <mark key="." line="22" column="40" />
+      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1596717971057">
         <mark key="[" line="73" column="75" />
         <mark key="]" line="73" column="76" />
         <mark key="." line="73" column="76" />
         <mark key="^" line="73" column="76" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchController.kt" timestamp="1596718536149">
-        <mark key="[" line="49" column="0" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchController.kt" timestamp="1596720453741">
+        <mark key="[" line="45" column="12" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
@@ -183,11 +181,17 @@
         <mark key="]" line="23" column="31" />
         <mark key="." line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/activity_main.xml" timestamp="1596716826933">
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/activity_main.xml" timestamp="1596720734397">
         <mark key="[" line="75" column="34" />
         <mark key="]" line="75" column="34" />
         <mark key="." line="75" column="34" />
         <mark key="^" line="75" column="47" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1596720409800">
+        <mark key="[" line="49" column="30" />
+        <mark key="]" line="47" column="15" />
+        <mark key="^" line="47" column="15" />
+        <mark key="." line="47" column="14" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/conditions/FragmentRewatchConditions.kt" timestamp="1596717420794">
         <mark key="[" line="36" column="56" />
@@ -313,20 +317,20 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>INTERNET_NOT_AVAILABLE</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>INTERNET_NOT_AVAILABLE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGF0ZSA9IExhc3RTdGF0ZShSLmlkLmZyYWdtZW50SXRlbSwgUi5pZC5uYXZfc2VjdGlvbnMsIEJ1bmRsZSgpLmFwcGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgcHV0U3RyaW5nKCJpdGVtSWQiLCBpdGVtLmlkKQogICAgICAgICAgICAgICAgICAgICAgICBwdXRTdHJpbmcoInBhcmVudFRpdGxlIiwgcGFyZW50VGl0bGUpCiAgICAgICAgICAgICAgICAgICAgICAgIHB1dFN0cmluZygibGFiZWwiLCBpdGVtLnRpdGxlKQogICAgICAgICAgICAgICAgICAgICAgICBwdXRTdHJpbmcoImNvbG9yIiwgbnVsbCkKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc2VhcmNoKHF1ZXJ5LCBuZXR3b3JrQXZhaWxhYmxlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
