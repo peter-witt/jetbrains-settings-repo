@@ -112,20 +112,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/NotificationService.kt" timestamp="1596636828147">
-        <mark key="[" line="95" column="34" />
-        <mark key="]" line="95" column="34" />
-        <mark key="^" line="95" column="59" />
-        <mark key="." line="95" column="34" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/Notification.kt" timestamp="1596636680705">
-        <mark key="[" line="76" column="43" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/view/HaandbogWebView.kt" timestamp="1596701923109">
         <mark key="[" line="94" column="25" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="37" column="78" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/navigation/nav_about.xml" timestamp="1596716879676">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1596700384071">
         <mark key="[" line="53" column="54" />
@@ -134,11 +130,11 @@
         <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/diabetesHaandbogen_dev/google-services.json" timestamp="1596700367734" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/strings.xml" timestamp="1596716122074" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/navigation/nav_sections.xml" timestamp="1596707331256">
-        <mark key="[" line="58" column="31" />
-        <mark key="]" line="64" column="42" />
-        <mark key="." line="64" column="41" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/strings.xml" timestamp="1596716780100" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/navigation/nav_sections.xml" timestamp="1596716897338">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
         <mark key="^" line="64" column="42" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/AndroidManifest.xml" timestamp="1596710742263">
@@ -155,11 +151,6 @@
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1596637345133">
         <mark key="[" line="53" column="22" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" timestamp="1596636840850">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/FragmentSearch.kt" timestamp="1596707110463" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596705422510">
         <mark key="[" line="22" column="40" />
@@ -172,20 +163,35 @@
         <mark key="." line="427" column="50" />
         <mark key="^" line="427" column="51" />
       </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/build.gradle" timestamp="1596635968172">
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-        <mark key="^" line="13" column="24" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchController.kt" timestamp="1596703414516">
         <mark key="[" line="16" column="12" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/menu/bottom_navigation_menu.xml" timestamp="1596716872049">
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="31" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/activity_main.xml" timestamp="1596716826933">
+        <mark key="[" line="75" column="34" />
+        <mark key="]" line="75" column="34" />
+        <mark key="." line="75" column="34" />
+        <mark key="^" line="75" column="47" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1596704996067">
         <mark key="[" line="42" column="26" />
         <mark key="]" line="79" column="40" />
         <mark key="^" line="79" column="88" />
         <mark key="." line="79" column="40" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/navigation/nav_quick_guides.xml" timestamp="1596716891230">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/navigation/nav_favorites.xml" timestamp="1596716884614">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -297,13 +303,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>singleTask</text>
+        <text>SECTION_TAB_TITLE</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>singleTask</text>
+        <text>SECTION_TAB_TITLE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
