@@ -121,12 +121,6 @@
       <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/notifications/Notification.kt" timestamp="1596636680705">
         <mark key="[" line="76" column="43" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/Application.kt" timestamp="1596635210447">
-        <mark key="[" line="42" column="103" />
-        <mark key="]" line="42" column="83" />
-        <mark key="." line="42" column="82" />
-        <mark key="^" line="42" column="83" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/view/HaandbogWebView.kt" timestamp="1596701923109">
         <mark key="[" line="94" column="25" />
         <mark key="]" line="39" column="0" />
@@ -156,6 +150,7 @@
       <file name="/fragment.kt" timestamp="1596710918002">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerAPI.kt" timestamp="1596714025194" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/controller/FirebaseMessagingService.kt" timestamp="1596706667734" />
       <file name="$USER_HOME$/Makeable/App-Get-Android/app/build.gradle" timestamp="1596637345133">
         <mark key="[" line="53" column="22" />
