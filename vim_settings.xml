@@ -112,17 +112,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/FragmentItem.kt" timestamp="1596717721402">
-        <mark key="[" line="63" column="77" />
-        <mark key="]" line="63" column="77" />
-        <mark key="." line="63" column="77" />
-        <mark key="^" line="63" column="82" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/json/MACoreJson.kt" timestamp="1596784763128">
         <mark key="[" line="52" column="24" />
       </file>
       <file name="/a.dummy" timestamp="1596782286982">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/generic/FavoritesProviderService.kt" timestamp="1596786066838">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="37" column="86" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/interfaces/ICloudFunctionService.kt" timestamp="1596786164362">
+        <mark key="[" line="7" column="26" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/epoxy_model_no_favorites.xml" timestamp="1596718423705">
         <mark key="[" line="23" column="12" />
@@ -136,33 +139,34 @@
         <mark key="." line="42" column="54" />
         <mark key="^" line="42" column="55" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/dialog_fragment_conditions.xml" timestamp="1596718353023">
-        <mark key="[" line="51" column="85" />
-        <mark key="]" line="51" column="85" />
-        <mark key="." line="51" column="85" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/strings.xml" timestamp="1596718720469">
         <mark key="[" line="51" column="130" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" timestamp="1596783976146" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreCloudFunctionService.kt" timestamp="1596786046687">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+        <mark key="^" line="26" column="17" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/MACoreRootActivity.kt" timestamp="1596783833233">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/generic/RatingProviderService.kt" timestamp="1596785237893">
-        <mark key="[" line="41" column="28" />
-        <mark key="]" line="41" column="28" />
-        <mark key="^" line="41" column="28" />
-        <mark key="." line="41" column="27" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/generic/RatingProviderService.kt" timestamp="1596785997200">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/FragmentFavorites.kt" timestamp="1596717601608">
-        <mark key="[" line="27" column="43" />
+      <file name="/Dummy.txt" timestamp="1596786179080">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/epoxy_model_suggest_change.xml" timestamp="1596718140261">
-        <mark key="[" line="32" column="34" />
-        <mark key="]" line="32" column="34" />
-        <mark key="." line="32" column="34" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/interfaces/ICouldFunctionService.kt" timestamp="1596785667943">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="6" column="58" />
+        <mark key="^" line="6" column="58" />
+        <mark key="." line="6" column="57" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596720627110">
         <mark key="[" line="22" column="40" />
@@ -173,12 +177,6 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1596717971057">
-        <mark key="[" line="73" column="75" />
-        <mark key="]" line="73" column="76" />
-        <mark key="." line="73" column="76" />
-        <mark key="^" line="73" column="76" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchController.kt" timestamp="1596720453741">
         <mark key="[" line="45" column="12" />
@@ -307,14 +305,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>EventHandler</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>EventHandler</text>
+        <text>iDataProviderService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -323,34 +321,34 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc2VhcmNoKHF1ZXJ5LCBuZXR3b3JrQXZhaWxhYmxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHByZXZUaXRsZTogQ2hhclNlcXVlbmNlPyA9IG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmV2VGl0bGUgPSAocmVxdWlyZUFjdGl2aXR5KCkgYXMgQXBwQ29tcGF0QWN0aXZpdHkpLnN1cHBvcnRBY3Rpb25CYXI/LnRpdGxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZnVuY3Rpb25zID0gRmlyZWJhc2VGdW5jdGlvbnMuZ2V0SW5zdGFuY2UoImV1cm9wZS13ZXN0MSIpCiAgICAgICAgdmFsIGRhdGEgPSBtdXRhYmxlTWFwT2YoIml0ZW1JZCIgdG8gaWQsICJ0b2dnbGUiIHRvICFpc0l0ZW1GYXZvcml0ZShpZCkpCiAgICAgICAgaURhdGFQcm92aWRlclNlcnZpY2UuYXBwSWQ/LmxldCB7CiAgICAgICAgICAgIGRhdGEucHV0KCJhcHBJZCIsIGl0KQogICAgICAgIH0KICAgICAgICBmdW5jdGlvbnMuZ2V0SHR0cHNDYWxsYWJsZSgidG9nZ2xlSXRlbUZhdm9yaXRlIikKICAgICAgICAgICAgLmNhbGwoZGF0YSkKICAgICAgICAgICAgLmNvbnRpbnVlV2l0aCB7CiAgICAgICAgICAgICAgICBUaW1iZXIuZChpdC5yZXN1bHQ/LmRhdGEgYXMgU3RyaW5nKQogICAgICAgICAgICB9</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZmlsdGVyID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgdmFsIGZ1bmN0aW9ucyA9IEZpcmViYXNlRnVuY3Rpb25zLmdldEluc3RhbmNlKCJldXJvcGUtd2VzdDEiKQogICAgICAgIHZhbCBkYXRhID0gbXV0YWJsZU1hcE9mKCJpdGVtSWQiIHRvIGl0ZW0uaWQsICJuZXdSYXRpbmciIHRvIHJhdGluZywgInByZXZpb3VzUmF0aW5nIiB0byBwcmV2UmF0ZWRJdGVtPy5yYXRpbmcpCiAgICAgICAgU0wuZ2V0KElEYXRhUHJvdmlkZXJTZXJ2aWNlOjpjbGFzcykuYXBwSWQ/LmxldCB7CiAgICAgICAgICAgIGRhdGEucHV0KCJhcHBJZCIsIGl0KQogICAgICAgIH0KICAgICAgICBmdW5jdGlvbnMuZ2V0SHR0cHNDYWxsYWJsZSgicmF0ZUl0ZW0iKQogICAgICAgICAgICAuY2FsbChkYXRhKQogICAgICAgICAgICAuY29udGludWVXaXRoIHsKICAgICAgICAgICAgICAgIFRpbWJlci5kKGl0LnJlc3VsdD8uZGF0YSBhcyBTdHJpbmcpCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdE9mKAo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly8K</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgZ2V0KCkgPSBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikKICAgICAgICBzZXQodmFsdWUpIHt9</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
