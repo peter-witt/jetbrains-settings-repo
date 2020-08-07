@@ -167,11 +167,6 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/menu/bottom_navigation_menu.xml" timestamp="1596716872049">
-        <mark key="[" line="23" column="31" />
-        <mark key="]" line="23" column="31" />
-        <mark key="." line="23" column="31" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/activity_main.xml" timestamp="1596721591814">
         <mark key="[" line="75" column="34" />
         <mark key="]" line="75" column="34" />
@@ -189,6 +184,7 @@
         <mark key="]" line="36" column="56" />
         <mark key="." line="36" column="56" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/styling/view/textview/button/compoundbutton/switch/MACoreUISwitchConfig.kt" timestamp="1596782402103" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/navigation/nav_quick_guides.xml" timestamp="1596716891230">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="31" />

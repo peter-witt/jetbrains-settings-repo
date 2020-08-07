@@ -82,6 +82,9 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
