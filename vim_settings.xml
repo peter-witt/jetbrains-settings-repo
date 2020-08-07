@@ -112,11 +112,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/epoxy_model_suggest_change.xml" timestamp="1596718140261">
+        <mark key="[" line="32" column="34" />
+        <mark key="]" line="32" column="34" />
+        <mark key="." line="32" column="34" />
+      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/FragmentItem.kt" timestamp="1596717721402">
         <mark key="[" line="63" column="77" />
         <mark key="]" line="63" column="77" />
         <mark key="." line="63" column="77" />
         <mark key="^" line="63" column="82" />
+      </file>
+      <file name="/a.dummy" timestamp="1596782286982">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/navigation/nav_about.xml" timestamp="1596716879676">
         <mark key="[" line="11" column="31" />
@@ -137,33 +145,16 @@
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/strings.xml" timestamp="1596718720469">
         <mark key="[" line="51" column="130" />
       </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596720627110">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="40" />
+        <mark key="." line="22" column="40" />
+      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/navigation/nav_sections.xml" timestamp="1596716897338">
         <mark key="[" line="11" column="31" />
         <mark key="]" line="11" column="31" />
         <mark key="." line="11" column="31" />
         <mark key="^" line="64" column="42" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/conditions/DialogFragmentConditions.kt" timestamp="1596717411673">
-        <mark key="[" line="82" column="63" />
-        <mark key="]" line="82" column="63" />
-        <mark key="." line="82" column="63" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/FragmentFavorites.kt" timestamp="1596717601608">
-        <mark key="[" line="27" column="43" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/epoxy_model_suggest_change.xml" timestamp="1596718140261">
-        <mark key="[" line="32" column="34" />
-        <mark key="]" line="32" column="34" />
-        <mark key="." line="32" column="34" />
-      </file>
-      <file name="/fragment.kt" timestamp="1596710918002">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/network/DantrackerAPI.kt" timestamp="1596714025194" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/Assets/makeable_scripts.js" timestamp="1596720627110">
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="40" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1596717971057">
         <mark key="[" line="73" column="75" />
@@ -207,6 +198,14 @@
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="31" />
         <mark key="." line="9" column="31" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/conditions/DialogFragmentConditions.kt" timestamp="1596717411673">
+        <mark key="[" line="82" column="63" />
+        <mark key="]" line="82" column="63" />
+        <mark key="." line="82" column="63" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/FragmentFavorites.kt" timestamp="1596717601608">
+        <mark key="[" line="27" column="43" />
       </file>
     </filemarks>
     <jumps>
