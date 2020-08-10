@@ -166,20 +166,21 @@
         <mark key="^" line="22" column="6" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/controller/ConditionsController.kt" timestamp="1597044861200">
-        <mark key="[" line="48" column="81" />
-        <mark key="]" line="48" column="80" />
-        <mark key="^" line="48" column="80" />
-        <mark key="." line="48" column="79" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/controller/ConditionsController.kt" timestamp="1597045409717">
+        <mark key="'" line="47" column="15" />
+        <mark key="[" line="48" column="86" />
+        <mark key="]" line="48" column="86" />
+        <mark key="^" line="48" column="86" />
+        <mark key="." line="48" column="85" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Page.kt" timestamp="1596800803034">
         <mark key="[" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1596801819108">
-        <mark key="[" line="55" column="81" />
-        <mark key="]" line="74" column="76" />
-        <mark key="." line="74" column="76" />
-        <mark key="^" line="74" column="76" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1597045977802">
+        <mark key="[" line="171" column="38" />
+        <mark key="]" line="171" column="38" />
+        <mark key="." line="171" column="37" />
+        <mark key="^" line="171" column="38" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/HaandbogFirestoreDB.kt" timestamp="1596798634109">
         <mark key="[" line="20" column="57" />
@@ -209,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="89" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/MapFragment.kt" />
       <jump line="39" column="79" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/util/Exstentions.kt" />
       <jump line="119" column="49" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
       <jump line="107" column="23" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
@@ -309,6 +309,7 @@
       <jump line="9" column="53" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/PlacePickerActivity.kt" />
       <jump line="154" column="79" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/ui/trackerMode/TrackerGeofenceFragment.kt" />
       <jump line="32" column="0" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/BindingAdapters.kt" />
+      <jump line="47" column="15" filename="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/controller/ConditionsController.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
