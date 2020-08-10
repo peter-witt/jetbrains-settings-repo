@@ -113,13 +113,34 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/models/FirestoreImages.kt" timestamp="1597048631618" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/navigation/nav_about.xml" timestamp="1596799361756">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="31" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Compilations.kt" timestamp="1597055520565">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="21" column="29" />
+        <mark key="." line="21" column="38" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreCloudFunctionService.kt" timestamp="1597055703334">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+        <mark key="^" line="26" column="17" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Categories.kt" timestamp="1597055528160">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="22" column="47" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/Application.kt" timestamp="1597055706700">
+        <mark key="[" line="30" column="57" />
+        <mark key="]" line="30" column="57" />
+        <mark key="^" line="30" column="61" />
+        <mark key="." line="30" column="57" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/conditions/DialogFragmentConditions.kt" timestamp="1597050793946">
         <mark key="[" line="106" column="115" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1597055019289">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1597050750176">
         <mark key="[" line="0" column="0" />
@@ -128,12 +149,6 @@
         <mark key="[" line="21" column="32" />
         <mark key="]" line="21" column="32" />
         <mark key="." line="21" column="32" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/FragmentSearch.kt" timestamp="1596800342988">
-        <mark key="[" line="75" column="31" />
-        <mark key="]" line="75" column="41" />
-        <mark key="." line="75" column="40" />
-        <mark key="^" line="75" column="41" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/HaandbogDatabase.kt" timestamp="1597049503765">
         <mark key="[" line="94" column="70" />
@@ -154,19 +169,11 @@
         <mark key="^" line="24" column="38" />
         <mark key="." line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Page.kt" timestamp="1596800803034">
-        <mark key="[" line="13" column="13" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1597045977802">
         <mark key="[" line="171" column="38" />
         <mark key="]" line="171" column="38" />
         <mark key="." line="171" column="37" />
         <mark key="^" line="171" column="38" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/HaandbogFirestoreDB.kt" timestamp="1596798634109">
-        <mark key="[" line="20" column="57" />
-        <mark key="]" line="20" column="58" />
-        <mark key="." line="20" column="58" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/models/FirestoreCSS.kt" timestamp="1597049995957">
         <mark key="[" line="10" column="28" />
@@ -180,23 +187,14 @@
         <mark key="." line="37" column="25" />
         <mark key="^" line="37" column="63" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Items.kt" timestamp="1597052208443">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Items.kt" timestamp="1597055514015">
         <mark key="[" line="23" column="59" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/models/FirestorePage.kt" timestamp="1596800794222">
-        <mark key="[" line="15" column="13" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/styles.xml" timestamp="1596798470167">
-        <mark key="[" line="168" column="42" />
-        <mark key="]" line="174" column="77" />
-        <mark key="." line="174" column="76" />
-        <mark key="^" line="174" column="77" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/FragmentAbouts.kt" timestamp="1596800551307">
-        <mark key="[" line="48" column="25" />
-        <mark key="]" line="37" column="37" />
-        <mark key="." line="37" column="36" />
-        <mark key="^" line="37" column="37" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/CornerRadius.kt" timestamp="1597054842200">
+        <mark key="[" line="22" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -308,52 +306,49 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CSS_KEY</text>
+        <text>Firebasecloud</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>CSS_KEY</text>
+        <text>Firebasecloud</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>CONDITIONS_SCREEN</text>
+        <text>compilations</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBJZ25vcmVkT25QYXJjZWwK</text>
+        <text encoding="base64">ICAgICAgICBTTC5yZWdpc3RlclNlcnZpY2UoSUNsb3VkRnVuY3Rpb25TZXJ2aWNlOjpjbGFzcywgRmNjY2xvdWRmdW5jdGlvbnNlcnZpY2UpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgIEBTY2hlbWFEZWZhdWx0U3RyaW5nKCJjYXRlZ29yaWVzIikKICAgIEBTY2hlbWFJZ25vcmVSZXF1aXJlZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTY2hlbWFEZWZhdWx0U3RyaW5nKCJjb21waWxhdGlvbnMiKQogICAgQFNjaGVtYUlnbm9yZVJlcXVpcmVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTY2hlbWFEZWZhdWx0U3RyaW5nKCJpdGVtcyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text>//    jQuery(&quot;strong&quot;).click(function (e) {
-//        var src = jQuery(this).html();
-//        window.Native.onFootnoteClicked(&quot;pcSZwmsCycTxXPfXLaxj&quot;);
-//    })</text>
+        <text encoding="base64">ICAgIEBTY2hlbWFJZ25vcmVSZXF1aXJlZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG51bGxPckJsYW5rID0gaXQuaXNOdWxsT3JCbGFuaygpCg==</text>
+        <text encoding="base64">ICAgIEBJZ25vcmVkT25QYXJjZWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRDb2xvciI+QGFuZHJvaWQ6Y29sb3IvYmxhY2s8L2l0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRTaXplIj4yMHNwPC9pdGVtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRBcHBlYXJhbmNlIj5Ac3R5bGUvQm9sZFRleHRTdHlsZS5UaXRsZTwvaXRlbT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
