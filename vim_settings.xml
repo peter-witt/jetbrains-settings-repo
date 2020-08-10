@@ -118,8 +118,14 @@
       <file name="/Dummy.txt" timestamp="1597055019289">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/TestViewModel.kt" timestamp="1597069290742">
+        <mark key="[" line="26" column="26" />
+      </file>
       <file name="/fragment.kt" timestamp="1597050750176">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/build.gradle" timestamp="1597069217604">
+        <mark key="[" line="14" column="24" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/HaandbogDatabase.kt" timestamp="1597049503765">
         <mark key="[" line="94" column="70" />
@@ -139,20 +145,8 @@
         <mark key="." line="29" column="8" />
         <mark key="^" line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/controller/ConditionsController.kt" timestamp="1597047759913">
-        <mark key="'" line="49" column="15" />
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="24" column="31" />
-        <mark key="^" line="24" column="38" />
-        <mark key="." line="24" column="31" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/controller/LocalStorageController.kt" timestamp="1597067804066" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1597045977802">
-        <mark key="[" line="171" column="38" />
-        <mark key="]" line="171" column="38" />
-        <mark key="." line="171" column="37" />
-        <mark key="^" line="171" column="38" />
-      </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentSelectImages.kt" timestamp="1597069539024" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Categories.kt" timestamp="1597055528160">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="24" column="0" />
@@ -163,6 +157,11 @@
         <mark key="]" line="30" column="57" />
         <mark key="^" line="30" column="61" />
         <mark key="." line="30" column="57" />
+      </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/fragment_post_test_info.xml" timestamp="1597069666679">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/SplashActivity.kt" timestamp="1597056169928">
         <mark key="[" line="28" column="73" />
@@ -175,12 +174,6 @@
         <mark key="]" line="10" column="23" />
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="22" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/conditions/FragmentRewatchConditions.kt" timestamp="1597047828620">
-        <mark key="[" line="37" column="25" />
-        <mark key="]" line="37" column="25" />
-        <mark key="." line="37" column="25" />
-        <mark key="^" line="37" column="63" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Items.kt" timestamp="1597055514015">
         <mark key="[" line="23" column="59" />
@@ -305,50 +298,50 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Disconnected</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9yb3VuZGVkX3NxdWFyZSIK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>Disconnected</text>
+        <text>match_ciwparent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>compilations</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTTC5yZWdpc3RlclNlcnZpY2UoSUNsb3VkRnVuY3Rpb25TZXJ2aWNlOjpjbGFzcywgRmNjY2xvdWRmdW5jdGlvbnNlcnZpY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9yb3VuZGVkX3NxdWFyZSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBTY2hlbWFEZWZhdWx0U3RyaW5nKCJjYXRlZ29yaWVzIikKICAgIEBTY2hlbWFJZ25vcmVSZXF1aXJlZAo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjE2ZHAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBTY2hlbWFEZWZhdWx0U3RyaW5nKCJjb21waWxhdGlvbnMiKQogICAgQFNjaGVtYUlnbm9yZVJlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IjE2ZHAiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTY2hlbWFEZWZhdWx0U3RyaW5nKCJpdGVtcyIpCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9IiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBTY2hlbWFJZ25vcmVSZXF1aXJlZAo=</text>
+        <text encoding="base64">PC9TY3JvbGxWaWV3Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBJZ25vcmVkT25QYXJjZWwK</text>
+        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBTTC5yZWdpc3RlclNlcnZpY2UoSUNsb3VkRnVuY3Rpb25TZXJ2aWNlOjpjbGFzcywgRmNjY2xvdWRmdW5jdGlvbnNlcnZpY2UpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTY2hlbWFEZWZhdWx0U3RyaW5nKCJjYXRlZ29yaWVzIikKICAgIEBTY2hlbWFJZ25vcmVSZXF1aXJlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTY2hlbWFEZWZhdWx0U3RyaW5nKCJjb21waWxhdGlvbnMiKQogICAgQFNjaGVtYUlnbm9yZVJlcXVpcmVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
