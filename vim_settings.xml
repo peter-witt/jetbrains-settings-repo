@@ -112,6 +112,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/layout/activity_main.xml" timestamp="1597068548841">
+        <mark key="[" line="40" column="43" />
+      </file>
       <file name="/Dummy.txt" timestamp="1597055019289">
         <mark key="[" line="0" column="0" />
       </file>
@@ -191,6 +194,7 @@
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/conditions/DialogFragmentConditions.kt" timestamp="1597050793946">
         <mark key="[" line="106" column="115" />
       </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/res/values/strings.xml" timestamp="1597068171433" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1597065065049" />
     </filemarks>
     <jumps>
