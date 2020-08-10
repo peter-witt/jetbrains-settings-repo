@@ -145,11 +145,6 @@
       <file name="/fragment.kt" timestamp="1597050750176">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/controller/FirebaseMessagingService.kt" timestamp="1596801374952">
-        <mark key="[" line="21" column="32" />
-        <mark key="]" line="21" column="32" />
-        <mark key="." line="21" column="32" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/HaandbogDatabase.kt" timestamp="1597049503765">
         <mark key="[" line="94" column="70" />
         <mark key="]" line="94" column="70" />
@@ -174,6 +169,12 @@
         <mark key="]" line="171" column="38" />
         <mark key="." line="171" column="37" />
         <mark key="^" line="171" column="38" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/SplashActivity.kt" timestamp="1597056169928">
+        <mark key="[" line="28" column="73" />
+        <mark key="]" line="30" column="82" />
+        <mark key="." line="30" column="81" />
+        <mark key="^" line="30" column="82" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/firestore/models/FirestoreCSS.kt" timestamp="1597049995957">
         <mark key="[" line="10" column="28" />
@@ -306,13 +307,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Firebasecloud</text>
+        <text>Disconnected</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>Firebasecloud</text>
+        <text>Disconnected</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
