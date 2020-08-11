@@ -118,20 +118,14 @@
       <file name="/Dummy.txt" timestamp="1597055019289">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/TestViewModel.kt" timestamp="1597069290742">
-        <mark key="[" line="26" column="26" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/TestViewModel.kt" timestamp="1597129586622">
+        <mark key="[" line="26" column="25" />
       </file>
       <file name="/fragment.kt" timestamp="1597050750176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/build.gradle" timestamp="1597069217604">
         <mark key="[" line="14" column="24" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/HaandbogDatabase.kt" timestamp="1597049503765">
-        <mark key="[" line="94" column="70" />
-        <mark key="]" line="94" column="70" />
-        <mark key="^" line="51" column="55" />
-        <mark key="." line="94" column="70" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Compilations.kt" timestamp="1597055520565">
         <mark key="[" line="22" column="4" />
@@ -144,6 +138,12 @@
         <mark key="]" line="29" column="8" />
         <mark key="." line="29" column="8" />
         <mark key="^" line="26" column="17" />
+      </file>
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentResult.kt" timestamp="1597129500784">
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="24" column="31" />
       </file>
       <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/FragmentSelectImages.kt" timestamp="1597127860489">
         <mark key="[" line="51" column="35" />
