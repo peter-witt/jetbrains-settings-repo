@@ -118,8 +118,11 @@
       <file name="/Dummy.txt" timestamp="1597055019289">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/TestViewModel.kt" timestamp="1597129586622">
-        <mark key="[" line="26" column="25" />
+      <file name="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/TestViewModel.kt" timestamp="1597131236037">
+        <mark key="[" line="94" column="16" />
+        <mark key="]" line="94" column="16" />
+        <mark key="^" line="94" column="16" />
+        <mark key="." line="94" column="15" />
       </file>
       <file name="/fragment.kt" timestamp="1597050750176">
         <mark key="[" line="0" column="0" />
