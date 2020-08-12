@@ -132,6 +132,9 @@
         <mark key="^" line="24" column="72" />
         <mark key="." line="23" column="8" />
       </file>
+      <file name="$USER_HOME$/Makeable/android-views/EpoxyFragment/src/main/java/dk/makeable/epoxyfragment/EpoxyFragment.kt" timestamp="1597221105182">
+        <mark key="[" line="50" column="5" />
+      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/ErrorService.kt" timestamp="1597217879552">
         <mark key="[" line="7" column="39" />
         <mark key="]" line="9" column="0" />
@@ -188,8 +191,8 @@
         <mark key="^" line="19" column="43" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemesFragment.kt" timestamp="1597220452096">
-        <mark key="[" line="43" column="8" />
-        <mark key="]" line="44" column="0" />
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="43" column="0" />
         <mark key="^" line="26" column="20" />
         <mark key="." line="42" column="51" />
       </file>
