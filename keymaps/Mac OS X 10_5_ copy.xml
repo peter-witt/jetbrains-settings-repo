@@ -9,6 +9,9 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
