@@ -112,49 +112,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_more.xml" timestamp="1597233041126">
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="11" column="31" />
-        <mark key="^" line="13" column="54" />
-        <mark key="." line="11" column="31" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1597236302587">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_main.xml" timestamp="1597239123968">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/drawable/shape_rounded_square_top.xml" timestamp="1597238976519">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="36" />
-        <mark key="." line="6" column="35" />
-        <mark key="^" line="6" column="36" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1597241773425">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1597239067220">
-        <mark key="[" line="23" column="52" />
-        <mark key="]" line="23" column="49" />
-        <mark key="." line="23" column="48" />
-        <mark key="^" line="23" column="49" />
-      </file>
-      <file name="$USER_HOME$/Makeable/din-boernekiropraktor-android/app/src/main/java/dk/makeable/dinboernekiropraktor/ui/MainActivity.kt" timestamp="1597237855364" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/styles.xml" timestamp="1597238460830">
         <mark key="[" line="36" column="89" />
         <mark key="]" line="36" column="33" />
         <mark key="^" line="36" column="33" />
         <mark key="." line="36" column="32" />
       </file>
+      <file name="$USER_HOME$/Makeable/ftz-android/app/src/main/java/dk/makeable/ftz/ui/fragments/cases/CasePageFragment.kt" timestamp="1597240590222" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/util/ColorChangeUtils.kt" timestamp="1597235852142">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="10" column="27" />
         <mark key="^" line="7" column="98" />
         <mark key="." line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/navigation/nav_themes.xml" timestamp="1597233615156">
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="23" />
-        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/Makeable/ftz-android/app/src/main/res/layout/fragment_case_remarks_lines_images_bottom_sheet.xml" timestamp="1597233539713">
         <mark key="[" line="8" column="27" />
@@ -166,6 +145,37 @@
         <mark key="[" line="11" column="30" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemesFragment.kt" timestamp="1597236111259">
+        <mark key="'" line="32" column="66" />
+        <mark key="[" line="73" column="67" />
+        <mark key="]" line="73" column="60" />
+        <mark key="^" line="73" column="60" />
+        <mark key="." line="73" column="59" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_theme.xml" timestamp="1597239339281">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="23" column="28" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1597236302587">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/drawable/shape_rounded_square_top.xml" timestamp="1597238976519">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="36" />
+      </file>
+      <file name="/fragment.kt" timestamp="1597241347920">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/din-boernekiropraktor-android/app/src/main/java/dk/makeable/dinboernekiropraktor/ui/MainActivity.kt" timestamp="1597237855364" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/navigation/nav_themes.xml" timestamp="1597233615156">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/ToolbarColorManger.kt" timestamp="1597233751441">
         <mark key="[" line="12" column="9" />
@@ -184,21 +194,8 @@
         <mark key="^" line="49" column="12" />
         <mark key="." line="51" column="56" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemesFragment.kt" timestamp="1597236111259">
-        <mark key="'" line="32" column="66" />
-        <mark key="[" line="73" column="67" />
-        <mark key="]" line="73" column="60" />
-        <mark key="^" line="73" column="60" />
-        <mark key="." line="73" column="59" />
-      </file>
       <file name="/fragment.java" timestamp="1597233695706">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_theme.xml" timestamp="1597239339281">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="23" column="28" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/styles.xml" timestamp="1597238552779" />
     </filemarks>
@@ -311,44 +308,40 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3RyYW5zcGFyZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBoZWlnaHQgPSAK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>radius</text>
+        <text>height</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRDb2xvclByaW1hcnkiPj9hdHRyL2NvbG9yT25TdXJmYWNlPC9pdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIlRFU1NUIiwgaGVpZ2h0LnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3RyYW5zcGFyZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBoZWlnaHQgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJpZGl1cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC5tZWFzdXJlKFZpZXcuTWVhc3VyZVNwZWMubWFrZU1lYXN1cmVTcGVjKHJlcXVpcmVWaWV3KCkud2lkdGgsIFZpZXcuTWVhc3VyZVNwZWMuRVhBQ1RMWSksIFZpZXcuTWVhc3VyZVNwZWMuVU5TUEVDSUZJRUQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIlRFU1NUIiwgaGVpZ2h0LnRvU3RyaW5nKCkpCiAgICAgICAgICAgIExvZy5kKCJURVNTVCIsIHJlcXVpcmVWaWV3KCkuaGVpZ2h0LnRvU3RyaW5nKCkpCiAgICAgICAgICAgIExvZy5kKCJURVNTVCIsIHRleHQueS50b1N0cmluZygpKQogICAgICAgICAgICBMb2cuZCgiVEVTU1QiLCB0ZXh0Lm1lYXN1cmVkSGVpZ2h0LnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFsIHRvb2xiYXJUZXh0Q29sb3IgPSBUeXBlZFZhbHVlKCkKICAgICAgICByZXF1aXJlQ29udGV4dCgpLnRoZW1lLnJlc29sdmVBdHRyaWJ1dGUoUi5hdHRyLmNvbG9yT25QcmltYXJ5LCB0b29sYmFyVGV4dENvbG9yLCB0cnVlKQoKICAgICAgICAoY29udGV4dCBhcyBBcHBDb21wYXRBY3Rpdml0eSkudG9vbGJhci5hcHBseSB7CiAgICAgICAgICAgIG5hdmlnYXRpb25JY29uPy5hcHBseSB7CiAgICAgICAgICAgICAgICBjb2xvckZpbHRlciA9IFBvcnRlckR1ZmZDb2xvckZpbHRlcih0b29sYmFyVGV4dENvbG9yLmRhdGEsIFBvcnRlckR1ZmYuTW9kZS5TUkNfQVRPUCkKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>(context as AppCompatActivity).toolbar.apply {
-            navigationIcon?.apply {
-                colorFilter = PorterDuffColorFilter(toolbarTextColor.data, PorterDuff.Mode.SRC_ATOP)
-            }
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC5wb3N0IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldENvbG9yRmlsdGVyKHRvb2xiYXJUZXh0Q29sb3IuZGF0YSwgUG9ydGVyRHVmZi5Nb2RlLlNSQ19BVE9QKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAoY29udGV4dCBhcyBBcHBDb21wYXRBY3Rpdml0eSkuc3VwcG9ydEFjdGlvbkJhciEhLnNldEhvbWVBc1VwSW5kaWNhdG9yKGJhY2tEcmF3YWJsZSkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY29udHJvbGxlciA9IFNpbXBsZUVwb3h5Q29udHJvbGxlcjxMaXN0PHR1cGxlPj4K</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -357,7 +350,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJhY2tEcmF3YWJsZSA9IFJlc291cmNlc0NvbXBhdC5nZXREcmF3YWJsZShyZXNvdXJjZXMsIFIuZHJhd2FibGUuaWNfYmFjaywgdGhlbWUpCiAgICAgICAgICAgIGJhY2tEcmF3YWJsZSEhLnNldFRpbnQoaXQpCiAgICAgICAgICAgIHN1cHBvcnRBY3Rpb25CYXIhIS5zZXRIb21lQXNVcEluZGljYXRvcihiYWNrRHJhd2FibGUp</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpIHsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
