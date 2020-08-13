@@ -119,7 +119,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1597325042369">
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1597325324390">
         <mark key="'" line="106" column="42" />
         <mark key="[" line="96" column="0" />
         <mark key="]" line="98" column="21" />
@@ -139,8 +139,10 @@
         <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/strings.xml" timestamp="1597308579905" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/util/BindingAdapters.kt" timestamp="1597307423545">
-        <mark key="[" line="44" column="57" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/koin/AppModule.kt" timestamp="1597325693540">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/epoxy_model_theme_content_header.xml" timestamp="1597323816090">
         <mark key="[" line="19" column="8" />
@@ -161,9 +163,6 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/epoxy_model_more_cell.xml" timestamp="1597321572134" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/quickguides/FragmentQuickGuideReadAlso.kt" timestamp="1597307614888">
-        <mark key="[" line="31" column="33" />
-      </file>
       <file name="/Dummy.txt" timestamp="1597324048542">
         <mark key="[" line="0" column="0" />
       </file>
@@ -172,17 +171,16 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/epoxy_model_group_item_cell.xml" timestamp="1597307210369">
-        <mark key="[" line="86" column="70" />
-        <mark key="]" line="85" column="34" />
-        <mark key="." line="85" column="33" />
-        <mark key="^" line="85" column="34" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/epoxy_model_item_cell.xml" timestamp="1597307967733">
         <mark key="[" line="55" column="24" />
         <mark key="]" line="55" column="28" />
         <mark key="^" line="55" column="28" />
         <mark key="." line="55" column="27" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/FavoriteService.kt" timestamp="1597326185447">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1597318708571">
         <mark key="[" line="150" column="81" />
@@ -194,6 +192,12 @@
         <mark key="]" line="66" column="65" />
         <mark key="." line="66" column="64" />
         <mark key="^" line="66" column="65" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/AORRepository.kt" timestamp="1597326614499">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="28" />
+        <mark key="^" line="25" column="28" />
+        <mark key="." line="25" column="27" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/styles.xml" timestamp="1597307705015">
         <mark key="[" line="61" column="54" />
@@ -311,7 +315,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkNsaWNrIHsgdiAtPgoKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text>class FavoriteService : KoinComponent {
+    val sharedPreferences : SharedPreferences by inject()
+
+    fun toggleMeditationFavorite(id: String) : Boolean {
+        
+    }
+}</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -326,31 +336,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkNsaWNrIHsgdiAtPgoKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWJ0aXRsZShpdC5kdXJhdGlvbiArICIgfCAiICsgY29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcuU09VTkQpKQo=</text>
+        <text>class FavoriteService : KoinComponent {
+    val sharedPreferences : SharedPreferences by inject()
+
+    fun toggleMeditationFavorite(id: String) : Boolean {
+        
+    }
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWJ0aXRsZShpdC5kdXJhdGlvbiArICIgfCAiICsgY29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcuU09VTkQpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFuZHJvaWR4LmFwcGNvbXBhdC53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL292ZXJsYXlJbWFnZUJhY2tncm91bmQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNyYz0iQGNvbG9yL2JsYWNrIgogICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkBpZC9pbWFnZSIKICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJAaWQvaW1hZ2UiCiAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9pbWFnZSIKICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJAaWQvaW1hZ2UiCiAgICAgICAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmFuZG9pcmQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFuZHJvaWR4LmFwcGNvbXBhdC53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL292ZXJsYXlJbWFnZUJhY2tncm91bmQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNyYz0iQGNvbG9yL2JsYWNrIgogICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkBpZC9pbWFnZSIKICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJAaWQvaW1hZ2UiCiAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9IkBpZC9pbWFnZSIKICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJAaWQvaW1hZ2UiCiAgICAgICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHhtbG5zOmFuZG9pcmQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIC8+Cg==</text>
+        <text encoding="base64">ICAgIHhtbG5zOmFuZG9pcmQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdWZXJ0aWNhbD0iOGRwIgo=</text>
+        <text encoding="base64">ICAgIDxpdGVtIC8+Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjE2ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdWZXJ0aWNhbD0iOGRwIgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjE2ZHAiCg==</text>
