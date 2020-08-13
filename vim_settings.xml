@@ -112,11 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_main.xml" timestamp="1597239123968">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/FragmentItem.kt" timestamp="1597307099741">
         <mark key="[" line="69" column="55" />
         <mark key="]" line="69" column="55" />
@@ -147,11 +142,8 @@
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/quickguides/FragmentQuickGuideReadAlso.kt" timestamp="1597307614888">
         <mark key="[" line="31" column="33" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_theme.xml" timestamp="1597239339281">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="23" column="28" />
+      <file name="/Dummy.txt" timestamp="1597321133320">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/epoxy_model_suggest_change.xml" timestamp="1597307900328">
         <mark key="[" line="24" column="0" />
@@ -163,12 +155,6 @@
         <mark key="]" line="85" column="34" />
         <mark key="." line="85" column="33" />
         <mark key="^" line="85" column="34" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/drawable/shape_rounded_square_top.xml" timestamp="1597238976519">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="36" />
-        <mark key="." line="6" column="35" />
-        <mark key="^" line="6" column="36" />
       </file>
       <file name="/fragment.kt" timestamp="1597241347920">
         <mark key="[" line="0" column="0" />
@@ -317,13 +303,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGF0YT8ucmVwbGFjZSgiPGlmcmFtZS4qPC9pZnJhbWU+Ii50b1JlZ2V4KCkp</text>
+        <text>match_parent</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0YT8ucmVwbGFjZSgiPGlmcmFtZS4qPC9pZnJhbWU+Ii50b1JlZ2V4KCkp</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
