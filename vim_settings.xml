@@ -128,11 +128,10 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_main.xml" timestamp="1597392260022">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="59" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="89" column="58" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_main.xml" timestamp="1597392267310">
+        <mark key="[" line="61" column="8" />
+        <mark key="]" line="61" column="8" />
+        <mark key="." line="61" column="8" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1597386523259">
         <mark key="'" line="106" column="42" />
@@ -313,14 +312,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRIb3Jpem9udGFsX2NoYWluU3R5bGU9InBhY2tlZCIK</text>
+      <register name="&quot;" type="4">
+        <text>tools</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>colorSurface</text>
+        <text>tools</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
