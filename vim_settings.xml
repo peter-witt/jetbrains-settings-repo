@@ -112,6 +112,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1597655346544">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1597327756701">
+        <mark key="[" line="26" column="110" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="20" column="23" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/epoxy_model_theme_content_cell.xml" timestamp="1597324957900">
         <mark key="'" line="38" column="41" />
         <mark key="[" line="32" column="14" />
@@ -119,11 +128,14 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_main.xml" timestamp="1597663827015">
-        <mark key="[" line="70" column="39" />
-        <mark key="]" line="72" column="51" />
-        <mark key="^" line="69" column="34" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_main.xml" timestamp="1597665836796">
+        <mark key="[" line="191" column="55" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
+        <mark key="^" line="123" column="37" />
+      </file>
+      <file name="/fragment.kt" timestamp="1597404371861">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1597386523259">
         <mark key="'" line="106" column="42" />
@@ -147,6 +159,11 @@
         <mark key="." line="14" column="60" />
         <mark key="^" line="14" column="61" />
       </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/FavoriteService.kt" timestamp="1597326185447">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597662969280">
         <mark key="[" line="62" column="11" />
         <mark key="]" line="62" column="17" />
@@ -158,42 +175,29 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/064873d27dbbf40853201c271bb10bf0/constraintlayout-2.0.0-rc1/jars/classes.jar!/androidx/constraintlayout/motion/widget/MotionLayout.class" timestamp="1597663348005" />
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1597663163919">
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/util/Bindginadapters.kt" timestamp="1597665152528">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1597664610867">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="10" column="42" />
-        <mark key="." line="10" column="41" />
-        <mark key="^" line="10" column="42" />
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="135" column="41" />
+        <mark key="." line="135" column="40" />
+        <mark key="^" line="135" column="41" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597664897363">
+        <mark key="[" line="28" column="89" />
+        <mark key="]" line="28" column="58" />
+        <mark key="." line="28" column="57" />
+        <mark key="^" line="28" column="58" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1597650996063">
         <mark key="[" line="104" column="52" />
         <mark key="]" line="61" column="52" />
         <mark key="^" line="61" column="52" />
         <mark key="." line="61" column="51" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1597655346544">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1597327756701">
-        <mark key="[" line="26" column="110" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="20" column="23" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="/fragment.kt" timestamp="1597404371861">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/064873d27dbbf40853201c271bb10bf0/constraintlayout-2.0.0-rc1/jars/classes.jar!/androidx/constraintlayout/motion/widget/MotionScene.class" timestamp="1597663421605" />
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/FavoriteService.kt" timestamp="1597326185447">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597663970695">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/AORRepository.kt" timestamp="1597328478796">
         <mark key="[" line="44" column="59" />
@@ -316,7 +320,7 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJUb3BIZWFkZXJCYWNrZ3JvdW5kLnZpc2liaWxpdHkgPSBpZihwcm9ncmVzcyA+PSAwLjk1ZikgVmlldy5WSVNJQkxFIGVsc2UgVmlldy5HT05FCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEhlaWdodF9tYXg9IjI1MGRwIgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -328,37 +332,45 @@
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmVsZXZhdGlvbj0iOGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2F1ZGlvUGxheWVyVG9wQ2xhcCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJUb3BIZWFkZXJCYWNrZ3JvdW5kLnZpc2liaWxpdHkgPSBpZihwcm9ncmVzcyA+PSAwLjk1ZikgVmlldy5WSVNJQkxFIGVsc2UgVmlldy5HT05FCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEhlaWdodF9tYXg9IjI1MGRwIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9Ij9hdHRyL2NvbG9yUHJpbWFyeSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFdpZHRoX21heD0iMjUwZHAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvc2hhcGVfcm91bmRlZF9zcXVhcmVfdG9wIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iOGRwIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kVGludD0iP2F0dHIvcGxheWVyQ29sb3JTdXJmYWNlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOm9uVG91Y2hVcD0iZGVjZWxlcmF0ZUFuZENvbXBsZXRlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZChldi5hY3Rpb24pCg==</text>
+        <text>@BindingAdapter(&quot;round&quot;, &quot;circular&quot;, requireAll = false)
+fun round(view: View, amount: Int?, circular: Boolean?) {
+    amount?.let {
+        view.round(it.dp)
+    }
+    circular?.let {
+        view.round()
+    }
+}</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAocHJvZ3Jlc3MgPiAwLjVmKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnNpdGlvblRvRW5kKCkKICAgICAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnNpdGlvblRvU3RhcnQoKQoKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWUKICAgICAgICAgICAgICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6c3JjPSIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
