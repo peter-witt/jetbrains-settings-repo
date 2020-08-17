@@ -121,18 +121,11 @@
         <mark key="^" line="20" column="23" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/epoxy_model_theme_content_cell.xml" timestamp="1597324957900">
-        <mark key="'" line="38" column="41" />
-        <mark key="[" line="32" column="14" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_main.xml" timestamp="1597667529455">
-        <mark key="[" line="164" column="37" />
-        <mark key="]" line="164" column="35" />
-        <mark key="." line="164" column="35" />
-        <mark key="^" line="122" column="41" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_main.xml" timestamp="1597668683865">
+        <mark key="[" line="310" column="34" />
+        <mark key="]" line="310" column="67" />
+        <mark key="." line="310" column="66" />
+        <mark key="^" line="310" column="67" />
       </file>
       <file name="/fragment.kt" timestamp="1597404371861">
         <mark key="[" line="0" column="0" />
@@ -152,6 +145,9 @@
         <mark key="]" line="35" column="41" />
         <mark key="^" line="35" column="41" />
         <mark key="." line="35" column="40" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk.android-utils/bindingadapters/0.7.0/a75f9080648b9780d410f7244c2c5093152ed1e6/bindingadapters-0.7.0-sources.jar!/dk/makeable/bindingadapters/BindgigAdapters.kt" timestamp="1597668544197">
+        <mark key="[" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/test.kt" timestamp="1597660289294">
         <mark key="[" line="9" column="7" />
@@ -175,8 +171,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/util/Bindginadapters.kt" timestamp="1597665152528">
-        <mark key="[" line="42" column="0" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/util/Bindginadapters.kt" timestamp="1597668554952">
+        <mark key="[" line="55" column="1" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
@@ -319,19 +315,19 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>75dp</text>
+        <text>Mini meditation med fokus på kroppen</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>75dp</text>
+        <text>Mini meditation med fokus på kroppen</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2F1ZGlvUGxheWVyVG9wQ2xhcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6c2VsZWN0ZWQ9IkB7dHJ1ZX0iCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RGltZW5zaW9uUmF0aW89IjE6MSIK</text>
