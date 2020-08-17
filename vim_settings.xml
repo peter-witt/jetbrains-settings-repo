@@ -128,11 +128,10 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_main.xml" timestamp="1597651184279">
-        <mark key="[" line="185" column="39" />
-        <mark key="]" line="179" column="37" />
-        <mark key="." line="179" column="36" />
-        <mark key="^" line="179" column="37" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_main.xml" timestamp="1597652715948">
+        <mark key="[" line="176" column="36" />
+        <mark key="]" line="176" column="35" />
+        <mark key="." line="176" column="35" />
       </file>
       <file name="/fragment.kt" timestamp="1597404371861">
         <mark key="[" line="0" column="0" />
@@ -192,16 +191,15 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1597650450954">
-        <mark key="[" line="54" column="0" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1597652560650">
+        <mark key="[" line="47" column="73" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597651194390">
-        <mark key="[" line="78" column="38" />
-        <mark key="]" line="78" column="38" />
-        <mark key="." line="78" column="38" />
-        <mark key="^" line="77" column="51" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597652953606">
+        <mark key="[" line="77" column="91" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1597650996063">
         <mark key="[" line="104" column="52" />
@@ -324,14 +322,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>height</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>height</text>
+        <text>0dp</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
@@ -340,35 +338,34 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJUb3BQcm9ncmVzc0JhckNvbnRhaW5lci5yZXF1ZXN0TGF5b3V0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text>playerTo
-playerTo</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwbGF5ZXJUb3BQcm9ncmVzc0JhckNvbnRhaW5lci51cGRhdGVMYXlvdXRQYXJhbXM8TGluZWFyTGF5b3V0Q29tcGF0LkxheW91dFBhcmFtcz4gewogICAgICAgICAgICBoZWlnaHQgPSAocHJvZ3Jlc3MgKiA1LmRwKS50b0ludCgpCiAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDptYXhIZWlnaHQ9IjBkcCIK</text>
+        <text encoding="base64">ICAgICAgICBwbGF5ZXJUb3BQcm9ncmVzc0JhckNvbnRhaW5lci5oZWlkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbGF5ZXJUb3BQcm9ncmVzc0JhckNvbnRhaW5lci5yZXF1ZXN0TGF5b3V0KClkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29uc3RyYWludAogICAgICAgICAgICBhbmRyb2lkOmlkPSJAaWQvcGxheWVyVG9wUHJvZ3Jlc3NCYXIiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL3BsYXllckJhY2tncm91bmQiCiAgICAgICAgICAgID4KICAgICAgICA8L0NvbnN0cmFpbnQ+</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDptYXhIZWlnaHQ9IjVkcCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L0NvbnN0cmFpbnQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBtYXhIZWlnaHQgPSAocHJvZ3Jlc3MgKiA1LmRwKS50b0ludCgpCi8vICAgICAgICBwbGF5ZXJUb3BQcm9ncmVzc0JhckNvbnRhaW5lci51cGRhdGVMYXlvdXRQYXJhbXM8TGluZWFyTGF5b3V0Q29tcGF0LkxheW91dFBhcmFtcz4gewovLyAgICAgICAgICAgIGhlaWdodCA9IG1heEhlaWdodAovLyAgICAgICAgfQ==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29uc3RyYWludAogICAgICAgICAgICBhbmRyb2lkOmlkPSJAaWQvcGxheWVyVG9wUHJvZ3Jlc3NCYXIiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL3BsYXllckJhY2tncm91bmQiCiAgICAgICAgICAgID4=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDptYXhIZWlnaHQ9IjVkcCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZCgiU2V0dGluZyBwcm9ncmVzcyBiYXIgdG8gaGVpZ2h0OiAkbWF4SGVpZ2h0IikK</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
