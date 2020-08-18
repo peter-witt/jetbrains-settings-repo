@@ -117,12 +117,15 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_main.xml" timestamp="1597748822685">
+        <mark key="[" line="116" column="66" />
+      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/App.kt" timestamp="1597742967026">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/video-player-android/0.4.2/4bce649cd3cde76f2ed196aa97dfc34c53cebdca/video-player-android-0.4.2-sources.jar!/dk/makeable/videoplayer/controller/VideoPlayerObserver.kt" timestamp="1597747703663" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/video-player-android/0.4.2/4bce649cd3cde76f2ed196aa97dfc34c53cebdca/video-player-android-0.4.2-sources.jar!/dk/makeable/videoplayer/controller/VideoPlayerObserver.kt" timestamp="1597748211799" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_content_overlay_audio_player.xml" timestamp="1597742330356">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="20" column="53" />
@@ -167,7 +170,7 @@
       <file name="/Dummy.txt" timestamp="1597742401327">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1597744863093">
+      <file name="/fragment.kt" timestamp="1597748216657">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/proguard-rules.pro" timestamp="1597744747289">
@@ -186,10 +189,10 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597742970916">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="87" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597749240427">
+        <mark key="[" line="99" column="79" />
+        <mark key="]" line="99" column="79" />
+        <mark key="." line="99" column="79" />
       </file>
     </filemarks>
     <jumps>
@@ -300,14 +303,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>vimeoID</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>project</text>
+        <text>vimeoID</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
