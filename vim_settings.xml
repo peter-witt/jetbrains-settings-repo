@@ -182,7 +182,7 @@
         <mark key="^" line="35" column="4" />
         <mark key="." line="35" column="3" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1597746694014">
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1597746883226">
         <mark key="[" line="92" column="16" />
         <mark key="]" line="92" column="16" />
         <mark key="^" line="91" column="20" />
@@ -304,13 +304,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>module</text>
+        <text>project</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>module</text>
+        <text>project</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
