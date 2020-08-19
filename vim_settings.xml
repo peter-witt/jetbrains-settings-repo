@@ -143,31 +143,32 @@
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/dimens.xml" timestamp="1597755003434">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597831865111">
-        <mark key="[" line="53" column="12" />
-        <mark key="]" line="45" column="12" />
-        <mark key="^" line="45" column="12" />
-        <mark key="." line="45" column="11" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597833884911">
+        <mark key="[" line="44" column="9" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="29" column="45" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/064873d27dbbf40853201c271bb10bf0/constraintlayout-2.0.0-rc1/jars/classes.jar!/androidx/constraintlayout/motion/widget/MotionLayout.class" timestamp="1597827452835" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/064873d27dbbf40853201c271bb10bf0/constraintlayout-2.0.0-rc1/jars/classes.jar!/androidx/constraintlayout/motion/widget/MotionLayout.class" timestamp="1597832287553" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/video-player-android/0.4.2/4bce649cd3cde76f2ed196aa97dfc34c53cebdca/video-player-android-0.4.2-sources.jar!/dk/makeable/videoplayer/ui/VideoPlayerView.kt" timestamp="1597833630273" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/exo_player_start_overlay.xml" timestamp="1597755414193">
         <mark key="[" line="25" column="31" />
         <mark key="]" line="25" column="31" />
         <mark key="." line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1597830760060">
-        <mark key="[" line="47" column="35" />
-        <mark key="]" line="47" column="35" />
-        <mark key="^" line="265" column="64" />
-        <mark key="." line="47" column="35" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1597832631218">
+        <mark key="[" line="43" column="31" />
+        <mark key="]" line="43" column="31" />
+        <mark key="^" line="36" column="42" />
+        <mark key="." line="43" column="31" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1597831195851">
         <mark key="[" line="60" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597755369725">
+      <file name="/Dummy.txt" timestamp="1597833363992">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1597826251950">
+      <file name="/fragment.kt" timestamp="1597832045486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_video_player.xml" timestamp="1597754628899">
@@ -182,10 +183,10 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597831311276">
-        <mark key="[" line="123" column="13" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597832820980">
+        <mark key="[" line="210" column="21" />
+        <mark key="]" line="210" column="21" />
+        <mark key="." line="210" column="21" />
       </file>
       <file name="/fragment.java" timestamp="1597831071664">
         <mark key="[" line="0" column="0" />
@@ -300,51 +301,49 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25JbnRlcmNlcHRUb3VjaEV2ZW50KGV2KQo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBkaXNwYXRjaFRvdWNoRXZlbnQoZXY6IE1vdGlvbkV2ZW50KTogQm9vbGVhbiB7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>isInProgress</text>
+        <text>doClickTransition()</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25JbnRlcmNlcHRUb3VjaEV2ZW50KGV2KQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZGlzcGF0Y2hUb3VjaEV2ZW50KGV2KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBkaXNwYXRjaFRvdWNoRXZlbnQoZXY6IE1vdGlvbkV2ZW50KTogQm9vbGVhbiB7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>!(touchEventInsideTargetView(
-                exoProgressBar, ev
-            ) || touchEventInsideTargetView(audioSlider, ev))</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZXYuYWN0aW9uID09IE1vdGlvbkV2ZW50LkFDVElPTl9ET1dOKSB7CiAgICAgICAgICAgIHN0YXJ0WCA9IGV2LngKICAgICAgICAgICAgc3RhcnRZID0gZXYueQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChkb0NsaWNrVHJhbnNpdGlvbigpKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgewo=</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKGV2LmFjdGlvbiA9PSBNb3Rpb25FdmVudC5BQ1RJT05fVVApIHsKCiAgICAgICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVuZFggPSBldi54CiAgICAgICAgICAgIHZhbCBlbmRZID0gZXYueQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6Y29uc3RyYWludFNldEVuZD0iQGlkL2NvbGxhcHNlZCIK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">TW90aW9uRXZlbnQpOiBCb29sZWFuIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
