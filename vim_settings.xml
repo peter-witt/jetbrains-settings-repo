@@ -143,10 +143,10 @@
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/dimens.xml" timestamp="1597755003434">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597841141774">
-        <mark key="[" line="28" column="59" />
-        <mark key="]" line="31" column="30" />
-        <mark key="." line="31" column="29" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597841973995">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="12" />
+        <mark key="." line="28" column="12" />
         <mark key="^" line="31" column="30" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/064873d27dbbf40853201c271bb10bf0/constraintlayout-2.0.0-rc1/jars/classes.jar!/androidx/constraintlayout/motion/widget/MotionLayout.class" timestamp="1597832287553" />
@@ -156,11 +156,11 @@
         <mark key="]" line="25" column="31" />
         <mark key="." line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1597834898059">
-        <mark key="[" line="43" column="31" />
-        <mark key="]" line="43" column="31" />
-        <mark key="^" line="36" column="42" />
-        <mark key="." line="43" column="31" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1597842029443">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="22" />
+        <mark key="^" line="46" column="29" />
+        <mark key="." line="38" column="22" />
       </file>
       <file name="/AORMotionLayout.kt" timestamp="1597835550761" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1597836773775">
@@ -179,10 +179,10 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597834747161">
-        <mark key="[" line="209" column="40" />
-        <mark key="]" line="209" column="40" />
-        <mark key="." line="209" column="40" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597841492496">
+        <mark key="[" line="64" column="36" />
+        <mark key="]" line="64" column="36" />
+        <mark key="^" line="64" column="36" />
       </file>
       <file name="/fragment.java" timestamp="1597831071664">
         <mark key="[" line="0" column="0" />
@@ -297,13 +297,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYgaXNBQ2xpY2soc3RhcnRYLCBldmVudC5yYXdYLCBzdGFydFksIGV2ZW50LnJhd1kp</text>
+        <text>100</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgaXNBQ2xpY2soc3RhcnRYLCBldmVudC5yYXdYLCBzdGFydFksIGV2ZW50LnJhd1kp</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
