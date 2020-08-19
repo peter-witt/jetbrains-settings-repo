@@ -143,11 +143,11 @@
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/dimens.xml" timestamp="1597755003434">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597836664902">
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="85" column="70" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597837682535">
+        <mark key="[" line="63" column="28" />
+        <mark key="]" line="63" column="55" />
+        <mark key="." line="63" column="54" />
+        <mark key="^" line="63" column="55" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/064873d27dbbf40853201c271bb10bf0/constraintlayout-2.0.0-rc1/jars/classes.jar!/androidx/constraintlayout/motion/widget/MotionLayout.class" timestamp="1597832287553" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/video-player-android/0.4.2/4bce649cd3cde76f2ed196aa97dfc34c53cebdca/video-player-android-0.4.2-sources.jar!/dk/makeable/videoplayer/ui/VideoPlayerView.kt" timestamp="1597833630273" />
@@ -169,7 +169,7 @@
       <file name="/Dummy.txt" timestamp="1597836029156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1597832045486">
+      <file name="/fragment.kt" timestamp="1597836918885">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/064873d27dbbf40853201c271bb10bf0/constraintlayout-2.0.0-rc1/jars/classes.jar!/androidx/constraintlayout/motion/widget/MotionScene.class" timestamp="1597830705959" />
@@ -296,14 +296,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>v.y</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>Int</text>
+        <text>v.y</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
@@ -312,16 +312,16 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICh0b3VjaEV2ZW50SW5zaWRlVGFyZ2V0VmlldyhmaW5kVmlld0J5SWQoUi5pZC52aWRlb0NvbnRlbnQpLCBldmVudCkpIHsKLy8gICAgICAgICAgICB3aGVuIChldmVudC5hY3Rpb24pIHsKLy8gICAgICAgICAgICAgICAgTW90aW9uRXZlbnQuQUNUSU9OX0RPV04gLT4gewovLyAgICAgICAgICAgICAgICAgICAgc3RhcnRYID0gZXZlbnQueAovLyAgICAgICAgICAgICAgICAgICAgc3RhcnRZID0gZXZlbnQueQovLyAgICAgICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgICAgIE1vdGlvbkV2ZW50LkFDVElPTl9VUCAtPiB7Ci8vICAgICAgICAgICAgICAgICAgICB2YWwgZW5kWCA9IGV2ZW50LngKLy8gICAgICAgICAgICAgICAgICAgIHZhbCBlbmRZID0gZXZlbnQueQovLyAgICAgICAgICAgICAgICAgICAgaWYgKGlzQUNsaWNrKHN0YXJ0WCEhLCBlbmRYLCBzdGFydFkhISwgZW5kWSkpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBpZiAoVmlkZW9QbGF5ZXJDb250cm9sbGVyLnN0YXJ0T3ZlcmxheVZpc2libGUpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhvX3N0YXJ0X292ZXJsYXkudmlzaWJpbGl0eSA9IFZpZXcuR09ORQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBWaWRlb1BsYXllckNvbnRyb2xsZXIucGxheSgpCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZpZGVvUGxheWVyQ29udHJvbGxlci5zdGFydE92ZXJsYXlWaXNpYmxlID0gZmFsc2UKLy8gICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKCF2aWRlb0NvbnRlbnQuZ2V0UGxheWVyVmlldygpLmlzQ29udHJvbGxlclZpc2libGUpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlkZW9Db250ZW50LmdldFBsYXllclZpZXcoKS5zaG93Q29udHJvbGxlcigpCi8vICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vdGlvbkV2ZW50LkFDVElPTl9VUCAtPiB7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKGV2LnggPiB2LmxlZnQgJiYgZXYueCA8IHYucmlnaHQpIHsKICAgICAgICAgICAgaWYgKGV2LnkgPiB2LnRvcCAmJiBldi55IDwgdi5ib3R0b20pIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNl</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAoZXZlbnQuYWN0aW9uKSB7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -330,18 +330,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vdGlvbkV2ZW50LkFDVElPTl9ET1dOIC0+IHsKICAgICAgICAgICAgICAgICAgICBzdGFydFggPSBldmVudC54CiAgICAgICAgICAgICAgICAgICAgc3RhcnRZID0gZXZlbnQueQogICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmICh0b3VjaEV2ZW50SW5zaWRlVGFyZ2V0VmlldyhmaW5kVmlld0J5SWQoUi5pZC52aWRlb0NvbnRlbnQpLCBldmVudCkpIHsKLy8gICAgICAgICAgICB3aGVuIChldmVudC5hY3Rpb24pIHsKLy8gICAgICAgICAgICAgICAgTW90aW9uRXZlbnQuQUNUSU9OX0RPV04gLT4gewovLyAgICAgICAgICAgICAgICAgICAgc3RhcnRYID0gZXZlbnQueAovLyAgICAgICAgICAgICAgICAgICAgc3RhcnRZID0gZXZlbnQueQovLyAgICAgICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgICAgIE1vdGlvbkV2ZW50LkFDVElPTl9VUCAtPiB7Ci8vICAgICAgICAgICAgICAgICAgICB2YWwgZW5kWCA9IGV2ZW50LngKLy8gICAgICAgICAgICAgICAgICAgIHZhbCBlbmRZID0gZXZlbnQueQovLyAgICAgICAgICAgICAgICAgICAgaWYgKGlzQUNsaWNrKHN0YXJ0WCEhLCBlbmRYLCBzdGFydFkhISwgZW5kWSkpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBpZiAoVmlkZW9QbGF5ZXJDb250cm9sbGVyLnN0YXJ0T3ZlcmxheVZpc2libGUpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhvX3N0YXJ0X292ZXJsYXkudmlzaWJpbGl0eSA9IFZpZXcuR09ORQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBWaWRlb1BsYXllckNvbnRyb2xsZXIucGxheSgpCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZpZGVvUGxheWVyQ29udHJvbGxlci5zdGFydE92ZXJsYXlWaXNpYmxlID0gZmFsc2UKLy8gICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKCF2aWRlb0NvbnRlbnQuZ2V0UGxheWVyVmlldygpLmlzQ29udHJvbGxlclZpc2libGUpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlkZW9Db250ZW50LmdldFBsYXllclZpZXcoKS5zaG93Q29udHJvbGxlcigpCi8vICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluZFZpZXdCeUlkPFBsYXllclZpZXc+KFIuaWQudmlkZW9fcGxheWVyX3ZpZXdfcGxheWVyKS5wZXJmb3JtQ2xpY2soKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKGV2LnggPiB2LmxlZnQgJiYgZXYueCA8IHYucmlnaHQpIHsKICAgICAgICAgICAgaWYgKGV2LnkgPiB2LnRvcCAmJiBldi55IDwgdi5ib3R0b20pIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNl</text>
       </register>
-      <register name="9" type="4">
-        <text>if (doClickTransition()) {
-                            return true
-                        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
