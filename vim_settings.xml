@@ -124,11 +124,11 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_main.xml" timestamp="1597822205280">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="11" column="5" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_main.xml" timestamp="1597822966053">
+        <mark key="[" line="177" column="43" />
+        <mark key="]" line="182" column="14" />
+        <mark key="^" line="182" column="14" />
+        <mark key="." line="182" column="13" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_video_player.xml" timestamp="1597754628899">
         <mark key="[" line="20" column="42" />
@@ -160,11 +160,11 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597822527468">
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="12" />
-        <mark key="^" line="73" column="33" />
-        <mark key="." line="33" column="12" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597823447087">
+        <mark key="[" line="79" column="31" />
+        <mark key="]" line="79" column="31" />
+        <mark key="^" line="68" column="13" />
+        <mark key="." line="79" column="31" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_content_knowledge.xml" timestamp="1597750507766">
         <mark key="[" line="12" column="0" />
@@ -176,11 +176,11 @@
         <mark key="]" line="25" column="31" />
         <mark key="." line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1597822240951">
-        <mark key="[" line="82" column="12" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="83" column="14" />
-        <mark key="." line="81" column="71" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1597823215104">
+        <mark key="[" line="47" column="35" />
+        <mark key="]" line="47" column="35" />
+        <mark key="^" line="265" column="64" />
+        <mark key="." line="47" column="35" />
       </file>
       <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1597750420254">
         <mark key="[" line="465" column="0" />
@@ -316,35 +316,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb290LnRyYW5zaXRpb25Ub1N0YXRlKFIuaWQuZW5kKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9wbGF5ZXJDb250ZW50Q29udGFpbmVyIgo=</text>
+      <register name="1" type="4">
+        <text>if (doClickTransition()) {
+                            return true
+                        }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIK</text>
+      <register name="2" type="4">
+        <text>if (doClickTransition()) {
+                            return true
+                        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YXR0ci9wbGF5ZXJDb2xvclN1cmZhY2UiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9wbGF5ZXJCb3R0b21Db250ZW50Igo=</text>
+      <register name="4" type="4">
+        <text>else if (touchEventInsideTargetView(playerContentContainer, ev)){
+            return false
+        }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb290LnNldFRyYW5zaXRpb24oUi5pZC5jb2xsYXBzZWRUb09wZW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkBpZC9wbGF5ZXJCYWNja2dyb3VuZCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb290LnNldFRyYW5zaXRpb24oUi5pZC5jb2xsYXBzZWRUb09wZW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvVG9wT2Y9IkBpZC9wbGFlckJhY2tncm91bmQiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9wbGF5ZXJDb250ZW50Q29udGFpbmVyIgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb290LnNldFRyYW5zaXRpb24oUi5pZC5jb2xsYXBzZWRUb09wZW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YXR0ci9wbGF5ZXJDb2xvclN1cmZhY2UiCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
