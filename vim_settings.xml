@@ -163,11 +163,10 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597826256213">
-        <mark key="[" line="56" column="12" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="56" column="11" />
-        <mark key="." line="56" column="11" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597830402460">
+        <mark key="[" line="82" column="5" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/064873d27dbbf40853201c271bb10bf0/constraintlayout-2.0.0-rc1/jars/classes.jar!/androidx/constraintlayout/motion/widget/MotionLayout.class" timestamp="1597827452835" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_content_knowledge.xml" timestamp="1597750507766">
@@ -186,7 +185,7 @@
         <mark key="^" line="265" column="64" />
         <mark key="." line="47" column="35" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597821753949">
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597829014134">
         <mark key="[" line="123" column="13" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
@@ -300,54 +299,52 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW90aW9uRXZlbnQuQUNUSU9OX0RPV04gLT4gewo=</text>
+      <register name="&quot;" type="4">
+        <text>isInProgress</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>performClick</text>
+        <text>isInProgress</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZCgib25JbnRlcmNlcHRUb3VjaEV2ZW50ICR7ZXZ9IikK</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZCgib25JbnRlcmNlcHRUb3VjaEV2ZW50ICR7ZXYuYWN0aW9ufSIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW90aW9uRXZlbnQuQUNUSU9OX0RPV04gLT4gewo=</text>
+      <register name="1" type="4">
+        <text>!(touchEventInsideTargetView(
+                exoProgressBar, ev
+            ) || touchEventInsideTargetView(audioSlider, ev))</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vdGlvbkV2ZW50LkFDVElPTl9ET1dOIC0+IHsKICAgICAgICAgICAgICAgICAgICBzdGFydFggPSBldi54CiAgICAgICAgICAgICAgICAgICAgc3RhcnRZID0gZXYueQogICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZWxzZSBpZiAodG91Y2hFdmVudEluc2lkZVRhcmdldFZpZXcocGxheWVyQ29udGVudENvbnRhaW5lciwgZXYpKSB7CiAgICAgICAgICAgIHdoZW4gKGV2LmFjdGlvbikgewogICAgICAgICAgICAgICAgTW90aW9uRXZlbnQuQUNUSU9OX0RPV04gLT4gewogICAgICAgICAgICAgICAgICAgIHN0YXJ0WCA9IGV2LngKICAgICAgICAgICAgICAgICAgICBzdGFydFkgPSBldi55CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgTW90aW9uRXZlbnQuQUNUSU9OX1VQIC0+IHsKICAgICAgICAgICAgICAgICAgICB2YWwgZW5kWCA9IGV2LngKICAgICAgICAgICAgICAgICAgICB2YWwgZW5kWSA9IGV2LnkKICAgICAgICAgICAgICAgICAgICBpZiAoaXNBQ2xpY2soc3RhcnRYISEsIGVuZFgsIHN0YXJ0WSEhLCBlbmRZKSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gaWYgKHBsYXllckNvbnRlbnRDb250YWluZXIuZGlzcGF0Y2hUb3VjaEV2ZW50KGV2KSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VwZXIuZGlzcGF0Y2hUb3VjaEV2ZW50KGV2KQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZChldi50b1N0cmluZygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChkb0NsaWNrVHJhbnNpdGlvbigpKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25JbnRlcmNlcHRUb3VjaEV2ZW50KGV2KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVuZFggPSBldi54CiAgICAgICAgICAgIHZhbCBlbmRZID0gZXYueQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>if (doClickTransition()) {
-                            return true
-                        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>if (doClickTransition()) {
-                            return true
-                        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgZW5kWCA9IGV2LngKICAgICAgICAgICAgICAgICAgICB2YWwgZW5kWSA9IGV2LnkKICAgICAgICAgICAgICAgICAgICBpZiAoaXNBQ2xpY2soc3RhcnRYISEsIGVuZFgsIHN0YXJ0WSEhLCBlbmRZKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZG9DbGlja1RyYW5zaXRpb24oKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
