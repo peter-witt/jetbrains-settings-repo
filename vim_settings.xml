@@ -112,17 +112,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_main.xml" timestamp="1597922024938">
-        <mark key="[" line="154" column="80" />
-        <mark key="]" line="11" column="5" />
-        <mark key="^" line="187" column="14" />
-        <mark key="." line="11" column="5" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_top_progress_bar.xml" timestamp="1597922043853">
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="20" column="38" />
-        <mark key="." line="20" column="30" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_top_content_audio_player.xml" timestamp="1597935133008">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="62" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="41" column="61" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/util/EpoxyController.kt" timestamp="1597931615001" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1597929365273">
@@ -135,19 +129,27 @@
         <mark key="." line="39" column="49" />
         <mark key="^" line="39" column="50" />
       </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_collapsed_controls_audio_player.xml" timestamp="1597935012063">
+        <mark key="[" line="64" column="40" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/video-player-android/0.4.2/4bce649cd3cde76f2ed196aa97dfc34c53cebdca/video-player-android-0.4.2-sources.jar!/dk/makeable/videoplayer/controller/VideoPlayerObserver.kt" timestamp="1597926735162">
         <mark key="[" line="99" column="46" />
         <mark key="]" line="99" column="46" />
         <mark key="^" line="99" column="46" />
         <mark key="." line="99" column="45" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_audio_player.xml" timestamp="1597932637941">
-        <mark key="[" line="118" column="43" />
-        <mark key="]" line="118" column="43" />
-        <mark key="." line="118" column="43" />
-        <mark key="^" line="119" column="40" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_audio_player.xml" timestamp="1597934847582">
+        <mark key="[" line="122" column="41" />
+        <mark key="]" line="99" column="41" />
+        <mark key="." line="99" column="41" />
+        <mark key="^" line="121" column="51" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Orfium/RxMusicPlayer-android/1.1.0/5f97e5108c923cc3b6b94c97c7645b3379cc8497/RxMusicPlayer-android-1.1.0-sources.jar!/com/orfium/rx/musicplayer/notification/NotificationManager.kt" timestamp="1597920590415" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_knowledge.xml" timestamp="1597935641289">
+        <mark key="[" line="45" column="52" />
+        <mark key="]" line="45" column="55" />
+        <mark key="." line="45" column="52" />
+        <mark key="^" line="45" column="52" />
+      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597929273334">
         <mark key="^" line="35" column="80" />
       </file>
@@ -163,20 +165,24 @@
         <mark key="]" line="86" column="61" />
         <mark key="." line="86" column="61" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/AndroidManifest.xml" timestamp="1597921916920">
-        <mark key="[" line="14" column="53" />
-        <mark key="]" line="7" column="75" />
-        <mark key="^" line="7" column="75" />
-        <mark key="." line="7" column="74" />
-      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1597932329783">
         <mark key="[" line="42" column="77" />
         <mark key="]" line="42" column="77" />
         <mark key="^" line="42" column="77" />
         <mark key="." line="42" column="76" />
       </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_collapsed_controls_video_player.xml" timestamp="1597935057723">
+        <mark key="[" line="43" column="40" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/fragment.kt" timestamp="1597930356476">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_video_player.xml" timestamp="1597935213384">
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="39" />
       </file>
       <file name="$USER_HOME$/Makeable/android-views/EpoxyFragment/src/main/java/dk/makeable/epoxyfragment/EpoxyFragment.kt" timestamp="1597931541876">
         <mark key="[" line="28" column="4" />
@@ -184,7 +190,6 @@
         <mark key="." line="25" column="8" />
         <mark key="^" line="25" column="9" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/video-player-android/0.4.2/4bce649cd3cde76f2ed196aa97dfc34c53cebdca/video-player-android-0.4.2-sources.jar!/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1597925808622" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/android-views/1.0.6/1cf395282db0ffdf08ed30a490e1167998cd2408/android-views-1.0.6-sources.jar!/dk/makeable/epoxyfragment/EpoxyFragment.kt" timestamp="1597931535910">
         <mark key="[" line="25" column="4" />
       </file>
@@ -310,19 +315,19 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>wrap_content</text>
+        <text>0dp</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>0dp</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmZvcmVncm91bmQ9Ij9zZWxlY3RhYmxlSXRlbUJhY2tncm91bmRCb3JkZXJsZXNzIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9Ij9hbmRyb2lkOnNlbGVjdGFibGVJdGVtQmFja2dyb3VuZCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
