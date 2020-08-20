@@ -156,47 +156,46 @@
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597929273334">
         <mark key="^" line="35" column="80" />
       </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/koin/AppModule.kt" timestamp="1597930700913" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1597927280568">
         <mark key="[" line="240" column="65" />
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
         <mark key="^" line="240" column="65" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1597913052827">
-        <mark key="[" line="60" column="74" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/android-views/1.0.6/1cf395282db0ffdf08ed30a490e1167998cd2408/android-views-1.0.6-sources.jar!/dk/makeable/epoxyfragment/SimpleEpoxyController.kt" timestamp="1597908396994" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/AndroidManifest.xml" timestamp="1597921916920">
         <mark key="[" line="14" column="53" />
         <mark key="]" line="7" column="75" />
         <mark key="^" line="7" column="75" />
         <mark key="." line="7" column="74" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1597929389456">
-        <mark key="[" line="65" column="66" />
-        <mark key="]" line="65" column="66" />
-        <mark key="." line="65" column="66" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1597930907099">
+        <mark key="[" line="25" column="48" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="76" column="70" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_collapsed_controls_video_player.xml" timestamp="1597913583939">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="30" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1597930058620">
+      <file name="/fragment.kt" timestamp="1597930356476">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/video-player-android/0.4.2/4bce649cd3cde76f2ed196aa97dfc34c53cebdca/video-player-android-0.4.2-sources.jar!/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1597925808622" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/android-views/1.0.6/1cf395282db0ffdf08ed30a490e1167998cd2408/android-views-1.0.6-sources.jar!/dk/makeable/epoxyfragment/EpoxyFragment.kt" timestamp="1597930932563" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597929188735">
         <mark key="[" line="61" column="67" />
         <mark key="]" line="61" column="63" />
         <mark key="." line="61" column="62" />
         <mark key="^" line="61" column="63" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/AORRepository.kt" timestamp="1597930066066">
-        <mark key="[" line="42" column="42" />
-        <mark key="]" line="42" column="36" />
-        <mark key="." line="42" column="35" />
-        <mark key="^" line="42" column="36" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/AORRepository.kt" timestamp="1597930859320">
+        <mark key="[" line="43" column="34" />
+        <mark key="]" line="49" column="43" />
+        <mark key="." line="49" column="42" />
+        <mark key="^" line="49" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -308,13 +307,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>postValue</text>
+        <text>aorRepository.favorites</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>postValue</text>
+        <text>aorRepository.favorites</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
