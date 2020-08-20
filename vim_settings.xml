@@ -152,11 +152,6 @@
         <mark key="." line="91" column="45" />
         <mark key="^" line="91" column="46" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_knowledge.xml" timestamp="1597754666624">
-        <mark key="[" line="19" column="48" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/dimens.xml" timestamp="1597755003434">
         <mark key="[" line="1" column="11" />
       </file>
@@ -183,11 +178,11 @@
         <mark key="^" line="46" column="29" />
         <mark key="." line="38" column="22" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1597913440597">
-        <mark key="[" line="142" column="46" />
-        <mark key="]" line="142" column="38" />
-        <mark key="." line="142" column="37" />
-        <mark key="^" line="142" column="38" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1597915203989">
+        <mark key="[" line="97" column="12" />
+        <mark key="]" line="97" column="12" />
+        <mark key="^" line="82" column="78" />
+        <mark key="." line="97" column="12" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597910881914">
         <mark key="]" line="104" column="5" />
@@ -310,50 +305,50 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjE2ZHAiCg==</text>
+      <register name="&quot;" type="4">
+        <text>audioPlayerBottomContentButtonPlayPause</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>videoPlayer</text>
+        <text>audioPlayerBottomContentButtonPlayPause</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjE2ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdWRpb1BsYXllckNvbnRyb2xzQnV0dG9uUGxheVBhdXNlLnNldEltYWdlUmVzb3VyY2UoUi5kcmF3YWJsZS5idG5fcGF1c2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvU3RhcnRPZj0iQGlkL3ZpZGVvUGxheWVyQ29udHJvbHNQbGF5Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8YW5kcm9pZHguYXBwY29tcGF0LndpZGdldC5BcHBDb21wYXRJbWFnZVZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC92aWRlb1BsYXllckNvbnRyb2xzUGxheSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjM2ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMzZkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSI4ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvYnRuX3BsYXkiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgICAgIC8+</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1ZGlvUGxheWVyQm90dG9tQ29udGVudEJ1dHRvblBsYXlQYXVzZS5zZXRJbWFnZVJlc291cmNlKAogICAgICAgICAgICAgICAgICAgIGlmIChpdC5pc1BsYXlpbmcoKSkgUi5kcmF3YWJsZS5idG5fcGxheSBlbHNlIFIuZHJhd2FibGUuYnRuX3BhdXNlCiAgICAgICAgICAgICAgICAp</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50QXVkaW9NZWRpYS52YWx1ZT8uZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50UHJvZ3Jlc3Mub2JzZXJ2ZSh0aGlzLCBPYnNlcnZlciB7IAogICAgICAgICAgICAKICAgICAgICB9KQ==</text>
+        <text encoding="base64">ICAgICAgICBpZihSeE11c2ljUGxheWVyLnN0YXRlLnZhbHVlIGluIGxpc3RPZigpKXs/Lm1lZGlhPy5sZXQgeyAKICAgICAgICAgICAgY3VycmVudEF1ZGlvTWVkaWEudmFsdWUgPSBpdAogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlkZW9QbGF5ZXJDb250cm9sbGVyLnBsYXliYWNrUG9zaXRpb25MaXN0ZW5lcnMuYWRkIHsgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvU3RhcnRPZj0iQGlkL3ZpZGVvUGxheWVyQ29udHJvbHNQbGF5Igo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlkZW9QbGF5ZXJDb250cm9sbGVyLnBsYXliYWNrUG9zaXRpb25MaXN0ZW5lcnMuYWRkIHsgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBWaWRlb1BsYXllckNvbnRyb2xsZXIucmVsZWFzZVZpZGVvUGxheWVyKCkKICAgICAgICBleG9fc3RhcnRfb3ZlcmxheS52aXNpYmlsaXR5ID0gVmlldy5WSVNJQkxFCiAgICAgICAgVmlkZW9QbGF5ZXJDb250cm9sbGVyLnN0YXJ0T3ZlcmxheVZpc2libGUgPSB0cnVl</text>
+        <text encoding="base64">ICAgICAgICA8YW5kcm9pZHguYXBwY29tcGF0LndpZGdldC5BcHBDb21wYXRJbWFnZVZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC92aWRlb1BsYXllckNvbnRyb2xzUGxheSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjM2ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMzZkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSI4ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvYnRuX3BsYXkiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgICAgIC8+</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
