@@ -141,11 +141,11 @@
         <mark key="^" line="99" column="46" />
         <mark key="." line="99" column="45" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_audio_player.xml" timestamp="1597922876524">
-        <mark key="[" line="55" column="32" />
-        <mark key="]" line="91" column="46" />
-        <mark key="." line="91" column="45" />
-        <mark key="^" line="91" column="46" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_audio_player.xml" timestamp="1597932637941">
+        <mark key="[" line="118" column="43" />
+        <mark key="]" line="118" column="43" />
+        <mark key="." line="118" column="43" />
+        <mark key="^" line="119" column="40" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Orfium/RxMusicPlayer-android/1.1.0/5f97e5108c923cc3b6b94c97c7645b3379cc8497/RxMusicPlayer-android-1.1.0-sources.jar!/com/orfium/rx/musicplayer/notification/NotificationManager.kt" timestamp="1597920590415" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597929273334">
@@ -169,8 +169,11 @@
         <mark key="^" line="7" column="75" />
         <mark key="." line="7" column="74" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1597931574386">
-        <mark key="[" line="47" column="42" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1597932329783">
+        <mark key="[" line="42" column="77" />
+        <mark key="]" line="42" column="77" />
+        <mark key="^" line="42" column="77" />
+        <mark key="." line="42" column="76" />
       </file>
       <file name="/fragment.kt" timestamp="1597930356476">
         <mark key="[" line="0" column="0" />
@@ -306,20 +309,20 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>wrap_content</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>viewLifecycleOwner</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxheWVyQ29udHJvbGxlci5jdXJyZW50Q29udGVudC5wb3N0VmFsdWUobWVkaXRhdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmZvcmVncm91bmQ9Ij9zZWxlY3RhYmxlSXRlbUJhY2tncm91bmRCb3JkZXJsZXNzIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
