@@ -162,24 +162,22 @@
         <mark key="." line="45" column="52" />
         <mark key="^" line="45" column="52" />
       </file>
-      <file name="$USER_HOME$/Makeable/ftz-android/app/src/main/java/dk/makeable/ftz/ui/fragments/cases/CasePageFragment.kt" timestamp="1597992002643" />
+      <file name="$USER_HOME$/Makeable/ftz-android/app/src/main/java/dk/makeable/ftz/ui/fragments/cases/CasePageFragment.kt" timestamp="1597994314019">
+        <mark key="[" line="287" column="30" />
+        <mark key="]" line="287" column="30" />
+        <mark key="." line="287" column="30" />
+      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597929273334">
         <mark key="^" line="35" column="80" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/android-views/1.0.6/1cf395282db0ffdf08ed30a490e1167998cd2408/android-views-1.0.6-sources.jar!/dk/makeable/epoxyfragment/EpoxyFragment.kt" timestamp="1597931535910">
         <mark key="[" line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/Makeable/ftz-android/app/src/main/java/dk/makeable/ftz/ui/fragments/academy/AcademyWebViewFragment.kt" timestamp="1597992063812">
-        <mark key="[" line="114" column="48" />
-        <mark key="]" line="114" column="47" />
-        <mark key="^" line="114" column="15" />
-        <mark key="." line="114" column="15" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1597927280568">
-        <mark key="[" line="240" column="65" />
-        <mark key="]" line="241" column="0" />
-        <mark key="." line="241" column="0" />
-        <mark key="^" line="240" column="65" />
+      <file name="$USER_HOME$/Makeable/ftz-android/app/src/main/java/dk/makeable/ftz/ui/fragments/academy/AcademyWebViewFragment.kt" timestamp="1597992063812" />
+      <file name="$USER_HOME$/Makeable/ftz-android/app/build.gradle" timestamp="1597994696992">
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="26" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597929188735">
         <mark key="[" line="61" column="67" />
@@ -308,7 +306,9 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>resultCode == Activity.RESULT_OK</text>
+        <text>catch (e: Throwable) {
+                                e.printStackTrace()
+                            }</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -322,8 +322,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6Y2lyY3VsYXI9IkB7dHJ1ZX0iCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6Y2lyY3VsYXI9IkB7dHJ1ZX0iCg==</text>
+      <register name="1" type="4">
+        <text>catch (e: Throwable) {
+                                e.printStackTrace()
+                            }</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6Y2lyY3VsYXI9IkB7dHJ1ZX0iCg==</text>
@@ -332,25 +334,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6Y2lyY3VsYXI9IkB7dHJ1ZX0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6Y2lyY3VsYXI9IkB7dHJ1ZX0iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgogICAgb3ZlcnJpZGUgZnVuIG9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZTogQnVuZGxlPykgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSkKICAgICAgICBsaWZlY3ljbGVTY29wZS5sYXVuY2hXaGVuUmVzdW1lZCB7CgogICAgICAgIH0KICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlld01vZGVsLmRhdGEub2JzZXJ2ZSh2aWV3TGlmZWN5Y2xlT3duZXIsIE9ic2VydmVyIHsKICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5jb250cm9sbGVyLnNldERhdGEoaXQpCiAgICAgICAgICAgIH0p</text>
+        <text encoding="base64">CgogICAgb3ZlcnJpZGUgZnVuIG9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZTogQnVuZGxlPykgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSkKICAgICAgICBsaWZlY3ljbGVTY29wZS5sYXVuY2hXaGVuUmVzdW1lZCB7CgogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlld01vZGVsLmRhdGEub2JzZXJ2ZSh2aWV3TGlmZWN5Y2xlT3duZXIsIE9ic2VydmVyIHsKICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5jb250cm9sbGVyLnNldERhdGEoaXQpCiAgICAgICAgICAgIH0p</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXVkaW9QbGF5ZXJUb3BGYXZvcml0ZS5zZXRPbkNsaWNrTGlzdGVuZXIodG9nZ2xlRmF2b3JpdGVMaXN0ZW5lcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga25vd2xlZGdlRmF2b3JpdGUuc2V0T25DbGlja0xpc3RlbmVyKHRvZ2dsZUZhdm9yaXRlTGlzdGVuZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXVkaW9QbGF5ZXJUb3BGYXZvcml0ZS5zZXRPbkNsaWNrTGlzdGVuZXIodG9nZ2xlRmF2b3JpdGVMaXN0ZW5lcikK</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
