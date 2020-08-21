@@ -179,12 +179,12 @@
         <mark key="]" line="34" column="26" />
         <mark key="." line="34" column="26" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597997913725">
-        <mark key="'" line="91" column="8" />
-        <mark key="[" line="88" column="46" />
-        <mark key="]" line="88" column="45" />
-        <mark key="." line="88" column="44" />
-        <mark key="^" line="88" column="45" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1597998441131">
+        <mark key="'" line="101" column="8" />
+        <mark key="[" line="80" column="34" />
+        <mark key="]" line="80" column="34" />
+        <mark key="^" line="80" column="36" />
+        <mark key="." line="80" column="34" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1597931205168">
         <mark key="[" line="86" column="60" />
@@ -306,14 +306,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGljb25SZXMgPSBpZihyZXBvc2l0b3J5LmZhdm9yaXRlSWRzLmNvbnRhaW5zKGl0LnJlZi5pZCkpIFIuZHJhd2FibGUuaWNfZmF2b3JpdGVfYWRkZWQgZWxzZSBSLmRyYXdhYmxlLmljX2Zhdm9yaXRlX2luYWN0aXZlCiAgICAgICAgICAgIGF1ZGlvUGxheWVyVG9wRmF2b3JpdGUuc2V0SW1hZ2VSZXNvdXJjZShpY29uUmVzKQogICAgICAgICAgICBrbm93bGVkZ2VGYXZvcml0ZS5zZXRJbWFnZVJlc291cmNlKGljb25SZXMpCiAgICAgICAgICAgIHZpZGVvUGxheWVyRmF2b3JpdGUuc2V0SW1hZ2VSZXNvdXJjZShpY29uUmVzKQ==</text>
+      <register name="&quot;" type="4">
+        <text>.setOnClickListener(highFiveListener)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>iwudioPlayerTopClap</text>
+        <text>.setOnClickListener(highFiveListener)</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
@@ -322,27 +322,27 @@
         <text encoding="base64">ICAgICAgICBhdWRpb1BsYXllclRvcENsYXAuc2V0T25DbGlja0xpc3RlbmVyKGhpZ2hGaXZlTGlzdGVuZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGljb25SZXMgPSBpZihyZXBvc2l0b3J5LmZhdm9yaXRlSWRzLmNvbnRhaW5zKGl0LnJlZi5pZCkpIFIuZHJhd2FibGUuaWNfZmF2b3JpdGVfYWRkZWQgZWxzZSBSLmRyYXdhYmxlLmljX2Zhdm9yaXRlX2luYWN0aXZlCiAgICAgICAgICAgIGF1ZGlvUGxheWVyVG9wRmF2b3JpdGUuc2V0SW1hZ2VSZXNvdXJjZShpY29uUmVzKQogICAgICAgICAgICBrbm93bGVkZ2VGYXZvcml0ZS5zZXRJbWFnZVJlc291cmNlKGljb25SZXMpCiAgICAgICAgICAgIHZpZGVvUGxheWVyRmF2b3JpdGUuc2V0SW1hZ2VSZXNvdXJjZShpY29uUmVzKQ==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVwb3NpdG9yeS5nZXRIaWdoZml2ZXMoaXQucmVmLmlkKS5vYnNlcnZlKExpZmVjeWNsZU93bmVyIHsgTGlmZWN5Y2xlIH0sIE9ic2VydmVyIHsgIH0pCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdmFsdWUgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGljb25SZXMgPSBpZihyZXBvc2l0b3J5LmZhdm9yaXRlSWRzLmNvbnRhaW5zKGl0LnJlZi5pZCkpIFIuZHJhd2FibGUuaWNfZmF2b3JpdGVfYWRkZWQgZWxzZSBSLmRyYXdhYmxlLmljX2Zhdm9yaXRlX2luYWN0aXZlCiAgICAgICAgICAgIGF1ZGlvUGxheWVyVG9wRmF2b3JpdGUuc2V0SW1hZ2VSZXNvdXJjZShpY29uUmVzKQogICAgICAgICAgICBrbm93bGVkZ2VGYXZvcml0ZS5zZXRJbWFnZVJlc291cmNlKGljb25SZXMpCiAgICAgICAgICAgIHZpZGVvUGxheWVyRmF2b3JpdGUuc2V0SW1hZ2VSZXNvdXJjZShpY29uUmVzKQ==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgdmFsdWUgPSAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25DcmVhdGVWaWV3KGluZmxhdGVyOiBMYXlvdXRJbmZsYXRlciwgY29udGFpbmVyOiBWaWV3R3JvdXA/LCBzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pOiBWaWV3PyB7CiAgICAgICAgcmV0dXJuIHN1cGVyLm9uQ3JlYXRlVmlldyhpbmZsYXRlciwgY29udGFpbmVyLCBzYXZlZEluc3RhbmNlU3RhdGUpCiAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>catch (e: Throwable) {
                                 e.printStackTrace()
                             }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6Y2lyY3VsYXI9IkB7dHJ1ZX0iCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6Y2lyY3VsYXI9IkB7dHJ1ZX0iCg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -351,7 +351,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6Y2lyY3VsYXI9IkB7dHJ1ZX0iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6Y2lyY3VsYXI9IkB7dHJ1ZX0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
