@@ -121,6 +121,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="29" column="42" />
       </file>
+      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerPreferencesController.kt" timestamp="1598009125539" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_audio_player.xml" timestamp="1598005604499">
         <mark key="[" line="55" column="33" />
         <mark key="]" line="73" column="25" />
@@ -143,17 +144,16 @@
         <mark key="]" line="33" column="5" />
         <mark key="." line="60" column="26" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/AORMotionLayout.kt" timestamp="1597999242528">
-        <mark key="[" line="36" column="62" />
-        <mark key="]" line="36" column="67" />
-        <mark key="^" line="36" column="67" />
-        <mark key="." line="36" column="66" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.10.4/6b5163095ad26fe9ab83115a80270acc9f2364de/exoplayer-ui-2.10.4-sources.jar!/com/google/android/exoplayer2/ui/PlayerView.java" timestamp="1598006556676" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598006207115">
         <mark key="[" line="113" column="98" />
         <mark key="]" line="113" column="132" />
         <mark key="." line="113" column="98" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1598009240173">
+        <mark key="[" line="91" column="67" />
+        <mark key="]" line="91" column="68" />
+        <mark key="." line="91" column="68" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/AndroidManifest.xml" timestamp="1598002816780">
         <mark key="[" line="21" column="47" />
@@ -161,9 +161,6 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1598006490455">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.kt" timestamp="1597996243196">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_video_player.xml" timestamp="1597999739268">
