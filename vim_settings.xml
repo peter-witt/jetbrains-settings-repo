@@ -160,7 +160,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598001810101">
+      <file name="/Dummy.txt" timestamp="1598002211605">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1597995945232">
@@ -183,20 +183,20 @@
         <mark key="." line="68" column="55" />
         <mark key="^" line="68" column="56" />
       </file>
-      <file name="$USER_HOME$/Makeable/android-views/EpoxyFragment/src/main/java/dk/makeable/epoxyfragment/EpoxyFragment.kt" timestamp="1597931541876">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="25" column="9" />
-        <mark key="." line="25" column="8" />
-        <mark key="^" line="25" column="9" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/android-views/1.0.6/1cf395282db0ffdf08ed30a490e1167998cd2408/android-views-1.0.6-sources.jar!/dk/makeable/epoxyfragment/EpoxyFragment.kt" timestamp="1597931535910">
-        <mark key="[" line="25" column="4" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/SplashActivity.kt" timestamp="1598002602018">
+        <mark key="[" line="16" column="8" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1598001481880">
         <mark key="'" line="125" column="8" />
         <mark key="[" line="101" column="70" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_splash.xml" timestamp="1598002564156">
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="31" column="32" />
+        <mark key="^" line="31" column="32" />
+        <mark key="." line="31" column="31" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/AORRepository.kt" timestamp="1597999668698">
         <mark key="[" line="72" column="55" />
@@ -314,13 +314,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5mcm9tSHRtbAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUsIHBlcnNpc3RlbnRTdGF0ZSkK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text>textColorHighlight</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
@@ -329,34 +329,34 @@
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iU0tVTERFUktMQVAiPiVkIHNrdWxkZXJrbGFwPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5mcm9tSHRtbAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUsIHBlcnNpc3RlbnRTdGF0ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTcGFubmFibGVTdHJpbmdCdWlsZGVyKGl0KS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNldFNwYW4oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBDdXN0b21UeXBlZmFjZVNwYW4oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiIsIFR5cGVmYWNlLmNyZWF0ZUZyb21Bc3NldChhc3NldHMsICJub3RvX3NhbnNfYm9sZC50dGYiKSwgMTYuZHApLCAwLCAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNwYW5uYWJsZS5TUEFOX0VYQ0xVU0lWRV9FWENMVVNJVkUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT0iIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5mcm9tSHRtbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgPG1ldGEtZGF0YQogICAgICAgICAgICBhbmRyb2lkOm5hbWU9InByZWxvYWRlZF9mb250cyIKICAgICAgICAgICAgYW5kcm9pZDpyZXNvdXJjZT0iQGFycmF5L3ByZWxvYWRlZF9mb250cyIKICAgICAgICAgICAgLz4=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTcGFubmFibGVTdHJpbmdCdWlsZGVyKGl0KS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNldFNwYW4oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBDdXN0b21UeXBlZmFjZVNwYW4oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiIsIFR5cGVmYWNlLmNyZWF0ZUZyb21Bc3NldChhc3NldHMsICJub3RvX3NhbnNfYm9sZC50dGYiKSwgMTYuZHApLCAwLCAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNwYW5uYWJsZS5TUEFOX0VYQ0xVU0lWRV9FWENMVVNJVkUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ3VzdG9tVHlwZWZhY2VTcGFuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoaGFzQmVlblJhdGVkKSBSLnN0cmluZy5TS1VMREVSS0xBUF9CT0xEIGVsc2Ug</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgPG1ldGEtZGF0YQogICAgICAgICAgICBhbmRyb2lkOm5hbWU9InByZWxvYWRlZF9mb250cyIKICAgICAgICAgICAgYW5kcm9pZDpyZXNvdXJjZT0iQGFycmF5L3ByZWxvYWRlZF9mb250cyIKICAgICAgICAgICAgLz4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iU0tVTERFUktMQVBfQk9MRCI+PGI+JWQ8L2I+IHNrdWxkZXJrbGFwPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ3VzdG9tVHlwZWZhY2VTcGFuKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChoYXNCZWVuUmF0ZWQpIFIuc3RyaW5nLlNLVUxERVJLTEFQX0JPTEQgZWxzZSBSLnN0cmluZy5TS1VMREVSS0xBUCwgaXQK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoaGFzQmVlblJhdGVkKSBSLnN0cmluZy5TS1VMREVSS0xBUF9CT0xEIGVsc2Ug</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iU0tVTERFUktMQVBfQk9MRCI+PGI+JWQ8L2I+IHNrdWxkZXJrbGFwPC9zdHJpbmc+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
