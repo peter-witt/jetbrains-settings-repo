@@ -118,6 +118,11 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/FragmentItem.kt" timestamp="1598265548024">
+        <mark key="[" line="141" column="76" />
+        <mark key="]" line="141" column="76" />
+        <mark key="." line="141" column="76" />
+      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/view/HaandbogWebView.kt" timestamp="1598263366123">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
@@ -141,7 +146,7 @@
         <mark key="]" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1598264663459">
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1598264684889">
         <mark key="[" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_knowledge.xml" timestamp="1598255250488">
@@ -149,11 +154,6 @@
         <mark key="]" line="58" column="44" />
         <mark key="^" line="58" column="44" />
         <mark key="." line="58" column="43" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/xml/activity_main_scene.xml" timestamp="1598013607206">
-        <mark key="[" line="265" column="56" />
-        <mark key="]" line="265" column="56" />
-        <mark key="." line="265" column="56" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598258321549">
         <mark key="[" line="280" column="13" />
@@ -171,9 +171,6 @@
         <mark key="]" line="44" column="53" />
         <mark key="." line="44" column="52" />
         <mark key="^" line="44" column="53" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1598014382151">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1598255611379">
         <mark key="[" line="74" column="32" />
@@ -326,13 +323,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>formattedData</text>
+        <text>SUGGEST_CHANGE_SENDTO_EMAIL</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>formattedData</text>
+        <text>SUGGEST_CHANGE_SENDTO_EMAIL</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
