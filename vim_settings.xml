@@ -118,6 +118,11 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/view/HaandbogWebView.kt" timestamp="1598261678742">
+        <mark key="[" line="93" column="95" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_collapsed_controls_audio_player.xml" timestamp="1598258021638">
         <mark key="[" line="66" column="44" />
         <mark key="]" line="68" column="36" />
@@ -186,11 +191,6 @@
         <mark key="]" line="39" column="8" />
         <mark key="." line="39" column="7" />
         <mark key="^" line="39" column="8" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/exo_player_control_view.xml" timestamp="1598010308270">
-        <mark key="[" line="109" column="12" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="109" column="32" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1598260106382">
         <mark key="[" line="135" column="42" />
@@ -319,13 +319,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YW5kcm9pZHguY29yZS53aWRnZXQuTmVzdGVkU2Nyb2xsVmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHN0eWxlPiAgPC9zdHlsZT4K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>.setImageResource(if (isPlaying) R.drawable.btn_pause else R.drawable.btn_play)</text>
+        <text>white-space: pre-line</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
@@ -338,34 +338,34 @@
                     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YW5kcm9pZHguY29yZS53aWRnZXQuTmVzdGVkU2Nyb2xsVmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHN0eWxlPiAgPC9zdHlsZT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L2FuZHJvaWR4LmNvcmUud2lkZ2V0Lk5lc3RlZFNjcm9sbFZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YW5kcm9pZHguY29yZS53aWRnZXQuTmVzdGVkU2Nyb2xsVmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YW5kcm9pZDpzZWxlY3RhYmxlSXRlbUJhY2tncm91bmQiCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2FuZHJvaWR4LmNvcmUud2lkZ2V0Lk5lc3RlZFNjcm9sbFZpZXc+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YW5kcm9pZDpzZWxlY3RhYmxlSXRlbUJhY2tncm91bmQiCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TWF4UHJvZ3Jlc3MoMC41ZikKICAgICAgICAgICAgICAgICAgICAgICAgcHJvZ3Jlc3MgPSAxZgogICAgICAgICAgICAgICAgICAgICAgICBzcGVlZCA9IC0xZgogICAgICAgICAgICAgICAgICAgICAgICBwbGF5QW5pbWF0aW9uKCk=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TWF4UHJvZ3Jlc3MoMC41ZikKICAgICAgICAgICAgICAgICAgICAgICAgcHJvZ3Jlc3MgPSAwZgogICAgICAgICAgICAgICAgICAgICAgICBzcGVlZCA9IDFmCiAgICAgICAgICAgICAgICAgICAgICAgIHBsYXlBbmltYXRpb24oKQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TWF4UHJvZ3Jlc3MoMC41ZikKICAgICAgICAgICAgICAgICAgICAgICAgcHJvZ3Jlc3MgPSAxZgogICAgICAgICAgICAgICAgICAgICAgICBzcGVlZCA9IC0xZgogICAgICAgICAgICAgICAgICAgICAgICBwbGF5QW5pbWF0aW9uKCk=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRNYXhQcm9ncmVzcygwLjVmKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TWF4UHJvZ3Jlc3MoMC41ZikKICAgICAgICAgICAgICAgICAgICAgICAgcHJvZ3Jlc3MgPSAwZgogICAgICAgICAgICAgICAgICAgICAgICBzcGVlZCA9IDFmCiAgICAgICAgICAgICAgICAgICAgICAgIHBsYXlBbmltYXRpb24oKQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdWRpb1BsYXllckJvdHRvbUNvbnRlbnRCdXR0b25QbGF5UGF1c2Uuc2V0SW1hZ2VSZXNvdXJjZShSLmRyYXdhYmxlLmJ0bl9wbGF5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRNYXhQcm9ncmVzcygwLjVmKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
