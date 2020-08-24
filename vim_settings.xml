@@ -118,12 +118,6 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1598255611379">
-        <mark key="[" line="74" column="32" />
-        <mark key="]" line="74" column="52" />
-        <mark key="^" line="45" column="52" />
-        <mark key="." line="74" column="32" />
-      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_collapsed_controls_video_player.xml" timestamp="1598258263092">
         <mark key="[" line="44" column="12" />
         <mark key="]" line="46" column="0" />
@@ -134,6 +128,12 @@
         <mark key="[" line="141" column="76" />
         <mark key="]" line="141" column="76" />
         <mark key="." line="141" column="76" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1598272001442">
+        <mark key="[" line="130" column="59" />
+        <mark key="]" line="130" column="59" />
+        <mark key="^" line="130" column="59" />
+        <mark key="." line="130" column="58" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_video_player.xml" timestamp="1598256686588">
         <mark key="[" line="59" column="0" />
@@ -159,19 +159,8 @@
         <mark key="." line="114" column="43" />
         <mark key="^" line="120" column="25" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598252270314">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1598264684889">
         <mark key="[" line="21" column="32" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_knowledge.xml" timestamp="1598255250488">
-        <mark key="[" line="57" column="51" />
-        <mark key="]" line="58" column="44" />
-        <mark key="^" line="58" column="44" />
-        <mark key="." line="58" column="43" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/bottom_sheet_dialog_fragment_footnote.xml" timestamp="1598260230798">
         <mark key="[" line="39" column="51" />
@@ -181,6 +170,9 @@
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1598260106382">
         <mark key="[" line="135" column="42" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/util/Bindginadapters.kt" timestamp="1598271728975">
+        <mark key="[" line="25" column="13" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598258321549">
         <mark key="[" line="280" column="13" />
@@ -211,6 +203,16 @@
         <mark key="]" line="78" column="92" />
         <mark key="^" line="78" column="92" />
         <mark key="." line="78" column="91" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/epoxy_model_theme_cell.xml" timestamp="1598271741990">
+        <mark key="[" line="52" column="31" />
+        <mark key="]" line="52" column="31" />
+        <mark key="." line="52" column="31" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_theme.xml" timestamp="1598271908270">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="23" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -321,14 +323,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>SUGGEST_CHANGE_SENDTO_EMAIL</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNsaXBUb1BhZGRpbmc9ImZhbHNlIgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>SUGGEST_CHANGE_SENDTO_EMAIL</text>
+        <text>fitEnd</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
@@ -341,34 +343,34 @@
                     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNsaXBUb1BhZGRpbmc9ImZhbHNlIgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgZm9ybWF0dGVkRGF0YSA9IGZvcm1hdHRlZERhdGE/LnJlcGxhY2UoIlxuIiwgIjxici8+IikKICAgICAgICBmb3JtYXR0ZWREYXRhID0gZm9ybWF0dGVkRGF0YT8ucmVwbGFjZSgKICAgICAgICAgICAgIig/PCFcXFwiKWh0dHBzPzpcXC9cXC8od3d3XFwuKT9bLWEtekEtWjAtOUA6JS5fXFwrfiM9XXsxLDI1Nn1cXC5bYS16QS1aMC05KCldezEsNn1cXGIoWy1hLXpBLVowLTkoKUA6JV9cXCsufiM/Ji8vPV0qKSg/IVxcXCIpIi50b1JlZ2V4KCksCiAgICAgICAgICAgIHsgIjxhIGhyZWZcIiR7aXQudmFsdWV9XCI+JHtpdC52YWx1ZX08L2E+IiB9KQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CiAgICAgICAgZm9ybWF0dGVkRGF0YSA9IGZvcm1hdHRlZERhdGE/LnJlcGxhY2UoIlxuIiwgIjxici8+IikKICAgICAgICBmb3JtYXR0ZWREYXRhID0gZm9ybWF0dGVkRGF0YT8ucmVwbGFjZSgKICAgICAgICAgICAgIig/PCFcXFwiKWh0dHBzPzpcXC9cXC8od3d3XFwuKT9bLWEtekEtWjAtOUA6JS5fXFwrfiM9XXsxLDI1Nn1cXC5bYS16QS1aMC05KCldezEsNn1cXGIoWy1hLXpBLVowLTkoKUA6JV9cXCsufiM/Ji8vPV0qKSg/IVxcXCIpIi50b1JlZ2V4KCksCiAgICAgICAgICAgIHsgIjxhIGhyZWZcIiR7aXQudmFsdWV9XCI+JHtpdC52YWx1ZX08L2E+IiB9KQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHN0eWxlPiAgPC9zdHlsZT4K</text>
+        <text encoding="base64">CiAgICAgICAgZm9ybWF0dGVkRGF0YSA9IGZvcm1hdHRlZERhdGE/LnJlcGxhY2UoIlxuIiwgIjxici8+IikKICAgICAgICBmb3JtYXR0ZWREYXRhID0gZm9ybWF0dGVkRGF0YT8ucmVwbGFjZSgKICAgICAgICAgICAgIig/PCFcXFwiKWh0dHBzPzpcXC9cXC8od3d3XFwuKT9bLWEtekEtWjAtOUA6JS5fXFwrfiM9XXsxLDI1Nn1cXC5bYS16QS1aMC05KCldezEsNn1cXGIoWy1hLXpBLVowLTkoKUA6JV9cXCsufiM/Ji8vPV0qKSg/IVxcXCIpIi50b1JlZ2V4KCksCiAgICAgICAgICAgIHsgIjxhIGhyZWZcIiR7aXQudmFsdWV9XCI+JHtpdC52YWx1ZX08L2E+IiB9KQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8YW5kcm9pZHguY29yZS53aWRnZXQuTmVzdGVkU2Nyb2xsVmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHN0eWxlPiAgPC9zdHlsZT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2FuZHJvaWR4LmNvcmUud2lkZ2V0Lk5lc3RlZFNjcm9sbFZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YW5kcm9pZHguY29yZS53aWRnZXQuTmVzdGVkU2Nyb2xsVmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgPgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YW5kcm9pZDpzZWxlY3RhYmxlSXRlbUJhY2tncm91bmQiCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2FuZHJvaWR4LmNvcmUud2lkZ2V0Lk5lc3RlZFNjcm9sbFZpZXc+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YW5kcm9pZDpzZWxlY3RhYmxlSXRlbUJhY2tncm91bmQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
