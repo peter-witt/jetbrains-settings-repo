@@ -112,23 +112,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1598343521537">
-        <mark key="[" line="150" column="79" />
-        <mark key="]" line="150" column="79" />
-        <mark key="^" line="150" column="79" />
-        <mark key="." line="150" column="78" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1598346048427">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598345000306">
+        <mark key="[" line="1" column="50" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/strings.xml" timestamp="1598344021244" />
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/drawable/ic_aor_logo.xml" timestamp="1598343782518">
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/drawable/ic_aor_logo.xml" timestamp="1598344509064">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/WebViewFragment.kt" timestamp="1598277997217">
-        <mark key="[" line="23" column="51" />
-        <mark key="]" line="19" column="124" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/WebViewFragment.kt" timestamp="1598346196400">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
         <mark key="^" line="19" column="124" />
-        <mark key="." line="19" column="123" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/util/Bindginadapters.kt" timestamp="1598278121746">
         <mark key="[" line="48" column="25" />
@@ -142,61 +144,53 @@
         <mark key="." line="378" column="44" />
         <mark key="^" line="378" column="45" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_web_view.xml" timestamp="1598277987715">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="12" column="64" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1598347647279">
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="107" column="66" />
+        <mark key="^" line="107" column="66" />
+        <mark key="." line="107" column="65" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemesFragment.kt" timestamp="1598343368145">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="71" column="8" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemesFragment.kt" timestamp="1598345546419">
+        <mark key="[" line="75" column="16" />
+        <mark key="]" line="75" column="46" />
+        <mark key="^" line="75" column="46" />
+        <mark key="." line="75" column="45" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/MoreFragment.kt" timestamp="1598343440931">
-        <mark key="[" line="67" column="48" />
-        <mark key="]" line="67" column="49" />
-        <mark key="^" line="67" column="49" />
-        <mark key="." line="67" column="48" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/MoreFragment.kt" timestamp="1598345457491">
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="16" />
+        <mark key="^" line="68" column="49" />
+        <mark key="." line="68" column="16" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/epoxy_model_theme_cell.xml" timestamp="1598273539377">
-        <mark key="[" line="49" column="34" />
-        <mark key="]" line="49" column="34" />
-        <mark key="." line="49" column="34" />
-        <mark key="^" line="50" column="41" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_theme.xml" timestamp="1598343536465">
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="43" column="38" />
-        <mark key="^" line="43" column="38" />
-        <mark key="." line="43" column="37" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_theme.xml" timestamp="1598345935336">
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_more.xml" timestamp="1598343170779">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598274969874">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1598345451619">
+        <mark key="'" line="26" column="108" />
+        <mark key="[" line="97" column="16" />
+        <mark key="]" line="97" column="27" />
+        <mark key="^" line="97" column="27" />
+        <mark key="." line="97" column="26" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1598343132703">
-        <mark key="'" line="25" column="108" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="99" column="10" />
-        <mark key="^" line="97" column="18" />
-        <mark key="." line="97" column="16" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" timestamp="1598345791903">
+        <mark key="[" line="4" column="57" />
+        <mark key="]" line="4" column="57" />
+        <mark key="." line="4" column="56" />
+        <mark key="^" line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_bottom_content_video_player.xml" timestamp="1598277488267">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="58" column="43" />
-        <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/drawable/gradient.xml" timestamp="1598274998009">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="4" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/drawable/ic_music_player_small_icon.xml" timestamp="1598344509914" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/SplashActivity.kt" timestamp="1598346752089">
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="22" column="34" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1598342842200">
         <mark key="'" line="143" column="8" />
@@ -205,9 +199,12 @@
         <mark key="." line="120" column="38" />
         <mark key="^" line="120" column="39" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_splash.xml" timestamp="1598343754459">
-        <mark key="[" line="13" column="41" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_splash.xml" timestamp="1598345125634">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/colors.xml" timestamp="1598344432769" />
     </filemarks>
     <jumps>
       <jump line="171" column="12" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
@@ -317,53 +314,50 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>344dp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>344dp</text>
+        <text>NetworkAwareActivity</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJDb250cm9sbGVyLmN1cnJlbnRDb250ZW50Lm9ic2VydmUodmlld0xpZmVjeWNsZU93bmVyLCBPYnNlcnZlciB7CiAgICAgICAgICAgIGVwb3h5UmVjeWNsZXIuc2V0UGFkZGluZygKICAgICAgICAgICAgICAgIDAsIDAsIDAsCiAgICAgICAgICAgICAgICBpZiAoaXQgPT0gbnVsbCkgMCBlbHNlIHJlc291cmNlcy5nZXREaW1lbnNpb24oUi5kaW1lbi5QTEFZRVJfUEVFS19IRUlHSFQpLnRvSW50KCkKICAgICAgICAgICAgKQogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIDxjb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWwudGV4dHZpZXcuTWF0ZXJpYWxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYXBwTmFtZSIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iOGRwIgogICAgICAgIGFuZHJvaWQ6Zm9udEZhbWlseT0iQGZvbnQvbm90b19zYW5zX2JvbGQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2FwcF9uYW1lIgogICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSI/Y29sb3JPblByaW1hcnkiCiAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMjhzcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvYXBwTG9nbyIKICAgICAgICAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNOS42MzEsMzI4Ljk1OUwxMi42ODcsMzE4LjkyNEwyOC4wNTUsMzE4LjkyNEwzMS4xMTIsMzI4Ljk1OUw0MC43NDIsMzI4Ljk1OUwyNi4yNjgsMjg4LjA0M0MyNy4xNzEsMjg2LjkwOSAyNy42MjMsMjg1LjQ4NyAyNy42MjMsMjgzLjc3NkMyNy42MjMsMjgxLjczOCAyNi45MzEsMjgwLjEgMjUuNTQ3LDI3OC44NkMyNC4xNjMsMjc3LjYyIDIyLjQyMywyNzcgMjAuMzI4LDI3N0MxOC4xNTYsMjc3IDE2LjQyMSwyNzcuNjIgMTUuMTIzLDI3OC44NkMxMy44MjYsMjgwLjEgMTMuMTc3LDI4MS43NTggMTMuMTc3LDI4My44MzRDMTMuMTc3LDI4NS41MjUgMTMuNTksMjg2LjkyOCAxNC40MTcsMjg4LjA0M0wxNC40MTcsMjg4LjA0M0wtMCwzMjguOTU5TDkuNjMxLDMyOC45NTlaTTIwLjMyOCwyODYuNjMxQzE4LjQ2MywyODYuNTU0IDE3LjUzMSwyODUuNjIxIDE3LjUzMSwyODMuODM0QzE3LjUzMSwyODIuOTY5IDE3Ljc5NSwyODIuMjkxIDE4LjMyNCwyODEuODAxQzE4Ljg1MywyODEuMzExIDE5LjUyMSwyODEuMDY2IDIwLjMyOCwyODEuMDY2QzIxLjEzNSwyODEuMDY2IDIxLjc5OCwyODEuMzExIDIyLjMxNywyODEuODAxQzIyLjgzNiwyODIuMjkxIDIzLjA5NiwyODIuOTY5IDIzLjA5NiwyODMuODM0QzIzLjA5NiwyODQuNjk5IDIyLjgzNiwyODUuMzgxIDIyLjMxNywyODUuODgxQzIxLjc5OCwyODYuMzgxIDIxLjEzNSwyODYuNjMxIDIwLjMyOCwyODYuNjMxWk0yNS45MjIsMzExLjQyOEwxNC45MzYsMzExLjQyOEMxNy45MzUsMzAxLjcyIDE5Ljc1MSwyOTUuNjM2IDIwLjM4NiwyOTMuMTc2QzIwLjUzOSwyOTMuODY4IDIwLjc5NCwyOTQuODEgMjEuMTUsMjk2LjAwMkMyMS41MDUsMjk3LjE5MyAyMy4wOTYsMzAyLjMzNSAyNS45MjIsMzExLjQyOEwyNS45MjIsMzExLjQyOFpNNjEuNjM1LDMyOS41MzVDNjUuNDYxLDMyOS41MzUgNjguNDg0LDMyOC4wNzQgNzAuNzA0LDMyNS4xNTNDNzIuOTI0LDMyMi4yMzEgNzQuMDM0LDMxOC4xMDcgNzQuMDM0LDMxMi43ODNDNzQuMDM0LDMwNy42MTIgNzIuOTU4LDMwMy41NDIgNzAuODA1LDMwMC41NzJDNjguNjUyLDI5Ny42MDIgNjUuNjcyLDI5Ni4xMTcgNjEuODY2LDI5Ni4xMTdDNTcuODI5LDI5Ni4xMTcgNTQuNzgzLDI5Ny43MTIgNTIuNzI2LDMwMC45MDNMNTIuNzI2LDMwMC45MDNMNTIuMzgsMzAwLjkwM0M1Mi42MSwyOTcuOTgxIDUyLjcyNiwyOTUuODU3IDUyLjcyNiwyOTQuNTMxTDUyLjcyNiwyOTQuNTMxTDUyLjcyNiwyODQuMDkzTDQzLjkzMSwyODQuMDkzTDQzLjkzMSwzMjguOTU5TDUwLjY1LDMyOC45NTlMNTIuMTIsMzI1LjQxMkw1Mi43MjYsMzI1LjQxMkM1NC44NzksMzI4LjE2MSA1Ny44NDksMzI5LjUzNSA2MS42MzUsMzI5LjUzNVpNNTkuMTU2LDMyMi40MTNDNTYuOTI2LDMyMi40MTMgNTUuMjk3LDMyMS42NjQgNTQuMjY4LDMyMC4xNjRDNTMuMjQsMzE4LjY2NSA1Mi43MjYsMzE2LjE4NSA1Mi43MjYsMzEyLjcyNUw1Mi43MjYsMzEyLjcyNUw1Mi43MjYsMzExLjc3NEM1Mi43NjQsMzA4LjY5OCA1My4yODMsMzA2LjQ5MiA1NC4yODMsMzA1LjE1NkM1NS4yODIsMzAzLjgyIDU2Ljg2OCwzMDMuMTUyIDU5LjA0LDMwMy4xNTJDNjAuOTA1LDMwMy4xNTIgNjIuMzc2LDMwMy45NDUgNjMuNDUyLDMwNS41MzFDNjQuNTI4LDMwNy4xMTcgNjUuMDY3LDMwOS40OTYgNjUuMDY3LDMxMi42NjhDNjUuMDY3LDMxNS44MzkgNjQuNTMzLDMxOC4yNTYgNjMuNDY2LDMxOS45MTlDNjIuNCwzMjEuNTgyIDYwLjk2MywzMjIuNDEzIDU5LjE1NiwzMjIuNDEzWk05NC40NjYsMzI5LjUzNUM5Ni45ODQsMzI5LjUzNSA5OS4xMTgsMzI5LjM0OCAxMDAuODY3LDMyOC45NzNDMTAyLjYxNiwzMjguNTk4IDEwNC4yNiwzMjguMDI2IDEwNS43OTgsMzI3LjI1N0wxMDUuNzk4LDMyNy4yNTdMMTA1Ljc5OCwzMjAuNDUzQzEwMy45MTQsMzIxLjMzNyAxMDIuMTA3LDMyMS45ODEgMTAwLjM3NywzMjIuMzg1Qzk4LjY0NywzMjIuNzg4IDk2LjgxMSwzMjIuOTkgOTQuODcsMzIyLjk5QzkyLjM3MSwzMjIuOTkgOTAuNDI5LDMyMi4yODggODkuMDQ1LDMyMC44ODVDODcuNjYxLDMxOS40ODIgODYuOTIxLDMxNy41MzEgODYuODI1LDMxNS4wMzJMODYuODI1LDMxNS4wMzJMMTA3LjYxNCwzMTUuMDMyTDEwNy42MTQsMzEwLjc2NEMxMDcuNjE0LDMwNi4xODkgMTA2LjM0NSwzMDIuNjA0IDEwMy44MDgsMzAwLjAwOUMxMDEuMjcxLDI5Ny40MTQgOTcuNzI0LDI5Ni4xMTcgOTMuMTY4LDI5Ni4xMTdDODguNDAxLDI5Ni4xMTcgODQuNjY3LDI5Ny41OTIgODEuOTY2LDMwMC41NDNDNzkuMjY2LDMwMy40OTQgNzcuOTE1LDMwNy42NyA3Ny45MTUsMzEzLjA3MUM3Ny45MTUsMzE4LjMxOSA3OS4zNzYsMzIyLjM3NSA4Mi4yOTgsMzI1LjIzOUM4NS4yMiwzMjguMTAzIDg5LjI3NiwzMjkuNTM1IDk0LjQ2NiwzMjkuNTM1Wk05OS4zNjgsMzA5LjE3OUw4Ny4wMjcsMzA5LjE3OUM4Ny4xODEsMzA3LjAwNiA4Ny43ODYsMzA1LjMyOSA4OC44NDMsMzA0LjE0N0M4OS45MDEsMzAyLjk2NSA5MS4zNjEsMzAyLjM3NCA5My4yMjYsMzAyLjM3NEM5NS4wOTEsMzAyLjM3NCA5Ni41NzEsMzAyLjk2NSA5Ny42NjYsMzA0LjE0N0M5OC43NjIsMzA1LjMyOSA5OS4zMjksMzA3LjAwNiA5OS4zNjgsMzA5LjE3OUw5OS4zNjgsMzA5LjE3OVpNMTIyLjEzNSwzMjguOTU5TDEyMi4xMzUsMzEzLjc5MkMxMjIuMTM1LDMwOS45ODYgMTIyLjY4MywzMDcuMjYxIDEyMy43NzksMzA1LjYxOEMxMjQuODc0LDMwMy45NzQgMTI2LjY1MiwzMDMuMTUyIDEyOS4xMTMsMzAzLjE1MkMxMzAuOTIsMzAzLjE1MiAxMzIuMjM3LDMwMy43MzQgMTMzLjA2MywzMDQuODk3QzEzMy44OSwzMDYuMDYgMTM0LjMwMywzMDcuODA0IDEzNC4zMDMsMzEwLjEzTDEzNC4zMDMsMzEwLjEzTDEzNC4zMDMsMzI4Ljk1OUwxNDMuMDk3LDMyOC45NTlMMTQzLjA5NywzMDcuOTM5QzE0My4wOTcsMzA0LjExMyAxNDIuMTI3LDMwMS4xODcgMTQwLjE4NSwyOTkuMTU5QzEzOC4yNDQsMjk3LjEzMSAxMzUuMzk5LDI5Ni4xMTcgMTMxLjY1LDI5Ni4xMTdDMTI5LjQ1OSwyOTYuMTE3IDEyNy41MDMsMjk2LjUxNiAxMjUuNzgzLDI5Ny4zMTNDMTI0LjA2MiwyOTguMTExIDEyMi43MTIsMjk5LjI4OSAxMjEuNzMxLDMwMC44NDZMMTIxLjczMSwzMDAuODQ2TDEyMS4yNDEsMzAwLjg0NkwxMjAuMDU5LDI5Ni43MjJMMTEzLjM0MSwyOTYuNzIyTDExMy4zNDEsMzI4Ljk1OUwxMjIuMTM1LDMyOC45NTlaTTE3OC4yMjMsMzI5LjUzNUMxODMuMTYzLDMyOS41MzUgMTg3LjAxOCwzMjguMDU1IDE4OS43ODYsMzI1LjA5NUMxOTIuNTU0LDMyMi4xMzUgMTkzLjkzOCwzMTguMDMxIDE5My45MzgsMzEyLjc4M0MxOTMuOTM4LDMwOS40IDE5My4zMDMsMzA2LjQ0OSAxOTIuMDM1LDMwMy45MzFDMTkwLjc2NiwzMDEuNDEzIDE4OC45NDksMjk5LjQ4MSAxODYuNTg1LDI5OC4xMzVDMTg0LjIyMSwyOTYuNzkgMTgxLjQ5MSwyOTYuMTE3IDE3OC4zOTYsMjk2LjExN0MxNzMuNDE4LDI5Ni4xMTcgMTY5LjU1NCwyOTcuNTc4IDE2Ni44MDUsMzAwLjVDMTY0LjA1NiwzMDMuNDIxIDE2Mi42ODIsMzA3LjUxNiAxNjIuNjgyLDMxMi43ODNDMTYyLjY4MiwzMTYuMTY2IDE2My4zMTYsMzE5LjEyNiAxNjQuNTg1LDMyMS42NjRDMTY1Ljg1MywzMjQuMjAxIDE2Ny42NywzMjYuMTQ3IDE3MC4wMzQsMzI3LjUwM0MxNzIuMzk5LDMyOC44NTggMTc1LjEyOCwzMjkuNTM1IDE3OC4yMjMsMzI5LjUzNVpNMTc4LjMzOSwzMjIuNDcxQzE3NS45NzQsMzIyLjQ3MSAxNzQuMjY4LDMyMS42NTQgMTczLjIyMSwzMjAuMDJDMTcyLjE3MywzMTguMzg2IDE3MS42NDksMzE1Ljk3NCAxNzEuNjQ5LDMxMi43ODNDMTcxLjY0OSwzMDkuNTczIDE3Mi4xNjgsMzA3LjE3NSAxNzMuMjA2LDMwNS41ODlDMTc0LjI0NCwzMDQuMDAzIDE3NS45MzYsMzAzLjIxIDE3OC4yODEsMzAzLjIxQzE4MC42NDUsMzAzLjIxIDE4Mi4zNDYsMzA0LjAwOCAxODMuMzg0LDMwNS42MDNDMTg0LjQyMiwzMDcuMTk5IDE4NC45NDEsMzA5LjU5MiAxODQuOTQxLDMxMi43ODNDMTg0Ljk0MSwzMTUuOTkzIDE4NC40MjcsMzE4LjQxIDE4My4zOTksMzIwLjAzNUMxODIuMzcsMzIxLjY1OSAxODAuNjg0LDMyMi40NzEgMTc4LjMzOSwzMjIuNDcxWk0yMTEuODMyLDM0My4xNDVDMjE3LjE3NiwzNDMuMTQ1IDIyMS4xOTgsMzQxLjk0OCAyMjMuODk5LDMzOS41NTVDMjI2LjYsMzM3LjE2MiAyMjcuOTUsMzMzLjY0OSAyMjcuOTUsMzI5LjAxNkwyMjcuOTUsMzI5LjAxNkwyMjcuOTUsMjk2LjcyMkwyMjAuNTExLDI5Ni43MjJMMjE5Ljc5LDMwMC44NDZMMjE5LjU2LDMwMC44NDZDMjE3LjI5MSwyOTcuNjkzIDIxNC4xNzcsMjk2LjExNyAyMTAuMjE3LDI5Ni4xMTdDMjA2LjM1NCwyOTYuMTE3IDIwMy4zMjEsMjk3LjU5MiAyMDEuMTIsMzAwLjU0M0MxOTguOTE5LDMwMy40OTQgMTk3LjgxOSwzMDcuNjEyIDE5Ny44MTksMzEyLjg5OEMxOTcuODE5LDMxOC4wMzEgMTk4Ljg4MSwzMjIuMDg3IDIwMS4wMDUsMzI1LjA2NkMyMDMuMTI5LDMyOC4wNDYgMjA2LjEyMywzMjkuNTM1IDIwOS45ODcsMzI5LjUzNUMyMTQuMDI0LDMyOS41MzUgMjE3LjA3LDMyNy45NDkgMjE5LjEyNywzMjQuNzc4TDIxOS4xMjcsMzI0Ljc3OEwyMTkuMzg3LDMyNC43NzhMMjE5LjEyNywzMjguNzI4TDIxOS4xMjcsMzI5LjM2MkMyMTkuMTI3LDMzNC4yNDUgMjE2Ljg2OCwzMzYuNjg2IDIxMi4zNTEsMzM2LjY4NkMyMDcuODcyLDMzNi42ODYgMjAzLjY4MiwzMzUuODYgMTk5Ljc4LDMzNC4yMDZMMTk5Ljc4LDMzNC4yMDZMMTk5Ljc4LDM0MS4yNDJDMjAzLjEwNSwzNDIuNTExIDIwNy4xMjMsMzQzLjE0NSAyMTEuODMyLDM0My4xNDVaTTIxMy4xMywzMjIuNjQ0QzIxMC45NTgsMzIyLjY0NCAyMDkuMzU3LDMyMS44NDYgMjA4LjMyOSwzMjAuMjUxQzIwNy4zLDMxOC42NTUgMjA2Ljc4NiwzMTYuMjQzIDIwNi43ODYsMzEzLjAxNEMyMDYuNzg2LDMwNi41MTYgMjA4Ljg1MywzMDMuMjY4IDIxMi45ODYsMzAzLjI2OEMyMTUuMzUsMzAzLjI2OCAyMTcuMDY1LDMwNC4wMjIgMjE4LjEzMiwzMDUuNTMxQzIxOS4xOTksMzA3LjA0IDIxOS43MzMsMzA5LjUxNSAyMTkuNzMzLDMxMi45NTZMMjE5LjczMywzMTIuOTU2TDIxOS43MzMsMzE0LjAyM0MyMTkuNzMzLDMxNy4wNiAyMTkuMjIzLDMxOS4yNTYgMjE4LjIwNCwzMjAuNjExQzIxNy4xODYsMzIxLjk2NiAyMTUuNDk0LDMyMi42NDQgMjEzLjEzLDMyMi42NDRaTTI1OS4yNywzMjguOTU5TDI1OS4yNywzMTIuNzgzTDI2NC4wMjgsMzEyLjc4M0wyNzQuMDkxLDMyOC45NTlMMjg0LjAwOSwzMjguOTU5TDI3MS42MTEsMzEwLjU5MUMyNzQuMTEsMzA5LjQ5NiAyNzYuMDQyLDMwNy45ODIgMjc3LjQwNywzMDYuMDVDMjc4Ljc3MSwzMDQuMTE4IDI3OS40NTQsMzAxLjkxMiAyNzkuNDU0LDI5OS40MzNDMjc5LjQ1NCwyOTUuMTg1IDI3OC4wNzksMjkyLjAxOCAyNzUuMzMxLDI4OS45MzJDMjcyLjU4MiwyODcuODQ2IDI2OC4zNDMsMjg2LjgwNCAyNjIuNjE1LDI4Ni44MDRMMjYyLjYxNSwyODYuODA0TDI1MC4zMzIsMjg2LjgwNEwyNTAuMzMyLDMyOC45NTlMMjU5LjI3LDMyOC45NTlaTTI2Mi4xNTMsMzA1LjUxN0wyNTkuMjcsMzA1LjUxN0wyNTkuMjcsMjk0LjEyN0wyNjEuOTgsMjk0LjEyN0MyNjQuODY0LDI5NC4xMjcgMjY2Ljk5MywyOTQuNTUgMjY4LjM2NywyOTUuMzk2QzI2OS43NDIsMjk2LjI0MiAyNzAuNDI5LDI5Ny42NjQgMjcwLjQyOSwyOTkuNjYzQzI3MC40MjksMzAxLjY4MiAyNjkuNzU2LDMwMy4xNjIgMjY4LjQxLDMwNC4xMDRDMjY3LjA2NSwzMDUuMDQ2IDI2NC45NzksMzA1LjUxNyAyNjIuMTUzLDMwNS41MTdMMjYyLjE1MywzMDUuNTE3Wk0zMDAuNzc5LDMyOS41MzVDMzA1LjcyLDMyOS41MzUgMzA5LjU3NCwzMjguMDU1IDMxMi4zNDIsMzI1LjA5NUMzMTUuMTEsMzIyLjEzNSAzMTYuNDk0LDMxOC4wMzEgMzE2LjQ5NCwzMTIuNzgzQzMxNi40OTQsMzA5LjQgMzE1Ljg2LDMwNi40NDkgMzE0LjU5MSwzMDMuOTMxQzMxMy4zMjIsMzAxLjQxMyAzMTEuNTA2LDI5OS40ODEgMzA5LjE0MSwyOTguMTM1QzMwNi43NzcsMjk2Ljc5IDMwNC4wNDcsMjk2LjExNyAzMDAuOTUyLDI5Ni4xMTdDMjk1Ljk3NCwyOTYuMTE3IDI5Mi4xMSwyOTcuNTc4IDI4OS4zNjEsMzAwLjVDMjg2LjYxMiwzMDMuNDIxIDI4NS4yMzgsMzA3LjUxNiAyODUuMjM4LDMxMi43ODNDMjg1LjIzOCwzMTYuMTY2IDI4NS44NzIsMzE5LjEyNiAyODcuMTQxLDMyMS42NjRDMjg4LjQxLDMyNC4yMDEgMjkwLjIyNiwzMjYuMTQ3IDI5Mi41OTEsMzI3LjUwM0MyOTQuOTU1LDMyOC44NTggMjk3LjY4NSwzMjkuNTM1IDMwMC43NzksMzI5LjUzNVpNMzAwLjg5NSwzMjIuNDcxQzI5OC41MywzMjIuNDcxIDI5Ni44MjQsMzIxLjY1NCAyOTUuNzc3LDMyMC4wMkMyOTQuNzI5LDMxOC4zODYgMjk0LjIwNSwzMTUuOTc0IDI5NC4yMDUsMzEyLjc4M0MyOTQuMjA1LDMwOS41NzMgMjk0LjcyNCwzMDcuMTc1IDI5NS43NjIsMzA1LjU4OUMyOTYuOCwzMDQuMDAzIDI5OC40OTIsMzAzLjIxIDMwMC44MzcsMzAzLjIxQzMwMy4yMDIsMzAzLjIxIDMwNC45MDMsMzA0LjAwOCAzMDUuOTQxLDMwNS42MDNDMzA2Ljk3OSwzMDcuMTk5IDMwNy40OTgsMzA5LjU5MiAzMDcuNDk4LDMxMi43ODNDMzA3LjQ5OCwzMTUuOTkzIDMwNi45ODQsMzE4LjQxIDMwNS45NTUsMzIwLjAzNUMzMDQuOTI3LDMyMS42NTkgMzAzLjI0LDMyMi40NzEgMzAwLjg5NSwzMjIuNDcxWk0zMzEuMTMsMzI4Ljk1OUwzMzEuMTMsMjg0LjA5M0wzMjIuMzM2LDI4NC4wOTNMMzIyLjMzNiwzMjguOTU5TDMzMS4xMywzMjguOTU5Wk0zNDMuMzQ0LDI5Mi43MTRDMzQ0Ljk0LDI5Mi43MTQgMzQ2LjEzNywyOTIuMzM1IDM0Ni45MzQsMjkxLjU3NkMzNDcuNzMyLDI5MC44MTYgMzQ4LjEzMSwyODkuNzU0IDM0OC4xMzEsMjg4LjM4OUMzNDguMTMxLDI4NS41MjUgMzQ2LjUzNSwyODQuMDkzIDM0My4zNDQsMjg0LjA5M0MzNDAuMTU0LDI4NC4wOTMgMzM4LjU1OCwyODUuNTI1IDMzOC41NTgsMjg4LjM4OUMzMzguNTU4LDI5MS4yNzMgMzQwLjE1NCwyOTIuNzE0IDM0My4zNDQsMjkyLjcxNFpNMzQ3LjcyNywzMjguOTU5TDM0Ny43MjcsMjk2LjcyMkwzMzguOTMzLDI5Ni43MjJMMzM4LjkzMywzMjguOTU5TDM0Ny43MjcsMzI4Ljk1OVpNMzY3LjU4MiwzNDMuMTQ1QzM3Mi45MjYsMzQzLjE0NSAzNzYuOTQ5LDM0MS45NDggMzc5LjY0OSwzMzkuNTU1QzM4Mi4zNSwzMzcuMTYyIDM4My43MDEsMzMzLjY0OSAzODMuNzAxLDMyOS4wMTZMMzgzLjcwMSwzMjkuMDE2TDM4My43MDEsMjk2LjcyMkwzNzYuMjYxLDI5Ni43MjJMMzc1LjU0MSwzMDAuODQ2TDM3NS4zMSwzMDAuODQ2QzM3My4wNDIsMjk3LjY5MyAzNjkuOTI4LDI5Ni4xMTcgMzY1Ljk2OCwyOTYuMTE3QzM2Mi4xMDQsMjk2LjExNyAzNTkuMDcyLDI5Ny41OTIgMzU2Ljg3MSwzMDAuNTQzQzM1NC42NywzMDMuNDk0IDM1My41NjksMzA3LjYxMiAzNTMuNTY5LDMxMi44OThDMzUzLjU2OSwzMTguMDMxIDM1NC42MzEsMzIyLjA4NyAzNTYuNzU1LDMyNS4wNjZDMzU4Ljg3OSwzMjguMDQ2IDM2MS44NzMsMzI5LjUzNSAzNjUuNzM3LDMyOS41MzVDMzY5Ljc3NCwzMjkuNTM1IDM3Mi44MjEsMzI3Ljk0OSAzNzQuODc3LDMyNC43NzhMMzc0Ljg3NywzMjQuNzc4TDM3NS4xMzcsMzI0Ljc3OEwzNzQuODc3LDMyOC43MjhMMzc0Ljg3NywzMjkuMzYyQzM3NC44NzcsMzM0LjI0NSAzNzIuNjE5LDMzNi42ODYgMzY4LjEwMSwzMzYuNjg2QzM2My42MjMsMzM2LjY4NiAzNTkuNDMyLDMzNS44NiAzNTUuNTMsMzM0LjIwNkwzNTUuNTMsMzM0LjIwNkwzNTUuNTMsMzQxLjI0MkMzNTguODU1LDM0Mi41MTEgMzYyLjg3MywzNDMuMTQ1IDM2Ny41ODIsMzQzLjE0NVpNMzY4Ljg4LDMyMi42NDRDMzY2LjcwOCwzMjIuNjQ0IDM2NS4xMDgsMzIxLjg0NiAzNjQuMDc5LDMyMC4yNTFDMzYzLjA1MSwzMTguNjU1IDM2Mi41MzYsMzE2LjI0MyAzNjIuNTM2LDMxMy4wMTRDMzYyLjUzNiwzMDYuNTE2IDM2NC42MDMsMzAzLjI2OCAzNjguNzM2LDMwMy4yNjhDMzcxLjEsMzAzLjI2OCAzNzIuODE2LDMwNC4wMjIgMzczLjg4MywzMDUuNTMxQzM3NC45NDksMzA3LjA0IDM3NS40ODMsMzA5LjUxNSAzNzUuNDgzLDMxMi45NTZMMzc1LjQ4MywzMTIuOTU2TDM3NS40ODMsMzE0LjAyM0MzNzUuNDgzLDMxNy4wNiAzNzQuOTc0LDMxOS4yNTYgMzczLjk1NSwzMjAuNjExQzM3Mi45MzYsMzIxLjk2NiAzNzEuMjQ0LDMyMi42NDQgMzY4Ljg4LDMyMi42NDRaIgogICAgICBhbmRyb2lkOnN0cm9rZVdpZHRoPSIxIgogICAgICBhbmRyb2lkOmZpbGxDb2xvcj0iI0ZGRkZGRiIKICAgICAgYW5kcm9pZDpmaWxsVHlwZT0ibm9uWmVybyIKICAgICAgYW5kcm9pZDpzdHJva2VDb2xvcj0iIzAwMDAwMDAwIi8+</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>epoxyRecycler.setPadding(
-                0, 0, 0,
-                if (it == null) 0 else resources.getDimension(R.dimen.PLAYER_PEEK_HEIGHT).toInt()
-            )</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209InBlZWsiCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGlmZWN5Y2xlU2NvcGUubGF1bmNoIHsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZFVybD0iQHt1cmx9Igo=</text>
+        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LndlYlZpZXdDbGllbnQgPSBXZWJWaWV3Q2xpZW50KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgPHZhcmlhYmxlCiAgICAgICAgICAgIG5hbWU9InVybCIKICAgICAgICAgICAgdHlwZT0iU3RyaW5nIgogICAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dFNjcm9sbFZpZXcudXBkYXRlUGFkZGluZygKICAgICAgICAgICAgICAgIGJvdHRvbSA9IGlmKGl0ID09IG51bGwpIDE1MC5kcCAKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3Bhbm5hYmxlU3RyaW5nQnVpbGRlcihpdCkuYXBwbHkgewo=</text>
+        <text encoding="base64">ICAgIDwvU2Nyb2xsVmlldz4K</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
