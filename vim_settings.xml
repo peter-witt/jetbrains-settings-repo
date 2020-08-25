@@ -112,6 +112,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_more.xml" timestamp="1598343170779">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1598345451619">
+        <mark key="'" line="26" column="108" />
+        <mark key="[" line="97" column="16" />
+        <mark key="]" line="97" column="27" />
+        <mark key="^" line="97" column="27" />
+        <mark key="." line="97" column="26" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" timestamp="1598345791903">
+        <mark key="[" line="4" column="57" />
+        <mark key="]" line="4" column="57" />
+        <mark key="." line="4" column="56" />
+        <mark key="^" line="4" column="57" />
+      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1598346048427">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="0" />
@@ -120,7 +138,13 @@
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598345000306">
         <mark key="[" line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/strings.xml" timestamp="1598344021244" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1598347772227" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/SplashActivity.kt" timestamp="1598346752089">
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="22" column="34" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="34" />
+      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/drawable/ic_aor_logo.xml" timestamp="1598344509064">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="19" />
@@ -144,11 +168,23 @@
         <mark key="." line="378" column="44" />
         <mark key="^" line="378" column="45" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1598347647279">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="107" column="66" />
-        <mark key="^" line="107" column="66" />
-        <mark key="." line="107" column="65" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1598342842200">
+        <mark key="'" line="143" column="8" />
+        <mark key="[" line="120" column="34" />
+        <mark key="]" line="120" column="39" />
+        <mark key="." line="120" column="38" />
+        <mark key="^" line="120" column="39" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_splash.xml" timestamp="1598345125634">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1598347877160">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="12" column="40" />
+        <mark key="^" line="12" column="40" />
+        <mark key="." line="12" column="39" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemesFragment.kt" timestamp="1598345546419">
         <mark key="[" line="75" column="16" />
@@ -167,44 +203,6 @@
         <mark key="]" line="31" column="17" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_more.xml" timestamp="1598343170779">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1598345451619">
-        <mark key="'" line="26" column="108" />
-        <mark key="[" line="97" column="16" />
-        <mark key="]" line="97" column="27" />
-        <mark key="^" line="97" column="27" />
-        <mark key="." line="97" column="26" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" timestamp="1598345791903">
-        <mark key="[" line="4" column="57" />
-        <mark key="]" line="4" column="57" />
-        <mark key="." line="4" column="56" />
-        <mark key="^" line="4" column="57" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/drawable/ic_music_player_small_icon.xml" timestamp="1598344509914" />
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/SplashActivity.kt" timestamp="1598346752089">
-        <mark key="[" line="38" column="13" />
-        <mark key="]" line="22" column="34" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="22" column="34" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1598342842200">
-        <mark key="'" line="143" column="8" />
-        <mark key="[" line="120" column="34" />
-        <mark key="]" line="120" column="39" />
-        <mark key="." line="120" column="38" />
-        <mark key="^" line="120" column="39" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_splash.xml" timestamp="1598345125634">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/colors.xml" timestamp="1598344432769" />
     </filemarks>
     <jumps>
       <jump line="171" column="12" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
