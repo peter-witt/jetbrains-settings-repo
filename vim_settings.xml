@@ -117,7 +117,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1598428968208" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1598428976469">
+        <mark key="[" line="80" column="5" />
+        <mark key="]" line="80" column="5" />
+        <mark key="^" line="80" column="5" />
+        <mark key="." line="80" column="4" />
+      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1598345451619">
         <mark key="'" line="26" column="108" />
         <mark key="[" line="97" column="16" />
