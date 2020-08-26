@@ -164,11 +164,10 @@
         <mark key="^" line="19" column="124" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598442815295">
-        <mark key="[" line="220" column="31" />
-        <mark key="]" line="379" column="45" />
-        <mark key="." line="379" column="44" />
-        <mark key="^" line="379" column="45" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598444472269">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1598342842200">
         <mark key="'" line="143" column="8" />
@@ -325,50 +324,52 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>meditations</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>meditations</text>
+        <text>doOnNext</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iTUVESVRBVElPTlMiPk1lZGl0YXRpb25lcjwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lZGlhLnBsYXlTdG9wKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSeE11c2ljUGxheWVyLnN0YXRlLnN1YnNjcmliZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKGl0LnRvU3RyaW5nKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIG1lZGlhLnBsYXlTdG9wKCkKICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>RxMusicPlayer.state.filter { it == PlaybackState.idle() }.subscribe {
+                        media.playStop()
+                    }</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlmZWN5Y2xlU2NvcGUubGF1bmNoIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYoaXQgPT0gUGxheWJhY2tTdGF0ZS5wbGF5aW5nKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LndlYlZpZXdDbGllbnQgPSBXZWJWaWV3Q2xpZW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUnhNdXNpY1BsYXllci5hY3Rpb24ub25OZXh0KEFjdGlvbi5zdG9wKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRvbnRUcmFuc2Zvcm0oKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dFNjcm9sbFZpZXcudXBkYXRlUGFkZGluZygKICAgICAgICAgICAgICAgIGJvdHRvbSA9IGlmKGl0ID09IG51bGwpIDE1MC5kcCAKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvU2Nyb2xsVmlldz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
