@@ -163,12 +163,12 @@
         <mark key="^" line="19" column="124" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598445741956">
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598447827430">
         <mark key="'" line="173" column="66" />
-        <mark key="[" line="301" column="16" />
-        <mark key="]" line="301" column="16" />
-        <mark key="^" line="95" column="34" />
-        <mark key="." line="301" column="16" />
+        <mark key="[" line="117" column="38" />
+        <mark key="]" line="117" column="45" />
+        <mark key="^" line="117" column="43" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/model/Theme.kt" timestamp="1598440761278">
         <mark key="[" line="33" column="33" />
@@ -318,8 +318,8 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>playAnimation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -331,57 +331,55 @@
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChSeE11c2ljUGxheWVyLnN0YXRlLnZhbHVlID09IFBsYXliYWNrU3RhdGUuc3RvcHBlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgUnhNdXNpY1BsYXllci5zdGFydCh0aGlzLCBJbnRlbnQodGhpcywgTWFpbkFjdGl2aXR5OjpjbGFzcy5qYXZhKSkKICAgICAgICAgICAgICAgICAgICB3aXRoRGVsYXkoNTAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG1lZGlhLnBsYXlTdG9wKCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIG1lZGlhLnBsYXlTdG9wKCkKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzICE9IDBmKSB7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-                if (RxMusicPlayer.state.value == PlaybackState.stopped()) {
-                    RxMusicPlayer.start(this, Intent(this, MainActivity::class.java))
-                    withDelay(500) {
-                        media.playStop()
-                    }
-                } else {
-                    media.playStop()
-                }
-            }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-                if (RxMusicPlayer.state.value == PlaybackState.stopped()) {
-                    RxMusicPlayer.start(this, Intent(this, MainActivity::class.java))
-                    withDelay(500) {
-                        media.playStop()
-                    }
-                } else {
-                    media.playStop()
-                }
-            }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzICE9IDBmKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChSeE11c2ljUGxheWVyLnN0YXRlLnZhbHVlID09IFBsYXliYWNrU3RhdGUuc3RvcHBlZCgpKQogICAgICAgICAgICAgICAgICAgIFJ4TXVzaWNQbGF5ZXIuc3RhcnQodGhpcywgSW50ZW50KHRoaXMsIE1haW5BY3Rpdml0eTo6Y2xhc3MuamF2YSkpCgogICAgICAgICAgICAgICAgbWVkaWEucGxheVN0b3AoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TWF4UHJvZ3Jlc3MoMC41ZikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TWF4UHJvZ3Jlc3MoMC41ZikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSeE11c2ljUGxheWVyLnN0YXRlLnN1YnNjcmliZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKGl0LnRvU3RyaW5nKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIG1lZGlhLnBsYXlTdG9wKCkKICAgICAgICAgICAgICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldE1heFByb2dyZXNzKDAuNWYpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>RxMusicPlayer.state.filter { it == PlaybackState.idle() }.subscribe {
-                        media.playStop()
-                    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldE1heFByb2dyZXNzKDAuNWYpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>{
+                if (RxMusicPlayer.state.value == PlaybackState.stopped()) {
+                    RxMusicPlayer.start(this, Intent(this, MainActivity::class.java))
+                    withDelay(500) {
+                        media.playStop()
+                    }
+                } else {
+                    media.playStop()
+                }
+            }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYoaXQgPT0gUGxheWJhY2tTdGF0ZS5wbGF5aW5nKCkpCg==</text>
+      <register name="9" type="4">
+        <text>{
+                if (RxMusicPlayer.state.value == PlaybackState.stopped()) {
+                    RxMusicPlayer.start(this, Intent(this, MainActivity::class.java))
+                    withDelay(500) {
+                        media.playStop()
+                    }
+                } else {
+                    media.playStop()
+                }
+            }</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
