@@ -152,13 +152,11 @@
         <mark key="." line="22" column="33" />
         <mark key="^" line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.8.0/58a8f9b4d265e5b4c860e245e97e450c3d41b29e/epoxy-3.8.0-sources.jar!/com/airbnb/epoxy/EpoxyController.java" timestamp="1598430283832" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/drawable/ic_aor_logo.xml" timestamp="1598344509064">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.8.0/58a8f9b4d265e5b4c860e245e97e450c3d41b29e/epoxy-3.8.0-sources.jar!/com/airbnb/epoxy/TypedEpoxyController.java" timestamp="1598429961048" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/WebViewFragment.kt" timestamp="1598346196400">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -183,6 +181,9 @@
         <mark key="]" line="120" column="39" />
         <mark key="." line="120" column="38" />
         <mark key="^" line="120" column="39" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/model/Theme.kt" timestamp="1598440415433">
+        <mark key="[" line="18" column="77" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_splash.xml" timestamp="1598345125634">
         <mark key="[" line="38" column="0" />
