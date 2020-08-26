@@ -112,11 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_more.xml" timestamp="1598343170779">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1598428976469">
         <mark key="[" line="80" column="5" />
         <mark key="]" line="80" column="5" />
@@ -137,6 +132,9 @@
         <mark key="^" line="4" column="57" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Orfium/RxMusicPlayer-android/1.1.0/5f97e5108c923cc3b6b94c97c7645b3379cc8497/RxMusicPlayer-android-1.1.0-sources.jar!/com/orfium/rx/musicplayer/media/MediaService.kt" timestamp="1598445004468" />
+      <file name="/fragment.kt" timestamp="1598445986979">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1598442440052">
         <mark key="[" line="79" column="51" />
         <mark key="]" line="79" column="69" />
@@ -165,12 +163,12 @@
         <mark key="^" line="19" column="124" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598445406693">
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598445741956">
         <mark key="'" line="173" column="66" />
-        <mark key="[" line="94" column="39" />
-        <mark key="]" line="95" column="34" />
+        <mark key="[" line="301" column="16" />
+        <mark key="]" line="301" column="16" />
         <mark key="^" line="95" column="34" />
-        <mark key="." line="95" column="33" />
+        <mark key="." line="301" column="16" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/model/Theme.kt" timestamp="1598440761278">
         <mark key="[" line="33" column="33" />
@@ -321,22 +319,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>{
-                if (RxMusicPlayer.state.value == PlaybackState.stopped()) {
-                    RxMusicPlayer.start(this, Intent(this, MainActivity::class.java))
-                    withDelay(500) {
-                        media.playStop()
-                    }
-                } else {
-                    media.playStop()
-                }
-            }</text>
+        <text>playAnimation</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>playAnimation</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
