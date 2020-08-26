@@ -136,16 +136,16 @@
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1598440910635">
-        <mark key="[" line="69" column="52" />
-        <mark key="]" line="69" column="60" />
-        <mark key="." line="69" column="59" />
-        <mark key="^" line="69" column="60" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1598442440052">
+        <mark key="[" line="79" column="51" />
+        <mark key="]" line="79" column="69" />
+        <mark key="." line="79" column="68" />
+        <mark key="^" line="79" column="69" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598440902281">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598442328595">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/SplashActivity.kt" timestamp="1598346752089">
         <mark key="[" line="38" column="13" />
@@ -164,11 +164,11 @@
         <mark key="^" line="19" column="124" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598278786963">
-        <mark key="[" line="378" column="46" />
-        <mark key="]" line="378" column="45" />
-        <mark key="." line="378" column="44" />
-        <mark key="^" line="378" column="45" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598442815295">
+        <mark key="[" line="220" column="31" />
+        <mark key="]" line="379" column="45" />
+        <mark key="." line="379" column="44" />
+        <mark key="^" line="379" column="45" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" timestamp="1598342842200">
         <mark key="'" line="143" column="8" />
@@ -206,8 +206,10 @@
         <mark key="^" line="68" column="49" />
         <mark key="." line="68" column="16" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/AORRepository.kt" timestamp="1598440706357">
-        <mark key="[" line="95" column="84" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/AORRepository.kt" timestamp="1598442315196">
+        <mark key="[" line="96" column="46" />
+        <mark key="]" line="96" column="46" />
+        <mark key="." line="96" column="46" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_theme.xml" timestamp="1598345935336">
         <mark key="[" line="29" column="14" />
@@ -323,14 +325,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iTUVESVRBVElPTlMiPk1lZGl0YXRpb25lcjwvc3RyaW5nPgo=</text>
+      <register name="&quot;" type="4">
+        <text>meditations</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>DocumentReference</text>
+        <text>meditations</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
