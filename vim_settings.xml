@@ -163,12 +163,6 @@
         <mark key="^" line="19" column="124" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/util/Bindginadapters.kt" timestamp="1598278121746">
-        <mark key="[" line="48" column="25" />
-        <mark key="]" line="48" column="25" />
-        <mark key="^" line="48" column="25" />
-        <mark key="." line="48" column="24" />
-      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598278786963">
         <mark key="[" line="378" column="46" />
         <mark key="]" line="378" column="45" />
@@ -182,8 +176,11 @@
         <mark key="." line="120" column="38" />
         <mark key="^" line="120" column="39" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/model/Theme.kt" timestamp="1598440415433">
-        <mark key="[" line="18" column="77" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/model/Theme.kt" timestamp="1598440761278">
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="33" />
+        <mark key="^" line="20" column="26" />
+        <mark key="." line="33" column="33" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/activity_splash.xml" timestamp="1598345125634">
         <mark key="[" line="38" column="0" />
@@ -207,6 +204,9 @@
         <mark key="]" line="68" column="16" />
         <mark key="^" line="68" column="49" />
         <mark key="." line="68" column="16" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/AORRepository.kt" timestamp="1598440706357">
+        <mark key="[" line="95" column="84" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_theme.xml" timestamp="1598345935336">
         <mark key="[" line="29" column="14" />
@@ -322,14 +322,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>DocumentReference</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>NetworkAwareActivity</text>
+        <text>DocumentReference</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
