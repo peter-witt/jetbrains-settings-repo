@@ -136,15 +136,16 @@
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1598346048427">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1598440910635">
+        <mark key="[" line="69" column="52" />
+        <mark key="]" line="69" column="60" />
+        <mark key="." line="69" column="59" />
+        <mark key="^" line="69" column="60" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598426040303">
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="1" column="37" />
-        <mark key="." line="1" column="37" />
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598440902281">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/SplashActivity.kt" timestamp="1598346752089">
         <mark key="[" line="38" column="13" />
@@ -322,8 +323,8 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DocumentReference</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iTUVESVRBVElPTlMiPk1lZGl0YXRpb25lcjwvc3RyaW5nPgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -335,7 +336,7 @@
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxjb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWwudGV4dHZpZXcuTWF0ZXJpYWxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYXBwTmFtZSIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iOGRwIgogICAgICAgIGFuZHJvaWQ6Zm9udEZhbWlseT0iQGZvbnQvbm90b19zYW5zX2JvbGQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2FwcF9uYW1lIgogICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSI/Y29sb3JPblByaW1hcnkiCiAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMjhzcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvYXBwTG9nbyIKICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iTUVESVRBVElPTlMiPk1lZGl0YXRpb25lcjwvc3RyaW5nPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
