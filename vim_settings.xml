@@ -112,55 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Orfium/RxMusicPlayer-android/1.1.0/5f97e5108c923cc3b6b94c97c7645b3379cc8497/RxMusicPlayer-android-1.1.0-sources.jar!/com/orfium/rx/musicplayer/media/MediaService.kt" timestamp="1598445004468" />
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1598442440052">
-        <mark key="[" line="79" column="51" />
-        <mark key="]" line="79" column="69" />
-        <mark key="." line="79" column="68" />
-        <mark key="^" line="79" column="69" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ftz-android/app/src/main/res/values/strings.xml" timestamp="1598516243538" />
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598442328595">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/WebViewFragment.kt" timestamp="1598346196400">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="19" column="124" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598449506461">
-        <mark key="'" line="173" column="66" />
-        <mark key="[" line="110" column="45" />
-        <mark key="]" line="110" column="45" />
-        <mark key="^" line="110" column="45" />
-        <mark key="." line="110" column="44" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1598351218138">
-        <mark key="[" line="30" column="14" />
-        <mark key="]" line="24" column="103" />
-        <mark key="^" line="24" column="103" />
-        <mark key="." line="24" column="102" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemesFragment.kt" timestamp="1598345546419">
-        <mark key="[" line="75" column="16" />
-        <mark key="]" line="75" column="46" />
-        <mark key="^" line="75" column="46" />
-        <mark key="." line="75" column="45" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/MoreFragment.kt" timestamp="1598345457491">
-        <mark key="[" line="68" column="16" />
-        <mark key="]" line="68" column="16" />
-        <mark key="^" line="68" column="49" />
-        <mark key="." line="68" column="16" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_theme.xml" timestamp="1598345935336">
-        <mark key="[" line="29" column="14" />
-        <mark key="]" line="31" column="17" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1598428976469">
         <mark key="[" line="80" column="5" />
         <mark key="]" line="80" column="5" />
@@ -183,11 +134,35 @@
       <file name="/fragment.kt" timestamp="1598445986979">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1598442440052">
+        <mark key="[" line="79" column="51" />
+        <mark key="]" line="79" column="69" />
+        <mark key="." line="79" column="68" />
+        <mark key="^" line="79" column="69" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598442328595">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/SplashActivity.kt" timestamp="1598346752089">
         <mark key="[" line="38" column="13" />
         <mark key="]" line="22" column="34" />
         <mark key="." line="22" column="33" />
         <mark key="^" line="22" column="34" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/WebViewFragment.kt" timestamp="1598346196400">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="19" column="124" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598449506461">
+        <mark key="'" line="173" column="66" />
+        <mark key="[" line="110" column="45" />
+        <mark key="]" line="110" column="45" />
+        <mark key="^" line="110" column="45" />
+        <mark key="." line="110" column="44" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/model/Theme.kt" timestamp="1598440761278">
         <mark key="[" line="33" column="33" />
@@ -195,10 +170,32 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="33" column="33" />
       </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1598856222458">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemesFragment.kt" timestamp="1598345546419">
+        <mark key="[" line="75" column="16" />
+        <mark key="]" line="75" column="46" />
+        <mark key="^" line="75" column="46" />
+        <mark key="." line="75" column="45" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/MoreFragment.kt" timestamp="1598345457491">
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="16" />
+        <mark key="^" line="68" column="49" />
+        <mark key="." line="68" column="16" />
+      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/AORRepository.kt" timestamp="1598442315196">
         <mark key="[" line="96" column="46" />
         <mark key="]" line="96" column="46" />
         <mark key="." line="96" column="46" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_theme.xml" timestamp="1598345935336">
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -310,7 +307,7 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldE1heFByb2dyZXNzKDAuNWYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -322,25 +319,25 @@
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldE1heFByb2dyZXNzKDAuNWYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JZCAiY29tLm5vcmRpY2N1c3RvbW1hZGUuZGsiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzICE9IDBmKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TWF4UHJvZ3Jlc3MoMC41ZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzICE9IDBmKSB7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TWF4UHJvZ3Jlc3MoMC41ZikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldE1heFByb2dyZXNzKDAuNWYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TWF4UHJvZ3Jlc3MoMC41ZikK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldE1heFByb2dyZXNzKDAuNWYpCg==</text>
@@ -348,17 +345,8 @@
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>{
-                if (RxMusicPlayer.state.value == PlaybackState.stopped()) {
-                    RxMusicPlayer.start(this, Intent(this, MainActivity::class.java))
-                    withDelay(500) {
-                        media.playStop()
-                    }
-                } else {
-                    media.playStop()
-                }
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldE1heFByb2dyZXNzKDAuNWYpCg==</text>
       </register>
       <register name="9" type="4">
         <text>{
