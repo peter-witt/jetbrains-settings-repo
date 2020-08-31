@@ -112,7 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/AndroidManifest.xml" timestamp="1598858166991" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1598428976469">
         <mark key="[" line="80" column="5" />
         <mark key="]" line="80" column="5" />
@@ -141,6 +140,7 @@
         <mark key="." line="79" column="68" />
         <mark key="^" line="79" column="69" />
       </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/App.kt" timestamp="1598862261412" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598442328595">
         <mark key="[" line="7" column="39" />
         <mark key="]" line="7" column="39" />
