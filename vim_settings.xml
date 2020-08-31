@@ -199,6 +199,7 @@
         <mark key="]" line="31" column="17" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1598880136517" />
     </filemarks>
     <jumps>
       <jump line="122" column="40" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
