@@ -112,6 +112,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1598442440052">
+        <mark key="[" line="79" column="51" />
+        <mark key="]" line="79" column="69" />
+        <mark key="." line="79" column="68" />
+        <mark key="^" line="79" column="69" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598442328595">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/WebViewFragment.kt" timestamp="1598346196400">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="19" column="124" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598449506461">
+        <mark key="'" line="173" column="66" />
+        <mark key="[" line="110" column="45" />
+        <mark key="]" line="110" column="45" />
+        <mark key="^" line="110" column="45" />
+        <mark key="." line="110" column="44" />
+      </file>
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1598856533474">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AlgoliaSearchEventHandler.kt" timestamp="1598944899785" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1598428976469">
         <mark key="[" line="80" column="5" />
         <mark key="]" line="80" column="5" />
@@ -122,21 +152,10 @@
       <file name="/fragment.kt" timestamp="1598445986979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1598442440052">
-        <mark key="[" line="79" column="51" />
-        <mark key="]" line="79" column="69" />
-        <mark key="." line="79" column="68" />
-        <mark key="^" line="79" column="69" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/EventHandler.kt" timestamp="1598945951509">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598442328595">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/Shadow.kt" timestamp="1598953231225">
         <mark key="[" line="5" column="12" />
@@ -148,21 +167,8 @@
         <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1598949261219" />
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/WebViewFragment.kt" timestamp="1598346196400">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="19" column="124" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1598944866638">
         <mark key="[" line="91" column="64" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598449506461">
-        <mark key="'" line="173" column="66" />
-        <mark key="[" line="110" column="45" />
-        <mark key="]" line="110" column="45" />
-        <mark key="^" line="110" column="45" />
-        <mark key="." line="110" column="44" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/model/Theme.kt" timestamp="1598440761278">
         <mark key="[" line="33" column="33" />
@@ -170,22 +176,12 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="33" column="33" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1598856533474">
-        <mark key="[" line="30" column="11" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AlgoliaSearchEventHandler.kt" timestamp="1598944899785" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/AORRepository.kt" timestamp="1598442315196">
         <mark key="[" line="96" column="46" />
         <mark key="]" line="96" column="46" />
         <mark key="." line="96" column="46" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/fragment_theme.xml" timestamp="1598345935336">
-        <mark key="[" line="29" column="14" />
-        <mark key="]" line="31" column="17" />
-        <mark key="." line="31" column="0" />
-      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/TitleRatingTagImageWidget.kt" timestamp="1598956987493" />
     </filemarks>
     <jumps>
       <jump line="122" column="40" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
