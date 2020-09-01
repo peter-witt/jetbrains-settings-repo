@@ -134,11 +134,10 @@
         <mark key="." line="79" column="68" />
         <mark key="^" line="79" column="69" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/EventHandler.kt" timestamp="1598945090524">
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-        <mark key="." line="13" column="45" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/EventHandler.kt" timestamp="1598945951509">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598442328595">
         <mark key="[" line="7" column="39" />
@@ -305,7 +304,7 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -320,43 +319,34 @@
         <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JZCAiY29tLm5vcmRpY2N1c3RvbW1hZGUuZGsiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
+        <text encoding="base64">LyoqCiAqIAogKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzICE9IDBmKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TWF4UHJvZ3Jlc3MoMC41ZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TWF4UHJvZ3Jlc3MoMC41ZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzICE9IDBmKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldE1heFByb2dyZXNzKDAuNWYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TWF4UHJvZ3Jlc3MoMC41ZikK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldE1heFByb2dyZXNzKDAuNWYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TWF4UHJvZ3Jlc3MoMC41ZikK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-                if (RxMusicPlayer.state.value == PlaybackState.stopped()) {
-                    RxMusicPlayer.start(this, Intent(this, MainActivity::class.java))
-                    withDelay(500) {
-                        media.playStop()
-                    }
-                } else {
-                    media.playStop()
-                }
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldE1heFByb2dyZXNzKDAuNWYpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
