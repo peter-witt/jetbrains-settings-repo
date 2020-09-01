@@ -113,12 +113,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/interfaces/configs.kt" timestamp="1598961490609" />
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/ThemeFragment.kt" timestamp="1598442440052">
-        <mark key="[" line="79" column="51" />
-        <mark key="]" line="79" column="69" />
-        <mark key="." line="79" column="68" />
-        <mark key="^" line="79" column="69" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/TitleSmallImageWidget.kt" timestamp="1598957888532" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build/generated/source/kaptKotlin/debug/dk/makeable/coreui/shared/widget/generic/cell/FavoriteAndRatingWidget.kt" timestamp="1598958169575" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/menu/menu_algolia_search.xml" timestamp="1598961552672">
@@ -127,6 +121,7 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/NavigationEventHandler.kt" timestamp="1598962001804" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/FavoriteAndRatingWidget.kt" timestamp="1598957861946" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598449506461">
         <mark key="'" line="173" column="66" />
