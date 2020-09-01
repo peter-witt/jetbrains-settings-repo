@@ -140,8 +140,6 @@
         <mark key="." line="79" column="68" />
         <mark key="^" line="79" column="69" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/drawable/v_tab_recipes_inactive.xml" timestamp="1598876251554" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/drawable/v_tab_recipes_active.xml" timestamp="1598876193718" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598442328595">
         <mark key="[" line="7" column="39" />
         <mark key="]" line="7" column="39" />
@@ -159,6 +157,7 @@
         <mark key="^" line="19" column="124" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1598943990722" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598449506461">
         <mark key="'" line="173" column="66" />
         <mark key="[" line="110" column="45" />
@@ -199,7 +198,6 @@
         <mark key="]" line="31" column="17" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1598880136517" />
     </filemarks>
     <jumps>
       <jump line="122" column="40" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
