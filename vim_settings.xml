@@ -118,13 +118,7 @@
         <mark key="^" line="80" column="5" />
         <mark key="." line="80" column="4" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" timestamp="1598345451619">
-        <mark key="'" line="26" column="108" />
-        <mark key="[" line="97" column="16" />
-        <mark key="]" line="97" column="27" />
-        <mark key="^" line="97" column="27" />
-        <mark key="." line="97" column="26" />
-      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/ActionEventHandler.kt" timestamp="1598945003163" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" timestamp="1598345791903">
         <mark key="[" line="4" column="57" />
         <mark key="]" line="4" column="57" />
@@ -139,6 +133,12 @@
         <mark key="]" line="79" column="69" />
         <mark key="." line="79" column="68" />
         <mark key="^" line="79" column="69" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/EventHandler.kt" timestamp="1598945090524">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="13" column="45" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/values/strings.xml" timestamp="1598442328595">
         <mark key="[" line="7" column="39" />
@@ -157,7 +157,9 @@
         <mark key="^" line="19" column="124" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1598943990722" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1598944866638">
+        <mark key="[" line="91" column="64" />
+      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1598449506461">
         <mark key="'" line="173" column="66" />
         <mark key="[" line="110" column="45" />
@@ -182,12 +184,7 @@
         <mark key="^" line="75" column="46" />
         <mark key="." line="75" column="45" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/MoreFragment.kt" timestamp="1598345457491">
-        <mark key="[" line="68" column="16" />
-        <mark key="]" line="68" column="16" />
-        <mark key="^" line="68" column="49" />
-        <mark key="." line="68" column="16" />
-      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AlgoliaSearchEventHandler.kt" timestamp="1598944899785" />
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/service/AORRepository.kt" timestamp="1598442315196">
         <mark key="[" line="96" column="46" />
         <mark key="]" line="96" column="46" />
