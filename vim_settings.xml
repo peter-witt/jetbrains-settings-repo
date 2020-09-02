@@ -122,14 +122,18 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/Shadow.kt" timestamp="1598953231225">
-        <mark key="[" line="5" column="12" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/VListWidget.kt" timestamp="1599054823249">
+        <mark key="[" line="102" column="61" />
+        <mark key="]" line="102" column="61" />
+        <mark key="^" line="102" column="61" />
+        <mark key="." line="102" column="60" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" timestamp="1598966908203">
         <mark key="[" line="243" column="0" />
         <mark key="]" line="243" column="0" />
         <mark key="." line="243" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/WebViewWidget.kt" timestamp="1599054858557" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1599045716011">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="47" />
