@@ -34,11 +34,25 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
+  <SwiftCodeStyleSettings>
+    <option name="PREFER_EXPLICIT_RETURN" value="true" />
+  </SwiftCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
+  <codeStyleSettings language="Swift">
+    <option name="RIGHT_MARGIN" value="125" />
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+    <option name="INDENT_CASE_FROM_SWITCH" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+    <option name="WRAP_ON_TYPING" value="0" />
+    <option name="SOFT_MARGINS" value="125" />
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
@@ -126,7 +140,6 @@
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
-            <order>ANDROID_ATTRIBUTE_ORDER</order>
           </rule>
         </section>
         <section>
