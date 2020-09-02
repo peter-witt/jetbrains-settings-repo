@@ -113,6 +113,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/TaggedNavigationEventHandler.kt" timestamp="1599045206773" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/BoxWidget.kt" timestamp="1599047048967">
+        <mark key="[" line="57" column="41" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/menu/menu_algolia_search.xml" timestamp="1598961552672">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
