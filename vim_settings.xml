@@ -112,6 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/TaggedNavigationEventHandler.kt" timestamp="1599045206773" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/menu/menu_algolia_search.xml" timestamp="1598961552672">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -126,10 +127,10 @@
         <mark key="]" line="243" column="0" />
         <mark key="." line="243" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1598967960855">
-        <mark key="[" line="313" column="0" />
-        <mark key="]" line="313" column="0" />
-        <mark key="." line="313" column="0" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1599045716011">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="47" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1598856533474">
         <mark key="[" line="30" column="11" />
@@ -255,7 +256,7 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiaXRlbVNjcmVlbklkIjogIml0ZW0iLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzQW5pbWF0aW5nTmV3RGF0YUJhZGdlID0gZmFsc2UK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -270,25 +271,25 @@
         <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JZCAiY29tLm5vcmRpY2N1c3RvbW1hZGUuZGsiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiaXRlbVNjcmVlbklkIjogIml0ZW0iLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzQW5pbWF0aW5nTmV3RGF0YUJhZGdlID0gZmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW06IE1lbnVJdGVtKTogQm9vbGVhbiB7CiAgICAgICAgcmV0dXJuIHN1cGVyLm9uT3B0aW9uc0l0ZW1TZWxlY3RlZChpdGVtKQogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiaXRlbVNjcmVlbklkIjogIml0ZW0iLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL0FMR09MSUFfU0VBUkNIX0hJVCIK</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW06IE1lbnVJdGVtKTogQm9vbGVhbiB7CiAgICAgICAgcmV0dXJuIHN1cGVyLm9uT3B0aW9uc0l0ZW1TZWxlY3RlZChpdGVtKQogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL0FMR09MSUFfU0VBUkNIX0hJVCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIAogKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -297,7 +298,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzICE9IDBmKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
