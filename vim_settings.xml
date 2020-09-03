@@ -134,7 +134,12 @@
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build/generated/source/kaptKotlin/debug/dk/makeable/coreui/shared/widget/generic/cell/FavoriteAndRatingCellWidgetModel_.java" timestamp="1599139673388" />
       <file name="$USER_HOME$/Makeable/android-test-app/template-android-mvvm/app/src/main/java/dk/makeable/denfedeapp/App.kt" timestamp="1599141679401" />
-      <file name="$USER_HOME$/Makeable/android-test-app/template-android-mvvm/app/src/main/java/dk/makeable/denfedeapp/feature/splash/view/SplashActivity.kt" timestamp="1599141814375" />
+      <file name="$USER_HOME$/Makeable/android-test-app/template-android-mvvm/app/src/main/java/dk/makeable/denfedeapp/feature/splash/view/SplashActivity.kt" timestamp="1599141895407">
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="30" column="38" />
+        <mark key="^" line="30" column="38" />
+        <mark key="." line="30" column="37" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1599045716011">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="47" />
