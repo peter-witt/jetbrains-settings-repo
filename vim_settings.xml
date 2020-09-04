@@ -112,50 +112,67 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/interfaces/configs.kt" timestamp="1599124478833" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/interfaces/widgets.kt" timestamp="1599139042955" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/util/EpoxyController.kt" timestamp="1599125189715" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/BoxWidget.kt" timestamp="1599053699858">
-        <mark key="[" line="57" column="41" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/MainActivity.kt" timestamp="1599208353308">
+        <mark key="[" line="100" column="61" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/json/MACoreJson.kt" timestamp="1599134438640" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build/generated/source/kaptKotlin/debug/dk/makeable/coreui/shared/widget/generic/cell/FavoriteAndRatingWidget.kt" timestamp="1599139618616">
-        <mark key="[" line="23" column="61" />
-        <mark key="]" line="23" column="61" />
-        <mark key="^" line="23" column="61" />
-        <mark key="." line="23" column="60" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/json/MACoreJson.kt" timestamp="1599206730759" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/build.gradle" timestamp="1599207915340">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/processor/src/main/java/dk/makeable/processor/CellProcessor.kt" timestamp="1599139702816" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/VListWidget.kt" timestamp="1599054823249">
-        <mark key="[" line="102" column="61" />
-        <mark key="]" line="102" column="61" />
-        <mark key="^" line="102" column="61" />
-        <mark key="." line="102" column="60" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/AndroidManifest.xml" timestamp="1599207894933">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build/generated/source/kaptKotlin/debug/dk/makeable/coreui/shared/widget/generic/cell/FavoriteAndRatingCellWidgetModel_.java" timestamp="1599139673388" />
-      <file name="$USER_HOME$/Makeable/android-test-app/template-android-mvvm/app/src/main/java/dk/makeable/denfedeapp/App.kt" timestamp="1599141679401" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" timestamp="1599207239868" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/build/generated/source/buildConfig/debug/dk/makeable/coreuidemo/BuildConfig.java" timestamp="1599206752394" />
       <file name="$USER_HOME$/Makeable/android-test-app/template-android-mvvm/app/src/main/java/dk/makeable/denfedeapp/feature/splash/view/SplashActivity.kt" timestamp="1599141895407">
         <mark key="[" line="30" column="38" />
         <mark key="]" line="30" column="38" />
         <mark key="^" line="30" column="38" />
         <mark key="." line="30" column="37" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1599045716011">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="47" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/google-services.json" timestamp="1599207881692">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/FavoriteAndRatingWidget.kt" timestamp="1599124554491" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchFragment.kt" timestamp="1599125134789" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/annotation/src/main/java/dk/makeable/annotation/CellModel.kt" timestamp="1599139712548" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AlgoliaSearchEventHandler.kt" timestamp="1599047101312">
-        <mark key="[" line="25" column="34" />
-        <mark key="]" line="25" column="34" />
-        <mark key="^" line="25" column="34" />
-        <mark key="." line="25" column="33" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1599208557181" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AlgoliaSearchEventHandler.kt" timestamp="1599207427386">
+        <mark key="[" line="44" column="40" />
+        <mark key="]" line="44" column="40" />
+        <mark key="^" line="24" column="14" />
+        <mark key="." line="44" column="40" />
       </file>
       <file name="$USER_HOME$/Makeable/android-test-app/template-android-mvvm/app/build.gradle" timestamp="1599141482442">
         <mark key="[" line="10" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1599208071234">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/DemoActivity.kt" timestamp="1599208426279">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="76" />
+        <mark key="^" line="39" column="71" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaResponse.kt" timestamp="1599207183063" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchDialogFragment.kt" timestamp="1599206861264" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" timestamp="1599207506828">
+        <mark key="[" line="239" column="15" />
+        <mark key="]" line="241" column="30" />
+        <mark key="." line="241" column="29" />
+        <mark key="^" line="241" column="30" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchFragment.kt" timestamp="1599206960301">
+        <mark key="[" line="32" column="82" />
+        <mark key="]" line="32" column="89" />
+        <mark key="." line="32" column="88" />
+        <mark key="^" line="32" column="89" />
       </file>
     </filemarks>
     <jumps>
@@ -267,49 +284,49 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzQW5pbWF0aW5nTmV3RGF0YUJhZGdlID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>return super.onOptionsItemSelected(item)</text>
+        <text>projectId</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JZCAiY29tLm5vcmRpY2N1c3RvbW1hZGUuZGsiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzQW5pbWF0aW5nTmV3RGF0YUJhZGdlID0gZmFsc2UK</text>
+        <text encoding="base64">CiAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCiAgICAgICAgTUFDb3JlSnNvbi5tYWtlQXBwKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiaXRlbVNjcmVlbklkIjogIml0ZW0iLAo=</text>
+        <text encoding="base64">CiAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCiAgICAgICAgTUFDb3JlSnNvbi5tYWtlQXBwKHRoaXMsICk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW06IE1lbnVJdGVtKTogQm9vbGVhbiB7CiAgICAgICAgcmV0dXJuIHN1cGVyLm9uT3B0aW9uc0l0ZW1TZWxlY3RlZChpdGVtKQogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBNQUNvcmVKc29uLmdldEpzb25Gcm9tRmlsZSgidmVnYW5zay5qc29uIiwgdGhpcykKICAgICAgICBNQUNvcmVKc29uLm1ha2VBcHAodGhpcywgKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL0FMR09MSUFfU0VBUkNIX0hJVCIK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGZhbGxiYWNrQ2VsbENvbmZpZyBieSBsYXp5IHsgcmVxdWlyZUFyZ3VtZW50cygpLmdldFBhcmNlbGFibGU8Q2VsbFdpZGdldENvbmZpZz4oImZhbGxiYWNrQ2VsbENvbmZpZyIpIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dFBhcmNlbGFibGUoImZhbGxiYWNrQ2VsbENvbmZpZyIsIGZhbGxiYWNrQ2VsbENvbmZpZykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text encoding="base64">ICAgIHZhbCBjZWxsQ29uZmlnOiBDZWxsV2lkZ2V0Q29uZmlnLAogICAgdmFsIGZhbGxiYWNrQ2VsbENvbmZpZzogQ2VsbFdpZGdldENvbmZpZz8=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzQW5pbWF0aW5nTmV3RGF0YUJhZGdlID0gZmFsc2UK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiaXRlbVNjcmVlbklkIjogIml0ZW0iLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByb2dyZXNzID4gMC40NWYpIHsK</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW06IE1lbnVJdGVtKTogQm9vbGVhbiB7CiAgICAgICAgcmV0dXJuIHN1cGVyLm9uT3B0aW9uc0l0ZW1TZWxlY3RlZChpdGVtKQogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
@@ -328,7 +345,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
