@@ -18,6 +18,9 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="CIDR.Lang.IntroduceDefine">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
   <action id="ChangesView.Move" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
@@ -66,6 +69,9 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl meta k" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="GotoBookmark2" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
@@ -73,6 +79,9 @@
   </action>
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="shift meta j" />
@@ -82,7 +91,7 @@
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="alt space" />
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
