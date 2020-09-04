@@ -117,7 +117,6 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/json/MACoreJson.kt" timestamp="1599206730759" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/build.gradle" timestamp="1599207915340">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="11" column="35" />
@@ -149,6 +148,7 @@
       <file name="/Dummy.txt" timestamp="1599208071234">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1599214492469" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/interfaces/widgets.kt" timestamp="1599210700113">
         <mark key="[" line="57" column="47" />
         <mark key="]" line="57" column="47" />
