@@ -18,6 +18,7 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
     <keyboard-shortcut first-keystroke="meta alt divide" />
@@ -30,6 +31,8 @@
     <keyboard-shortcut first-keystroke="meta f9" />
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="Console.TableResult.SetDefault" />
+  <action id="Console.TableResult.SetNull" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -74,8 +77,12 @@
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
+  <action id="Jdbc.OpenConsole.New" />
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
@@ -105,6 +112,7 @@
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
