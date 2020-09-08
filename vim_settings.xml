@@ -143,11 +143,23 @@
         <mark key="^" line="39" column="71" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaResponse.kt" timestamp="1599555839938">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="21" column="17" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/AndroidManifest.xml" timestamp="1599207894933">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" timestamp="1599555849098">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/PagedDataSource.kt" timestamp="1599555155286" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" timestamp="1599207506828">
         <mark key="[" line="239" column="15" />
         <mark key="]" line="241" column="30" />
@@ -169,12 +181,7 @@
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/json/MACoreTypeAdapter.kt" timestamp="1599210946828">
         <mark key="[" line="16" column="36" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchFragment.kt" timestamp="1599206960301">
-        <mark key="[" line="32" column="82" />
-        <mark key="]" line="32" column="89" />
-        <mark key="." line="32" column="88" />
-        <mark key="^" line="32" column="89" />
-      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1599555943969" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AlgoliaSearchEventHandler.kt" timestamp="1599207427386">
         <mark key="[" line="44" column="40" />
         <mark key="]" line="44" column="40" />
@@ -294,7 +301,7 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -309,34 +316,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCiAgICAgICAgTUFDb3JlSnNvbi5tYWtlQXBwKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCiAgICAgICAgTUFDb3JlSnNvbi5tYWtlQXBwKHRoaXMsICk=</text>
+        <text encoding="base64">ICAgIFRpbWJlci5kKHRoaXMudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNQUNvcmVKc29uLmdldEpzb25Gcm9tRmlsZSgidmVnYW5zay5qc29uIiwgdGhpcykKICAgICAgICBNQUNvcmVKc29uLm1ha2VBcHAodGhpcywgKQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGZhbGxiYWNrQ2VsbENvbmZpZyBieSBsYXp5IHsgcmVxdWlyZUFyZ3VtZW50cygpLmdldFBhcmNlbGFibGU8Q2VsbFdpZGdldENvbmZpZz4oImZhbGxiYWNrQ2VsbENvbmZpZyIpIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dFBhcmNlbGFibGUoImZhbGxiYWNrQ2VsbENvbmZpZyIsIGZhbGxiYWNrQ2VsbENvbmZpZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBjZWxsQ29uZmlnOiBDZWxsV2lkZ2V0Q29uZmlnLAogICAgdmFsIGZhbGxiYWNrQ2VsbENvbmZpZzogQ2VsbFdpZGdldENvbmZpZz8=</text>
+        <text encoding="base64">ICAgIFRpbWJlci5kKHRoaXMudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzQW5pbWF0aW5nTmV3RGF0YUJhZGdlID0gZmFsc2UK</text>
+        <text encoding="base64">CiAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCiAgICAgICAgTUFDb3JlSnNvbi5tYWtlQXBwKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiaXRlbVNjcmVlbklkIjogIml0ZW0iLAo=</text>
+        <text encoding="base64">CiAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCiAgICAgICAgTUFDb3JlSnNvbi5tYWtlQXBwKHRoaXMsICk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW06IE1lbnVJdGVtKTogQm9vbGVhbiB7CiAgICAgICAgcmV0dXJuIHN1cGVyLm9uT3B0aW9uc0l0ZW1TZWxlY3RlZChpdGVtKQogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBNQUNvcmVKc29uLmdldEpzb25Gcm9tRmlsZSgidmVnYW5zay5qc29uIiwgdGhpcykKICAgICAgICBNQUNvcmVKc29uLm1ha2VBcHAodGhpcywgKQ==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
