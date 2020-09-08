@@ -143,7 +143,7 @@
         <mark key="^" line="39" column="71" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaResponse.kt" timestamp="1599555839938">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaResponse.kt" timestamp="1599566391478">
         <mark key="[" line="21" column="17" />
         <mark key="]" line="21" column="18" />
         <mark key="^" line="21" column="18" />
@@ -154,10 +154,11 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" timestamp="1599555849098">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" timestamp="1599567009943">
+        <mark key="[" line="123" column="26" />
+        <mark key="]" line="123" column="26" />
+        <mark key="." line="123" column="26" />
+        <mark key="^" line="111" column="25" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/PagedDataSource.kt" timestamp="1599555155286" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/vegansk.json" timestamp="1599207506828">
@@ -300,14 +301,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>descendingMap</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>projectId</text>
+        <text>descendingMap</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
