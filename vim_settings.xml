@@ -128,10 +128,8 @@
         <mark key="." line="123" column="26" />
         <mark key="^" line="111" column="25" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/json/MACoreTypeAdapter.kt" timestamp="1599210946828">
-        <mark key="[" line="16" column="36" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1599555943969" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Category.kt" timestamp="1599578521793" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1599572196604">
         <mark key="[" line="195" column="39" />
         <mark key="]" line="193" column="16" />
@@ -168,7 +166,7 @@
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/interfaces/IDataProviderService.kt" timestamp="1599569267188">
         <mark key="[" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Items.kt" timestamp="1599573137688" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Items.kt" timestamp="1599578694338" />
       <file name="/fragment.java" timestamp="1599554973758">
         <mark key="[" line="0" column="0" />
       </file>
