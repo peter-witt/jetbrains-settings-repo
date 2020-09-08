@@ -126,6 +126,12 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="46" />
       </file>
+      <file name="/fragment.kt" timestamp="1599554961946">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1599554973749">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/build.gradle" timestamp="1599207915340">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="11" column="35" />
@@ -154,6 +160,12 @@
         <mark key="]" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreDataProviderService.kt" timestamp="1599554623035">
+        <mark key="[" line="68" column="32" />
+        <mark key="]" line="68" column="32" />
+        <mark key="^" line="68" column="32" />
+        <mark key="." line="68" column="31" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/json/MACoreTypeAdapter.kt" timestamp="1599210946828">
         <mark key="[" line="16" column="36" />
       </file>
@@ -168,6 +180,9 @@
         <mark key="]" line="44" column="40" />
         <mark key="^" line="24" column="14" />
         <mark key="." line="44" column="40" />
+      </file>
+      <file name="/fragment.java" timestamp="1599554973758">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
