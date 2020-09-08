@@ -140,12 +140,7 @@
       <file name="/Dummy.txt" timestamp="1599572409434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/interfaces/widgets.kt" timestamp="1599210700113">
-        <mark key="[" line="57" column="47" />
-        <mark key="]" line="57" column="47" />
-        <mark key="^" line="57" column="47" />
-        <mark key="." line="57" column="46" />
-      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1599576997487" />
       <file name="/fragment.kt" timestamp="1599554961946">
         <mark key="[" line="0" column="0" />
       </file>
