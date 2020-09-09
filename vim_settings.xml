@@ -115,6 +115,9 @@
       <file name="/Dummy.txt" timestamp="1599572409434">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1599657289188">
+        <mark key="[" line="27" column="29" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaResponse.kt" timestamp="1599566391478">
         <mark key="[" line="21" column="17" />
         <mark key="]" line="21" column="18" />
