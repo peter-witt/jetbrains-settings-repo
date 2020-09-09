@@ -112,48 +112,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Interfaces.kt" timestamp="1599571471211" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/VListWidget.kt" timestamp="1599571818838">
-        <mark key="[" line="49" column="50" />
-        <mark key="]" line="49" column="50" />
-        <mark key="^" line="49" column="50" />
-        <mark key="." line="49" column="49" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Compilations.kt" timestamp="1599579322629" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" timestamp="1599567009943">
-        <mark key="[" line="123" column="26" />
-        <mark key="]" line="123" column="26" />
-        <mark key="." line="123" column="26" />
-        <mark key="^" line="111" column="25" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Compilation.kt" timestamp="1599579331034" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1599555943969" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Category.kt" timestamp="1599578521793" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1599572196604">
-        <mark key="[" line="195" column="39" />
-        <mark key="]" line="193" column="16" />
-        <mark key="." line="193" column="16" />
-      </file>
       <file name="/Dummy.txt" timestamp="1599572409434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1599576997487" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaResponse.kt" timestamp="1599566391478">
         <mark key="[" line="21" column="17" />
         <mark key="]" line="21" column="18" />
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/Menu.java" timestamp="1599572185989" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/PagedDataSource.kt" timestamp="1599555155286" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/VListWidget.kt" timestamp="1599571818838">
+        <mark key="[" line="49" column="50" />
+        <mark key="]" line="49" column="50" />
+        <mark key="^" line="49" column="50" />
+        <mark key="." line="49" column="49" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" timestamp="1599567009943">
+        <mark key="[" line="123" column="26" />
+        <mark key="]" line="123" column="26" />
+        <mark key="." line="123" column="26" />
+        <mark key="^" line="111" column="25" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/NavigationArgs.kt" timestamp="1599572440713">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="23" />
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1599572347414" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreDataProviderService.kt" timestamp="1599569515250">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Pages.kt" timestamp="1599644415745" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreDataProviderService.kt" timestamp="1599643969448">
         <mark key="[" line="49" column="34" />
         <mark key="]" line="55" column="15" />
         <mark key="^" line="55" column="15" />
@@ -162,9 +149,13 @@
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/interfaces/IDataProviderService.kt" timestamp="1599569267188">
         <mark key="[" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Items.kt" timestamp="1599578694338" />
       <file name="/fragment.java" timestamp="1599554973758">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1599572196604">
+        <mark key="[" line="195" column="39" />
+        <mark key="]" line="193" column="16" />
+        <mark key="." line="193" column="16" />
       </file>
     </filemarks>
     <jumps>
