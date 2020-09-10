@@ -121,6 +121,7 @@
         <mark key="^" line="30" column="42" />
         <mark key="." line="30" column="41" />
       </file>
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/res/values/styles.xml" timestamp="1599750933055" />
       <file name="$USER_HOME$/Makeable/common-sense-android/app/build.gradle" timestamp="1599749753464">
         <mark key="[" line="78" column="58" />
         <mark key="]" line="78" column="58" />
@@ -135,12 +136,6 @@
         <mark key="]" line="170" column="47" />
         <mark key="." line="170" column="46" />
         <mark key="^" line="170" column="47" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/VListWidget.kt" timestamp="1599571818838">
-        <mark key="[" line="49" column="50" />
-        <mark key="]" line="49" column="50" />
-        <mark key="^" line="49" column="50" />
-        <mark key="." line="49" column="49" />
       </file>
       <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/view/SliderView.kt" timestamp="1599743861773">
         <mark key="[" line="79" column="34" />
@@ -158,10 +153,11 @@
         <mark key="." line="123" column="26" />
         <mark key="^" line="111" column="25" />
       </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/res/layout/activity_sub_location_detail.xml" timestamp="1599744896785">
-        <mark key="[" line="293" column="28" />
-        <mark key="]" line="293" column="28" />
-        <mark key="." line="293" column="28" />
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/res/layout/activity_sub_location_detail.xml" timestamp="1599751389878">
+        <mark key="[" line="393" column="45" />
+        <mark key="]" line="421" column="64" />
+        <mark key="." line="421" column="63" />
+        <mark key="^" line="421" column="64" />
       </file>
       <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/login/LoginActivity.kt" timestamp="1599746397424">
         <mark key="[" line="92" column="25" />
@@ -312,50 +308,50 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>version</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>version</text>
+        <text>NOT_AT_ALL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>SLECTED_SECTION_KEY</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDxhbmRyb2lkeC5hcHBjb21wYXQud2lkZ2V0LkFwcENvbXBhdFRleHRWaWV3CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvY29tZm9ydGFibGVTbGlkZXJTdWJ0aXRsZTEiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvTk9UX0FUX0FMTCIKICAgICAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW5lZFdpZHRoPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL2NvbWZvcnRhYmxlU2xpZGVyIgogICAgICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpmb250RmFtaWx5PSJAZm9udC9sYXRvX3JlZ3VsYXIiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvcHJpbWFyeVRleHRDb2xvciIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTRzcCIKICAgICAgICAgICAgICAgICAgICAgICAgLz4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0ICE9IC0xKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0U2VjdGlvbj8ubGV0IHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvU3RhcnRPZj0iQGlkL2NvbWZvcnRhYmxlU2xpZGVyQnV0dG9uIgogICAgICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRIb3Jpem9udGFsX2JpYXM9IjAiCiAgICAgICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50Igo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIC8vU2V0IHJlbWVtYmVyZWQgc2VjdGlvbiBmcm9tIGxhc3QgdGltZSwgaWYgaXQgZXhpc3RzIGluIG5ldyBkYXRhIHNldAogICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9TZXQgcmVtZW1iZXJlZCBzZWN0aW9uIGZyb20gbGFzdCB0aW1lLCBpZiBpdCBleGlzdHMgaW4gbmV3IGRhdGEgc2V0CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YW5kcm9pZHguYXBwY29tcGF0LndpZGdldC5BcHBDb21wYXRUZXh0VmlldwogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2NvbWZvcnRhYmxlU2xpZGVyU3VidGl0bGUyIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL0hPV19DT01GT1JUQUJMRV9JU19USEVfUk9PTSIKICAgICAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW5lZFdpZHRoPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9TdGFydE9mPSJAaWQvY29tZm9ydGFibGVTbGlkZXJCdXR0b24iCiAgICAgICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEhvcml6b250YWxfYmlhcz0iMCIKICAgICAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6Zm9udEZhbWlseT0iQGZvbnQvbGF0b19ib2xkIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3ByaW1hcnlUZXh0Q29sb3IiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjE2c3AiCiAgICAgICAgICAgICAgICAgICAgICAgIC8+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWN0aW9uU3Bpbm5lci5zZWxlYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxNmRwIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgdmFsIFNMRUNURURfU0VDVElPTl9LRVkgPSAiU0xFQ1RFRF9TRUNUSU9OX0tFWSIgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxNmRwIgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9jb21mb3J0YWJsZVNsaWRlclRpdGxlIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIExpYnJhcnkgZm9yIHZpZXdpbmcgaW1hZ2VzCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmdpdGh1Yi5zdGZhbGNvbjpzdGZhbGNvbi1pbWFnZXZpZXdlcjowLjEuMCc=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZT0iIgo=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
