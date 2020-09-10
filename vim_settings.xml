@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>subitle</entry>
         <entry>subtitle</entry>
         <entry>onactivityresult</entry>
         <entry>conditionslink</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>androi-view</entry>
         <entry>views</entry>
+        <entry encoding="base64">XDxTZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist extract</entry>
@@ -129,12 +129,11 @@
       <file name="/fragment.kt" timestamp="1599742778746">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/main/MainActivity.kt" timestamp="1599745419244" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaResponse.kt" timestamp="1599566391478">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="18" />
-        <mark key="^" line="21" column="18" />
-        <mark key="." line="21" column="17" />
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/main/MainActivity.kt" timestamp="1599746216250">
+        <mark key="[" line="171" column="45" />
+        <mark key="]" line="171" column="45" />
+        <mark key="." line="171" column="44" />
+        <mark key="^" line="171" column="45" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/VListWidget.kt" timestamp="1599571818838">
         <mark key="[" line="49" column="50" />
@@ -163,6 +162,9 @@
         <mark key="]" line="293" column="28" />
         <mark key="." line="293" column="28" />
       </file>
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/login/LoginActivity.kt" timestamp="1599746397424">
+        <mark key="[" line="92" column="25" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/NavigationArgs.kt" timestamp="1599572440713">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="23" />
@@ -178,6 +180,9 @@
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="28" />
       </file>
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/main/MainViewModel.kt" timestamp="1599746243570">
+        <mark key="[" line="56" column="35" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Pages.kt" timestamp="1599645564836">
         <mark key="[" line="30" column="42" />
         <mark key="]" line="30" column="42" />
@@ -190,9 +195,6 @@
         <mark key="^" line="107" column="64" />
         <mark key="." line="107" column="63" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/interfaces/IDataProviderService.kt" timestamp="1599569267188">
-        <mark key="[" line="17" column="26" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1599572196604">
         <mark key="[" line="195" column="39" />
         <mark key="]" line="193" column="16" />
@@ -200,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="40" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
       <jump line="172" column="9" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
       <jump line="173" column="4" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
       <jump line="94" column="12" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
@@ -300,6 +301,7 @@
       <jump line="89" column="8" filename="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/MainActivity.kt" />
       <jump line="23" column="108" filename="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/view/FavoritesFragment.kt" />
       <jump line="171" column="66" filename="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" />
+      <jump line="165" column="14" filename="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/main/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,49 +310,49 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>loadImage</text>
+        <text>it</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>loadImage</text>
+        <text>it</text>
       </register>
       <register name="/" type="4">
-        <text>views</text>
+        <text encoding="base64">XDxTZXRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIExpYnJhcnkgZm9yIHZpZXdpbmcgaW1hZ2VzCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmdpdGh1Yi5zdGZhbGNvbjpzdGZhbGNvbi1pbWFnZXZpZXdlcjoxLjAuMScK</text>
+      <register name="0" type="4">
+        <text>SLECTED_SECTION_KEY</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0ICE9IC0xKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIExpYnJhcnkgZm9yIHZpZXdpbmcgaW1hZ2VzCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmdpdGh1Yi5zdGZhbGNvbjpzdGZhbGNvbi1pbWFnZXZpZXdlcjowLjEuMCc=</text>
+        <text encoding="base64">ICAgICAgICBsYXN0U2VjdGlvbj8ubGV0IHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci5kKHRoaXMudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIC8vU2V0IHJlbWVtYmVyZWQgc2VjdGlvbiBmcm9tIGxhc3QgdGltZSwgaWYgaXQgZXhpc3RzIGluIG5ldyBkYXRhIHNldAogICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9TZXQgcmVtZW1iZXJlZCBzZWN0aW9uIGZyb20gbGFzdCB0aW1lLCBpZiBpdCBleGlzdHMgaW4gbmV3IGRhdGEgc2V0CiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWN0aW9uU3Bpbm5lci5zZWxlYwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdmFsIFNMRUNURURfU0VDVElPTl9LRVkgPSAiU0xFQ1RFRF9TRUNUSU9OX0tFWSIgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci5kKHRoaXMudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCiAgICAgICAgTUFDb3JlSnNvbi5tYWtlQXBwKCkK</text>
+        <text encoding="base64">ICAgIC8vIExpYnJhcnkgZm9yIHZpZXdpbmcgaW1hZ2VzCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmdpdGh1Yi5zdGZhbGNvbjpzdGZhbGNvbi1pbWFnZXZpZXdlcjowLjEuMCc=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
@@ -359,12 +361,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>views</last-search>
+      <last-search encoding="base64">XDxTZXRcPg==</last-search>
       <last-offset />
-      <last-pattern>views</last-pattern>
+      <last-pattern encoding="base64">XDxTZXRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxEaWFsb2dGcmFnbWVuy5x0U2V0QWdlXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
