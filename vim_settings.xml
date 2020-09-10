@@ -121,6 +121,11 @@
         <mark key="^" line="30" column="42" />
         <mark key="." line="30" column="41" />
       </file>
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/build.gradle" timestamp="1599744684226">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+      </file>
       <file name="/fragment.kt" timestamp="1599742778746">
         <mark key="[" line="0" column="0" />
       </file>
@@ -137,12 +142,17 @@
         <mark key="^" line="49" column="50" />
         <mark key="." line="49" column="49" />
       </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/view/SliderView.kt" timestamp="1599743052750">
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/view/SliderView.kt" timestamp="1599743861773">
         <mark key="[" line="79" column="34" />
-        <mark key="]" line="80" column="5" />
-        <mark key="." line="79" column="0" />
+        <mark key="]" line="82" column="41" />
+        <mark key="." line="82" column="40" />
+        <mark key="^" line="82" column="41" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" timestamp="1599567009943">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1599744661644">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="124" column="67" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" timestamp="1599744599573">
         <mark key="[" line="123" column="26" />
         <mark key="]" line="123" column="26" />
         <mark key="." line="123" column="26" />
@@ -293,7 +303,7 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWRpdFRleHQuc2V0VGV4dChzZWVrQmFyISEucHJvZ3Jlc3MudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -305,37 +315,37 @@
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWRpdFRleHQuc2V0VGV4dChzZWVrQmFyISEucHJvZ3Jlc3MudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">ICAgIC8vIExpYnJhcnkgZm9yIHZpZXdpbmcgaW1hZ2VzCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmdpdGh1Yi5zdGZhbGNvbjpzdGZhbGNvbi1pbWFnZXZpZXdlcjoxLjAuMScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci5kKHRoaXMudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">ICAgIC8vIExpYnJhcnkgZm9yIHZpZXdpbmcgaW1hZ2VzCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmdpdGh1Yi5zdGZhbGNvbjpzdGZhbGNvbi1pbWFnZXZpZXdlcjowLjEuMCc=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRpbWJlci5kKHRoaXMudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci5kKHRoaXMudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCiAgICAgICAgTUFDb3JlSnNvbi5tYWtlQXBwKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCiAgICAgICAgTUFDb3JlSnNvbi5tYWtlQXBwKHRoaXMsICk=</text>
+        <text encoding="base64">ICAgIFRpbWJlci5kKHRoaXMudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNQUNvcmVKc29uLmdldEpzb25Gcm9tRmlsZSgidmVnYW5zay5qc29uIiwgdGhpcykKICAgICAgICBNQUNvcmVKc29uLm1ha2VBcHAodGhpcywgKQ==</text>
+        <text encoding="base64">CiAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCiAgICAgICAgTUFDb3JlSnNvbi5tYWtlQXBwKCkK</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
