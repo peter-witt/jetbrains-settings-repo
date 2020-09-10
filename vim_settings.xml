@@ -121,6 +121,10 @@
         <mark key="^" line="30" column="42" />
         <mark key="." line="30" column="41" />
       </file>
+      <file name="/fragment.kt" timestamp="1599742778746">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/main/MainActivity.kt" timestamp="1599742558996" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaResponse.kt" timestamp="1599566391478">
         <mark key="[" line="21" column="17" />
         <mark key="]" line="21" column="18" />
@@ -132,6 +136,11 @@
         <mark key="]" line="49" column="50" />
         <mark key="^" line="49" column="50" />
         <mark key="." line="49" column="49" />
+      </file>
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/view/SliderView.kt" timestamp="1599743052750">
+        <mark key="[" line="79" column="34" />
+        <mark key="]" line="80" column="5" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" timestamp="1599567009943">
         <mark key="[" line="123" column="26" />
@@ -283,20 +292,20 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWRpdFRleHQuc2V0VGV4dChzZWVrQmFyISEucHJvZ3Jlc3MudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>views</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWRpdFRleHQuc2V0VGV4dChzZWVrQmFyISEucHJvZ3Jlc3MudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
