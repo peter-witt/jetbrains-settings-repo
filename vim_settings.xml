@@ -112,9 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1599572409434">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1599657379237">
         <mark key="[" line="27" column="30" />
         <mark key="]" line="30" column="42" />
@@ -134,6 +131,11 @@
         <mark key="'" line="387" column="0" />
         <mark key="[" line="387" column="0" />
         <mark key="]" line="463" column="11" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/json/MACoreJson.kt" timestamp="1599813792660">
+        <mark key="[" line="85" column="80" />
+        <mark key="]" line="85" column="80" />
+        <mark key="." line="85" column="80" />
       </file>
       <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/main/MainActivity.kt" timestamp="1599749706418">
         <mark key="[" line="171" column="69" />
@@ -166,14 +168,14 @@
       <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/login/LoginActivity.kt" timestamp="1599746397424">
         <mark key="[" line="92" column="25" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/NavigationArgs.kt" timestamp="1599572440713">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="23" />
-        <mark key="^" line="23" column="23" />
-        <mark key="." line="23" column="22" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Compilation.kt" timestamp="1599657504946">
         <mark key="[" line="12" column="33" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1599813838616">
+        <mark key="[" line="379" column="24" />
+        <mark key="]" line="379" column="24" />
+        <mark key="." line="379" column="24" />
+        <mark key="^" line="305" column="28" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Page.kt" timestamp="1599657470804">
         <mark key="[" line="18" column="37" />
@@ -187,22 +189,12 @@
         <mark key="]" line="57" column="40" />
         <mark key="." line="57" column="40" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Pages.kt" timestamp="1599645564836">
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="30" column="42" />
-        <mark key="^" line="30" column="42" />
-        <mark key="." line="30" column="41" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreDataProviderService.kt" timestamp="1599656521691">
-        <mark key="[" line="99" column="61" />
-        <mark key="]" line="107" column="64" />
-        <mark key="^" line="107" column="64" />
-        <mark key="." line="107" column="63" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1599572196604">
-        <mark key="[" line="195" column="39" />
-        <mark key="]" line="193" column="16" />
-        <mark key="." line="193" column="16" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1599814029948" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/queries/Items.kt" timestamp="1599813762584" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1599813855183">
+        <mark key="[" line="324" column="24" />
+        <mark key="]" line="324" column="24" />
+        <mark key="." line="324" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -313,14 +305,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICJjZWxsQ29uZmlnIjogewogICAgICAgICAgICAiaW5zdGFuY2VUeXBlIjogIlRpdGxlU3VidGl0bGVUYWdJbWFnZUNlbGxXaWRnZXQiLAogICAgICAgICAgICAiY29udGVudENvbmZpZyI6IHsKICAgICAgICAgICAgICAiaW5zdGFuY2VUeXBlIjogIlRpdGxlU3VidGl0bGVUYWdJbWFnZVdpZGdldCIsCiAgICAgICAgICAgICAgInRpdGxlVGV4dCI6IHsKICAgICAgICAgICAgICAgICJpbnN0YW5jZVR5cGUiOiAiVGV4dFdpZGdldCIsCiAgICAgICAgICAgICAgICAibWF4TGluZXMiOiAzLAogICAgICAgICAgICAgICAgInRleHRBbGlnbm1lbnQiOiAibGVmdCIsCiAgICAgICAgICAgICAgICAidGV4dCI6IHsKICAgICAgICAgICAgICAgICAgInR5cGUiOiAiZGF0YSIsCiAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJ0aXRsZSIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAiYm94Q29uZmlnIjogewogICAgICAgICAgICAgICAgICAiaW5zdGFuY2VUeXBlIjogIkJveFdpZGdldCIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICJ0aXRsZUJhY2tncm91bmRCb3giOiB7CiAgICAgICAgICAgICAgICAiYmFja2dyb3VuZENvbG9yIjogIiNFNkZGRkRGQSIsCiAgICAgICAgICAgICAgICAiaW5zdGFuY2VUeXBlIjogIkJveFdpZGdldCIKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICJ0YWdUZXh0IjogewogICAgICAgICAgICAgICAgImluc3RhbmNlVHlwZSI6ICJUZXh0V2lkZ2V0IiwKICAgICAgICAgICAgICAgICJ0ZXh0Q29sb3IiOiAiI0ZGRkZGRiIsCiAgICAgICAgICAgICAgICAidGV4dCI6IHsKICAgICAgICAgICAgICAgICAgInR5cGUiOiAiZGF0YSIsCiAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJzaG9ydFRpdGxlIgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICJib3hDb25maWciOiB7CiAgICAgICAgICAgICAgICAgICJiYWNrZ3JvdW5kQ29sb3IiOiAiIzMxMzEzMSIsCiAgICAgICAgICAgICAgICAgICJpbnN0YW5jZVR5cGUiOiAiQm94V2lkZ2V0IgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgInN1YnRpdGxlVGV4dCI6IHsKICAgICAgICAgICAgICAgICJpbnN0YW5jZVR5cGUiOiAiVGV4dFdpZGdldCIsCiAgICAgICAgICAgICAgICAidGV4dCI6IHsKICAgICAgICAgICAgICAgICAgInR5cGUiOiAiZGF0YSIsCiAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJzdWJ0aXRsZSIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAiYm94Q29uZmlnIjogewogICAgICAgICAgICAgICAgICAiaW5zdGFuY2VUeXBlIjogIkJveFdpZGdldCIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICJiYWNrZ3JvdW5kSW1hZ2UiOiB7CiAgICAgICAgICAgICAgICAiaW5zdGFuY2VUeXBlIjogIkltYWdlV2lkZ2V0IiwKICAgICAgICAgICAgICAgICJ0eXBlIjogInVybCIsCiAgICAgICAgICAgICAgICAiYm94Q29uZmlnIjogewogICAgICAgICAgICAgICAgICAiaW5zdGFuY2VUeXBlIjogIkJveFdpZGdldCIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAic291cmNlIjogewogICAgICAgICAgICAgICAgICAiaW5zdGFuY2VUeXBlIjogIlN0YXRpY0ltYWdlU291cmNlIiwKICAgICAgICAgICAgICAgICAgInNvdXJjZSI6IHsKICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJkYXRhIiwKICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiaW1hZ2VzIgogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAiYmFja2dyb3VuZEJveCI6IHsKICAgICAgICAgICAgICAgICJpbnN0YW5jZVR5cGUiOiAiQm94V2lkZ2V0IiwKICAgICAgICAgICAgICAgICJvbkNsaWNrRXZlbnQiOiB7CiAgICAgICAgICAgICAgICAgICJpbnN0YW5jZVR5cGUiOiAiTmF2aWdhdGlvbkV2ZW50SGFuZGxlciIsCiAgICAgICAgICAgICAgICAgICJuYXZpZ2F0aW9uQXJncyI6IHsKICAgICAgICAgICAgICAgICAgICAidGFyZ2V0IjogImNvbXBpbGF0aW9uIiwKICAgICAgICAgICAgICAgICAgICAic2NyZWVuVGl0bGUiOiB7CiAgICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJkYXRhIiwKICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJzaG9ydFRpdGxlIgogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgInF1ZXJ5IjogewogICAgICAgICAgICAgICAgICAgICAgImluc3RhbmNlVHlwZSI6ICJJdGVtcyIsCiAgICAgICAgICAgICAgICAgICAgICAicXVlcnkiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICJpbnN0YW5jZVR5cGUiOiAiSXRlbXNPZkNvbXBpbGF0aW9uIgogICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>queryCollection</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>trackcolo</text>
+        <text>queryCollection</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
