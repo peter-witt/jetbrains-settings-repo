@@ -121,7 +121,6 @@
         <mark key="^" line="30" column="42" />
         <mark key="." line="30" column="41" />
       </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/res/values/styles.xml" timestamp="1599750933055" />
       <file name="$USER_HOME$/Makeable/common-sense-android/app/build.gradle" timestamp="1599749753464">
         <mark key="[" line="78" column="58" />
         <mark key="]" line="78" column="58" />
@@ -153,11 +152,11 @@
         <mark key="." line="123" column="26" />
         <mark key="^" line="111" column="25" />
       </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/res/layout/activity_sub_location_detail.xml" timestamp="1599751389878">
-        <mark key="[" line="393" column="45" />
-        <mark key="]" line="421" column="64" />
-        <mark key="." line="421" column="63" />
-        <mark key="^" line="421" column="64" />
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/res/layout/activity_sub_location_detail.xml" timestamp="1599807956256">
+        <mark key="[" line="390" column="28" />
+        <mark key="]" line="390" column="28" />
+        <mark key="." line="390" column="28" />
+        <mark key="^" line="390" column="37" />
       </file>
       <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/login/LoginActivity.kt" timestamp="1599746397424">
         <mark key="[" line="92" column="25" />
@@ -308,14 +307,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCg==</text>
+      <register name="&quot;" type="4">
+        <text>trackcolo</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>NOT_AT_ALL</text>
+        <text>trackcolo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
