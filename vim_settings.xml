@@ -146,7 +146,11 @@
         <mark key="." line="379" column="24" />
         <mark key="^" line="305" column="28" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/ImageWidget.kt" timestamp="1600073258956" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/ImageWidget.kt" timestamp="1600084188036">
+        <mark key="[" line="51" column="69" />
+        <mark key="]" line="51" column="69" />
+        <mark key="." line="51" column="69" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/TitleRatingTagImageWidget.kt" timestamp="1600075201875" />
     </filemarks>
     <jumps>
@@ -257,14 +261,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCB0ZXh0VmVydGljYWxBbGlnbm1lbnQ6IFZlcnRpY2FsQWxpZ25tZW50Pwo=</text>
+      <register name="&quot;" type="4">
+        <text>CENTER_CROP</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>queryCollection</text>
+        <text>CENTER_CROP</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
