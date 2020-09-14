@@ -112,57 +112,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/build.gradle" timestamp="1599749753464">
-        <mark key="[" line="78" column="58" />
-        <mark key="]" line="78" column="58" />
-        <mark key="." line="78" column="58" />
-        <mark key="^" line="78" column="44" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/json/MACoreJson.kt" timestamp="1599813792660">
         <mark key="[" line="85" column="80" />
         <mark key="]" line="85" column="80" />
         <mark key="." line="85" column="80" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/mok.json" timestamp="1599810752057">
-        <mark key="'" line="387" column="0" />
-        <mark key="[" line="387" column="0" />
-        <mark key="]" line="463" column="11" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/ImageScaleMode.kt" timestamp="1600073407111" />
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/main/MainActivity.kt" timestamp="1599816176469">
-        <mark key="[" line="171" column="69" />
-        <mark key="]" line="170" column="47" />
-        <mark key="." line="170" column="46" />
-        <mark key="^" line="170" column="47" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1599749767122">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="124" column="67" />
-      </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/res/layout/activity_sub_location_detail.xml" timestamp="1599807956256">
-        <mark key="[" line="390" column="28" />
-        <mark key="]" line="390" column="28" />
-        <mark key="." line="390" column="28" />
-        <mark key="^" line="390" column="37" />
-      </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/login/LoginActivity.kt" timestamp="1599746397424">
-        <mark key="[" line="92" column="25" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppConfig.kt" timestamp="1600067372437">
         <mark key="[" line="36" column="127" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1600069592921">
-        <mark key="[" line="379" column="24" />
-        <mark key="]" line="379" column="24" />
-        <mark key="." line="379" column="24" />
-        <mark key="^" line="305" column="28" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/widget_title_small_image.xml" timestamp="1600075381648" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/FavoriteAndRatingWidget.kt" timestamp="1600074987280">
+        <mark key="[" line="43" column="41" />
       </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/main/MainViewModel.kt" timestamp="1599746782573">
-        <mark key="[" line="57" column="40" />
-        <mark key="]" line="57" column="40" />
-        <mark key="." line="57" column="40" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/ImageWidget.kt" timestamp="1600073258956" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/ImageSourceType.kt" timestamp="1600073419801" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Category.kt" timestamp="1599829864857">
         <mark key="[" line="14" column="29" />
@@ -172,6 +134,21 @@
         <mark key="]" line="324" column="24" />
         <mark key="." line="324" column="24" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/TitleSubtitleTagImageWidget.kt" timestamp="1600075206924" />
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/main/MainActivity.kt" timestamp="1599816176469">
+        <mark key="[" line="171" column="69" />
+        <mark key="]" line="170" column="47" />
+        <mark key="." line="170" column="46" />
+        <mark key="^" line="170" column="47" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1600074855902">
+        <mark key="[" line="379" column="24" />
+        <mark key="]" line="379" column="24" />
+        <mark key="." line="379" column="24" />
+        <mark key="^" line="305" column="28" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/ImageWidget.kt" timestamp="1600073258956" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/TitleRatingTagImageWidget.kt" timestamp="1600075201875" />
     </filemarks>
     <jumps>
       <jump line="173" column="4" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
