@@ -152,10 +152,11 @@
         <mark key="." line="133" column="40" />
         <mark key="^" line="133" column="41" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/ImageWidget.kt" timestamp="1600162373248">
-        <mark key="[" line="146" column="6" />
-        <mark key="]" line="146" column="7" />
-        <mark key="." line="146" column="7" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/ImageWidget.kt" timestamp="1600166176887">
+        <mark key="[" line="146" column="20" />
+        <mark key="]" line="146" column="5" />
+        <mark key="." line="146" column="4" />
+        <mark key="^" line="146" column="5" />
       </file>
       <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/network/CommonSenseService.kt" timestamp="1600158522220">
         <mark key="[" line="145" column="0" />
