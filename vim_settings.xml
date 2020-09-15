@@ -118,12 +118,7 @@
         <mark key="^" line="53" column="94" />
         <mark key="." line="53" column="93" />
       </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/main/MainActivity.kt" timestamp="1599816176469">
-        <mark key="[" line="171" column="69" />
-        <mark key="]" line="170" column="47" />
-        <mark key="." line="170" column="46" />
-        <mark key="^" line="170" column="47" />
-      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/GradientWidget.kt" timestamp="1600176929525" />
       <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/network/model/Pleasantness.kt" timestamp="1600158334048">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="23" />
