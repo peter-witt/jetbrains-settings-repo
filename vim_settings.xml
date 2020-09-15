@@ -112,6 +112,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/BoxWidget.kt" timestamp="1600167592678">
+        <mark key="[" line="53" column="94" />
+        <mark key="]" line="53" column="94" />
+        <mark key="^" line="53" column="94" />
+        <mark key="." line="53" column="93" />
+      </file>
       <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/main/MainActivity.kt" timestamp="1599816176469">
         <mark key="[" line="171" column="69" />
         <mark key="]" line="170" column="47" />
@@ -179,11 +185,6 @@
       <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/network/model/School.kt" timestamp="1600158054248" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Category.kt" timestamp="1599829864857">
         <mark key="[" line="14" column="29" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1599813855183">
-        <mark key="[" line="324" column="24" />
-        <mark key="]" line="324" column="24" />
-        <mark key="." line="324" column="24" />
       </file>
     </filemarks>
     <jumps>
