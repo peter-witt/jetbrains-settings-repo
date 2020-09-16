@@ -120,6 +120,7 @@
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="UsageGrouping.DirectoryStructure" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt v" />
