@@ -112,7 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/build.gradle" timestamp="1600240123739">
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/build.gradle" timestamp="1600240551144">
         <mark key="[" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/BoxWidget.kt" timestamp="1600167592678">
@@ -127,10 +127,10 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/res/layout/activity_sub_location_detail.xml" timestamp="1600160806233">
-        <mark key="[" line="396" column="58" />
-        <mark key="]" line="314" column="55" />
-        <mark key="." line="314" column="54" />
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/res/layout/activity_sub_location_detail.xml" timestamp="1600240722773">
+        <mark key="[" line="366" column="46" />
+        <mark key="]" line="366" column="46" />
+        <mark key="." line="366" column="46" />
         <mark key="^" line="314" column="55" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppConfig.kt" timestamp="1600067372437">
@@ -291,14 +291,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>HOW_COMFORTABLE_IS_THE_ROOM</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>0dp</text>
+        <text>HOW_COMFORTABLE_IS_THE_ROOM</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
