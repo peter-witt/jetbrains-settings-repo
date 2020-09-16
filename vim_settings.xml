@@ -117,6 +117,9 @@
         <mark key="]" line="15" column="32" />
         <mark key="." line="15" column="32" />
       </file>
+      <file name="/fragment.kt" timestamp="1600254276444">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/BoxWidget.kt" timestamp="1600167592678">
         <mark key="[" line="53" column="94" />
         <mark key="]" line="53" column="94" />
@@ -172,7 +175,7 @@
         <mark key="." line="139" column="35" />
         <mark key="^" line="139" column="36" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1600164819237">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1600254449825">
         <mark key="[" line="279" column="21" />
         <mark key="]" line="279" column="29" />
         <mark key="." line="279" column="29" />
@@ -190,6 +193,7 @@
         <mark key="^" line="15" column="46" />
         <mark key="." line="15" column="45" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/TextWidget.kt" timestamp="1600254392997" />
     </filemarks>
     <jumps>
       <jump line="94" column="12" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
