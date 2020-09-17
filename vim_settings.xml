@@ -144,6 +144,7 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="4" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirebaseMessagingNotificationService.kt" timestamp="1600341818899" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppConfig.kt" timestamp="1600067372437">
         <mark key="[" line="36" column="127" />
       </file>
