@@ -138,8 +138,11 @@
         <mark key="." line="366" column="46" />
         <mark key="^" line="314" column="55" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/models/FirestoreCategory.kt" timestamp="1600250418294">
-        <mark key="[" line="14" column="13" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/models/FirestoreCategory.kt" timestamp="1600338987811">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="4" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppConfig.kt" timestamp="1600067372437">
         <mark key="[" line="36" column="127" />
