@@ -185,11 +185,12 @@
         <mark key="." line="139" column="35" />
         <mark key="^" line="139" column="36" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1600254449825">
-        <mark key="[" line="279" column="21" />
-        <mark key="]" line="279" column="29" />
-        <mark key="." line="279" column="29" />
-        <mark key="^" line="742" column="15" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreDataProviderService.kt" timestamp="1600428552490" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1600428667656">
+        <mark key="[" line="360" column="31" />
+        <mark key="]" line="359" column="25" />
+        <mark key="." line="359" column="25" />
+        <mark key="^" line="743" column="15" />
       </file>
       <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/network/CommonSenseAPI.kt" timestamp="1600157463411">
         <mark key="[" line="30" column="61" />
@@ -318,14 +319,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ratingBar</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>HOW_COMFORTABLE_IS_THE_ROOM</text>
+        <text>ratingBar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
