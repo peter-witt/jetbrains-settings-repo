@@ -118,18 +118,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/main/MainActivity.kt" timestamp="1599816176469">
-        <mark key="[" line="171" column="69" />
-        <mark key="]" line="170" column="47" />
-        <mark key="." line="170" column="46" />
-        <mark key="^" line="170" column="47" />
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/build.gradle" timestamp="1600241765901">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/network/model/Pleasantness.kt" timestamp="1600157370159">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="14" />
+      <file name="/fragment.kt" timestamp="1600254276444">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/BoxWidget.kt" timestamp="1600167592678">
+        <mark key="[" line="53" column="94" />
+        <mark key="]" line="53" column="94" />
+        <mark key="^" line="53" column="94" />
+        <mark key="." line="53" column="93" />
+      </file>
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/network/model/Pleasantness.kt" timestamp="1600158334048">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/res/layout/activity_sub_location_detail.xml" timestamp="1600240722773">
+        <mark key="[" line="366" column="46" />
+        <mark key="]" line="366" column="46" />
+        <mark key="." line="366" column="46" />
+        <mark key="^" line="314" column="55" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/models/FirestoreCategory.kt" timestamp="1600338987811">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirebaseMessagingNotificationService.kt" timestamp="1600341818899" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppConfig.kt" timestamp="1600067372437">
         <mark key="[" line="36" column="127" />
       </file>
@@ -146,25 +167,47 @@
         <mark key="." line="379" column="24" />
         <mark key="^" line="305" column="28" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/ImageWidget.kt" timestamp="1600084188036">
-        <mark key="[" line="51" column="69" />
-        <mark key="]" line="51" column="69" />
-        <mark key="." line="51" column="69" />
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/detail/SubLocationDetailActivity.kt" timestamp="1600159804983">
+        <mark key="[" line="134" column="21" />
+        <mark key="]" line="133" column="41" />
+        <mark key="." line="133" column="40" />
+        <mark key="^" line="133" column="41" />
       </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/network/CommonSenseAPI.kt" timestamp="1600157061789">
-        <mark key="[" line="27" column="119" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/ImageWidget.kt" timestamp="1600166176887">
+        <mark key="[" line="146" column="20" />
+        <mark key="]" line="146" column="5" />
+        <mark key="." line="146" column="4" />
+        <mark key="^" line="146" column="5" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Category.kt" timestamp="1599829864857">
-        <mark key="[" line="14" column="29" />
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/network/CommonSenseService.kt" timestamp="1600158522220">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="139" column="36" />
+        <mark key="." line="139" column="35" />
+        <mark key="^" line="139" column="36" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1599813855183">
-        <mark key="[" line="324" column="24" />
-        <mark key="]" line="324" column="24" />
-        <mark key="." line="324" column="24" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1600254449825">
+        <mark key="[" line="279" column="21" />
+        <mark key="]" line="279" column="29" />
+        <mark key="." line="279" column="29" />
+        <mark key="^" line="742" column="15" />
+      </file>
+      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/network/CommonSenseAPI.kt" timestamp="1600157463411">
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="30" column="59" />
+        <mark key="^" line="30" column="46" />
+        <mark key="." line="30" column="46" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Category.kt" timestamp="1600250442524">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+        <mark key="." line="15" column="45" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1600341793283">
+        <mark key="[" line="320" column="68" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="4" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
       <jump line="94" column="12" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
       <jump line="89" column="42" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
       <jump line="47" column="54" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/epoxy_model_tracker_cell.xml" />
@@ -264,6 +307,7 @@
       <jump line="171" column="66" filename="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" />
       <jump line="165" column="14" filename="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/main/MainActivity.kt" />
       <jump line="387" column="0" filename="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/mok.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/network/model/Pleasantness.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -271,50 +315,50 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>CENTER_CROP</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>CENTER_CROP</text>
+        <text>HOW_COMFORTABLE_IS_THE_ROOM</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCB0ZXh0VmVydGljYWxBbGlnbm1lbnQ6IFZlcnRpY2FsQWxpZ25tZW50Pwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VmlldwogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NlcGFyYXRvcjEiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMWRwIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMTZkcCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxNmRwIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjE2ZHAiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2NvbG9yU2VwZXJhdG9yIgogICAgICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvU3RhcnRPZj0iQGlkL2NvbWZvcnRhYmxlU2xpZGVyQnV0dG9uIgogICAgICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRIb3Jpem9udGFsX2JpYXM9IjAiCiAgICAgICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbk5hbWUgIjEuMCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiYm90dG9tU2VwYXJhdG9yIjogewogICAgICAgICAgICAgICAgImJhY2tncm91bmRDb2xvciI6ICIjNDE0MDQyNEEiCiAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YW5kcm9pZHguYXBwY29tcGF0LndpZGdldC5BcHBDb21wYXRUZXh0VmlldwogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2NvbWZvcnRhYmxlU2xpZGVyU3VidGl0bGUyIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL0hPV19DT01GT1JUQUJMRV9JU19USEVfUk9PTSIKICAgICAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW5lZFdpZHRoPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9TdGFydE9mPSJAaWQvY29tZm9ydGFibGVTbGlkZXJCdXR0b24iCiAgICAgICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEhvcml6b250YWxfYmlhcz0iMCIKICAgICAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6Zm9udEZhbWlseT0iQGZvbnQvbGF0b19ib2xkIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3ByaW1hcnlUZXh0Q29sb3IiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjE2c3AiCiAgICAgICAgICAgICAgICAgICAgICAgIC8+</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiYm90dG9tU2VwYXJhdG9yIjogewogICAgICAgICAgICAgICAgImJhY2tncm91bmRDb2xvciI6ICIjNDE0MDQyNEEiCiAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxNmRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VmlldwogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NlcGFyYXRvcjIiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMWRwIgogICAgICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb2xvclNlcGVyYXRvciIKICAgICAgICAgICAgICAgICAgICAgICAgLz4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxNmRwIgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPFZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZXBhcmF0b3IyIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjFkcCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29sb3JTZXBlcmF0b3IiCiAgICAgICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9jb21mb3J0YWJsZVNsaWRlclRpdGxlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVk9Ijc2ZHAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZT0iIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVg9IjIyZHAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
