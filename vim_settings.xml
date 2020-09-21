@@ -155,10 +155,6 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/TitleSubtitleLargeImageWidget.kt" timestamp="1600077136473">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="49" />
-      </file>
       <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/detail/SubLocationDetailActivity.kt" timestamp="1600159804983">
         <mark key="[" line="134" column="21" />
         <mark key="]" line="133" column="41" />
@@ -206,6 +202,7 @@
         <mark key="^" line="15" column="46" />
         <mark key="." line="15" column="45" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/generic/RatingProviderService.kt" timestamp="1600678583162" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1600419436140">
         <mark key="[" line="155" column="30" />
         <mark key="]" line="155" column="30" />
