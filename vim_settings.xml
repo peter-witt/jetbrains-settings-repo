@@ -202,9 +202,9 @@
         <mark key="^" line="15" column="46" />
         <mark key="." line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/generic/RatingProviderService.kt" timestamp="1600680580873">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/generic/RatingProviderService.kt" timestamp="1600682425266">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="83" column="5" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1600419436140">
@@ -323,7 +323,7 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBmdW4gSXRlbS5JdGVtUmF0aW5ncy5hZGRSYXRpbmcocmF0aW5nOiBGbG9hdCwgcHJldlJhdGluZzogRmxvYXQ/KTogSXRlbS5JdGVtUmF0aW5ncyB7CiAgICAgICAgdmFsIG5ld0FjY3VtdWxhdGVkID0gYWNjdW11bGF0ZWRSYXRpbmcgLSAocHJldlJhdGluZyA/OiAwZikgKyByYXRpbmcKICAgICAgICB2YWwgbmV3Q291bnQgPSBudW1iZXJPZlJhdGluZ3MgKyBpZiAocHJldlJhdGluZyA9PSBudWxsKSAxIGVsc2UgMAogICAgICAgIHZhbCBuZXdBdmcgPSBuZXdBY2N1bXVsYXRlZCAvIG5ld0NvdW50CgogICAgICAgIHJldHVybiBJdGVtLkl0ZW1SYXRpbmdzKG5ld0F2ZywgbmV3QWNjdW11bGF0ZWQsIG5ld0NvdW50KQogICAgfQo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -335,7 +335,7 @@
         <text encoding="base64">XDxTZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biByYXRlSXRlbShpdGVtOiBJdGVtLCByYXRpbmc6IEZsb2F0KQogICAgZnVuIGhhc0l0ZW1CZWVuUmF0ZWQoaWQ6IFN0cmluZyk6IEJvb2xlYW4KICAgIGZ1biBnZXRVc2VyUmF0aW5nKGlkOiBTdHJpbmcpOiBSYXRlZEl0ZW0/CiAgICBmdW4gZ2V0UmF0aW5nT3ZlcnJpZGVzKGlkOiBTdHJpbmcsIGl0ZW1SYXRpbmdzOiBJdGVtLkl0ZW1SYXRpbmdzKTogSXRlbS5JdGVtUmF0aW5ncwo=</text>
+        <text encoding="base64">CiAgICBmdW4gSXRlbS5JdGVtUmF0aW5ncy5hZGRSYXRpbmcocmF0aW5nOiBGbG9hdCwgcHJldlJhdGluZzogRmxvYXQ/KTogSXRlbS5JdGVtUmF0aW5ncyB7CiAgICAgICAgdmFsIG5ld0FjY3VtdWxhdGVkID0gYWNjdW11bGF0ZWRSYXRpbmcgLSAocHJldlJhdGluZyA/OiAwZikgKyByYXRpbmcKICAgICAgICB2YWwgbmV3Q291bnQgPSBudW1iZXJPZlJhdGluZ3MgKyBpZiAocHJldlJhdGluZyA9PSBudWxsKSAxIGVsc2UgMAogICAgICAgIHZhbCBuZXdBdmcgPSBuZXdBY2N1bXVsYXRlZCAvIG5ld0NvdW50CgogICAgICAgIHJldHVybiBJdGVtLkl0ZW1SYXRpbmdzKG5ld0F2ZywgbmV3QWNjdW11bGF0ZWQsIG5ld0NvdW50KQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
