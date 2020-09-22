@@ -176,17 +176,16 @@
         <mark key="." line="14" column="34" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/FragmentSections.kt" timestamp="1600765901331" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1600765961087">
-        <mark key="[" line="232" column="22" />
-        <mark key="]" line="232" column="22" />
-        <mark key="." line="232" column="22" />
-        <mark key="^" line="227" column="23" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1600766733058">
+        <mark key="[" line="453" column="34" />
+        <mark key="]" line="455" column="8" />
+        <mark key="." line="455" column="7" />
+        <mark key="^" line="455" column="8" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/activity_main.xml" timestamp="1600765832686">
-        <mark key="[" line="48" column="49" />
-        <mark key="]" line="38" column="33" />
-        <mark key="." line="38" column="32" />
-        <mark key="^" line="38" column="33" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/activity_main.xml" timestamp="1600766104370">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreDataProviderService.kt" timestamp="1600674173627">
         <mark key="[" line="58" column="4" />
@@ -308,14 +307,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>toolbar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>toolbar</text>
+        <text>backButton</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
@@ -324,34 +323,35 @@
         <text encoding="base64">CiAgICBmdW4gSXRlbS5JdGVtUmF0aW5ncy5hZGRSYXRpbmcocmF0aW5nOiBGbG9hdCwgcHJldlJhdGluZzogRmxvYXQ/KTogSXRlbS5JdGVtUmF0aW5ncyB7CiAgICAgICAgdmFsIG5ld0FjY3VtdWxhdGVkID0gYWNjdW11bGF0ZWRSYXRpbmcgLSAocHJldlJhdGluZyA/OiAwZikgKyByYXRpbmcKICAgICAgICB2YWwgbmV3Q291bnQgPSBudW1iZXJPZlJhdGluZ3MgKyBpZiAocHJldlJhdGluZyA9PSBudWxsKSAxIGVsc2UgMAogICAgICAgIHZhbCBuZXdBdmcgPSBuZXdBY2N1bXVsYXRlZCAvIG5ld0NvdW50CgogICAgICAgIHJldHVybiBJdGVtLkl0ZW1SYXRpbmdzKG5ld0F2ZywgbmV3QWNjdW11bGF0ZWQsIG5ld0NvdW50KQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxjb20uZmVyZmFsay5zaW1wbGVzZWFyY2h2aWV3LlNpbXBsZVNlYXJjaFZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iP2F0dHIvYWN0aW9uQmFyU2l6ZSIKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NlYXJjaFZpZXciCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC90b29sYmFyIgogICAgICAgIGFwcDp2b2ljZVNlYXJjaD0iZmFsc2UiCiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL1JlZ3VsYXJUZXh0U3R5bGUuU21hbGwiCiAgICAgICAgYXBwOnR5cGU9ImNhcmQiCiAgICAgICAgYW5kcm9pZDpoaW50PSJAc3RyaW5nL1NFQVJDSCIKICAgICAgICAvPg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoIkNsb3NlIGZhbGNvbiBkaWFsb2ciKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2VhcmNoVmlldy4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2VhcmNoVmlldy5jbGVhckZvY3VzKCkpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXRRdWVyeU1hcHBpbmcocXVlcnk6IENvbGxlY3Rpb25RdWVyeSk6IHN1c3BlbmQgKGRhdGE6IEFueT8pIC0+IEFueQo=</text>
+      <register name="4" type="4">
+        <text>if (searchView.onBackPressed())
+            return</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2gK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbk5hbWUgIjEuMCIK</text>
+        <text encoding="base64">ICAgIDxjb20uZmVyZmFsay5zaW1wbGVzZWFyY2h2aWV3LlNpbXBsZVNlYXJjaFZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iP2F0dHIvYWN0aW9uQmFyU2l6ZSIKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NlYXJjaFZpZXciCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC90b29sYmFyIgogICAgICAgIGFwcDp2b2ljZVNlYXJjaD0iZmFsc2UiCiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL1JlZ3VsYXJUZXh0U3R5bGUuU21hbGwiCiAgICAgICAgYXBwOnR5cGU9ImNhcmQiCiAgICAgICAgYW5kcm9pZDpoaW50PSJAc3RyaW5nL1NFQVJDSCIKICAgICAgICAvPg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoIkNsb3NlIGZhbGNvbiBkaWFsb2ciKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiYm90dG9tU2VwYXJhdG9yIjogewogICAgICAgICAgICAgICAgImJhY2tncm91bmRDb2xvciI6ICIjNDE0MDQyNEEiCiAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiYm90dG9tU2VwYXJhdG9yIjogewogICAgICAgICAgICAgICAgImJhY2tncm91bmRDb2xvciI6ICIjNDE0MDQyNEEiCiAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRRdWVyeU1hcHBpbmcocXVlcnk6IENvbGxlY3Rpb25RdWVyeSk6IHN1c3BlbmQgKGRhdGE6IEFueT8pIC0+IEFueQo=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
