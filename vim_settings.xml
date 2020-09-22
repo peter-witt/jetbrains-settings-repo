@@ -139,12 +139,6 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1600428667656">
-        <mark key="[" line="360" column="31" />
-        <mark key="]" line="359" column="25" />
-        <mark key="." line="359" column="25" />
-        <mark key="^" line="743" column="15" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/generic/RatingProviderService.kt" timestamp="1600685128473">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="83" column="5" />
@@ -165,16 +159,17 @@
         <mark key="." line="14" column="34" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/FragmentSections.kt" timestamp="1600765901331" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1600767535653">
-        <mark key="'" line="303" column="63" />
-        <mark key="[" line="327" column="57" />
-        <mark key="]" line="329" column="0" />
-        <mark key="." line="329" column="0" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1600776951802">
+        <mark key="'" line="304" column="63" />
+        <mark key="[" line="388" column="52" />
+        <mark key="]" line="386" column="8" />
+        <mark key="." line="386" column="7" />
+        <mark key="^" line="386" column="8" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/activity_main.xml" timestamp="1600767637225">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/activity_main.xml" timestamp="1600777353780">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="31" column="43" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreDataProviderService.kt" timestamp="1600674173627">
         <mark key="[" line="58" column="4" />
@@ -187,9 +182,13 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/styles.xml" timestamp="1600774997168">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="42" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
       <jump line="47" column="54" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/epoxy_model_tracker_cell.xml" />
       <jump line="143" column="60" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
       <jump line="149" column="9" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
@@ -289,6 +288,7 @@
       <jump line="387" column="0" filename="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/mok.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/network/model/Pleasantness.kt" />
       <jump line="296" column="63" filename="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" />
+      <jump line="52" column="20" filename="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/activity_main.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -297,46 +297,46 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZvY3VzZWRCeURlZmF1bHQ9ImZhbHNlIgo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50Igo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgdmlld01vZGVsLnVzZXJXYXNTZWFyY2hpbmc=</text>
+        <text>TODO(&quot;Not yet implemented&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VhcmNoVmlldy52aXNpYmlsaXR5ID0gVmlldy5HT05FCg==</text>
+        <text encoding="base64">ICAgICAgICBUcmFuc2l0aW9uTWFuYWdlci5iZWdpbkRlbGF5ZWRUcmFuc2l0aW9uKHNlYXJjaENsb3NlQnV0dG9uQ29udGFpbmVyKQogICAgICAgIHNlYXJjaENsb3NlQnV0dG9uQ29udGFpbmVyLm1heFdpZHRoID0gMjAwLmRwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZvY3VzZWRCeURlZmF1bHQ9ImZhbHNlIgo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6Zm9jdXNhYmxlPSJ0cnVlIgogICAgYW5kcm9pZDpmb2N1c2FibGVJblRvdWNoTW9kZT0idHJ1ZSIKICAgIGFuZHJvaWQ6Zm9jdXNlZEJ5RGVmYXVsdD0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90b29sYmFyIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLnVzZXJXYXNTZWFyY2hpbmcgPSBmYWxzZQogICAgICAgICAgICAgICAgICAgICAgICBzZWFyY2hWaWV3LnNldEtlZXBRdWVyeSh0cnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgIDwvYW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuQ29uc3RyYWludExheW91dD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VhcmNoVmlldy52aXNpYmlsaXR5ID0gVmlldy5HT05FCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iNGRwIgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGNsb3NlU2VhcmNoVmlldygpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
