@@ -126,6 +126,9 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="17" column="40" />
       </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1600774958770">
+        <mark key="[" line="87" column="74" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreCloudFunctionService.kt" timestamp="1600692556459">
         <mark key="[" line="13" column="17" />
       </file>
@@ -135,12 +138,6 @@
         <mark key="]" line="4" column="26" />
         <mark key="." line="4" column="26" />
         <mark key="^" line="8" column="38" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/models/FirestoreCategory.kt" timestamp="1600338987811">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="5" />
-        <mark key="^" line="14" column="5" />
-        <mark key="." line="14" column="4" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1600428667656">
         <mark key="[" line="360" column="31" />
@@ -153,12 +150,6 @@
         <mark key="]" line="83" column="5" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1600419436140">
-        <mark key="[" line="155" column="30" />
-        <mark key="]" line="155" column="30" />
-        <mark key="^" line="155" column="30" />
-        <mark key="." line="155" column="29" />
-      </file>
       <file name="/Dummy.txt" timestamp="1600763591683">
         <mark key="[" line="0" column="0" />
       </file>
@@ -166,6 +157,7 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="87" />
       </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/FragmentSearch.kt" timestamp="1600773545596" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/falcon_overlay.xml" timestamp="1600764834552">
         <mark key="[" line="14" column="34" />
         <mark key="]" line="14" column="34" />
