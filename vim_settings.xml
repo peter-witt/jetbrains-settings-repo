@@ -155,11 +155,11 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1600778809242">
-        <mark key="[" line="421" column="9" />
-        <mark key="]" line="397" column="42" />
-        <mark key="." line="397" column="41" />
-        <mark key="^" line="397" column="42" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1600779508250">
+        <mark key="[" line="397" column="31" />
+        <mark key="]" line="389" column="57" />
+        <mark key="^" line="389" column="57" />
+        <mark key="." line="389" column="56" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreDataProviderService.kt" timestamp="1600674173627">
         <mark key="[" line="58" column="4" />
