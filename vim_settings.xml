@@ -118,6 +118,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/drawable/button_background_shape.xml" timestamp="1600763448167" />
+      <file name="/Dummy.txt" timestamp="1600763591683">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/interfaces/configs.kt" timestamp="1600758578666" />
       <file name="$USER_HOME$/Makeable/common-sense-android/app/build.gradle" timestamp="1600241765901">
         <mark key="[" line="15" column="31" />
@@ -140,11 +144,11 @@
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreCloudFunctionService.kt" timestamp="1600692556459">
         <mark key="[" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/network/model/Pleasantness.kt" timestamp="1600158334048">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="23" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/falcon_overlay.xml" timestamp="1600763790394">
+        <mark key="[" line="10" column="49" />
+        <mark key="]" line="15" column="10" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="15" column="9" />
       </file>
       <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/res/layout/activity_sub_location_detail.xml" timestamp="1600240722773">
         <mark key="[" line="366" column="46" />
@@ -152,29 +156,20 @@
         <mark key="." line="366" column="46" />
         <mark key="^" line="314" column="55" />
       </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/color/button_background_color.xml" timestamp="1600763465972">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="8" column="38" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/models/FirestoreCategory.kt" timestamp="1600338987811">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="5" />
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/detail/SubLocationDetailActivity.kt" timestamp="1600159804983">
-        <mark key="[" line="134" column="21" />
-        <mark key="]" line="133" column="41" />
-        <mark key="." line="133" column="40" />
-        <mark key="^" line="133" column="41" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/ImageWidget.kt" timestamp="1600166176887">
-        <mark key="[" line="146" column="20" />
-        <mark key="]" line="146" column="5" />
-        <mark key="." line="146" column="4" />
-        <mark key="^" line="146" column="5" />
-      </file>
-      <file name="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/network/CommonSenseService.kt" timestamp="1600158522220">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="139" column="36" />
-        <mark key="." line="139" column="35" />
-        <mark key="^" line="139" column="36" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1600763855239">
+        <mark key="[" line="216" column="74" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreDataProviderService.kt" timestamp="1600674173627">
         <mark key="[" line="58" column="4" />
@@ -319,14 +314,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBmdW4gSXRlbS5JdGVtUmF0aW5ncy5hZGRSYXRpbmcocmF0aW5nOiBGbG9hdCwgcHJldlJhdGluZzogRmxvYXQ/KTogSXRlbS5JdGVtUmF0aW5ncyB7CiAgICAgICAgdmFsIG5ld0FjY3VtdWxhdGVkID0gYWNjdW11bGF0ZWRSYXRpbmcgLSAocHJldlJhdGluZyA/OiAwZikgKyByYXRpbmcKICAgICAgICB2YWwgbmV3Q291bnQgPSBudW1iZXJPZlJhdGluZ3MgKyBpZiAocHJldlJhdGluZyA9PSBudWxsKSAxIGVsc2UgMAogICAgICAgIHZhbCBuZXdBdmcgPSBuZXdBY2N1bXVsYXRlZCAvIG5ld0NvdW50CgogICAgICAgIHJldHVybiBJdGVtLkl0ZW1SYXRpbmdzKG5ld0F2ZywgbmV3QWNjdW11bGF0ZWQsIG5ld0NvdW50KQogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>colorAccent</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>override</text>
+        <text>colorAccent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
