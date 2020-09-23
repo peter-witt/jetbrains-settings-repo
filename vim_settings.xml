@@ -156,25 +156,24 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1600782543115">
-        <mark key="[" line="450" column="75" />
-        <mark key="]" line="452" column="28" />
-        <mark key="." line="452" column="27" />
-        <mark key="^" line="452" column="28" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1600843296200">
+        <mark key="[" line="405" column="48" />
+        <mark key="]" line="435" column="0" />
+        <mark key="." line="435" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/activity_main.xml" timestamp="1600781208277">
         <mark key="[" line="55" column="31" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreDataProviderService.kt" timestamp="1600674173627">
-        <mark key="[" line="58" column="4" />
-        <mark key="]" line="58" column="12" />
-        <mark key="." line="58" column="11" />
-        <mark key="^" line="58" column="12" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/epoxy_model_search_item.xml" timestamp="1600783020477">
         <mark key="[" line="56" column="33" />
         <mark key="]" line="56" column="33" />
         <mark key="." line="56" column="33" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1600843187262">
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="51" />
+        <mark key="^" line="37" column="51" />
+        <mark key="." line="37" column="50" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/generic/RatingProviderService.kt" timestamp="1600685128473">
         <mark key="[" line="76" column="0" />
@@ -295,8 +294,8 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>PrimaryTextColor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -311,25 +310,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWFyY2hWaWV3LmNsZWFyRm9jdXMoKQogICAgICAgICAgICAgICAgICAgIHNlYXJjaFZpZXcuc2VhcmNoRWRpdFRleHQucmVxdWVzdEZvY3VzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hWaWV3LmNsZWFzRm9jdXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hWaWV3LnNlYXJjaEVkaXRUZXh0LnBlcmZvcm1DbGljaygpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hDbG9zZUJ1dHRvbkNvbnRhaW5lci5hbmltYXRlKCkuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hWaWV3LmNsZWFzRm9jdXMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hDbG9zZUJ1dHRvbkNvbnRhaW5lci5tYXhXaWR0aCA9IDIwMC5kcAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hWaWV3LnNlYXJjaEVkaXRUZXh0LnBlcmZvcm1DbGljaygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFuc2l0aW9uTWFuYWdlci5iZWdpbkRlbGF5ZWRUcmFuc2l0aW9uKHNlYXJjaFZpZXdDb250YWluZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hDbG9zZUJ1dHRvbkNvbnRhaW5lci5tYXhXaWR0aCA9IDIwMC5kcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFuc2l0aW9uTWFuYWdlci5iZWdpbkRlbGF5ZWRUcmFuc2l0aW9uKGNvbnRhaW5lcikK</text>
+        <text encoding="base64">ICAgICAgICBUcmFuc2l0aW9uTWFuYWdlci5iZWdpbkRlbGF5ZWRUcmFuc2l0aW9uKHNlYXJjaFZpZXdDb250YWluZXIpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -337,8 +336,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICBUcmFuc2l0aW9uU2V0KCkKICAgICAgICAgICAgICAgIC5hZGRUcmFuc2l0aW9uKENoYW5nZUJvdW5kcygpKQogICAgICAgICAgICAgICAgLnNldE9yZGVyaW5nKFRyYW5zaXRpb25TZXQuT1JERVJJTkdfVE9HRVRIRVIpCiAgICAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBUcmFuc2l0aW9uTWFuYWdlci5iZWdpbkRlbGF5ZWRUcmFuc2l0aW9uKGNvbnRhaW5lcikK</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
