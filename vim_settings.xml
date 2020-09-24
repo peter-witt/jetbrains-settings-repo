@@ -118,10 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1600763591683">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/mok.json" timestamp="1600942790718" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_tabbed_widget.xml" timestamp="1600937599798">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -133,6 +129,7 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="17" column="40" />
       </file>
+      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/res/layout/video_player_view.xml" timestamp="1600946103334" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1600846086134">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="21" />
@@ -144,20 +141,13 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreCloudFunctionService.kt" timestamp="1600692556459">
-        <mark key="[" line="13" column="17" />
-      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/mok.json" timestamp="1600942790718" />
+      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/ui/ActivityFullScreenVideoPlayer.kt" timestamp="1600946271112" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/falcon_overlay.xml" timestamp="1600764834552">
         <mark key="[" line="14" column="34" />
         <mark key="]" line="14" column="34" />
         <mark key="^" line="16" column="10" />
         <mark key="." line="14" column="34" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/color/button_background_color.xml" timestamp="1600763465972">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="8" column="38" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1600845839778">
         <mark key="[" line="443" column="0" />
@@ -187,7 +177,8 @@
         <mark key="^" line="37" column="51" />
         <mark key="." line="37" column="50" />
       </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1600945577248">
+      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/res/layout/exo_player_start_overlay.xml" timestamp="1600946111231" />
+      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1600945787891">
         <mark key="[" line="216" column="28" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
