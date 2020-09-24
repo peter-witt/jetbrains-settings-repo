@@ -118,6 +118,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk.android-utils/viewutils/0.2.0/b8a79dc533a39cd1a15b8bd03c297c21f8010088/viewutils-0.2.0-sources.jar!/dk/makeable/viewutils/ViewUtils.kt" timestamp="1600936875840" />
       <file name="/Dummy.txt" timestamp="1600763591683">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,6 +143,7 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="40" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_screen_widget.xml" timestamp="1600936753041" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/firebase/FirestoreCloudFunctionService.kt" timestamp="1600692556459">
         <mark key="[" line="13" column="17" />
       </file>
@@ -162,6 +164,12 @@
         <mark key="]" line="444" column="0" />
         <mark key="." line="443" column="41" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1600936978260">
+        <mark key="[" line="111" column="14" />
+        <mark key="]" line="111" column="14" />
+        <mark key="." line="111" column="13" />
+        <mark key="^" line="111" column="14" />
+      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/activity_main.xml" timestamp="1600781208277">
         <mark key="[" line="55" column="31" />
       </file>
@@ -176,7 +184,6 @@
         <mark key="^" line="37" column="51" />
         <mark key="." line="37" column="50" />
       </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1600934574302" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/service/generic/RatingProviderService.kt" timestamp="1600685128473">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="83" column="5" />
