@@ -129,7 +129,6 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="17" column="40" />
       </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/res/layout/video_player_view.xml" timestamp="1600946103334" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1600846086134">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="21" />
@@ -141,8 +140,6 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/mok.json" timestamp="1600942790718" />
-      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/ui/ActivityFullScreenVideoPlayer.kt" timestamp="1600946424985" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/falcon_overlay.xml" timestamp="1600764834552">
         <mark key="[" line="14" column="34" />
         <mark key="]" line="14" column="34" />
@@ -177,13 +174,12 @@
         <mark key="^" line="37" column="51" />
         <mark key="." line="37" column="50" />
       </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/res/layout/exo_player_start_overlay.xml" timestamp="1600946111231" />
       <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1600946930034">
         <mark key="[" line="216" column="28" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/assets/fitfocus.json" timestamp="1600951062710" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1601020815242" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/styles.xml" timestamp="1600774997168">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="16" />
