@@ -129,6 +129,7 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="17" column="40" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk.android-utils/webviewutils/0.2.0/e3fb1ab1f0de57be3d1667b86192caec6034e929/webviewutils-0.2.0-sources.jar!/dk/makeable/webviewutils/WebViewUtils.kt" timestamp="1601283165908" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1600846086134">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="21" />
@@ -185,7 +186,6 @@
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1601035799933" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/styles.xml" timestamp="1600774997168">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="16" />
