@@ -167,12 +167,11 @@
       <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerObserver.kt" timestamp="1600945419831">
         <mark key="[" line="77" column="50" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/WebViewWidget.kt" timestamp="1601373993944">
-        <mark key="'" line="155" column="61" />
-        <mark key="[" line="155" column="33" />
-        <mark key="]" line="155" column="33" />
-        <mark key="." line="155" column="33" />
-        <mark key="^" line="155" column="29" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/WebViewWidget.kt" timestamp="1601375644779">
+        <mark key="'" line="153" column="61" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1600936978260">
         <mark key="[" line="111" column="14" />
@@ -314,7 +313,7 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8galF1ZXJ5KCJpbWciKS5jbGljayhmdW5jdGlvbiAoZSkgewovLyAgICAgaWYgKGpRdWVyeSh0aGlzKS5wYXJlbnQoKS5pcygnYScpKQovLyAgICAgICAgIGUucHJldmVudERlZmF1bHQoKTsKCi8vICAgICBpZiAodGhpcy5jbGFzc05hbWUgPT0gInJhdGluZyIpCi8vICAgICAgICAgd2luZG93Lk5hdGl2ZS5vblJhdGluZ0NsaWNrKCk7Ci8vICAgICBlbHNlIGlmICh0aGlzLmNsYXNzTmFtZSA9PSAiZmF2b3JpdGUiKQovLyAgICAgICAgIHdpbmRvdy5OYXRpdmUub25GYXZvdGl0ZUNsaWNrKCk7Ci8vICAgICBlbHNlIGlmICh0aGlzLmNsYXNzTmFtZSA9PSAidmlkZW8iKSB7Ci8vICAgICAgICAgd2luZG93Lk5hdGl2ZS5vblZpZGVvQ2xpY2tlZChqUXVlcnkodGhpcykucGFyZW50KCkuYXR0cigiaHJlZiIpKTsKLy8gICAgIH0KLy8gICAgIGVsc2UKLy8gICAgICAgICB3aW5kb3cuTmF0aXZlLm9uSW1hZ2VDbGljayhqUXVlcnkodGhpcykuYXR0cigic3JjIikpOwovLyB9KQoK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -329,22 +328,22 @@
         <text encoding="base64">Ly8gICAgICAgIHRpbWVyLmNhbmNlbCgpCi8vICAgICAgICB0aW1lciA9IFRpbWVyKCkKLy8gICAgICAgIHRpbWVyLnNjaGVkdWxlKHRpbWVyVGFzayB7Ci8vICAgICAgICAgICAgdmlld01vZGVsU2NvcGUubGF1bmNoKERpc3BhdGNoZXJzLklPKSB7Ci8vICAgICAgICAgICAgICAgIHNlYXJjaChxdWVyeSwgbmV0d29ya0F2YWlsYWJsZSkKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9LCBkZWxheSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8galF1ZXJ5KCJpbWciKS5jbGljayhmdW5jdGlvbiAoZSkgewovLyAgICAgaWYgKGpRdWVyeSh0aGlzKS5wYXJlbnQoKS5pcygnYScpKQovLyAgICAgICAgIGUucHJldmVudERlZmF1bHQoKTsKCi8vICAgICBpZiAodGhpcy5jbGFzc05hbWUgPT0gInJhdGluZyIpCi8vICAgICAgICAgd2luZG93Lk5hdGl2ZS5vblJhdGluZ0NsaWNrKCk7Ci8vICAgICBlbHNlIGlmICh0aGlzLmNsYXNzTmFtZSA9PSAiZmF2b3JpdGUiKQovLyAgICAgICAgIHdpbmRvdy5OYXRpdmUub25GYXZvdGl0ZUNsaWNrKCk7Ci8vICAgICBlbHNlIGlmICh0aGlzLmNsYXNzTmFtZSA9PSAidmlkZW8iKSB7Ci8vICAgICAgICAgd2luZG93Lk5hdGl2ZS5vblZpZGVvQ2xpY2tlZChqUXVlcnkodGhpcykucGFyZW50KCkuYXR0cigiaHJlZiIpKTsKLy8gICAgIH0KLy8gICAgIGVsc2UKLy8gICAgICAgICB3aW5kb3cuTmF0aXZlLm9uSW1hZ2VDbGljayhqUXVlcnkodGhpcykuYXR0cigic3JjIikpOwovLyB9KQoK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnBhcmVudEVsZW1lbnQudGFnTmFtZSkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGV2YWx1YXRlSmF2YXNjcmlwdChkZHJlc291cmNlcy5hc3NldHMub3BlbigianF1ZXJ5LmpzIikucmVhZGVyKCkucmVhZFRleHQoKSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInRoaXMiICsgdGhpcykK</text>
+        <text encoding="base64">Ly8galF1ZXJ5KCJpbWciKS5jbGljayhmdW5jdGlvbiAoZSkgewovLyAgICAgaWYgKGpRdWVyeSh0aGlzKS5wYXJlbnQoKS5pcygnYScpKQovLyAgICAgICAgIGUucHJldmVudERlZmF1bHQoKTsKCi8vICAgICBpZiAodGhpcy5jbGFzc05hbWUgPT0gInJhdGluZyIpCi8vICAgICAgICAgd2luZG93Lk5hdGl2ZS5vblJhdGluZ0NsaWNrKCk7Ci8vICAgICBlbHNlIGlmICh0aGlzLmNsYXNzTmFtZSA9PSAiZmF2b3JpdGUiKQovLyAgICAgICAgIHdpbmRvdy5OYXRpdmUub25GYXZvdGl0ZUNsaWNrKCk7Ci8vICAgICBlbHNlIGlmICh0aGlzLmNsYXNzTmFtZSA9PSAidmlkZW8iKSB7Ci8vICAgICAgICAgd2luZG93Lk5hdGl2ZS5vblZpZGVvQ2xpY2tlZChqUXVlcnkodGhpcykucGFyZW50KCkuYXR0cigiaHJlZiIpKTsKLy8gICAgIH0KLy8gICAgIGVsc2UKLy8gICAgICAgICB3aW5kb3cuTmF0aXZlLm9uSW1hZ2VDbGljayhqUXVlcnkodGhpcykuYXR0cigic3JjIikpOwovLyB9KQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImU6ICIgKyBlKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnBhcmVudEVsZW1lbnQudGFnTmFtZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInRoaXMiICsgdGhpcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbWFnZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImU6ICIgKyBlKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -353,10 +352,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJsb2cgdGVzdCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbWFnZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJwcmludCB0ZXN0IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
