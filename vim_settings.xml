@@ -141,12 +141,18 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/assets/makeable_scripts.js" timestamp="1601302789390" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/assets/makeable_scripts.js" timestamp="1601369319596" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/falcon_overlay.xml" timestamp="1600764834552">
         <mark key="[" line="14" column="34" />
         <mark key="]" line="14" column="34" />
         <mark key="^" line="16" column="10" />
         <mark key="." line="14" column="34" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" timestamp="1601369108923">
+        <mark key="'" line="41" column="50" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1600845839778">
         <mark key="[" line="443" column="0" />
@@ -176,9 +182,9 @@
         <mark key="]" line="56" column="33" />
         <mark key="." line="56" column="33" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1600843187262">
-        <mark key="[" line="37" column="47" />
-        <mark key="]" line="37" column="51" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1601368631799">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="59" column="19" />
         <mark key="^" line="37" column="51" />
         <mark key="." line="37" column="50" />
       </file>
@@ -194,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="54" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/epoxy_model_tracker_cell.xml" />
-      <jump line="143" column="60" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
       <jump line="149" column="9" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/java/com/dantracker/app/prof/MainActivity.kt" />
       <jump line="32" column="66" filename="$USER_HOME$/Makeable/dantracker-android/app/src/main/res/layout/view_title_subtitle_image_badge.xml" />
       <jump line="68" column="17" filename="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/MainActivity.kt" />
@@ -294,6 +298,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Makeable/common-sense-android/app/src/main/java/dk/makeable/commonsense/network/model/Pleasantness.kt" />
       <jump line="296" column="63" filename="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" />
       <jump line="52" column="20" filename="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/activity_main.xml" />
+      <jump line="42" column="25" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" />
+      <jump line="41" column="50" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,54 +307,50 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,
-    @SchemaTitle(&quot;Bottom bar rating widget&quot;)
-    val ratingWidget: RatingWidgetConfig?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>showSearch</text>
+        <text>networkAvailable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWFyY2hWaWV3LnNlYXJjaEVkaXRUZXh0LlJlcXVlc3RGb2N1c0FuZFNob3dLZXlib2FyZCgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRpbWVyLmNhbmNlbCgpCi8vICAgICAgICB0aW1lciA9IFRpbWVyKCkKLy8gICAgICAgIHRpbWVyLnNjaGVkdWxlKHRpbWVyVGFzayB7Ci8vICAgICAgICAgICAgdmlld01vZGVsU2NvcGUubGF1bmNoKERpc3BhdGNoZXJzLklPKSB7Ci8vICAgICAgICAgICAgICAgIHNlYXJjaChxdWVyeSwgbmV0d29ya0F2YWlsYWJsZSkKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9LCBkZWxheSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>,
-    @SchemaTitle(&quot;Bottom bar rating widget&quot;)
-    val ratingWidget: RatingWidgetConfig?</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb3BsYQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNlYXJjaEFzeW5jKHF1ZXJ5OiBTdHJpbmc/KSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwgZGVsYXkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJveENvbmZpZyA9IEJveFdpZGdldENvbmZpZygKICAgICAgICAgICAgICAgICAgICBjb3JuZXJSb3VuZGluZyA9IENvcm5lclJhZGl1cyhjaXJjdWxhciA9IHRydWUpCiAgICAgICAgICAgICAgICAp</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGFnZWQpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFsIGFuaW1hdG9yID0gVmFsdWVBbmltYXRvci5vZkludChzZWFyY2hDbG9zZUJ1dHRvbkNvbnRhaW5lci5tYXhXaWR0aCwgNTAuZHApCiAgICAgICAgYW5pbWF0b3IuZHVyYXRpb24gPSA1MDAKICAgICAgICBhbmltYXRvci5pbnRlcnBvbGF0b3IgPSBGYXN0T3V0U2xvd0luSW50ZXJwb2xhdG9yKCkKICAgICAgICBhbmltYXRvci5hZGRVcGRhdGVMaXN0ZW5lciB7CiAgICAgICAgICAgIHNlYXJjaENsb3NlQnV0dG9uQ29udGFpbmVyLm1heFdpZHRoID0gaXQuYW5pbWF0ZWRWYWx1ZSBhcyBJbnQKICAgICAgICB9CiAgICAgICAgYW5pbWF0b3Iuc3RhcnQoKQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdFBhZ2VkTGl2ZURhdGE/LmxldCB7CiAgICAgICAgICAgICAgICBwYWdlZFJlc3VsdHMucmVtb3ZlU291cmNlKGl0KQogICAgICAgICAgICB9CgogICAgICAgICAgICBsYXN0UGFnZWRMaXZlRGF0YSA9IExpdmVQYWdlZExpc3RCdWlsZGVyKAogICAgICAgICAgICAgICAgQWxnb2xpYVBhZ2VkRGF0YVNvdXJjZS5GYWN0b3J5KHF1ZXJ5LCBpbmRleCksCiAgICAgICAgICAgICAgICBQYWdlZExpc3QuQ29uZmlnLkJ1aWxkZXIoKS5zZXRJbml0aWFsTG9hZFNpemVIaW50KDIpLnNldFBhZ2VTaXplKDIpLnNldEVuYWJsZVBsYWNlaG9sZGVycyhmYWxzZSkuYnVpbGQoKQogICAgICAgICAgICApLmJ1aWxkKCkKCiAgICAgICAgICAgIHBhZ2VkUmVzdWx0cy5hZGRTb3VyY2UobGFzdFBhZ2VkTGl2ZURhdGEhISkgewogICAgICAgICAgICAgICAgcGFnZWRSZXN1bHRzLnBvc3RWYWx1ZShpdCkKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGluZGV4LnNlYXJjaEFzeW5jKFF1ZXJ5KHF1ZXJ5KS5zZXRIaXRzUGVyUGFnZSgxMDAwKSkgeyBqc29uT2JqZWN0LCBfIC0+CiAgICAgICAgICAgICAgICBqc29uT2JqZWN0Py50b0FsZ29saWFSZXNwb25zZSgpPy5sZXQgewogICAgICAgICAgICAgICAgICAgIHJlc3VsdHMucG9zdFZhbHVlKGl0LmhpdHMpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaChxdWVyeSwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgd2lkdGhBbmltYXRvciA9IFByb3BlcnR5VmFsdWVzSG9sZGVyLm9mSW50KCJtYXhXaWR0aCIsIHNlYXJjaENsb3NlQnV0dG9uQ29udGFpbmVyLm1heFdpZHRoLCAwKQogICAgICAgIHZhbCBhbHBoYUFuaW1hdG9yID0gUHJvcGVydHlWYWx1ZXNIb2xkZXIub2ZGbG9hdChWaWV3LkFMUEhBLCBzZWFyY2hDbG9zZUJ1dHRvbkNvbnRhaW5lci5hbHBoYSwgMGYpCgogICAgICAgIHZhbCBhbmltYXRvciA9IE9iamVjdEFuaW1hdG9yLm9mUHJvcGVydHlWYWx1ZXNIb2xkZXIoc2VhcmNoQ2xvc2VCdXR0b25Db250YWluZXIsIHdpZHRoQW5pbWF0b3IsIGFscGhhQW5pbWF0b3IpCiAgICAgICAgYW5pbWF0b3IuZHVyYXRpb24gPSA1MDAKICAgICAgICBhbmltYXRvci5pbnRlcnBvbGF0b3IgPSBGYXN0T3V0U2xvd0luSW50ZXJwb2xhdG9yKCkKICAgICAgICBhbmltYXRvci5zdGFydCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaChxdWVyeSwgbmV0d29ya0F2YWlsYWJsZSkK</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
