@@ -123,13 +123,17 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/DemoActivity.kt" timestamp="1601470260014">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/view/FalconOverlay.kt" timestamp="1600764478004">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="43" />
         <mark key="." line="17" column="40" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk.android-utils/webviewutils/0.2.0/e3fb1ab1f0de57be3d1667b86192caec6034e929/webviewutils-0.2.0-sources.jar!/dk/makeable/webviewutils/WebViewUtils.kt" timestamp="1601283165908" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1600846086134">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="21" />
