@@ -123,6 +123,7 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/build.gradle" timestamp="1601560961388" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/DemoActivity.kt" timestamp="1601559731446">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -145,11 +146,10 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="47" column="17" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/falcon_overlay.xml" timestamp="1600764834552">
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="34" />
-        <mark key="^" line="16" column="10" />
-        <mark key="." line="14" column="34" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1601561101008">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" timestamp="1601369108923">
         <mark key="'" line="41" column="50" />
@@ -177,13 +177,13 @@
         <mark key="." line="111" column="13" />
         <mark key="^" line="111" column="14" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/build.gradle" timestamp="1601560525720">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/build.gradle" timestamp="1601561057379">
         <mark key="[" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/activity_main.xml" timestamp="1600781208277">
         <mark key="[" line="55" column="31" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/build.gradle" timestamp="1601560644724">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/build.gradle" timestamp="1601560675041">
         <mark key="[" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/epoxy_model_search_item.xml" timestamp="1600783020477">
@@ -201,11 +201,6 @@
         <mark key="[" line="216" column="28" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/styles.xml" timestamp="1600774997168">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -316,14 +311,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>29</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>29</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
