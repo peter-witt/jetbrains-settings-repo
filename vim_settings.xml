@@ -128,12 +128,6 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/view/FalconOverlay.kt" timestamp="1600764478004">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="43" />
-        <mark key="." line="17" column="40" />
-      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1600846086134">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="21" />
@@ -145,7 +139,6 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/Shadow.kt" timestamp="1601555673971" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/assets/makeable_scripts.js" timestamp="1601383428373">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -184,9 +177,14 @@
         <mark key="." line="111" column="13" />
         <mark key="^" line="111" column="14" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk.android-utils/animationutils/0.2.0/be35d6fad779413b3086966fefad5027181a974e/animationutils-0.2.0-sources.jar!/dk/makeable/animationutils/ViewAniamtionUtils.kt" timestamp="1601559880222" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/build.gradle" timestamp="1601560525720">
+        <mark key="[" line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/activity_main.xml" timestamp="1600781208277">
         <mark key="[" line="55" column="31" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/build.gradle" timestamp="1601560644724">
+        <mark key="[" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/epoxy_model_search_item.xml" timestamp="1600783020477">
         <mark key="[" line="56" column="33" />
