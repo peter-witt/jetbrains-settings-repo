@@ -118,6 +118,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/MainActivity.kt" timestamp="1601635744848">
+        <mark key="[" line="54" column="9" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/assets/makeable_scripts.js" timestamp="1601383428373">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -165,14 +168,11 @@
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/AndroidManifest.xml" timestamp="1601623582590">
         <mark key="[" line="24" column="53" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1601620866344">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1601635934553">
         <mark key="[" line="84" column="51" />
         <mark key="]" line="84" column="52" />
         <mark key="." line="84" column="52" />
         <mark key="^" line="135" column="63" />
-      </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerObserver.kt" timestamp="1600945419831">
-        <mark key="[" line="77" column="50" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/WebViewWidget.kt" timestamp="1601621085514">
         <mark key="'" line="153" column="61" />
@@ -184,11 +184,11 @@
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/build.gradle" timestamp="1601561057379">
         <mark key="[" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_main.xml" timestamp="1601635149562">
-        <mark key="[" line="28" column="66" />
-        <mark key="]" line="28" column="66" />
-        <mark key="^" line="28" column="66" />
-        <mark key="." line="28" column="65" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_main.xml" timestamp="1601636032102">
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="38" column="44" />
+        <mark key="^" line="38" column="32" />
+        <mark key="." line="38" column="32" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/build.gradle" timestamp="1601560675041">
         <mark key="[" line="3" column="32" />
@@ -313,14 +313,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9XaWRnZXQuTWF0ZXJpYWxDb21wb25lbnRzLkJ1dHRvbi5UZXh0QnV0dG9uIgo=</text>
+      <register name="&quot;" type="4">
+        <text>LinearLayout</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>logOut</text>
+        <text>LinearLayout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
