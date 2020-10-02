@@ -134,6 +134,9 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/AndroidManifest.xml" timestamp="1601623582590">
+        <mark key="[" line="24" column="53" />
+      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1600846086134">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="21" />
@@ -157,12 +160,12 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_sign_in.xml" timestamp="1601622463157">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="55" column="16" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="56" column="17" />
-        <mark key="." line="55" column="22" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_sign_in.xml" timestamp="1601623300428">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="60" column="71" />
+        <mark key="]" line="60" column="106" />
+        <mark key="." line="60" column="105" />
+        <mark key="^" line="60" column="106" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/values/colors.xml" timestamp="1601622012227" />
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/MainActivity.kt" timestamp="1600845839778">
@@ -191,11 +194,6 @@
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/build.gradle" timestamp="1601560675041">
         <mark key="[" line="3" column="32" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/epoxy_model_search_item.xml" timestamp="1600783020477">
-        <mark key="[" line="56" column="33" />
-        <mark key="]" line="56" column="33" />
-        <mark key="." line="56" column="33" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1601368631799">
         <mark key="[" line="53" column="0" />
@@ -317,14 +315,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
+      <register name="&quot;" type="4">
+        <text>OutlinedBox.Dense</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>ndtast telefonnummer</text>
+        <text>OutlinedBox.Dense</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
@@ -333,34 +331,34 @@
         <text encoding="base64">Ly8gICAgICAgIHRpbWVyLmNhbmNlbCgpCi8vICAgICAgICB0aW1lciA9IFRpbWVyKCkKLy8gICAgICAgIHRpbWVyLnNjaGVkdWxlKHRpbWVyVGFzayB7Ci8vICAgICAgICAgICAgdmlld01vZGVsU2NvcGUubGF1bmNoKERpc3BhdGNoZXJzLklPKSB7Ci8vICAgICAgICAgICAgICAgIHNlYXJjaChxdWVyeSwgbmV0d29ya0F2YWlsYWJsZSkKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9LCBkZWxheSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
+        <text encoding="base64">ICAgIDwvU2Nyb2xsVmlldz4=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RGltZW5zaW9uUmF0aW89IjI6MSIK</text>
+        <text encoding="base64">PFNjcm9sbFZpZXcKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6Y2xpcFRvUGFkZGluZz0iZmFsc2UiCiAgICA+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRvb2xzOmNvbnRleHQ9Ii5TaW5nSW5BY3Rpdml0eSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIDwvYW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuQ29uc3RyYWludExheW91dD4K</text>
+        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgogICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmVsZXZhdGlvbj0iOGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luSG9yaXpvbnRhbD0iNjRkcCIK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9yb3VuZGVkX3NxdWFyZSIK</text>
+      <register name="6" type="4">
+        <text encoding="base64">PGFuZHJvaWR4LmFwcGNvbXBhdC53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvaW1hZ2UiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IgogICAgICAgICAgICAvPg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYWRVcmwodmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RGltZW5zaW9uUmF0aW89IjI6MSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgTUFDb3JlSnNvbi5nZXRKc29uRnJvbUZpbGUoInZlZ2Fuc2suanNvbiIsIHRoaXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
