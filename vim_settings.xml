@@ -141,6 +141,12 @@
         <mark key="." line="114" column="26" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/values/colors.xml" timestamp="1601622012227" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/DemoAppCell.kt" timestamp="1601638080610">
+        <mark key="[" line="12" column="59" />
+        <mark key="]" line="8" column="90" />
+        <mark key="^" line="8" column="90" />
+        <mark key="." line="8" column="89" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/menu/demo_app.xml" timestamp="1601634677359">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -157,7 +163,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1601634632380">
+      <file name="/Dummy.txt" timestamp="1601637425866">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/DemoActivity.kt" timestamp="1601559731446">
@@ -167,6 +173,12 @@
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/AndroidManifest.xml" timestamp="1601623582590">
         <mark key="[" line="24" column="53" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/demo_app_cell.xml" timestamp="1601637832500">
+        <mark key="[" line="25" column="55" />
+        <mark key="]" line="25" column="54" />
+        <mark key="^" line="25" column="54" />
+        <mark key="." line="25" column="53" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1601635934553">
         <mark key="[" line="84" column="51" />
@@ -181,8 +193,10 @@
         <mark key="." line="183" column="29" />
         <mark key="^" line="183" column="30" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/build.gradle" timestamp="1601561057379">
-        <mark key="[" line="9" column="24" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/build.gradle" timestamp="1601638134310">
+        <mark key="[" line="76" column="61" />
+        <mark key="]" line="76" column="73" />
+        <mark key="." line="76" column="61" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_main.xml" timestamp="1601636032102">
         <mark key="[" line="38" column="32" />
@@ -192,17 +206,6 @@
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/build.gradle" timestamp="1601560675041">
         <mark key="[" line="3" column="32" />
-      </file>
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/search/SearchViewModel.kt" timestamp="1601368631799">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="59" column="19" />
-        <mark key="^" line="37" column="51" />
-        <mark key="." line="37" column="50" />
-      </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1600946930034">
-        <mark key="[" line="216" column="28" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
       </file>
     </filemarks>
     <jumps>
