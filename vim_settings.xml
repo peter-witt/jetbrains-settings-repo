@@ -118,40 +118,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/MainActivity.kt" timestamp="1601639067407">
-        <mark key="[" line="78" column="78" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="78" column="40" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/MainActivity.kt" timestamp="1601640610688">
+        <mark key="[" line="34" column="58" />
+        <mark key="]" line="83" column="103" />
+        <mark key="^" line="84" column="73" />
+        <mark key="." line="83" column="103" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/FirebaseProject.kt" timestamp="1601638215449">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="23" />
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="22" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_sign_in.xml" timestamp="1601633617962">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="114" column="26" />
-        <mark key="]" line="114" column="26" />
-        <mark key="^" line="114" column="48" />
-        <mark key="." line="114" column="26" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/values/colors.xml" timestamp="1601622012227" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/DemoAppCell.kt" timestamp="1601638744843">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/menu/demo_app.xml" timestamp="1601634677359">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/SingInActivity.kt" timestamp="1601627967457">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1601620852450">
         <mark key="[" line="15" column="1" />
@@ -176,11 +153,18 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1601635934553">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1601640565370">
         <mark key="[" line="84" column="51" />
         <mark key="]" line="84" column="52" />
         <mark key="." line="84" column="52" />
         <mark key="^" line="135" column="63" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_sign_in.xml" timestamp="1601633617962">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="114" column="26" />
+        <mark key="]" line="114" column="26" />
+        <mark key="^" line="114" column="48" />
+        <mark key="." line="114" column="26" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/WebViewWidget.kt" timestamp="1601621085514">
         <mark key="'" line="153" column="61" />
@@ -189,20 +173,35 @@
         <mark key="." line="183" column="29" />
         <mark key="^" line="183" column="30" />
       </file>
-      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/DialogFragmentOfferHelpFilter.kt" timestamp="1601639690377" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/build.gradle" timestamp="1601638134310">
+      <file name="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/offerHelp/DialogFragmentOfferHelpFilter.kt" timestamp="1601640273382" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/build.gradle" timestamp="1601640524525">
         <mark key="[" line="76" column="61" />
-        <mark key="]" line="76" column="73" />
-        <mark key="." line="76" column="61" />
+        <mark key="]" line="78" column="47" />
+        <mark key="." line="78" column="46" />
+        <mark key="^" line="78" column="47" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_main.xml" timestamp="1601638805211">
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="39" column="44" />
-        <mark key="^" line="39" column="32" />
-        <mark key="." line="39" column="32" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_main.xml" timestamp="1601640597851">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/DemoAppCell.kt" timestamp="1601638744843">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/build.gradle" timestamp="1601560675041">
         <mark key="[" line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/menu/demo_app.xml" timestamp="1601634677359">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/SingInActivity.kt" timestamp="1601627967457">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -313,50 +312,50 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0dp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>0dp</text>
+        <text>GridLayout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjE0c3AiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3dTcGVjID0gR3JpZExheW91dC5zcGVjKEdyaWRMYXlvdXQuVU5ERUZJTkVELCBHcmlkTGF5b3V0LkZJTEwsIDFmKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhbnNmb3JtYXRpb25zKENpcmNsZUNyYW9wVHJhbnNmb3JtYXRpb24oKSkK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVxdWVzdCA9IEltYWdlUmVxdWVzdC5CdWlsZGVyKGNvbnRleHQpLmFwcGx5IHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjE2ZHAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Jvc3NmYWRlKGZhbHNlKQogICAgICAgICAgICBwbGFjZWhvbGRlcihSLmRyYXdhYmxlLm1ha2VhYmxlX2xvZ28pCiAgICAgICAgICAgIHRyYW5zZm9ybWF0aW9ucyhDaXJjbGVDcm9wVHJhbnNmb3JtYXRpb24oKSkK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNvbHVtbkNvdW50PSI0Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvd0NvdW50PSI0Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Jvc3NmYWRlKGZhbHNlKQogICAgICAgICAgICBwbGFjZWhvbGRlcihSLmRyYXdhYmxlLm1ha2VhYmxlX2xvZ28pCiAgICAgICAgICAgIHRyYW5zZm9ybWF0aW9ucyhDaXJjbGVDcm9wVHJhbnNmb3JtYXRpb24oKSkK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNvbHVtbkNvdW50PSI0Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvd0NvdW50PSI0Igo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQgPSBpdC50aXRsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhbnNmb3JtYXRpb25zKENpcmNsZUNyYW9wVHJhbnNmb3JtYXRpb24oKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYXRlcmlhbEJ1dHRvbih0aGlzQE1haW5BY3Rpdml0eSkuYXBwbHkgewo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVxdWVzdCA9IEltYWdlUmVxdWVzdC5CdWlsZGVyKGNvbnRleHQpLmFwcGx5IHsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
