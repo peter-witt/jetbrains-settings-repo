@@ -130,7 +130,7 @@
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1601637425866">
+      <file name="/Dummy.txt" timestamp="1601883863420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/package-info.java" timestamp="1601641012100">
@@ -139,10 +139,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/java/dk/makeable/macoredemo/SplashActivity.kt" timestamp="1601883648374" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/AndroidManifest.xml" timestamp="1601623582590">
-        <mark key="[" line="24" column="53" />
-      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/java/dk/makeable/macoredemo/SplashActivity.kt" timestamp="1601883836573" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/demo_app_cell.xml" timestamp="1601638874005">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="12" column="30" />
@@ -172,6 +169,12 @@
         <mark key="]" line="55" column="0" />
         <mark key="^" line="38" column="58" />
         <mark key="." line="53" column="59" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_demo_splash.xml" timestamp="1601885079448">
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="26" column="36" />
+        <mark key="^" line="26" column="36" />
+        <mark key="." line="26" column="35" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/build.gradle" timestamp="1601642904718">
         <mark key="[" line="81" column="64" />
@@ -308,14 +311,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS5hdXRoZW50aWNhdGUoRmlyZWJhc2VQaG9uZUF1dGhTZXJ2aWNlLkZpcmViYXNlUGhvbmVBdXRoUmVxdWVzdCgpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Vegansk</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>Vegansk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
@@ -324,34 +327,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3dTcGVjID0gR3JpZExheW91dC5zcGVjKEdyaWRMYXlvdXQuVU5ERUZJTkVELCBHcmlkTGF5b3V0LkZJTEwsIDFmKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS5hdXRoZW50aWNhdGUoRmlyZWJhc2VQaG9uZUF1dGhTZXJ2aWNlLkZpcmViYXNlUGhvbmVBdXRoUmVxdWVzdCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlcG94eUNvbnRyb2xsZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS5hdXRoZW50aWNhdGUoRmlyZWJhc2VQaG9uZUF1dGhTZXJ2aWNlLkZpcmViYXNlUGhvbmVBdXRoUmVxdWVzdCgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1VVVVdWFhCg==</text>
+        <text encoding="base64">ICAgICAgICBlcG94eUNvbnRyb2xsZXIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9vbHM6dGV4dD0iVmVnYW5zayIK</text>
+        <text encoding="base64">ICAgICAgICB1VVVVdWFhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9vbHM6dGV4dD0iVmVnYW5zayIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVwb3h5Vmlldy53aXRoQ29udHJvbGxlcjxMaXN0PEZpcmViYXNlUHJvamVjdD4+IHsKICAgICAgICBpdC5mb3JFYWNoIHsKICAgICAgICAgICAgZGVtb0FwcENlbGwgewogICAgICAgICAgICAgICAgaWQoaXQuaWQpCiAgICAgICAgICAgICAgICBvbkNsaWNrIHsgdiAtPgogICAgICAgICAgICAgICAgICAgIHN0YXJ0QXBwKGl0LmlkLCBpbnRlbnQpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVwb3h5Vmlldy53aXRoQ29udHJvbGxlcjxMaXN0PEZpcmViYXNlUHJvamVjdD4+IHsKICAgICAgICBpdC5mb3JFYWNoIHsKICAgICAgICAgICAgZGVtb0FwcENlbGwgewogICAgICAgICAgICAgICAgaWQoaXQuaWQpCiAgICAgICAgICAgICAgICBvbkNsaWNrIHsgdiAtPgogICAgICAgICAgICAgICAgICAgIHN0YXJ0QXBwKGl0LmlkLCBpbnRlbnQpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIERlbW9BcHBDZWxsKHRoaXNATWFpbkFjdGl2aXR5LCBpdCkuYXBwbHkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldE9uQ2xpY2tMaXN0ZW5lciB7IF8gLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRBcHAoaXQuaWQsIGludGVudCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
