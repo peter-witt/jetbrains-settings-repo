@@ -139,7 +139,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/res/layout/fragment_buttons.xml" timestamp="1601895972042">
+      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/res/layout/fragment_buttons.xml" timestamp="1601899324111">
         <mark key="[" line="36" column="22" />
         <mark key="]" line="36" column="27" />
         <mark key="." line="36" column="26" />
@@ -151,11 +151,11 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/fragment/FragmentShowAudio.kt" timestamp="1601896492217">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="35" column="91" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/fragment/FragmentShowAudio.kt" timestamp="1601899647452">
+        <mark key="[" line="34" column="101" />
+        <mark key="]" line="34" column="43" />
+        <mark key="." line="34" column="42" />
+        <mark key="^" line="34" column="43" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/BindingAdapters.kt" timestamp="1601881302569">
         <mark key="[" line="12" column="82" />
@@ -198,7 +198,7 @@
         <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/fragment/FragmentShowVideo.kt" timestamp="1601896189441" />
-      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1601896351843">
+      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1601899390683">
         <mark key="[" line="144" column="66" />
         <mark key="]" line="144" column="75" />
         <mark key="." line="144" column="74" />
@@ -318,14 +318,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>videoUri</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>videoUri</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
@@ -334,34 +334,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3dTcGVjID0gR3JpZExheW91dC5zcGVjKEdyaWRMYXlvdXQuVU5ERUZJTkVELCBHcmlkTGF5b3V0LkZJTEwsIDFmKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHZpZGVvVXJpID0gYXJncy5hdWRpb1VybAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIFZpZGVvUGxheWVyQ29udHJvbGxlci5zZXROZXh0VmlkZW9MaXN0ZW5lciB7CiAgICAgICAgICAgICAgICBjb250ZXh0Py5sZXQgewogICAgICAgICAgICAgICAgICAgIFZpZGVvUGxheWVyQ29udHJvbGxlci5hZGRWaWRlb1RvUGxheWxpc3QoaXQsIHZpZGVvVXJpKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9zaG93X3ZpZGVvLioK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUuY29udGVudC5Db250ZW50UHJvdmlkZXJDb21wYXQucmVxdWlyZUNvbnRleHQK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIFZpZGVvUGxheWVyQ29udHJvbGxlci5zZXROZXh0VmlkZW9MaXN0ZW5lciB7CiAgICAgICAgICAgICAgICBjb250ZXh0Py5sZXQgewogICAgICAgICAgICAgICAgICAgIFZpZGVvUGxheWVyQ29udHJvbGxlci5hZGRWaWRlb1RvUGxheWxpc3QoaXQsIHZpZGVvVXJpKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9zaG93X3ZpZGVvLioK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUuY29udGVudC5Db250ZW50UHJvdmlkZXJDb21wYXQucmVxdWlyZUNvbnRleHQK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2ltcGxlRXhvUGxheWVyLkJ1aWxkZXIoY29udGV4dCwgRGVmYXVsdFJlbmRlcmVyc0ZhY3RvcnkoY29udGV4dCksICB0cmFja1NlbGVjdG9yKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2ltcGxlRXhvUGxheWVyLkJ1aWxkZXIoY29udGV4dCwgdHJhY2tTZWxlY3RvcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2ltcGxlRXhvUGxheWVyLkJ1aWxkZXIoY29udGV4dCwgRGVmYXVsdFJlbmRlcmVyc0ZhY3RvcnkoY29udGV4dCksICB0cmFja1NlbGVjdG9yKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2ltcGxlRXhvUGxheWVyLkJ1aWxkZXIoY29udGV4dCwgdHJhY2tTZWxlY3RvcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS5hdXRoZW50aWNhdGUoRmlyZWJhc2VQaG9uZUF1dGhTZXJ2aWNlLkZpcmViYXNlUGhvbmVBdXRoUmVxdWVzdCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQK</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
