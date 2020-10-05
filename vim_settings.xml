@@ -124,6 +124,35 @@
         <mark key="." line="59" column="50" />
         <mark key="^" line="59" column="51" />
       </file>
+      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/res/layout/fragment_buttons.xml" timestamp="1601899324111">
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="36" column="27" />
+        <mark key="." line="36" column="26" />
+        <mark key="^" line="36" column="27" />
+      </file>
+      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/fragment/FragmentShowAudio.kt" timestamp="1601899647452">
+        <mark key="[" line="34" column="101" />
+        <mark key="]" line="34" column="43" />
+        <mark key="." line="34" column="42" />
+        <mark key="^" line="34" column="43" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/assets/makeable_scripts.js" timestamp="1601900078007">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="127" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_sign_in.xml" timestamp="1601882935769">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="222" column="32" />
+        <mark key="]" line="199" column="36" />
+        <mark key="^" line="199" column="36" />
+        <mark key="." line="199" column="35" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/SingInActivity.kt" timestamp="1601883499248">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1601883863420">
         <mark key="[" line="0" column="0" />
       </file>
@@ -132,30 +161,6 @@
         <mark key="]" line="52" column="67" />
         <mark key="^" line="52" column="116" />
         <mark key="." line="52" column="67" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/package-info.java" timestamp="1601641012100">
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/res/layout/fragment_buttons.xml" timestamp="1601899324111">
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="27" />
-        <mark key="." line="36" column="26" />
-        <mark key="^" line="36" column="27" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/demo_app_cell.xml" timestamp="1601638874005">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="12" column="33" />
-        <mark key="." line="12" column="30" />
-      </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/fragment/FragmentShowAudio.kt" timestamp="1601899647452">
-        <mark key="[" line="34" column="101" />
-        <mark key="]" line="34" column="43" />
-        <mark key="." line="34" column="42" />
-        <mark key="^" line="34" column="43" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/BindingAdapters.kt" timestamp="1601881302569">
         <mark key="[" line="12" column="82" />
@@ -168,18 +173,17 @@
         <mark key="]" line="94" column="11" />
         <mark key="^" line="136" column="63" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_sign_in.xml" timestamp="1601882935769">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="222" column="32" />
-        <mark key="]" line="199" column="36" />
-        <mark key="^" line="199" column="36" />
-        <mark key="." line="199" column="35" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/epoxy_demo_app_cell.xml" timestamp="1601881790657">
         <mark key="[" line="48" column="46" />
         <mark key="]" line="55" column="0" />
         <mark key="^" line="38" column="58" />
         <mark key="." line="53" column="59" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/WebViewWidget.kt" timestamp="1601901143727">
+        <mark key="[" line="122" column="53" />
+        <mark key="]" line="120" column="23" />
+        <mark key="^" line="120" column="23" />
+        <mark key="." line="120" column="22" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_demo_splash.xml" timestamp="1601894656593">
         <mark key="[" line="16" column="49" />
@@ -203,11 +207,6 @@
         <mark key="]" line="144" column="75" />
         <mark key="." line="144" column="74" />
         <mark key="^" line="144" column="75" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/SingInActivity.kt" timestamp="1601883499248">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -318,20 +317,20 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>videoUri</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmlkZW9MaW5rLmhyZWYgPSAiaHR0cHM6Ly9wbGF5ZXIudmltZW8uY29tL2V4dGVybmFsLzM2MDUzMzQwMi5oZC5tcDQ/cz04MmJmY2RjMzI2ZjJlYWFlYmU5ODc2NTcxNDc4MmNhMzg0NDEyMWYzJnByb2ZpbGVfaWQ9MTc0Igo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>videoUri</text>
+        <text>video</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3dTcGVjID0gR3JpZExheW91dC5zcGVjKEdyaWRMYXlvdXQuVU5ERUZJTkVELCBHcmlkTGF5b3V0LkZJTEwsIDFmKQo=</text>
+        <text encoding="base64">dmlkZW9MaW5rLmhyZWYgPSAiaHR0cHM6Ly9wbGF5ZXIudmltZW8uY29tL2V4dGVybmFsLzM2MDUzMzQwMi5oZC5tcDQ/cz04MmJmY2RjMzI2ZjJlYWFlYmU5ODc2NTcxNDc4MmNhMzg0NDEyMWYzJnByb2ZpbGVfaWQ9MTc0Igo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIHZpZGVvVXJpID0gYXJncy5hdWRpb1VybAo=</text>
