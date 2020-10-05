@@ -136,24 +136,14 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="34" column="43" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/NavigationEventHandler.kt" timestamp="1601905772146" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/assets/makeable_scripts.js" timestamp="1601900078007">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="127" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_sign_in.xml" timestamp="1601882935769">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="222" column="32" />
-        <mark key="]" line="199" column="36" />
-        <mark key="^" line="199" column="36" />
-        <mark key="." line="199" column="35" />
-      </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1601902799740" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/SingInActivity.kt" timestamp="1601883499248">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AlgoliaSearchEventHandler.kt" timestamp="1601905785379" />
       <file name="/Dummy.txt" timestamp="1601902031120">
         <mark key="[" line="0" column="0" />
       </file>
@@ -162,6 +152,13 @@
         <mark key="]" line="52" column="67" />
         <mark key="^" line="52" column="116" />
         <mark key="." line="52" column="67" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AudioPlayerEventHandler.kt" timestamp="1601906212751">
+        <mark key="'" line="21" column="65" />
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="28" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="29" column="27" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_audio_player.xml" timestamp="1601903770193">
         <mark key="[" line="7" column="4" />
@@ -203,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="51" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfilePresenter.java" />
-      <jump line="77" column="59" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" />
       <jump line="79" column="0" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentMore.kt" />
       <jump line="117" column="4" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" />
       <jump line="262" column="23" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" />
@@ -303,6 +298,8 @@
       <jump line="155" column="61" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/WebViewWidget.kt" />
       <jump line="71" column="0" filename="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_sign_in.xml" />
       <jump line="194" column="34" filename="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" />
+      <jump line="9" column="65" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AudioPlayerEventHandler.kt" />
+      <jump line="10" column="65" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AudioPlayerEventHandler.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,14 +307,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>return super.onCreateView(inflater, container, savedInstanceState)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIEFjdGlvbiBidXR0b24gY29uZmlnIChmYXZvcml0ZSkK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>return super.onCreateView(inflater, container, savedInstanceState)</text>
+        <text>DialogFragmentNavigator</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
@@ -326,34 +323,34 @@
         <text encoding="base64">dmlkZW9MaW5rLmhyZWYgPSAiaHR0cHM6Ly9wbGF5ZXIudmltZW8uY29tL2V4dGVybmFsLzM2MDUzMzQwMi5oZC5tcDQ/cz04MmJmY2RjMzI2ZjJlYWFlYmU5ODc2NTcxNDc4MmNhMzg0NDEyMWYzJnByb2ZpbGVfaWQ9MTc0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZ2l0aHViLm1ha2VhYmxlZGs6dmlkZW8tcGxheWVyLWFuZHJvaWQ6MC40LjMnCg==</text>
+        <text encoding="base64">ICAgIC8vIEFjdGlvbiBidXR0b24gY29uZmlnIChmYXZvcml0ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRpdGxlIGFuZCBzdWJ0aXRsZSBjb25maWdzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkay5tYWtlYWJsZS52aWRlb3BsYXllci51aS5WaWRlb1BsYXllclZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYXVkaW9QbGF5ZXJWaWV3IgogICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgIC8vIHBsYXkgYnV0dG9uIGNvbmZpZwogICAgLy8gWmFwIGJhY2sgYW5kIGZvcndhcmQgYnV0dG9uIGNvbmZpZ3MKICAgIC8vIHRodW1ibmFpbCBpbWFnZSBjb25maWdzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHZpZGVvVXJpID0gYXJncy5hdWRpb1VybAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dFN0cmluZygic2NyZWVuVGl0bGUiLCAoYWN0aXZpdHkgYXMgQXBwQ29tcGF0QWN0aXZpdHkpLnN1cHBvcnRBY3Rpb25CYXI/LnRpdGxlLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIFZpZGVvUGxheWVyQ29udHJvbGxlci5zZXROZXh0VmlkZW9MaXN0ZW5lciB7CiAgICAgICAgICAgICAgICBjb250ZXh0Py5sZXQgewogICAgICAgICAgICAgICAgICAgIFZpZGVvUGxheWVyQ29udHJvbGxlci5hZGRWaWRlb1RvUGxheWxpc3QoaXQsIHZpZGVvVXJpKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICBmcmFnbWVudE1hbmFnZXIuZmluZEZyYWdtZW50QnlJZChSLmlkLmFsZ29saWFfc2VhcmNoX25hdmhvc3RfZnJhbWUpPy5sZXQgewogICAgICAgICAgICBmcmFnbWVudE1hbmFnZXIuYmVnaW5UcmFuc2FjdGlvbigpLnJlbW92ZShpdCkuY29tbWl0Tm93KCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9zaG93X3ZpZGVvLioK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUuY29udGVudC5Db250ZW50UHJvdmlkZXJDb21wYXQucmVxdWlyZUNvbnRleHQK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhciBpbnN0YW5jZVR5cGU6IFN0cmluZyA9ICJBdWRpb1BsYXllckV2ZW50SGFuZGxlciIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
