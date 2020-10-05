@@ -118,11 +118,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/MainActivity.kt" timestamp="1601881786807">
-        <mark key="[" line="59" column="51" />
-        <mark key="]" line="59" column="51" />
-        <mark key="." line="59" column="50" />
-        <mark key="^" line="59" column="51" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/audioPlayer/audioPlayerFragment.kt" timestamp="1601904058444">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="38" />
       </file>
       <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/res/layout/fragment_buttons.xml" timestamp="1601899324111">
         <mark key="[" line="36" column="22" />
@@ -163,7 +163,7 @@
         <mark key="^" line="52" column="116" />
         <mark key="." line="52" column="67" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_audio_player.xml" timestamp="1601903014409">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_audio_player.xml" timestamp="1601903770193">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="4" />
         <mark key="." line="7" column="3" />
@@ -175,12 +175,6 @@
         <mark key="]" line="130" column="60" />
         <mark key="." line="130" column="60" />
         <mark key="^" line="130" column="60" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/epoxy_demo_app_cell.xml" timestamp="1601881790657">
-        <mark key="[" line="48" column="46" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="38" column="58" />
-        <mark key="." line="53" column="59" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/WebViewWidget.kt" timestamp="1601901271125">
         <mark key="[" line="122" column="62" />
@@ -200,6 +194,12 @@
         <mark key="]" line="144" column="75" />
         <mark key="." line="144" column="74" />
         <mark key="^" line="144" column="75" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/audioPlayer/AudioPlayerFragment.kt" timestamp="1601904410304">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="16" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -311,13 +311,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>LATEST_VERSION</text>
+        <text>return super.onCreateView(inflater, container, savedInstanceState)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>LATEST_VERSION</text>
+        <text>return super.onCreateView(inflater, container, savedInstanceState)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
