@@ -190,6 +190,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1601895691415">
+        <mark key="[" line="174" column="31" />
+        <mark key="]" line="174" column="31" />
+        <mark key="." line="174" column="30" />
+        <mark key="^" line="174" column="31" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/menu/demo_app.xml" timestamp="1601634677359">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -202,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="17" filename="$USER_HOME$/Makeable/husketest-android/app/src/main/java/dk/makeable/husketest/MainActivity.kt" />
       <jump line="165" column="51" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfilePresenter.java" />
       <jump line="77" column="59" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/userProfile/UserProfileActivity.java" />
       <jump line="79" column="0" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/makeable/ui/main/FragmentMore.kt" />
@@ -302,6 +307,7 @@
       <jump line="41" column="50" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/algolia/AlgoliaSearchViewModel.kt" />
       <jump line="155" column="61" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/WebViewWidget.kt" />
       <jump line="71" column="0" filename="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_sign_in.xml" />
+      <jump line="194" column="34" filename="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,8 +315,8 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Vegansk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -325,34 +331,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3dTcGVjID0gR3JpZExheW91dC5zcGVjKEdyaWRMYXlvdXQuVU5ERUZJTkVELCBHcmlkTGF5b3V0LkZJTEwsIDFmKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS5hdXRoZW50aWNhdGUoRmlyZWJhc2VQaG9uZUF1dGhTZXJ2aWNlLkZpcmViYXNlUGhvbmVBdXRoUmVxdWVzdCgpKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlcG94eUNvbnRyb2xsZXIuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1VVVVdWFhCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9vbHM6dGV4dD0iVmVnYW5zayIK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2ltcGxlRXhvUGxheWVyLkJ1aWxkZXIoY29udGV4dCwgRGVmYXVsdFJlbmRlcmVyc0ZhY3RvcnkoY29udGV4dCksICB0cmFja1NlbGVjdG9yKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2ltcGxlRXhvUGxheWVyLkJ1aWxkZXIoY29udGV4dCwgdHJhY2tTZWxlY3RvcikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS5hdXRoZW50aWNhdGUoRmlyZWJhc2VQaG9uZUF1dGhTZXJ2aWNlLkZpcmViYXNlUGhvbmVBdXRoUmVxdWVzdCgpKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlcG94eUNvbnRyb2xsZXIuCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVwb3h5Vmlldy53aXRoQ29udHJvbGxlcjxMaXN0PEZpcmViYXNlUHJvamVjdD4+IHsKICAgICAgICBpdC5mb3JFYWNoIHsKICAgICAgICAgICAgZGVtb0FwcENlbGwgewogICAgICAgICAgICAgICAgaWQoaXQuaWQpCiAgICAgICAgICAgICAgICBvbkNsaWNrIHsgdiAtPgogICAgICAgICAgICAgICAgICAgIHN0YXJ0QXBwKGl0LmlkLCBpbnRlbnQpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB1VVVVdWFhCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9vbHM6dGV4dD0iVmVnYW5zayIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
