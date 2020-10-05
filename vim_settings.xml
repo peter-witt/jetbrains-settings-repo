@@ -118,7 +118,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/MainActivity.kt" timestamp="1601881694950">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/MainActivity.kt" timestamp="1601881786807">
         <mark key="[" line="59" column="51" />
         <mark key="]" line="59" column="51" />
         <mark key="." line="59" column="50" />
@@ -159,18 +159,18 @@
         <mark key="]" line="94" column="11" />
         <mark key="^" line="136" column="63" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_sign_in.xml" timestamp="1601633617962">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/activity_sign_in.xml" timestamp="1601882468547">
         <mark key="'" line="74" column="0" />
-        <mark key="[" line="114" column="26" />
+        <mark key="[" line="222" column="32" />
         <mark key="]" line="114" column="26" />
         <mark key="^" line="114" column="48" />
         <mark key="." line="114" column="26" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/epoxy_demo_app_cell.xml" timestamp="1601643622092">
-        <mark key="[" line="52" column="12" />
-        <mark key="]" line="53" column="0" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/epoxy_demo_app_cell.xml" timestamp="1601881790657">
+        <mark key="[" line="48" column="46" />
+        <mark key="]" line="55" column="0" />
         <mark key="^" line="38" column="58" />
-        <mark key="." line="51" column="59" />
+        <mark key="." line="53" column="59" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/coordinating/WebViewWidget.kt" timestamp="1601621085514">
         <mark key="'" line="153" column="61" />
