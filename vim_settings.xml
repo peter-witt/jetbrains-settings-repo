@@ -124,14 +124,14 @@
         <mark key="." line="59" column="50" />
         <mark key="^" line="59" column="51" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/FirebaseProject.kt" timestamp="1601638215449">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="22" />
-      </file>
       <file name="/Dummy.txt" timestamp="1601883863420">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/FragmentButtons.kt" timestamp="1601896391346">
+        <mark key="[" line="52" column="67" />
+        <mark key="]" line="52" column="67" />
+        <mark key="^" line="52" column="116" />
+        <mark key="." line="52" column="67" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/package-info.java" timestamp="1601641012100">
         <mark key="[" line="0" column="35" />
@@ -139,11 +139,23 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/res/layout/fragment_buttons.xml" timestamp="1601895972042">
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="36" column="27" />
+        <mark key="." line="36" column="26" />
+        <mark key="^" line="36" column="27" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/layout/demo_app_cell.xml" timestamp="1601638874005">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="12" column="30" />
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/fragment/FragmentShowAudio.kt" timestamp="1601896492217">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="35" column="91" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/BindingAdapters.kt" timestamp="1601881302569">
         <mark key="[" line="12" column="82" />
@@ -185,21 +197,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/DemoAppCell.kt" timestamp="1601638744843">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1601895691415">
-        <mark key="[" line="174" column="31" />
-        <mark key="]" line="174" column="31" />
-        <mark key="." line="174" column="30" />
-        <mark key="^" line="174" column="31" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/res/menu/demo_app.xml" timestamp="1601634677359">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/fragment/FragmentShowVideo.kt" timestamp="1601896189441" />
+      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1601896351843">
+        <mark key="[" line="144" column="66" />
+        <mark key="]" line="144" column="75" />
+        <mark key="." line="144" column="74" />
+        <mark key="^" line="144" column="75" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/java/dk/makeable/macoredemo/SingInActivity.kt" timestamp="1601883499248">
         <mark key="[" line="61" column="0" />
@@ -322,7 +325,7 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>Vegansk</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
@@ -334,31 +337,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2ltcGxlRXhvUGxheWVyLkJ1aWxkZXIoY29udGV4dCwgRGVmYXVsdFJlbmRlcmVyc0ZhY3RvcnkoY29udGV4dCksICB0cmFja1NlbGVjdG9yKQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIFZpZGVvUGxheWVyQ29udHJvbGxlci5zZXROZXh0VmlkZW9MaXN0ZW5lciB7CiAgICAgICAgICAgICAgICBjb250ZXh0Py5sZXQgewogICAgICAgICAgICAgICAgICAgIFZpZGVvUGxheWVyQ29udHJvbGxlci5hZGRWaWRlb1RvUGxheWxpc3QoaXQsIHZpZGVvVXJpKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2ltcGxlRXhvUGxheWVyLkJ1aWxkZXIoY29udGV4dCwgdHJhY2tTZWxlY3RvcikK</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9zaG93X3ZpZGVvLioK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUuY29udGVudC5Db250ZW50UHJvdmlkZXJDb21wYXQucmVxdWlyZUNvbnRleHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS5hdXRoZW50aWNhdGUoRmlyZWJhc2VQaG9uZUF1dGhTZXJ2aWNlLkZpcmViYXNlUGhvbmVBdXRoUmVxdWVzdCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlcG94eUNvbnRyb2xsZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2ltcGxlRXhvUGxheWVyLkJ1aWxkZXIoY29udGV4dCwgRGVmYXVsdFJlbmRlcmVyc0ZhY3RvcnkoY29udGV4dCksICB0cmFja1NlbGVjdG9yKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1VVVVdWFhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2ltcGxlRXhvUGxheWVyLkJ1aWxkZXIoY29udGV4dCwgdHJhY2tTZWxlY3RvcikK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9vbHM6dGV4dD0iVmVnYW5zayIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS5hdXRoZW50aWNhdGUoRmlyZWJhc2VQaG9uZUF1dGhTZXJ2aWNlLkZpcmViYXNlUGhvbmVBdXRoUmVxdWVzdCgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
