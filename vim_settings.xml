@@ -121,12 +121,6 @@
       <file name="/Dummy.txt" timestamp="1601902031120">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/FragmentButtons.kt" timestamp="1601896391346">
-        <mark key="[" line="52" column="67" />
-        <mark key="]" line="52" column="67" />
-        <mark key="^" line="52" column="116" />
-        <mark key="." line="52" column="67" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/audioPlayer/audioPlayerFragment.kt" timestamp="1601904058444">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="39" />
@@ -140,12 +134,12 @@
         <mark key="^" line="36" column="27" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/androidTest/java/dk/makeable/coreui/TestBoxWidget.kt" timestamp="1601969713456" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AudioPlayerEventHandler.kt" timestamp="1601968650166">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AudioPlayerEventHandler.kt" timestamp="1601971047364">
         <mark key="'" line="21" column="65" />
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="29" column="28" />
-        <mark key="^" line="29" column="28" />
-        <mark key="." line="29" column="27" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="13" />
+        <mark key="^" line="31" column="13" />
+        <mark key="." line="31" column="12" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/AndroidManifest.xml" timestamp="1601907132944">
         <mark key="[" line="52" column="34" />
@@ -187,6 +181,7 @@
         <mark key="." line="144" column="74" />
         <mark key="^" line="144" column="75" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1601971352162" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/audioPlayer/AudioPlayerFragment.kt" timestamp="1601904410304">
         <mark key="[" line="16" column="28" />
         <mark key="]" line="16" column="28" />
@@ -307,14 +302,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDp0ZXh0VHlwZT0iRGVzY3JpcHRpb24iCg==</text>
+      <register name="&quot;" type="4">
+        <text>BoxWidgetEventHandler</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>BottomContent</text>
+        <text>BoxWidgetEventHandler</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
