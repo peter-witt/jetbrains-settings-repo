@@ -139,7 +139,8 @@
         <mark key="." line="36" column="26" />
         <mark key="^" line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AudioPlayerEventHandler.kt" timestamp="1601906212751">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/androidTest/java/dk/makeable/coreui/TestBoxWidget.kt" timestamp="1601969713456" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AudioPlayerEventHandler.kt" timestamp="1601968650166">
         <mark key="'" line="21" column="65" />
         <mark key="[" line="29" column="26" />
         <mark key="]" line="29" column="28" />
@@ -157,7 +158,7 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="34" column="43" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_audio_player.xml" timestamp="1601967307191">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_audio_player.xml" timestamp="1601969765375">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="42" />
         <mark key="." line="89" column="0" />
