@@ -118,6 +118,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1601902031120">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/FragmentButtons.kt" timestamp="1601896391346">
+        <mark key="[" line="52" column="67" />
+        <mark key="]" line="52" column="67" />
+        <mark key="^" line="52" column="116" />
+        <mark key="." line="52" column="67" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/audioPlayer/audioPlayerFragment.kt" timestamp="1601904058444">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="39" />
@@ -129,29 +138,6 @@
         <mark key="]" line="36" column="27" />
         <mark key="." line="36" column="26" />
         <mark key="^" line="36" column="27" />
-      </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/fragment/FragmentShowAudio.kt" timestamp="1601899647452">
-        <mark key="[" line="34" column="101" />
-        <mark key="]" line="34" column="43" />
-        <mark key="." line="34" column="42" />
-        <mark key="^" line="34" column="43" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/NavigationEventHandler.kt" timestamp="1601905772146" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/assets/makeable_scripts.js" timestamp="1601900078007">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="127" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/build.gradle" timestamp="1601902799740" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AlgoliaSearchEventHandler.kt" timestamp="1601905785379" />
-      <file name="/Dummy.txt" timestamp="1601902031120">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/FragmentButtons.kt" timestamp="1601896391346">
-        <mark key="[" line="52" column="67" />
-        <mark key="]" line="52" column="67" />
-        <mark key="^" line="52" column="116" />
-        <mark key="." line="52" column="67" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AudioPlayerEventHandler.kt" timestamp="1601906212751">
         <mark key="'" line="21" column="65" />
@@ -165,12 +151,23 @@
         <mark key="]" line="52" column="34" />
         <mark key="." line="52" column="34" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_audio_player.xml" timestamp="1601906971448">
+      <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/fragment/FragmentShowAudio.kt" timestamp="1601899647452">
+        <mark key="[" line="34" column="101" />
+        <mark key="]" line="34" column="43" />
+        <mark key="." line="34" column="42" />
+        <mark key="^" line="34" column="43" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_audio_player.xml" timestamp="1601967307191">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="42" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="80" column="41" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/assets/makeable_scripts.js" timestamp="1601900078007">
         <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
+        <mark key="]" line="27" column="127" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_web_view_widget.xml" timestamp="1601901961251" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1601907107259">
         <mark key="[" line="130" column="60" />
         <mark key="]" line="130" column="60" />
@@ -189,7 +186,6 @@
         <mark key="." line="144" column="74" />
         <mark key="^" line="144" column="75" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/res/layout/include_content_audio_player.xml" timestamp="1601906456744" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/audioPlayer/AudioPlayerFragment.kt" timestamp="1601904410304">
         <mark key="[" line="16" column="28" />
         <mark key="]" line="16" column="28" />
@@ -310,20 +306,20 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Theme.AppCompat.Light.NoActionBar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDp0ZXh0VHlwZT0iRGVzY3JpcHRpb24iCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>Theme.AppCompat.Light.NoActionBar</text>
+        <text>BottomContent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iP2FuZHJvaWQ6c2VsZWN0YWJsZUl0ZW1CYWNrZ3JvdW5kQm9yZGVybGVzcyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDp0ZXh0VHlwZT0iRGVzY3JpcHRpb24iCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjMyZHAiCg==</text>
