@@ -118,20 +118,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/audioPlayer/audioPlayerFragment.kt" timestamp="1601904058444">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="39" />
-        <mark key="^" line="4" column="39" />
-        <mark key="." line="4" column="38" />
-      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/NavigationEventHandler.kt" timestamp="1601975555523">
         <mark key="[" line="25" column="38" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/SwitchWidget.kt" timestamp="1601989873862" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppConfig.kt" timestamp="1601990432593" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1601975002002" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/json/MACoreTypeAdapter.kt" timestamp="1601972387287">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AlgoliaSearchEventHandler.kt" timestamp="1601990457644">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/TextWidget.kt" timestamp="1601984691842">
         <mark key="'" line="58" column="43" />
@@ -140,12 +142,11 @@
         <mark key="." line="58" column="42" />
         <mark key="^" line="58" column="41" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1601982423769">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1601990243875">
         <mark key="'" line="64" column="66" />
-        <mark key="[" line="304" column="100" />
-        <mark key="]" line="304" column="100" />
-        <mark key="." line="304" column="100" />
-        <mark key="^" line="304" column="81" />
+        <mark key="[" line="116" column="27" />
+        <mark key="]" line="116" column="27" />
+        <mark key="." line="116" column="27" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build/generated/source/kaptKotlin/debug/dk/makeable/coreui/shared/widget/generic/cell/TitleSubtitleLargeImageWidget.kt" timestamp="1601973192062" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppTheme.kt" timestamp="1601985367615">
@@ -154,8 +155,11 @@
         <mark key="." line="30" column="25" />
         <mark key="^" line="30" column="51" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/interfaces/widgets.kt" timestamp="1601990250862">
+        <mark key="[" line="86" column="77" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/androidTest/java/dk/makeable/coreui/TestBoxWidget.kt" timestamp="1601969713456" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AudioPlayerEventHandler.kt" timestamp="1601975531158">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AudioPlayerEventHandler.kt" timestamp="1601990350333">
         <mark key="'" line="21" column="65" />
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="13" />
@@ -180,17 +184,11 @@
         <mark key="^" line="130" column="60" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/TitleSubtitleLargeImageWidget.kt" timestamp="1601977172082" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1601986467343">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1601990218847">
         <mark key="[" line="192" column="109" />
         <mark key="]" line="193" column="0" />
         <mark key="^" line="193" column="0" />
         <mark key="." line="193" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/audioPlayer/AudioPlayerFragment.kt" timestamp="1601904410304">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="28" />
-        <mark key="." line="16" column="27" />
-        <mark key="^" line="16" column="28" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build/intermediates/packaged_res/debug/layout/fragment_audio_player.xml" timestamp="1601906685422">
         <mark key="[" line="42" column="0" />
@@ -306,14 +304,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TUFDb3JlSnNvbi5hcHBUaGVtZS5iYWNrZ3JvdW5kSW1hZ2VUeXBlPy5sZXQgeyB0eXBlIC0+CiAgICAgICAgICAgIE1BQ29yZUpzb24uYXBwVGhlbWUuYmFja2dyb3VuZEltYWdlPy5sZXQgeyBzb3VyY2UgLT4KCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KSA6IEV2ZW50SGFuZGxlciwgSlNPTlNjaGVtYUFibGUgewo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>ifNotNull</text>
+        <text>Fragment(),</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
@@ -321,37 +319,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDp0ZXh0VHlwZT0iRGVzY3JpcHRpb24iCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">TUFDb3JlSnNvbi5hcHBUaGVtZS5iYWNrZ3JvdW5kSW1hZ2VUeXBlPy5sZXQgeyB0eXBlIC0+CiAgICAgICAgICAgIE1BQ29yZUpzb24uYXBwVGhlbWUuYmFja2dyb3VuZEltYWdlPy5sZXQgeyBzb3VyY2UgLT4KCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">KSA6IEV2ZW50SGFuZGxlciwgSlNPTlNjaGVtYUFibGUgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBrb3RsaW4ucnVuQ2F0Y2hpbmcgewogICAgICAgICAgICB2YWwgaW1hZ2VUeXBlID0gTUFDb3JlSnNvbi5hcHBUaGVtZS5iYWNrZ3JvdW5kSW1hZ2VUeXBlISEKICAgICAgICAgICAgdmFsIGltYWdlID0gTUFDb3JlSnNvbi5hcHBUaGVtZS5iYWNrZ3JvdW5kSW1hZ2UhIQogICAgICAgICAgICAKCiAgICAgICAgICAgIC8vIGRvIHN0dWZmCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29uZmlnLmRvTm90VGludEljb25zICE9IHRydWUpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdHlwZSA9IE1BQ29yZUpzb24uYXBwVGhlbWUuYmFja2dyb3VuZEltYWdlVHlwZSA/OiByZXR1cm4K</text>
+      <register name="4" type="4">
+        <text encoding="base64">TUFDb3JlSnNvbi5hcHBUaGVtZS5iYWNrZ3JvdW5kSW1hZ2VUeXBlPy5sZXQgeyB0eXBlIC0+CiAgICAgICAgICAgIE1BQ29yZUpzb24uYXBwVGhlbWUuYmFja2dyb3VuZEltYWdlPy5sZXQgeyBzb3VyY2UgLT4KCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmlubGluZSBmdW4gPFQgOiBBbnk+IGlmTGV0KHZhcmFyZyBlbGVtZW50czogVD8sIGNsb3N1cmU6IChMaXN0PFQ+KSAtPiBVbml0KSB7CiAgICBpZiAoZWxlbWVudHMuYWxsIHsgaXQgIT0gbnVsbCB9KSB7CiAgICAgICAgY2xvc3VyZShlbGVtZW50cy5maWx0ZXJOb3ROdWxsKCkpCiAgICB9Cn0=</text>
+        <text encoding="base64">ICAgICAgICBrb3RsaW4ucnVuQ2F0Y2hpbmcgewogICAgICAgICAgICB2YWwgaW1hZ2VUeXBlID0gTUFDb3JlSnNvbi5hcHBUaGVtZS5iYWNrZ3JvdW5kSW1hZ2VUeXBlISEKICAgICAgICAgICAgdmFsIGltYWdlID0gTUFDb3JlSnNvbi5hcHBUaGVtZS5iYWNrZ3JvdW5kSW1hZ2UhIQogICAgICAgICAgICAKCiAgICAgICAgICAgIC8vIGRvIHN0dWZmCiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZSBhcyB0eXBlCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdHlwZSA9IE1BQ29yZUpzb24uYXBwVGhlbWUuYmFja2dyb3VuZEltYWdlVHlwZSA/OiByZXR1cm4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>.onFailure { 
-            
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQucHJpbnRTdGFja1RyYWNlKCkK</text>
+        <text encoding="base64">CmlubGluZSBmdW4gPFQgOiBBbnk+IGlmTGV0KHZhcmFyZyBlbGVtZW50czogVD8sIGNsb3N1cmU6IChMaXN0PFQ+KSAtPiBVbml0KSB7CiAgICBpZiAoZWxlbWVudHMuYWxsIHsgaXQgIT0gbnVsbCB9KSB7CiAgICAgICAgY2xvc3VyZShlbGVtZW50cy5maWx0ZXJOb3ROdWxsKCkpCiAgICB9Cn0=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
