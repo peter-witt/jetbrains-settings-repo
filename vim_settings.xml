@@ -165,7 +165,8 @@
         <mark key="]" line="8" column="33" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1602051991662">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1602053416596">
+        <mark key="'" line="203" column="4" />
         <mark key="[" line="196" column="16" />
         <mark key="]" line="195" column="16" />
         <mark key="^" line="195" column="16" />
@@ -197,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="23" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/values/strings.xml" />
       <jump line="118" column="21" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" />
       <jump line="178" column="10" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" />
       <jump line="450" column="40" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_getter_profile.xml" />
@@ -297,6 +297,7 @@
       <jump line="10" column="65" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AudioPlayerEventHandler.kt" />
       <jump line="64" column="66" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" />
       <jump line="57" column="43" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/TextWidget.kt" />
+      <jump line="203" column="4" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
