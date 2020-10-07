@@ -154,7 +154,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="80" column="41" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1601907107259">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1602054688302">
         <mark key="[" line="130" column="60" />
         <mark key="]" line="130" column="60" />
         <mark key="." line="130" column="60" />
@@ -165,12 +165,12 @@
         <mark key="]" line="8" column="33" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1602053416596">
-        <mark key="'" line="203" column="4" />
-        <mark key="[" line="196" column="16" />
-        <mark key="]" line="195" column="16" />
-        <mark key="^" line="195" column="16" />
-        <mark key="." line="195" column="15" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1602055092098">
+        <mark key="'" line="211" column="38" />
+        <mark key="[" line="211" column="31" />
+        <mark key="]" line="211" column="39" />
+        <mark key="^" line="211" column="31" />
+        <mark key="." line="211" column="31" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/json/MACoreTypeAdapter.kt" timestamp="1601972387287">
         <mark key="[" line="22" column="0" />
@@ -198,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="21" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" />
       <jump line="178" column="10" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" />
       <jump line="450" column="40" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/res/layout/activity_getter_profile.xml" />
       <jump line="141" column="54" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" />
@@ -298,6 +297,7 @@
       <jump line="64" column="66" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" />
       <jump line="57" column="43" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/TextWidget.kt" />
       <jump line="203" column="4" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
+      <jump line="211" column="38" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,13 +306,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>switch</text>
+        <text>setBackgroundDrawable</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>switch</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
@@ -321,34 +321,34 @@
         <text encoding="base64">ICAgICAgICAgICAgc2hhZG93Py5sZXQgeyBlbGV2YXRpb24gPSBpdC50b0RwKCkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYWRvdz8ubGV0IHsgdmlldy5lbGV2YXRpb24gPSBpdC50b0RwKCkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGV2ZW50Lmljb25UeXBlID09IEltYWdlU291cmNlVHlwZS5Bc3NldCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ybmVyUm91bmRpbmc/LnRvQ29ybmVyUm91bmRpbmcoKT8ubGV0IHsKICAgICAgICAgICAgICAgIHZpZXcucm91bmRDb3JuZXJzKGl0KQogICAgICAgICAgICB9CiAgICAgICAgICAgIHNoYWRvdz8ubGV0IHsgdmlldy5lbGV2YXRpb24gPSBpdC50b0RwKCkgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYWRvdz8ubGV0IHsgdmlldy5lbGV2YXRpb24gPSBpdC50b0RwKCkgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hhZG93Py5sZXQgeyBlbGV2YXRpb24gPSBpdC50b0RwKCkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ybmVyUm91bmRpbmc/LnRvQ29ybmVyUm91bmRpbmcoKT8ubGV0IHsKICAgICAgICAgICAgICAgIHZpZXcucm91bmRDb3JuZXJzKGl0KQogICAgICAgICAgICB9CiAgICAgICAgICAgIHNoYWRvdz8ubGV0IHsgdmlldy5lbGV2YXRpb24gPSBpdC50b0RwKCkgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hhZG93Py5sZXQgeyBlbGV2YXRpb24gPSBpdC50b0RwKCkgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlldy5yb3VuZENvcm5lcnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ybmVyUm91bmRpbmcudG9Db3JuZXJSb3VuZGluZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlldy5yb3VuZENvcm5lcnMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpc0BCb3hXaWRnZXRDb25maWcuY29ybmVyUm91bmRpbmc/LmxldCB7IGNvcm5lclJvdW5kaW5nID0gaXQudG9Db3JuZXJSb3VuZGluZygpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ybmVyUm91bmRpbmcudG9Db3JuZXJSb3VuZGluZygpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpc0BCb3hXaWRnZXRDb25maWcuY29ybmVyUm91bmRpbmc/LmxldCB7IGNvcm5lclJvdW5kaW5nID0gaXQudG9Db3JuZXJSb3VuZGluZygpIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYWRvdz8ubGV0IHsgZWxldmF0aW9uID0gaXQudG9EcCgpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
