@@ -118,6 +118,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/widget_title_switch.xml" timestamp="1602064854105">
+        <mark key="[" line="13" column="44" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/TitleSmallImageWidget.kt" timestamp="1602058305417">
         <mark key="[" line="31" column="9" />
         <mark key="]" line="31" column="16" />
@@ -130,6 +133,9 @@
         <mark key="]" line="18" column="30" />
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="29" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/assets/makeable_scripts.js" timestamp="1602064799732">
+        <mark key="[" line="27" column="4" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/widget_title_small_image.xml" timestamp="1602058044452">
         <mark key="[" line="44" column="12" />
@@ -155,12 +161,6 @@
         <mark key="[" line="140" column="0" />
         <mark key="]" line="164" column="9" />
         <mark key="." line="140" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppTheme.kt" timestamp="1601985367615">
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="25" />
-        <mark key="." line="30" column="25" />
-        <mark key="^" line="30" column="51" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1602061706405">
         <mark key="[" line="30" column="26" />
