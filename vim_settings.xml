@@ -118,17 +118,59 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppTheme.kt" timestamp="1601985367615">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+        <mark key="^" line="30" column="51" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/interfaces/widgets.kt" timestamp="1601990250862">
+        <mark key="[" line="86" column="77" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/BoxWidget.kt" timestamp="1601992637513">
+        <mark key="[" line="60" column="30" />
+        <mark key="]" line="60" column="35" />
+        <mark key="." line="60" column="34" />
+        <mark key="^" line="60" column="35" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AudioPlayerEventHandler.kt" timestamp="1601990350333">
+        <mark key="'" line="21" column="65" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="13" />
+        <mark key="^" line="31" column="13" />
+        <mark key="." line="31" column="12" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/AndroidManifest.xml" timestamp="1601907132944">
+        <mark key="[" line="52" column="34" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="34" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/NavigationEventHandler.kt" timestamp="1601975555523">
         <mark key="[" line="25" column="38" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/SwitchWidget.kt" timestamp="1601989873862" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppConfig.kt" timestamp="1601990432593" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_audio_player.xml" timestamp="1601969765375">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="42" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="80" column="41" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1601907107259">
+        <mark key="[" line="130" column="60" />
+        <mark key="]" line="130" column="60" />
+        <mark key="." line="130" column="60" />
+        <mark key="^" line="130" column="60" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/widget_title_small_image.xml" timestamp="1601991930731">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="33" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/Assets/vegansk.json" timestamp="1601975002002" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1602051991662">
+        <mark key="[" line="196" column="16" />
+        <mark key="]" line="195" column="16" />
+        <mark key="^" line="195" column="16" />
+        <mark key="." line="195" column="15" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/json/MACoreTypeAdapter.kt" timestamp="1601972387287">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -152,54 +194,6 @@
         <mark key="[" line="116" column="27" />
         <mark key="]" line="116" column="27" />
         <mark key="." line="116" column="27" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build/generated/source/kaptKotlin/debug/dk/makeable/coreui/shared/widget/generic/cell/TitleSubtitleLargeImageWidget.kt" timestamp="1601973192062" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppTheme.kt" timestamp="1601985367615">
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="25" />
-        <mark key="." line="30" column="25" />
-        <mark key="^" line="30" column="51" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/interfaces/widgets.kt" timestamp="1601990250862">
-        <mark key="[" line="86" column="77" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/BoxWidget.kt" timestamp="1601992637513">
-        <mark key="[" line="60" column="30" />
-        <mark key="]" line="60" column="35" />
-        <mark key="." line="60" column="34" />
-        <mark key="^" line="60" column="35" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/androidTest/java/dk/makeable/coreui/TestBoxWidget.kt" timestamp="1601969713456" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/AudioPlayerEventHandler.kt" timestamp="1601990350333">
-        <mark key="'" line="21" column="65" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="13" />
-        <mark key="^" line="31" column="13" />
-        <mark key="." line="31" column="12" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/macoredemo/src/main/AndroidManifest.xml" timestamp="1601907132944">
-        <mark key="[" line="52" column="34" />
-        <mark key="]" line="52" column="34" />
-        <mark key="." line="52" column="34" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_audio_player.xml" timestamp="1601969765375">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="42" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="80" column="41" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1601907107259">
-        <mark key="[" line="130" column="60" />
-        <mark key="]" line="130" column="60" />
-        <mark key="." line="130" column="60" />
-        <mark key="^" line="130" column="60" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/TitleSubtitleLargeImageWidget.kt" timestamp="1601977172082" />
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" timestamp="1601992791629">
-        <mark key="[" line="196" column="16" />
-        <mark key="]" line="195" column="16" />
-        <mark key="^" line="195" column="16" />
-        <mark key="." line="195" column="15" />
       </file>
     </filemarks>
     <jumps>
