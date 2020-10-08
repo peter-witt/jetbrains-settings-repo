@@ -126,6 +126,7 @@
         <mark key="]" line="30" column="8" />
         <mark key="." line="30" column="8" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build/generated/source/kaptKotlin/debug/dk/makeable/coreui/shared/widget/generic/cell/TitleSubtitleLargeImageWidget.kt" timestamp="1602164178799" />
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/TaggedNavigationEventHandler.kt" timestamp="1602148573468">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="50" column="9" />
@@ -158,10 +159,11 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_audio_player.xml" timestamp="1602163188564">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_audio_player.xml" timestamp="1602163884878">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="^" line="7" column="45" />
+        <mark key="." line="193" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/anim/slide_down.xml" timestamp="1602156847860">
         <mark key="[" line="2" column="39" />
@@ -175,16 +177,19 @@
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" timestamp="1602163110392">
-        <mark key="[" line="143" column="69" />
-        <mark key="]" line="137" column="33" />
-        <mark key="^" line="137" column="33" />
-        <mark key="." line="137" column="32" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" timestamp="1602165310005">
+        <mark key="[" line="194" column="8" />
+        <mark key="]" line="194" column="8" />
+        <mark key="^" line="193" column="45" />
+        <mark key="." line="194" column="8" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/widget_title_subtitle_image.xml" timestamp="1602140459243">
         <mark key="[" line="37" column="33" />
         <mark key="]" line="37" column="33" />
         <mark key="." line="37" column="33" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/TitleSubtitleLargeImageWidget.kt" timestamp="1602164590438">
+        <mark key="[" line="28" column="38" />
       </file>
       <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1602162673454">
         <mark key="[" line="370" column="79" />
@@ -317,50 +322,50 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRyYW5zbGF0aW9uWT0iLTJkcCIK</text>
+      <register name="&quot;" type="4">
+        <text>audioPlayerProgress</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>subscribe</text>
+        <text>audioPlayerProgress</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVkaWE/LnNlZWsoKGN1cnJlbnRQcm9ncmVzcykgKyAxMDAwMCkK</text>
+        <text encoding="base64">ICAgICAgICBhdWRpb1BsYXllclByb2dyZXNzLmlzU2VsZWN0ZWQgPSB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRyYW5zbGF0aW9uWT0iLTJkcCIK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci53cml0ZVRvUGFkZHJjZWwocGFyY2VsLCBmbGFncykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHJhbnNpdGlvbk1hbmFnZXIuYmVnaW5EZWxheWVkVHJhbnNpdGlvbigpCg==</text>
+        <text>@Parcelize</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXVkaW9QbGF5ZXJCdXR0b25QbGF5UGF1c2Uuc2V0SW1hZ2VSZXNvdXJjZSgK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3doaXRlIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICAgICAgeG1sbnM6YXBwPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgICAgICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgLT4gCg==</text>
+        <text encoding="base64">ICAgIAo8L2FuZHJvaWR4LmNvcmUud2lkZ2V0Lk5lc3RlZFNjcm9sbFZpZXc+Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm91bmQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRyYW5zbGF0aW9uWT0iLTJkcCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHJhbnNpdGlvbk1hbmFnZXIuYmVnaW5EZWxheWVkVHJhbnNpdGlvbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
