@@ -145,6 +145,11 @@
       <file name="/fragment.kt" timestamp="1602146530868">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/graphical/BoxWidget.kt" timestamp="1602146989065">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/VideoPlayerScreenWidget.kt" timestamp="1602072671749">
         <mark key="[" line="40" column="35" />
         <mark key="]" line="40" column="40" />
@@ -170,8 +175,8 @@
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" timestamp="1602145215380">
-        <mark key="[" line="36" column="26" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" timestamp="1602146963707">
+        <mark key="[" line="59" column="57" />
         <mark key="]" line="36" column="49" />
         <mark key="." line="36" column="48" />
         <mark key="^" line="36" column="49" />
@@ -206,13 +211,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="38" column="30" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1602072168555">
-        <mark key="'" line="65" column="66" />
-        <mark key="[" line="135" column="27" />
-        <mark key="]" line="135" column="27" />
-        <mark key="." line="135" column="26" />
-        <mark key="^" line="135" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -323,8 +321,8 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>audioSource</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -339,34 +337,34 @@
         <text encoding="base64">ICAgIHZhbCBjb25maWdNYXA6IE1hcDxWaWV3LCBWaWV3V2lkZ2V0Q29uZmlnPz4KCiAgICBvdmVycmlkZSBmdW4gY29uZmlndXJlKGNvbmZpZzogVD8pIHsKICAgICAgICBzdXBlci5jb25maWd1cmUoY29uZmlnKQoKICAgICAgICBjb25maWdNYXAuZm9yRWFjaCB7ICh2aWV3LCBjb25maWcpIC0+CiAgICAgICAgICAgICh2aWV3IGFzPyBWaWV3V2lkZ2V0PFZpZXdXaWRnZXRDb25maWcsIERhdGFUeXBlPik/LmxldCB7CiAgICAgICAgICAgICAgICBpdC5jb25maWd1cmUoY29uZmlnKQogICAgICAgICAgICB9ID86IHZpZXcuY29uZmlndXJlKE1BQ29yZVVJVmlld0NvbmZpZzo6Y2xhc3MpIHsKICAgICAgICAgICAgICAgIChjb25maWcpPy5jb25maWd1cmUodGhpcywgdmlldykKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICBvdmVycmlkZSBmdW4gc2V0RGF0YShkYXRhOiBEYXRhVHlwZSkgewogICAgICAgIHN1cGVyLnNldERhdGEoZGF0YSkKCiAgICAgICAgY29uZmlnTWFwLmZvckVhY2ggeyAodmlldywgY29uZmlnKSAtPgogICAgICAgICAgICBpZiAoY29uZmlnICE9IHRoaXMuY29uZmlnICYmIGNvbmZpZyAhPSBudWxsKQogICAgICAgICAgICAgICAgKHZpZXcgYXM/IFZpZXdXaWRnZXQ8Vmlld1dpZGdldENvbmZpZywgRGF0YVR5cGU+KT8uc2V0RGF0YShkYXRhKSA/OiBjb25maWcuc2V0RGF0YShkYXRhLCB2aWV3KQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFNjaGVtYURlc2NyaXB0aW9uKCJBbiBldmVudCBoYW5kbGVyIHRoYXQgY2FuIG5hdmlnYXRlIHRvIGEgZGlmZmVyZW50IHNjcmVlbiBiYXNlZCBvbiBhIHRhZyIpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGFydFNsaWRlckxhYmVsOiAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpzcmM9IkB0b29sczpzYW1wbGUvYmFja2dyb3VuZHMvc2NlbmljIgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTY2hlbWFEZXNjcmlwdGlvbigiVGhlIHByb3BlcnR5IGNvbnRhaW5pbmcgdGhlIHRhZyB0aGF0IHNob3VsZCBkZWNpZGUgd2hlcmUgdG8gbmF2aWdhdGUgdG8iKQogICAgQFNjaGVtYVRpdGxlKCJUYWcgcHJvcGVydHkgbmFtZSIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdWRpb1BsYXllclNsaWRlci50cmFja1RpbnRMaXN0Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QFNjaGVtYURlc2NyaXB0aW9uKCJBbiBldmVudCBoYW5kbGVyIHRoYXQgY2FuIG5hdmlnYXRlIHRvIGEgZGlmZmVyZW50IHNjcmVlbiBiYXNlZCBvbiBhIHRhZyIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCBzdGFydFNsaWRlckxhYmVsOiAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0b29sczpzcmM9IkB0b29sczpzYW1wbGUvYmFja2dyb3VuZHMvc2NlbmljIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBTY2hlbWFEZXNjcmlwdGlvbigiVGhlIHByb3BlcnR5IGNvbnRhaW5pbmcgdGhlIHRhZyB0aGF0IHNob3VsZCBkZWNpZGUgd2hlcmUgdG8gbmF2aWdhdGUgdG8iKQogICAgQFNjaGVtYVRpdGxlKCJUYWcgcHJvcGVydHkgbmFtZSIpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0RGF0YShBbnkoKSkK</text>
+        <text encoding="base64">ICAgICAgICBhdWRpb1BsYXllclNsaWRlci50cmFja1RpbnRMaXN0Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">YXBwbHkgewogICAgICAgICAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2V0RGF0YShBbnkoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
