@@ -176,19 +176,17 @@
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" timestamp="1602160368895">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="118" column="12" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="117" column="12" />
-        <mark key="^" line="119" column="39" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" timestamp="1602160644592">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/widget_title_subtitle_image.xml" timestamp="1602140459243">
         <mark key="[" line="37" column="33" />
         <mark key="]" line="37" column="33" />
         <mark key="." line="37" column="33" />
       </file>
-      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1602160012965">
+      <file name="$USER_HOME$/Makeable/aaben-og-rolig-android/app/src/main/java/dk/makeable/aabenogrolig/PlayerController.kt" timestamp="1602160489580">
         <mark key="[" line="184" column="0" />
         <mark key="]" line="184" column="64" />
       </file>
@@ -210,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="54" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" />
       <jump line="355" column="63" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" />
       <jump line="326" column="12" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" />
       <jump line="387" column="12" filename="$USER_HOME$/Makeable/App-Get-Android/app/src/main/java/com/junglecoders/getter/ui/profiles/getterProfile/GetterProfileActivity.java" />
@@ -310,6 +307,7 @@
       <jump line="211" column="38" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/ScreenWidget.kt" />
       <jump line="93" column="45" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" />
       <jump line="131" column="0" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" />
+      <jump line="180" column="4" filename="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,7 +316,7 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXVkaW9QbGF5ZXJQcm9ncmVzcy50ZXh0ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -333,34 +331,34 @@
         <text encoding="base64">ICAgICAgICAgICAgbWVkaWE/LnNlZWsoKGN1cnJlbnRQcm9ncmVzcykgKyAxMDAwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXVkaW9QbGF5ZXJQcm9ncmVzcy50ZXh0ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBzZXREYXRhT25TdWJXaWRnZXRzKGRhdGE6IEFueSkgewoKICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXREYXRhT25TdWJXaWRnZXRzKGRhdGEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWFsb2dUaXRsZS5zZXREYXRhKGRhdGEpCgogICAgICAgIGNvbmZpZ01hcC5mb3JFYWNoIHsgKHZpZXcsIGNvbmZpZykgLT4KICAgICAgICAgICAgaWYgKGNvbmZpZyAhPSBudWxsKQogICAgICAgICAgICAgICAgKHZpZXcgYXM/IFZpZXdXaWRnZXQ8Vmlld1dpZGdldENvbmZpZywgQW55Pik/LnNldERhdGEoZGF0YSkgPzogY29uZmlnLnNldERhdGEoZGF0YSwgdmlldykKICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgLy9TdGFydCBhdWRpbyBwbGF5ZXIKICAgICAgICBSeE11c2ljUGxheWVyLnN0YXJ0KHJlcXVpcmVDb250ZXh0KCkpCg==</text>
+        <text encoding="base64">CiAgICBzdXNwZW5kIGZ1biBTdHJpbmcuZ2V0RHVyYXRpb24oKTogTG9uZz8gPSB3aXRoQ29udGV4dChEaXNwYXRjaGVycy5JTykgewogICAgICAgIHZhbCBmaWxlID0gRmlsZSh0aGlzQGdldER1cmF0aW9uKQogICAgICAgIHZhbCByZXRyaWV2ZXIgPSBNZWRpYU1ldGFkYXRhUmV0cmlldmVyKCkKICAgICAgICBpZiAoZmlsZS5leGlzdHMoKSkgewogICAgICAgICAgICByZXRyaWV2ZXIuc2V0RGF0YVNvdXJjZShmaWxlLmFic29sdXRlUGF0aCkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXRyaWV2ZXIuc2V0RGF0YVNvdXJjZSh0aGlzQGdldER1cmF0aW9uLCBoYXNoTWFwT2YoKSkKICAgICAgICB9CiAgICAgICAgdmFsIHRpbWUgPSByZXRyaWV2ZXIuZXh0cmFjdE1ldGFkYXRhKE1lZGlhTWV0YWRhdGFSZXRyaWV2ZXIuTUVUQURBVEFfS0VZX0RVUkFUSU9OKQogICAgICAgIHZhbCB0aW1lSW5NaWxsaXNlYyA9IHRpbWUhIS50b0xvbmcoKQogICAgICAgIHRpbWVJbk1pbGxpc2VjCiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUnhNdXNpY1BsYXllci5wb3NpdGlvbi4K</text>
+        <text encoding="base64">CiAgICBzdXNwZW5kIGZ1biBTdHJpbmcuZ2V0RHVyYXRpb24oKTogTG9uZz8gPSB3aXRoQ29udGV4dChEaXNwYXRjaGVycy5JTykgewogICAgICAgIHZhbCBmaWxlID0gRmlsZSh0aGlzQGdldER1cmF0aW9uKQogICAgICAgIHZhbCByZXRyaWV2ZXIgPSBNZWRpYU1ldGFkYXRhUmV0cmlldmVyKCkKICAgICAgICBpZiAoZmlsZS5leGlzdHMoKSkgewogICAgICAgICAgICByZXRyaWV2ZXIuc2V0RGF0YVNvdXJjZShmaWxlLmFic29sdXRlUGF0aCkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXRyaWV2ZXIuc2V0RGF0YVNvdXJjZSh0aGlzQGdldER1cmF0aW9uLCBoYXNoTWFwT2YoKSkKICAgICAgICB9CiAgICAgICAgdmFsIHRpbWUgPSByZXRyaWV2ZXIuZXh0cmFjdE1ldGFkYXRhKE1lZGlhTWV0YWRhdGFSZXRyaWV2ZXIuTUVUQURBVEFfS0VZX0RVUkFUSU9OKQogICAgICAgIHZhbCB0aW1lSW5NaWxsaXNlYyA9IHRpbWUhIS50b0xvbmcoKQogICAgICAgIHRpbWVJbk1pbGxpc2VjCiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL3N0b3AgYXVkaW8gcGxheWVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25QYXVzZSgpIHsKICAgICAgICBzdXBlci5vblBhdXNlKCkKICAgICAgICAvLyBwYXVzZSBhdWRpbyBwbGF5ZXIKICAgIH0K</text>
+        <text encoding="base64">ICAgIHN1c3BlbmQgZnVuIFN0cmluZy5nZXREdXJhdGlvbigpOiBMb25nPyA9IHdpdGhDb250ZXh0KERpc3BhdGNoZXJzLklPKSB7CiAgICAgICAgdmFsIGZpbGUgPSBGaWxlKHRoaXNAZ2V0RHVyYXRpb24pCiAgICAgICAgdmFsIHJldHJpZXZlciA9IE1lZGlhTWV0YWRhdGFSZXRyaWV2ZXIoKQogICAgICAgIGlmIChmaWxlLmV4aXN0cygpKSB7CiAgICAgICAgICAgIHJldHJpZXZlci5zZXREYXRhU291cmNlKGZpbGUuYWJzb2x1dGVQYXRoKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHJpZXZlci5zZXREYXRhU291cmNlKHRoaXNAZ2V0RHVyYXRpb24sIGhhc2hNYXBPZigpKQogICAgICAgIH0KICAgICAgICB2YWwgdGltZSA9IHJldHJpZXZlci5leHRyYWN0TWV0YWRhdGEoTWVkaWFNZXRhZGF0YVJldHJpZXZlci5NRVRBREFUQV9LRVlfRFVSQVRJT04pCiAgICAgICAgdmFsIHRpbWVJbk1pbGxpc2VjID0gdGltZSEhLnRvTG9uZygpCiAgICAgICAgdGltZUluTWlsbGlzZWMKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
