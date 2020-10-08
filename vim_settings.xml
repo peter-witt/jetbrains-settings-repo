@@ -177,11 +177,10 @@
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" timestamp="1602165310005">
-        <mark key="[" line="194" column="8" />
-        <mark key="]" line="194" column="8" />
-        <mark key="^" line="193" column="45" />
-        <mark key="." line="194" column="8" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" timestamp="1602166253399">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/widget_title_subtitle_image.xml" timestamp="1602140459243">
         <mark key="[" line="37" column="33" />
@@ -322,50 +321,50 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>audioPlayerProgress</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWZMZXQoY3VycmVudFByb2dyZXNzLCBkdXJhdGlvbikgeyBwcm9ncmVzcywgZHVyYXRpb24gLT4KICAgICAgICAgICAgICAgIHZhbCBwZXJjZW50ID0gKHByb2dyZXNzIC8gZHVyYXRpb24udG9GbG9hdCgpKQogICAgICAgICAgICAgICAgYXVkaW9QbGF5ZXJTbGlkZXI/LnZhbHVlID0gKHBlcmNlbnQgKiAxMDBmKS5jb2VyY2VJbigwZiwgMTAwZikKCiAgICAgICAgICAgICAgICB2YWwgcmVtYWluaW5nID0gZHVyYXRpb24gLSBwcm9ncmVzcwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>audioPlayerProgress</text>
+        <text encoding="base64">IGF1ZGlvUGxheWVyQnV0dG9uUGxheVBhdXNl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdWRpb1BsYXllclByb2dyZXNzLmlzU2VsZWN0ZWQgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzIFBsYXliYWNrU3RhdGUuUGxheWluZyAtPj8uc2V0SW1hZ2VSZXNvdXJjZShSLmRyYXdhYmxlLmljX3BhdXNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci53cml0ZVRvUGFkZHJjZWwocGFyY2VsLCBmbGFncykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWZMZXQoY3VycmVudFByb2dyZXNzLCBkdXJhdGlvbikgeyBwcm9ncmVzcywgZHVyYXRpb24gLT4KICAgICAgICAgICAgICAgIHZhbCBwZXJjZW50ID0gKHByb2dyZXNzIC8gZHVyYXRpb24udG9GbG9hdCgpKQogICAgICAgICAgICAgICAgYXVkaW9QbGF5ZXJTbGlkZXI/LnZhbHVlID0gKHBlcmNlbnQgKiAxMDBmKS5jb2VyY2VJbigwZiwgMTAwZikKCiAgICAgICAgICAgICAgICB2YWwgcmVtYWluaW5nID0gZHVyYXRpb24gLSBwcm9ncmVzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text>@Parcelize</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci53cml0ZVRvUGFkZHJjZWwocGFyY2VsLCBmbGFncykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>@Parcelize</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3doaXRlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICAgICAgeG1sbnM6YXBwPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgICAgICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3doaXRlIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo8L2FuZHJvaWR4LmNvcmUud2lkZ2V0Lk5lc3RlZFNjcm9sbFZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICAgICAgeG1sbnM6YXBwPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgICAgICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRyYW5zbGF0aW9uWT0iLTJkcCIK</text>
+        <text encoding="base64">ICAgIAo8L2FuZHJvaWR4LmNvcmUud2lkZ2V0Lk5lc3RlZFNjcm9sbFZpZXc+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHJhbnNpdGlvbk1hbmFnZXIuYmVnaW5EZWxheWVkVHJhbnNpdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRyYW5zbGF0aW9uWT0iLTJkcCIK</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
