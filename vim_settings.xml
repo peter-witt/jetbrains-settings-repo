@@ -176,11 +176,8 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/AppConfig.kt" timestamp="1602140852410">
-        <mark key="[" line="41" column="33" />
-        <mark key="]" line="36" column="28" />
-        <mark key="." line="36" column="27" />
-        <mark key="^" line="36" column="28" />
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/FullScreenTextAndImageWidget.kt" timestamp="1602229557153">
+        <mark key="[" line="25" column="30" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" timestamp="1602226984319">
         <mark key="[" line="125" column="0" />
