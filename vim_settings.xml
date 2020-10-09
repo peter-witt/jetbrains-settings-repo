@@ -161,10 +161,11 @@
         <mark key="." line="160" column="48" />
         <mark key="^" line="160" column="49" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1602244584395">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/models/backend/Item.kt" timestamp="1602244921301">
         <mark key="[" line="30" column="24" />
-        <mark key="]" line="30" column="8" />
-        <mark key="." line="30" column="8" />
+        <mark key="]" line="31" column="16" />
+        <mark key="." line="31" column="15" />
+        <mark key="^" line="31" column="16" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/app/src/main/java/dk/makeable/macoredemo/SplashActivity.kt" timestamp="1602236112465">
         <mark key="[" line="44" column="70" />
@@ -196,7 +197,7 @@
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/TitleSubtitleLargeImageWidget.kt" timestamp="1602164590438">
         <mark key="[" line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_video_player.xml" timestamp="1602239975795">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_video_player.xml" timestamp="1602245087403">
         <mark key="[" line="52" column="57" />
         <mark key="]" line="52" column="57" />
         <mark key="." line="52" column="56" />
@@ -211,7 +212,7 @@
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/local.properties" timestamp="1602235904693">
         <mark key="[" line="10" column="49" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/MediaPlayerEventHandler.kt" timestamp="1602244572389">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/MediaPlayerEventHandler.kt" timestamp="1602244604304">
         <mark key="[" line="35" column="11" />
         <mark key="]" line="35" column="21" />
         <mark key="." line="35" column="20" />
