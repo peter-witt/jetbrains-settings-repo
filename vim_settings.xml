@@ -140,6 +140,12 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_tabbed_widget.xml" timestamp="1602228888603">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/drawable/play_background.xml" timestamp="1602154452099">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -176,15 +182,10 @@
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" timestamp="1602226948078">
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" timestamp="1602226984319">
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/widget_title_subtitle_image.xml" timestamp="1602140459243">
-        <mark key="[" line="37" column="33" />
-        <mark key="]" line="37" column="33" />
-        <mark key="." line="37" column="33" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/generic/TitleSubtitleLargeImageWidget.kt" timestamp="1602164590438">
         <mark key="[" line="28" column="38" />
@@ -210,6 +211,12 @@
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="39" />
         <mark key="." line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/TabbedScreenWidget.kt" timestamp="1602228858467">
+        <mark key="[" line="164" column="65" />
+        <mark key="]" line="160" column="49" />
+        <mark key="." line="160" column="48" />
+        <mark key="^" line="160" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -321,13 +328,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWZMZXQoY3VycmVudFByb2dyZXNzLCBkdXJhdGlvbikgeyBwcm9ncmVzcywgZHVyYXRpb24gLT4KICAgICAgICAgICAgICAgIHZhbCBwZXJjZW50ID0gKHByb2dyZXNzIC8gZHVyYXRpb24udG9GbG9hdCgpKQogICAgICAgICAgICAgICAgYXVkaW9QbGF5ZXJTbGlkZXI/LnZhbHVlID0gKHBlcmNlbnQgKiAxMDBmKS5jb2VyY2VJbigwZiwgMTAwZikKCiAgICAgICAgICAgICAgICB2YWwgcmVtYWluaW5nID0gZHVyYXRpb24gLSBwcm9ncmVzcwo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Ub3BPZj0iQGlkL3RhYmJlZF93aWRnZXRfYm90dG9tX25hdmlnYXRpb24iCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90YWJiZWRfd2lkZ2V0X3Rvb2xiYXIiCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGF1ZGlvUGxheWVyQnV0dG9uUGxheVBhdXNl</text>
+        <text>0dp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
@@ -336,34 +343,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlzIFBsYXliYWNrU3RhdGUuUGxheWluZyAtPj8uc2V0SW1hZ2VSZXNvdXJjZShSLmRyYXdhYmxlLmljX3BhdXNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWZMZXQoY3VycmVudFByb2dyZXNzLCBkdXJhdGlvbikgeyBwcm9ncmVzcywgZHVyYXRpb24gLT4KICAgICAgICAgICAgICAgIHZhbCBwZXJjZW50ID0gKHByb2dyZXNzIC8gZHVyYXRpb24udG9GbG9hdCgpKQogICAgICAgICAgICAgICAgYXVkaW9QbGF5ZXJTbGlkZXI/LnZhbHVlID0gKHBlcmNlbnQgKiAxMDBmKS5jb2VyY2VJbigwZiwgMTAwZikKCiAgICAgICAgICAgICAgICB2YWwgcmVtYWluaW5nID0gZHVyYXRpb24gLSBwcm9ncmVzcwo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Ub3BPZj0iQGlkL3RhYmJlZF93aWRnZXRfYm90dG9tX25hdmlnYXRpb24iCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC90YWJiZWRfd2lkZ2V0X3Rvb2xiYXIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci53cml0ZVRvUGFkZHJjZWwocGFyY2VsLCBmbGFncykK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Ub3BPZj0iQGlkL3RhYmJlZF93aWRnZXRfYm90dG9tX25hdmlnYXRpb24iCg==</text>
       </register>
       <register name="3" type="2">
-        <text>@Parcelize</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3RhYmJlZF93aWRnZXRfdG9vbGJhciIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZvcmVncm91bmRHcmF2aXR5PSJib3R0b20iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpzcmM9IiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3doaXRlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWZMZXQoY3VycmVudFByb2dyZXNzLCBkdXJhdGlvbikgeyBwcm9ncmVzcywgZHVyYXRpb24gLT4KICAgICAgICAgICAgICAgIHZhbCBwZXJjZW50ID0gKHByb2dyZXNzIC8gZHVyYXRpb24udG9GbG9hdCgpKQogICAgICAgICAgICAgICAgYXVkaW9QbGF5ZXJTbGlkZXI/LnZhbHVlID0gKHBlcmNlbnQgKiAxMDBmKS5jb2VyY2VJbigwZiwgMTAwZikKCiAgICAgICAgICAgICAgICB2YWwgcmVtYWluaW5nID0gZHVyYXRpb24gLSBwcm9ncmVzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICAgICAgeG1sbnM6YXBwPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgICAgICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci53cml0ZVRvUGFkZHJjZWwocGFyY2VsLCBmbGFncykK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo8L2FuZHJvaWR4LmNvcmUud2lkZ2V0Lk5lc3RlZFNjcm9sbFZpZXc+Cg==</text>
+        <text>@Parcelize</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRyYW5zbGF0aW9uWT0iLTJkcCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
