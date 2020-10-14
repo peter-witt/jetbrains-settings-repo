@@ -158,6 +158,7 @@
         <mark key="." line="97" column="5" />
         <mark key="^" line="88" column="33" />
       </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Item.kt" timestamp="1602670151166" />
       <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/dialog/DialogFragmentShowVideo.kt" timestamp="1602663961549">
         <mark key="[" line="37" column="24" />
       </file>
@@ -167,18 +168,8 @@
         <mark key="^" line="7" column="45" />
         <mark key="." line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/build.gradle" timestamp="1602245831747">
-        <mark key="'" line="76" column="68" />
-        <mark key="[" line="76" column="19" />
-        <mark key="]" line="76" column="69" />
-        <mark key="^" line="76" column="72" />
-        <mark key="." line="76" column="19" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/widget/screen/AudioPlayerScreenWidget.kt" timestamp="1602245661870">
-        <mark key="[" line="226" column="36" />
-        <mark key="]" line="173" column="32" />
-        <mark key="." line="173" column="31" />
-        <mark key="^" line="173" column="32" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Page.kt" timestamp="1602669711214">
+        <mark key="[" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_video_player.xml" timestamp="1602247510235">
         <mark key="[" line="86" column="64" />
@@ -191,12 +182,6 @@
         <mark key="]" line="348" column="0" />
         <mark key="^" line="348" column="0" />
         <mark key="." line="348" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/MediaPlayerEventHandler.kt" timestamp="1602245899814">
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="34" column="21" />
-        <mark key="." line="34" column="20" />
-        <mark key="^" line="34" column="21" />
       </file>
     </filemarks>
     <jumps>
