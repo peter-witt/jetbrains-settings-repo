@@ -124,6 +124,12 @@
         <mark key="]" line="123" column="8" />
         <mark key="." line="123" column="8" />
       </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/layout/dialog_fragment_conditions.xml" timestamp="1602671686992">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/strings.xml" timestamp="1602672207192" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/video-player-android/0.3.17/1aa23a787340b92efcf9b640bc71fd0651261352/video-player-android-0.3.17-sources.jar!/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1602663435955" />
       <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/ui/VideoPlayerView.kt" timestamp="1602667605654">
         <mark key="[" line="69" column="37" />
@@ -137,22 +143,12 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/drawable/play_background_outline.xml" timestamp="1602247211640">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Makeable/gynzone-2-0-android/app/src/main/java/dk/makeable/gynzone/dialogfragments/VideoDialog.kt" timestamp="1602663639209" />
-      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/conditions/DialogFragmentConditions.kt" timestamp="1602671156296">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/exo_player_start_overlay.xml" timestamp="1602247383550">
-        <mark key="[" line="13" column="53" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="22" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/conditions/DialogFragmentConditions.kt" timestamp="1602672087433">
+        <mark key="[" line="66" column="87" />
+        <mark key="]" line="66" column="44" />
+        <mark key="^" line="65" column="112" />
+        <mark key="." line="66" column="44" />
       </file>
       <file name="/Dummy.txt" timestamp="1602666589902">
         <mark key="[" line="0" column="0" />
@@ -297,14 +293,14 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGVzdCA9IGNvbmRpdGlvbnMuY29uZGl0aW9uUmVmLmF3YWl0KEZpcmVzdG9yZVBhZ2U6OmNsYXNzLmphdmEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>300</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>filter { it.label != null }</text>
+        <text>300</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
@@ -313,34 +309,34 @@
         <text>912f18986c2801940312fb15daf5fbc1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGVzdCA9IGNvbmRpdGlvbnMuY29uZGl0aW9uUmVmLmF3YWl0KEZpcmVzdG9yZVBhZ2U6OmNsYXNzLmphdmEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5zZXRBbGxvd0NodW5rbGVzc1ByZXBhcmF0aW9uKHRydWUpCg==</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlOiBCdW5kbGU/KSB7CiAgICAgICAgc3VwZXIub25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlKQoKCiAgICB9</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGF1ZGlvUGxheWVyRHVyYXRpb24uaXNTZWxlY3RlZCA9IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLmNvbmRpdGlvbnMgPSBjb25kaXRpb25zCiAgICAgICAgYmluZGluZy5pc1VwZGF0ZWQgPSBpc1VwZGF0ZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3BsYXlfYmFja2dyb3VuZF9vdXRsaW5lIgogICAgICAgIGFuZHJvaWQ6dGludD0iQGFuZHJvaWQ6Y29sb3IvaG9sb19yZWRfbGlnaHQiCg==</text>
+        <text encoding="base64">ICAgICAgICBsaWZlY3ljbGVTY29wZS5sYXVuY2ggeyAKICAgICAgICAgICAgZnVsbENvbmRpdGlvbnMgPSBjb25kaXRpb25zISEuY29uZGl0aW9uUmVmISEuYXdhaXQgeyBpdC50b09iamVjdFdpdGhJZChGaXJlc3RvcmVQYWdlOjpjbGFzcy5qYXZhKSEhIH0KICAgICAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9wbGF5X2JhY2tncm91bmRfb3V0bGluZSIK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGVzdCA9IGNvbmRpdGlvbnMuY29uZGl0aW9uUmVmLmF3YWl0KEZpcmVzdG9yZVBhZ2U6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmRUaW50PSJAYW5kcm9pZDpjb2xvci9ob2xvX3JlZF9saWdodCIK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5zZXRBbGxvd0NodW5rbGVzc1ByZXBhcmF0aW9uKHRydWUpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzdHJva2UgYW5kcm9pZDpjb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiIGFuZHJvaWQ6d2lkdGg9IjhkcCIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6dGludD0iI0ZGRkZGRiIK</text>
+        <text encoding="base64">Ly8gICAgICAgIGF1ZGlvUGxheWVyRHVyYXRpb24uaXNTZWxlY3RlZCA9IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
