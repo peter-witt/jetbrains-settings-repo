@@ -135,6 +135,11 @@
         <mark key="." line="20" column="21" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/strings.xml" timestamp="1602672207192" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/util/BindingAdapters.kt" timestamp="1602674241295">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/video-player-android/0.3.17/1aa23a787340b92efcf9b640bc71fd0651261352/video-player-android-0.3.17-sources.jar!/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1602663435955" />
       <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/ui/VideoPlayerView.kt" timestamp="1602667605654">
         <mark key="[" line="69" column="37" />
@@ -170,12 +175,6 @@
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Page.kt" timestamp="1602669711214">
         <mark key="[" line="22" column="31" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_video_player.xml" timestamp="1602247510235">
-        <mark key="[" line="86" column="64" />
-        <mark key="]" line="69" column="45" />
-        <mark key="." line="69" column="44" />
-        <mark key="^" line="69" column="45" />
       </file>
       <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1602666533281">
         <mark key="[" line="12" column="75" />
@@ -293,13 +292,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>300</text>
+        <text>if (!url.isNullOrEmpty())</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>300</text>
+        <text>if (!url.isNullOrEmpty())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
