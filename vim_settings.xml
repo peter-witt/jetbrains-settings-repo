@@ -129,6 +129,11 @@
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/build.gradle" timestamp="1602673193470">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="21" />
+      </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/res/values/strings.xml" timestamp="1602672207192" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/video-player-android/0.3.17/1aa23a787340b92efcf9b640bc71fd0651261352/video-player-android-0.3.17-sources.jar!/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1602663435955" />
       <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/ui/VideoPlayerView.kt" timestamp="1602667605654">
@@ -162,12 +167,6 @@
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Item.kt" timestamp="1602670151166" />
       <file name="$USER_HOME$/Makeable/video-player-android/app/src/main/java/dk/makeable/videoplayerdemo/dialog/DialogFragmentShowVideo.kt" timestamp="1602663961549">
         <mark key="[" line="37" column="24" />
-      </file>
-      <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/fragment_audio_player.xml" timestamp="1602247460776">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
-        <mark key="^" line="7" column="45" />
-        <mark key="." line="193" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/data/room/models/Page.kt" timestamp="1602669711214">
         <mark key="[" line="22" column="31" />
