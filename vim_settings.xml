@@ -186,7 +186,12 @@
         <mark key="." line="69" column="44" />
         <mark key="^" line="69" column="45" />
       </file>
-      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1602664466934" />
+      <file name="$USER_HOME$/Makeable/video-player-android/videoplayer/src/main/java/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1602665388851">
+        <mark key="[" line="355" column="40" />
+        <mark key="]" line="355" column="44" />
+        <mark key="^" line="355" column="44" />
+        <mark key="." line="355" column="43" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/java/dk/makeable/coreui/shared/event/MediaPlayerEventHandler.kt" timestamp="1602245899814">
         <mark key="[" line="34" column="11" />
         <mark key="]" line="34" column="21" />
@@ -303,13 +308,13 @@
         <text>10j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>912f18986c2801940312fb15daf5fbc1</text>
+        <text>mediaSource</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text>audioPlayerProgress</text>
+        <text>mediaSource</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRcPg==</text>
