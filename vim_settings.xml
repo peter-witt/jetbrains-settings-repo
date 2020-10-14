@@ -143,6 +143,11 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Makeable/gynzone-2-0-android/app/src/main/java/dk/makeable/gynzone/dialogfragments/VideoDialog.kt" timestamp="1602663639209" />
+      <file name="$USER_HOME$/Makeable/haandbog-android/app/src/main/java/dk/makeable/haandbog/ui/conditions/DialogFragmentConditions.kt" timestamp="1602671156296">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/Makeable/ma-core-ui-android/coreuilib/src/main/res/layout/exo_player_start_overlay.xml" timestamp="1602247383550">
         <mark key="[" line="13" column="53" />
         <mark key="]" line="13" column="22" />
@@ -292,8 +297,8 @@
       <register name="a" type="4">
         <text>10j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>filter { it.label != null }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgdGVzdCA9IGNvbmRpdGlvbnMuY29uZGl0aW9uUmVmLmF3YWl0KEZpcmVzdG9yZVBhZ2U6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIK</text>
@@ -308,34 +313,34 @@
         <text>912f18986c2801940312fb15daf5fbc1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5zZXRBbGxvd0NodW5rbGVzc1ByZXBhcmF0aW9uKHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGVzdCA9IGNvbmRpdGlvbnMuY29uZGl0aW9uUmVmLmF3YWl0KEZpcmVzdG9yZVBhZ2U6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5zZXRBbGxvd0NodW5rbGVzc1ByZXBhcmF0aW9uKHRydWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGF1ZGlvUGxheWVyRHVyYXRpb24uaXNTZWxlY3RlZCA9IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3BsYXlfYmFja2dyb3VuZF9vdXRsaW5lIgogICAgICAgIGFuZHJvaWQ6dGludD0iQGFuZHJvaWQ6Y29sb3IvaG9sb19yZWRfbGlnaHQiCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGF1ZGlvUGxheWVyRHVyYXRpb24uaXNTZWxlY3RlZCA9IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9wbGF5X2JhY2tncm91bmRfb3V0bGluZSIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3BsYXlfYmFja2dyb3VuZF9vdXRsaW5lIgogICAgICAgIGFuZHJvaWQ6dGludD0iQGFuZHJvaWQ6Y29sb3IvaG9sb19yZWRfbGlnaHQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmRUaW50PSJAYW5kcm9pZDpjb2xvci9ob2xvX3JlZF9saWdodCIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9wbGF5X2JhY2tncm91bmRfb3V0bGluZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzdHJva2UgYW5kcm9pZDpjb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiIGFuZHJvaWQ6d2lkdGg9IjhkcCIgLz4K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmRUaW50PSJAYW5kcm9pZDpjb2xvci9ob2xvX3JlZF9saWdodCIK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6dGludD0iI0ZGRkZGRiIK</text>
+        <text encoding="base64">ICAgIDxzdHJva2UgYW5kcm9pZDpjb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiIGFuZHJvaWQ6d2lkdGg9IjhkcCIgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRpbnQ9IiNGRkZGRkYiCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6dGludD0iI0ZGRkZGRiIK</text>
       </register>
       <register name=":" type="4">
         <text>action OverrideMethods</text>
