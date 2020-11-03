@@ -3,7 +3,7 @@
     <property name="created">2020-11-03T13:09:35</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.0.19</property>
-    <property name="modified">2020-11-03T14:00:50</property>
+    <property name="modified">2020-11-03T15:38:40</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <colors>
@@ -243,7 +243,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="2d2a2e" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
