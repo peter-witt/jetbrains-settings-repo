@@ -1,9 +1,9 @@
 <scheme name="_@user_Monokai Pro" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-11-04T10:20:58</property>
-    <property name="ide">AppCode</property>
-    <property name="ideVersion">2020.2.4.0.0</property>
-    <property name="modified">2020-11-04T10:22:01</property>
+    <property name="created">2020-11-03T13:09:35</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">4.1.0.19</property>
+    <property name="modified">2020-11-03T15:38:40</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <colors>
@@ -1090,6 +1090,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="78dce8" />
@@ -1215,11 +1216,6 @@
     <option name="KOTLIN_EXCLEXCL">
       <value>
         <option name="FOREGROUND" value="ff6188" />
-      </value>
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
