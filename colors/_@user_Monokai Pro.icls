@@ -3,7 +3,7 @@
     <property name="created">2020-11-03T13:09:35</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.0.19</property>
-    <property name="modified">2020-11-03T15:38:40</property>
+    <property name="modified">2020-11-27T09:38:42</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <colors>
@@ -519,7 +519,7 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="fcfcfa" />
+        <option name="FOREGROUND" value="a9dc76" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -1090,7 +1090,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="78dce8" />
@@ -2659,7 +2658,7 @@
     </option>
     <option name="OC.PROTOCOL_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="a9dc76" />
+        <option name="FOREGROUND" value="78dce8" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
